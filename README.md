@@ -4,7 +4,7 @@
 <p>---------------------------<br />Opsional :<br />● <a href="http://data.go.id/">http://data.go.id/</a></p>
 <p>&nbsp;</p>
 <p>---------------------------</p>
-<p>Jika kalian ingin menambahkan/mengedit bisa message ke fb saya Fariz Ramadhan (&nbsp;<a href="https://www.facebook.com/farizdotid">https://www.facebook.com/farizdotid</a>&nbsp;) ya :)</p>
+<p>Jika ada yang ingin ditambahkan atau dikoreksi bisa message ke fb saya Fariz Ramadhan (&nbsp;<a href="https://www.facebook.com/farizdotid">https://www.facebook.com/farizdotid</a>&nbsp;) ya :)</p>
 <p>&nbsp;</p>
 <p>Hatur Nuhun :)&nbsp;</p>
 <p><a title="Farizdotid Code - Tutorial Pemograman Android Bahasa Indonesia." href="https://farizdotid.com/">Farizdotid Code - Tutorial Pemograman Android Bahasa Indonesia.</a></p>
