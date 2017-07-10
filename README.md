@@ -1,5 +1,5 @@
 # Daftar API Lokal Indonesia
-Berisi API tentang Data Indonesia
+Berisi API tentang Data Indonesia.
 
 Daftar:
 - [APIAPI](https://github.com/bachors/apiapi) oleh iBacor.
@@ -16,7 +16,7 @@ Daftar:
 [data.go.id](http://data.go.id/)
 
 ## Kontak
-Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [Fariz Ramadhan](https://www.facebook.com/farizdotid) ya :)<br>
-Hatur Nuhun :)
+Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [Fariz Ramadhan](https://www.facebook.com/farizdotid) ya! :)<br>
+Hatur Nuhun. :)
 
 [Farizdotid Code - Tutorial Pemograman Android Bahasa Indonesia.](https://farizdotid.com/)
