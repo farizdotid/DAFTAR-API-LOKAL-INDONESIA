@@ -19,9 +19,8 @@ Berisi API tentang Data Indonesia.
 Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [Fariz Ramadhan](https://www.facebook.com/farizdotid) ya! ATAU berkomentar via fitur [Issues](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/issues)<br>
 Hatur Nuhun. :)
 
-<br>
-## LICENSE
+## Lisensi
+
 [Apache License 2.0](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/blob/master/LICENSE)
-<br>
 
 [Farizdotid Code - Tutorial Pemograman Android Bahasa Indonesia.](https://farizdotid.com/)
