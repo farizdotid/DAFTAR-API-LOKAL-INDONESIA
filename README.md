@@ -1,10 +1,22 @@
-<h2><strong>DAFTAR-API-LOKAL-INDONESIA</strong></h2>
-<p>Berisi API tentang Data Indonesia.</p>
-<p>● iBacor ( https://github.com/bachors/apiapi )<br />● Data Jakarta ( http://api.jakarta.go.id/ )<br />● Jadwal Sholat ( http://wahidganteng.ga/api/jadwal-sholat )<br />● Cek Resi ( http://wahidganteng.ga/api/cek-resi )<br />● Raja Ongkir ( http://rajaongkir.com/dokumentasi )<br />● Midtrans - Payment Gateway ( https://midtrans.com/payments )<br />● Hot Thread Kaskus ( https://api.bayyu.net/ )<br />● Bisatopup - Bayar Tagihan, Cek Tagihan, Transaksi Pulsa, dll ( http://docs.bisatopup.apiary.io/# )<br />● Bukalapak ( https://bukalapak.github.io/api/ )</p>
-<p>---------------------------<br />Opsional :<br />● <a href="http://data.go.id/">http://data.go.id/</a></p>
-<p>&nbsp;</p>
-<p>---------------------------</p>
-<p>Jika ada yang ingin ditambahkan atau dikoreksi bisa message ke fb saya Fariz Ramadhan (&nbsp;<a href="https://www.facebook.com/farizdotid">https://www.facebook.com/farizdotid</a>&nbsp;) ya :)</p>
-<p>&nbsp;</p>
-<p>Hatur Nuhun :)&nbsp;</p>
-<p><a title="Farizdotid Code - Tutorial Pemograman Android Bahasa Indonesia." href="https://farizdotid.com/">Farizdotid Code - Tutorial Pemograman Android Bahasa Indonesia.</a></p>
+# Daftar API Lokal Indonesia
+Berisi API tentang Data Indonesia.
+
+Daftar:
+- [APIAPI](https://github.com/bachors/apiapi) oleh iBacor.
+- [Data Jakarta](http://api.jakarta.go.id/)
+- [Jadwal Sholat](http://wahidganteng.ga/api/jadwal-sholat)
+- [Cek Resi](http://wahidganteng.ga/api/cek-resi)
+- [Raja Ongkir](http://rajaongkir.com/dokumentasi)
+- [Midtrans](https://midtrans.com/payments) - Payment Gateway.
+- [Hot Thread Kaskus](https://api.bayyu.net/)
+- [Bisatopup](http://docs.bisatopup.apiary.io/#) - Bayar Tagihan, Cek Tagihan, Transaksi Pulsa, dll.
+- [Bukalapak](https://bukalapak.github.io/api/)
+
+## Opsional:
+[data.go.id](http://data.go.id/)
+
+## Kontak
+Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [Fariz Ramadhan](https://www.facebook.com/farizdotid) ya! :)<br>
+Hatur Nuhun. :)
+
+[Farizdotid Code - Tutorial Pemograman Android Bahasa Indonesia.](https://farizdotid.com/)
