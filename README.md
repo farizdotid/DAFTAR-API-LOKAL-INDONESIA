@@ -1,7 +1,7 @@
 # Daftar API Lokal Indonesia
 Berisi API tentang Data Indonesia.
 
-## Daftar:
+## Daftar
 - [APIAPI](https://github.com/bachors/apiapi) oleh iBacor.
 - [Data Jakarta](http://api.jakarta.go.id/)
 - [Jadwal Sholat](http://wahidganteng.ga/api/jadwal-sholat)
@@ -12,11 +12,16 @@ Berisi API tentang Data Indonesia.
 - [Bisatopup](http://docs.bisatopup.apiary.io/#) - Bayar Tagihan, Cek Tagihan, Transaksi Pulsa, dll.
 - [Bukalapak](https://bukalapak.github.io/api/)
 
-## Opsional:
+## Opsional
 [data.go.id](http://data.go.id/)
 
 ## Kontak
 Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [Fariz Ramadhan](https://www.facebook.com/farizdotid) ya! ATAU berkomentar via fitur [Issues](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/issues)<br>
 Hatur Nuhun. :)
+
+<br>
+## LICENSE
+[Apache License 2.0](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/blob/master/LICENSE)
+<br>
 
 [Farizdotid Code - Tutorial Pemograman Android Bahasa Indonesia.](https://farizdotid.com/)
