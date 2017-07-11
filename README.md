@@ -17,7 +17,7 @@ Berisi API tentang Data Indonesia.
 ## Opsional
 | Nama API        | Developer | URL | status  |
 | ------------- |:----------:|:-------------:| -----:|
-| Data Indonesia      | iBachor | [Link](https://data.go.id/) | `aktif` |
+| Data Indonesia      | Pemerintah Indonesia | [Link](https://data.go.id/) | `aktif` |
 
 ## Kontak
 Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [Fariz Ramadhan](https://www.facebook.com/farizdotid) ya! ATAU berkomentar via fitur [Issues](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/issues)<br>
