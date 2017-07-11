@@ -2,18 +2,22 @@
 Berisi API tentang Data Indonesia.
 
 ## Daftar
-- [APIAPI](https://github.com/bachors/apiapi) oleh iBacor.
-- [Data Jakarta](http://api.jakarta.go.id/)
-- [Jadwal Sholat](http://wahidganteng.ga/api/jadwal-sholat)
-- [Cek Resi](http://wahidganteng.ga/api/cek-resi)
-- [Raja Ongkir](http://rajaongkir.com/dokumentasi)
-- [Midtrans](https://midtrans.com/payments) - Payment Gateway.
-- [Hot Thread Kaskus](https://api.bayyu.net/)
-- [Bisatopup](http://docs.bisatopup.apiary.io/#) - Bayar Tagihan, Cek Tagihan, Transaksi Pulsa, dll.
-- [Bukalapak](https://bukalapak.github.io/api/)
+| Nama API        | Developer | URL | status  |
+| ------------- |:----------:|:-------------:| -----:|
+| APIAPI      | iBachor | [Link](https://github.com/bachors/apiapi) | `aktif` |
+| Data Jakarta | Unknown | [Link](http://api.jakarta.go.id/) | `aktif` |
+| Jadwal Sholat | Wahid | [Link](http://wahidganteng.ga/api/jadwal-sholat) | `aktif` |
+| Cek Resi | Wahid | [Link](http://wahidganteng.ga/api/cek-resi) | `aktif` |
+| Raja Ongkir | Rajaongkir | [Link](http://rajaongkir.com/dokumentasi) | `aktif` |
+| Midtrans - Payment gateway | Midtrans | [Link](https://midtrans.com/payments) | `aktif` |
+| Hot thread kaskus | Bayu | [Link](https://api.bayyu.net/) | `aktif` |
+| Bisatopup | Bisatopup | [Link](http://docs.bisatopup.apiary.io/) | `aktif` |
+| Bukalapak | Bukalapk Dev | [Link](https://bukalapak.github.io/api/) | `aktif` |
 
 ## Opsional
-[data.go.id](http://data.go.id/)
+| Nama API        | Developer | URL | status  |
+| ------------- |:----------:|:-------------:| -----:|
+| Data Indonesia      | iBachor | [Link](https://data.go.id/) | `aktif` |
 
 ## Kontak
 Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [Fariz Ramadhan](https://www.facebook.com/farizdotid) ya! ATAU berkomentar via fitur [Issues](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/issues)<br>
