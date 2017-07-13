@@ -34,12 +34,14 @@ Berisi API tentang Data Indonesia.
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Bukalapak | Bukalapak Dev | [Link](https://bukalapak.github.io/api/) | `Aktif` | API dari *e-commerce* terkenal di Indonesia sebagai situs jual-beli daring (*online*) | `apiKey` |
 | Matahari Mall API for Seller | Matahari Mall Dev | [Link](http://docs.apiforseller.apiary.io) | `Aktif` | API untuk penjual di Matahari Mall | `apiKey` |
+| Tiket.com API | Tiket.com Dev | [Link](http://docs.tiket.com/) | `Aktif` | API untuk transaksi pada tiket.com yang merupakan situs penjualan tiket kereta api, tiket pesawat, dan lain-lain. | `apiKey` |
 
 ### Finansial
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Bisatopup | Bisatopup | [Link](http://docs.bisatopup.apiary.io/) | `Aktif` | Melalui API ini dapat melakukan transaksi seperti beli pulsa, bayar token listrik, dan lain-lain. | `apiKey` |
+| Jurnal API | jurnal.id | [Link](https://api-jurnal.api-docs.io/v1/getting-started/introduction) | `Aktif` | API untuk *software* laporan keuangan. | `Oauth` / `apiKey` |
 | Midtrans - Payment gateway | Midtrans | [Link](https://midtrans.com/payments) | `Aktif` | *Gateway* atau gerbang untuk transaksi pembayaran. | `apiKey` |
 
 ### Forum
@@ -60,6 +62,7 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Cek Resi | Wahid | [Link](http://wahidganteng.ga/api/cek-resi) | `Aktif` | Pengecekan resi jasa ekspedisi terkenal di Indonesia seperti [JNE], [SiCepat] dan [Wahana] | `apiKey` |
+| Paket ID | paket.id | [Link](http://docs.paket.id/API/Versi_2.html) | `Aktif` | Jasa pengiriman | `apiKey` |
 | Raja Ongkir | Rajaongkir | [Link](http://rajaongkir.com/dokumentasi) | `Aktif` | Cek ongkos kirim pada beberapa jasa antar barang seperti [JNE], [POS], [TIKI], dan lain-lain. | `apiKey` |
 
 ### Kegiatan Sehari-hari
@@ -79,6 +82,7 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Kode Pos | iBachor | [Link](https://github.com/bachors/apiapi#kode-pos-api) | `Aktif` | Daftar Kode Pos di Indonesia | Tidak |
+| Kode Pos | Widnyana Putra | [Link](http://log.kalarau.net/kodepos.html) | `Aktif` | Daftar Kode Pos di Indoneisa | Tidak |
 
 ### Musik
 
