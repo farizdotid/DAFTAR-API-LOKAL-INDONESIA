@@ -10,7 +10,13 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | status  |
 | ------------- |:----------:|:-------------:| -----:|
-| APIAPI      | iBachor | [Link](https://github.com/bachors/apiapi) | `aktif` |
+| Kode Pos      | iBachor | [Link](https://github.com/bachors/apiapi#kode-pos-api) | `aktif` |
+| Ayo Donor PMI      | iBachor | [Link](https://github.com/bachors/apiapi#ayo-donor-pmi) | `aktif` |
+| Perkiraan Keberangkatan Haji      | iBachor | [Link](https://github.com/bachors/apiapi#perkiraan-keberangkatan-haji) | `aktif` |
+| Kemendag      | iBachor | [Link](https://github.com/bachors/apiapi#kemendag) | `aktif` |
+| Produk Halal MUI      | iBachor | [Link](https://github.com/bachors/apiapi#produk-halal-mui) | `aktif` |
+| Tanggal Lahiran Pasaran Zodiak      | iBachor | [Link](https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak) | `aktif` |
+| Lirik Lagu      | iBachor | [Link](https://github.com/bachors/apiapi#lirik-lagu) | `aktif` |
 | Data Jakarta | Unknown | [Link](http://api.jakarta.go.id/) | `aktif` |
 | Jadwal Sholat | Wahid | [Link](http://wahidganteng.ga/api/jadwal-sholat) | `aktif` |
 | Cek Resi | Wahid | [Link](http://wahidganteng.ga/api/cek-resi) | `aktif` |
