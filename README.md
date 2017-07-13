@@ -34,7 +34,7 @@ Berisi API tentang Data Indonesia.
 
 ## Kontak
 
-Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [Fariz Ramadhan](https://www.facebook.com/farizdotid) ya! ATAU berkomentar via fitur [Issues](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/issues)<br>
+Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [Fariz Ramadhan](https://www.facebook.com/farizdotid) ya! ATAU berkomentar via fitur [Issues](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/issues) ATAU langsung edit saja nanti biar didiskusikan terlebih dahulu.<br>
 Hatur Nuhun. :)
 
 ## Lisensi
