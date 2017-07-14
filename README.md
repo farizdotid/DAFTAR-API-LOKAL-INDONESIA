@@ -89,6 +89,7 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Lirik Lagu | iBachor | [Link](https://github.com/bachors/apiapi#lirik-lagu) | `Aktif` | Pencarian lirik lagu | Tidak |
+| Spotify | Spotify Dev | [Link](https://developer.spotify.com/web-api/) | `Aktif` | Spotify Catalog | `OAuth` |
 
 ### Pemerintahan
 
