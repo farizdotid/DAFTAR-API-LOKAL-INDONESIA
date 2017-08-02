@@ -43,6 +43,7 @@ Berisi API tentang Data Indonesia.
 | Bisatopup | Bisatopup | [Link](http://docs.bisatopup.apiary.io/) | `Aktif` | Melalui API ini dapat melakukan transaksi seperti beli pulsa, bayar token listrik, dan lain-lain. | `apiKey` |
 | Jurnal API | jurnal.id | [Link](https://api-jurnal.api-docs.io/v1/getting-started/introduction) | `Aktif` | API untuk *software* laporan keuangan. | `Oauth` / `apiKey` |
 | Midtrans - Payment gateway | Midtrans | [Link](https://midtrans.com/payments) | `Aktif` | *Gateway* atau gerbang untuk transaksi pembayaran. | `apiKey` |
+| iPaymu | iPaymu | [Link](https://ipaymu.com/dokumentasi-api/) | `Aktif` | *Gateway* atau gerbang untuk transaksi pembayaran. | `apiKey` |
 
 ### Forum
 
