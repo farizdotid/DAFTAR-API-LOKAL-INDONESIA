@@ -15,7 +15,7 @@ This file is translation from Original (Bahasa Indonesia).
 * [Table of Content](#table-of-content)
 * [API List](#api-list)
   * [Courier](#courier)
-  * [Daily Life](#daily life)
+  * [Daily Life](#daily-life)
   * [E-Commerce](#e-commerce)
   * [Entertainment](#entertainment)
   * [Event](#event)
