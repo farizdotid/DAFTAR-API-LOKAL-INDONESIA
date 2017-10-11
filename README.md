@@ -23,7 +23,7 @@ Berisi API tentang Data Indonesia.
   * [Pemerintahan](#pemerintahan)
   * [Prediksi](#prediksi)
   * [Sertifikasi](#sertifikasi)
-  * [Kontak](#kontak)
+* [Kontak](#kontak)
 * [Lisensi](#lisensi)
 
 ## Daftar API
