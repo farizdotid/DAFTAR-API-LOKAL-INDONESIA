@@ -44,6 +44,7 @@ Berisi API tentang Data Indonesia.
 | Jurnal API | jurnal.id | [Link](https://api-jurnal.api-docs.io/v1/getting-started/introduction) | `Aktif` | API untuk *software* laporan keuangan. | `Oauth` / `apiKey` |
 | Midtrans - Payment gateway | Midtrans | [Link](https://midtrans.com/payments) | `Aktif` | *Gateway* atau gerbang untuk transaksi pembayaran. | `apiKey` |
 | iPaymu | iPaymu | [Link](https://ipaymu.com/dokumentasi-api/) | `Aktif` | *Gateway* atau gerbang untuk transaksi pembayaran. | `apiKey` |
+| Doku | Doku | [Link](http://doku.com/id) | `Aktif` | DOKU semakin dipercaya dan menjadi layanan pembayaran elektronik pilihan bagi merchant nasional maupun internasional. | `apiKey` |
 
 ### Forum
 
