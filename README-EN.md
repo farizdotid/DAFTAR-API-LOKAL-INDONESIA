@@ -86,7 +86,6 @@ This file is translation from Original (Bahasa Indonesia).
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Data Indonesia | Pemerintah Indonesia | [Link](https://data.go.id/) | `Active` | Indonesia Data | `apiKey` |
 | Data Jakarta | Jakarta Smart City (2016) | [Link](http://api.jakarta.go.id/) | `Active` | DKI Jakarta Data | `apiKey` |
-| Kemendag | iBachor | [Link](https://github.com/bachors/apiapi#kemendag) | `Active` | Daily Needs Cost, etc. | No |
 | Instansi ( Polisi, Pemadam, Rumah Sakit ) | farizdotid | [Link](https://farizdotid.com/dokumentasi-api-instansi-indonesia/) | `Active` | Instance like police, hospital, etc. bring location, name, and another information. | No |
 
 ### Location
