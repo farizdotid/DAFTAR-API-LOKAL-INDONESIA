@@ -99,7 +99,6 @@ Berisi API tentang Data Indonesia.
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Data Indonesia | Pemerintah Indonesia | [Link](https://data.go.id/) | `Aktif` | Data mengenai Indonesia | `apiKey` |
 | Data Jakarta | Jakarta Smart City (2016) | [Link](http://api.jakarta.go.id/) | `Aktif` | Data mengenai pemerintah Provinsi DKI Jakarta | `apiKey` |
-| Kemendag | iBachor | [Link](https://github.com/bachors/apiapi#kemendag) | `Aktif` | API yang memiliki data seperti harga kebutuhan pokok nasional | Tidak |
 | Instansi ( Polisi, Pemadam, Rumah Sakit ) | farizdotid | [Link](https://farizdotid.com/dokumentasi-api-instansi-indonesia/) | `Aktif` | Menyediakan informasi mengenai nama instansi, nomor instansi, alamat dan lain-lain yang disortir dengan nama kabupaten | Tidak |
 | Data Pajak Motor | dppad.jatengprov | [Link](https://github.com/elybin/parking_ocr) | `Aktif` | Data pajak kendaraan bermotor| `apiKey` |
 
