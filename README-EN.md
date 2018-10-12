@@ -49,7 +49,6 @@ This file is translation from Original (Bahasa Indonesia).
 
 | API Name        | Developer | URL | Status  | Description | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Bukalapak | Bukalapak Dev | [Link](https://bukalapak.github.io/api/) | `Active` | Bukalapak API, sell much stuff | `apiKey` |
 | Matahari Mall API for Seller | Matahari Mall Dev | [Link](http://docs.apiforseller.apiary.io) | `Active` | Matahari Mall API for Seller | `apiKey` |
 | Tiket.com API | Tiket.com Dev | [Link](http://docs.tiket.com/) | `Active` | Selling train ticket, etc. | `apiKey` |
 
