@@ -83,7 +83,8 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Kode Pos | iBachor | [Link](https://github.com/bachors/apiapi#kode-pos-api) | `Aktif` | Daftar Kode Pos di Indonesia | Tidak |
-| Kode Pos | Widnyana Putra | [Link](http://log.kalarau.net/kodepos.html) | `Aktif` | Daftar Kode Pos di Indoneisa | Tidak |
+| Kode Pos | Widnyana Putra | [Link](http://log.kalarau.net/kodepos.html) | `Tidak Aktif` | Daftar Kode Pos di Indoneisa | Tidak |
+| Kode Pos | Cain van Mason | [Link](https://nbc.vanmason.web.id/service/kodepos/42173) | `Aktif` | Daftar Kode Pos di Indonesia | Tidak |
 | Nama Daerah Seluruh Indonesia | farizdotid | [Link](https://farizdotid.com/dokumentasi-api-daerah-indonesia/) | `Aktif` | Daftar nama Provinsi, Kabupaten, Kecamatan, dan Desa | Tidak |
 
 ### Musik
