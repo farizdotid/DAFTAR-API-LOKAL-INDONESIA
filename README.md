@@ -104,6 +104,7 @@ Berisi API tentang Data Indonesia.
 | Instansi ( Polisi, Pemadam, Rumah Sakit ) | farizdotid | [Link](https://farizdotid.com/dokumentasi-api-instansi-indonesia/) | `Aktif` | Menyediakan informasi mengenai nama instansi, nomor instansi, alamat dan lain-lain yang disortir dengan nama kabupaten | Tidak |
 | Data Pajak Motor | dppad.jatengprov | [Link](https://github.com/elybin/parking_ocr) | `Aktif` | Data pajak kendaraan bermotor| `apiKey` |
 | Data BPS | Badan Pusat Statistik | [Link](https://webapi.bps.go.id/developer/) | `Aktif` | Data statistik indikator pembangunan seluruh Indonesia | `apiKey` |
+| Data BMKG | Badan Meteorologi dan Geofisika | [Link](http://data.bmkg.go.id/tentang/) | `Aktif` | Data terkini cuaca dan kejadian bencana di Indonesia | Tidak |
 
 ### Prediksi
 
