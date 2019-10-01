@@ -105,6 +105,7 @@ Berisi API tentang Data Indonesia.
 | Data Pajak Motor | dppad.jatengprov | [Link](https://github.com/elybin/parking_ocr) | `Aktif` | Data pajak kendaraan bermotor| `apiKey` |
 | Data BPS | Badan Pusat Statistik | [Link](https://webapi.bps.go.id/developer/) | `Aktif` | Data statistik indikator pembangunan seluruh Indonesia | `apiKey` |
 | Data BMKG | Badan Meteorologi dan Geofisika | [Link](http://data.bmkg.go.id/tentang/) | `Aktif` | Data terkini cuaca dan kejadian bencana di Indonesia | Tidak |
+| Cagar Budaya Indonesia | Kantor Staf Presiden | [Link](https://data.go.id/dataset/cagar-budaya) | `Aktif` | Warisan cagar budaya Indonesia termasuk bangunan, struktur, situs, dll. | Tidak
 
 ### Prediksi
 
