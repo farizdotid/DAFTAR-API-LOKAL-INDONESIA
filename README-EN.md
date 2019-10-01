@@ -87,6 +87,7 @@ This file is translation from Original (Bahasa Indonesia).
 | Data Indonesia | Pemerintah Indonesia | [Link](https://data.go.id/) | `Active` | Indonesia Data | `apiKey` |
 | Data Jakarta | Jakarta Smart City (2016) | [Link](http://api.jakarta.go.id/) | `Active` | DKI Jakarta Data | `apiKey` |
 | Instansi ( Polisi, Pemadam, Rumah Sakit ) | farizdotid | [Link](https://farizdotid.com/dokumentasi-api-instansi-indonesia/) | `Active` | Instance like police, hospital, etc. bring location, name, and another information. | No |
+| Cagar Budaya Indonesia | Kantor Staf Presiden | [Link](https://data.go.id/dataset/cagar-budaya) | `Active` | Indonesia's cultural heritage including building, structure, site, etc. | No
 
 ### Location
 
