@@ -94,6 +94,8 @@ Berisi API tentang Data Indonesia.
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Lirik Lagu | iBachor | [Link](https://github.com/bachors/apiapi#lirik-lagu) | `Aktif` | Pencarian lirik lagu | Tidak |
 | Spotify | Spotify Dev | [Link](https://developer.spotify.com/web-api/) | `Aktif` | Spotify Catalog | `OAuth` |
+| SoundCloud | SoundCloud Dev | [Link](https://developers.soundcloud.com/) | `Aktif` | upload dan share music | `apiKey` |
+| MusixMatch | MusixMatch Dev | [Link](https://developer.musixmatch.com/) | `Aktif` | Mencari Informasi dan Lirik lagu | `apiKey` |
 
 ### Pemerintahan
 
