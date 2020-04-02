@@ -18,6 +18,7 @@ Berisi API tentang Data Indonesia.
   * [Jasa Pengiriman](#jasa-pengiriman)
   * [Kegiatan Sehari-hari](#kegiatan-sehari-hari)
   * [Kegiatan Khusus](#kegiatan-khusus)
+  * [Kesehatan](#kesehatan)
   * [Lokasi](#lokasi)
   * [Musik](#musik)
   * [Pemerintahan](#pemerintahan)
@@ -80,6 +81,12 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Ayo Donor PMI | iBachor | [Link](https://github.com/bachors/apiapi#ayo-donor-pmi) | `Aktif` | API untuk kegiatan dari PMI mengenai donor darah | Tidak |
+
+### Kesehatan
+
+| Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Data Pandemi Covid-19 | Teguh Aprianto | [Link](https://kawalcorona.com/api/) | `Aktif` | API untuk memantau dearah-dearah yang terjangkit virus covid-19/corona | Tidak |
 
 ### Lokasi
 
