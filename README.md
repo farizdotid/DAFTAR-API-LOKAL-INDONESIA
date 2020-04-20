@@ -11,6 +11,7 @@ Berisi API tentang Data Indonesia.
 * [Daftar dalam Bahasa Lain](#daftar-dalam-bahasa-lain)
 * [Daftar Isi](#daftar-isi)
 * [Daftar API](#daftar-api)
+  * [Berita](#berita)
   * [E-Commerce](#e-commerce)
   * [Finansial](#finansial)
   * [Forum](#forum)
@@ -28,6 +29,12 @@ Berisi API tentang Data Indonesia.
 * [Lisensi](#lisensi)
 
 ## Daftar API
+
+### Berita
+
+| Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Indonesia news API | News API | [Link](https://newsapi.org/s/indonesia-news-api) | `Aktif` | API untuk mendapatkan update berita di indonesia | `apiKey` |
 
 ### *E-Commerce*
 
