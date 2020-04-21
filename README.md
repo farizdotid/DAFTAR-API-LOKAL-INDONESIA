@@ -95,6 +95,7 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Data Pandemi Covid-19 | Teguh Aprianto | [Link](https://kawalcorona.com/api/) | `Aktif` | API untuk memantau dearah-dearah yang terjangkit virus covid-19/corona | Tidak |
+| Data Pandemi Covid-19 | Muhammad Mustadi (mathdroid) | [Link](https://covid19.mathdro.id/api) | `Aktif` | API untuk memantau dearah-dearah yang terjangkit virus covid-19/corona | Tidak |
 
 ### Lokasi
 
