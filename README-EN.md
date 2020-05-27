@@ -116,6 +116,12 @@ This file is translation from Original (Bahasa Indonesia).
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Produk Halal MUI | iBachor | [Link](https://github.com/bachors/apiapi#produk-halal-mui) | `Active` | Halal Product Information | No |
 
+### Utility
+
+| Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Arbanat | jajanjawa | [Link](https://arbanat.my.id) | `Aktif` | send sms via rest api | `apiKey` |
+
 
 ## Contact
 
