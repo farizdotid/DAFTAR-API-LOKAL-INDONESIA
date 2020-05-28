@@ -25,6 +25,7 @@ Berisi API tentang Data Indonesia.
   * [Pemerintahan](#pemerintahan)
   * [Prediksi](#prediksi)
   * [Sertifikasi](#sertifikasi)
+  * [Utilitas](#utilitas)
 * [Kontak](#kontak)
 * [Lisensi](#lisensi)
 
@@ -139,6 +140,13 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Produk Halal MUI | iBachor | [Link](https://github.com/bachors/apiapi#produk-halal-mui) | `Aktif` | API untuk mencari produk halal yang terdaftar pada lembaga MUI (Majelis Ulama Indonesia) | Tidak |
+
+### Utilitas
+
+| Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Arbanat | jajanjawa | [Link](https://arbanat.my.id) | `Aktif` | kirim sms melalui rest api | `apiKey` |
+
 
 ## Kontak
 
