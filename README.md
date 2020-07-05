@@ -64,7 +64,7 @@ Berisi API tentang Data Indonesia.
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Hot thread kaskus (Un-official) | Bayu | [Link](https://api.bayyu.net/) | `Aktif` | Mendapatkan hot-thread dari [Kaskus] |  `apiKey` |
 | Kaskus API | Kaskus Dev | [Link](https://github.com/kaskus/kaskus-php-sdk/wiki) | `Aktif` | API untuk mengakses forum terkenal di Indonesia - [Kaskus] | `OAuth` |
-
+| Quora Indonesia | Abdul Muttaqin | [Link](http://tools.aqin.my.id/api/quora/?type=quora&q=pertanyaan) | `Aktif` | API untuk mendapatkan pertanyaan dan jawaban dari Quora Indonesia - [Quora] | `Tidak` |
 ### Hiburan
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
