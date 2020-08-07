@@ -100,6 +100,9 @@ Berisi API tentang Data Indonesia.
 | Data Pandemi Covid-19 | Muhammad Mustadi (mathdroid) | [Link](https://covid19.mathdro.id/api) | `Aktif` | API untuk memantau dearah-dearah yang terjangkit virus covid-19/corona | Tidak |
 | Data Covid-19 di Indonesia ter update | Pemerintah Indonesia | [Link](https://data.covid19.go.id/public/api/update.json) | `Aktif` | API untuk melihat statistik terbaru di Indonesia | Tidak |
 | Data Covid-19 di Indonesia per provinsi | Pemerintah Indonesia | [Link](https://data.covid19.go.id/public/api/prov.json) | `Aktif` | API untuk melihat statistik terbaru di Indonesia per provinsi | Tidak |
+| Data Pandemi Covid-19 per provinsi | Muhammad Mustadi (mathdroid) | [Link](https://indonesia-covid-19.mathdro.id/api/provinsi/) | `Aktif` | API statistik kasus covid-19 per provinsi di Indonesia | Tidak |
+| Data rumah sakit rujukan covid-19 di Indonesia | Ariya Hidayat | [Link](https://dekontaminasi.com/api/id/covid19/hospitals) | `Aktif` | API rumah sakit rujukan covid-19 di Indonesia | Tidak |
+
 ### Lokasi
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
@@ -109,6 +112,7 @@ Berisi API tentang Data Indonesia.
 | Kode Pos | Cain van Mason | [Link](https://nbc.vanmason.web.id/service/kodepos/42173) | `Aktif` | Daftar Kode Pos di Indonesia | Tidak |
 | Nama Daerah Seluruh Indonesia | farizdotid | [Link](https://farizdotid.com/blog/dokumentasi-api-daerah-indonesia/) | `Aktif` | Daftar nama Provinsi, Kabupaten, Kecamatan, dan Desa | Tidak |
 | Sekolah se Indonesia | Pemerintah Indonesia | [Link](https://data.go.id/dataset/sekolah) | `Aktif` | Daftar jumlah sekolah perwilayah, detail sekolah perwilayah dan data master wilayah | Tidak |
+| Museum di Indonesia | Pemerintah Indonesia | [Link](http://jendela.data.kemdikbud.go.id/api/index.php/CcariMuseum/searchGET?nama=museum) | `Aktif` | Daftar musem Indonesia berdasarkan nama | Tidak |
 
 ### Musik
 
