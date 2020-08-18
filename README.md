@@ -135,6 +135,7 @@ Berisi API tentang Data Indonesia.
 | Data BPS | Badan Pusat Statistik | [Link](https://webapi.bps.go.id/developer/) | `Aktif` | Data statistik indikator pembangunan seluruh Indonesia | `apiKey` |
 | Data BMKG | Badan Meteorologi dan Geofisika | [Link](http://data.bmkg.go.id/tentang/) | `Aktif` | Data terkini cuaca dan kejadian bencana di Indonesia | Tidak |
 | Cagar Budaya Indonesia | Kantor Staf Presiden | [Link](https://data.go.id/dataset/cagar-budaya) | `Aktif` | Warisan cagar budaya Indonesia termasuk bangunan, struktur, situs, dll. | Tidak
+| Gardu PLN | PLN | [Link](http://apps.iconpln.co.id:7181/Panas-1.0/AssetGarduAllRf) | `Aktif` | List Gardu PLN | Tidak
 
 ### Prediksi
 
