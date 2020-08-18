@@ -42,7 +42,7 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Matahari Mall API for Seller | Matahari Mall Dev | [Link](http://docs.apiforseller.apiary.io) | `Aktif` | API untuk penjual di Matahari Mall | `apiKey` |
-| Tiket.com API | Tiket.com Dev | [Link](http://docs.tiket.com/) | `Aktif` | API untuk transaksi pada tiket.com yang merupakan situs penjualan tiket kereta api, tiket pesawat, dan lain-lain. | `apiKey` |
+| Tiket.com API | Tiket.com Dev | [Link](https://www.tiket.com/affiliate/) | `Aktif` | API untuk transaksi pada tiket.com yang merupakan situs penjualan tiket kereta api, tiket pesawat, dan lain-lain. | `apiKey` |
 | Tokopedia.com API | Tokopedia.com Dev | [Link](https://developer.tokopedia.com/openapi/guide/) | `Aktif` | API ini memungkinkan Anda untuk mengintegrasikan sistem Anda ke dalam Tokopedia | `apiKey` |
 | JD.id API | JD.id Dev | [Link](https://api.jd.id/home) | `Aktif` | API ini memungkinkan Anda untuk mengintegrasikan sistem Anda ke dalam JD.id | `apiKey` |
 | Elevenia.co.id API | Elevenia.co.id Dev | [Link](hhttp://soffice.elevenia.co.id/jsp/openapi/in/docs/ProductAPI_latest.pdf) | `Aktif` | API ini memungkinkan Anda untuk mengintegrasikan sistem Anda ke dalam Elevenia | `apiKey` |
@@ -55,7 +55,7 @@ Berisi API tentang Data Indonesia.
 | Jurnal API | jurnal.id | [Link](https://api-jurnal.api-docs.io/v1/getting-started/introduction) | `Aktif` | API untuk *software* laporan keuangan. | `Oauth` / `apiKey` |
 | Midtrans - Payment gateway | Midtrans | [Link](https://midtrans.com/payments) | `Aktif` | *Gateway* atau gerbang untuk transaksi pembayaran. | `apiKey` |
 | iPaymu | iPaymu | [Link](https://ipaymu.com/dokumentasi-api/) | `Aktif` | *Gateway* atau gerbang untuk transaksi pembayaran. | `apiKey` |
-| Doku | Doku | [Link](http://doku.com/id) | `Aktif` | DOKU semakin dipercaya dan menjadi layanan pembayaran elektronik pilihan bagi merchant nasional maupun internasional. | `apiKey` |
+| Doku | Doku | [Link](https://www.doku.com/API/index.html) | `Aktif` | DOKU semakin dipercaya dan menjadi layanan pembayaran elektronik pilihan bagi merchant nasional maupun internasional. | `apiKey` |
 | OVO Unofficial | lintangtimur | [Link](https://github.com/lintangtimur/ovoid) | `Aktif` | Un-Official ovoid API Wrapper menggunakan PHP | `OTP` |
 
 ### Forum
@@ -75,7 +75,7 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Cek Resi | Wahid | [Link](http://wahidganteng.ga/api/cek-resi) | `Aktif` | Pengecekan resi jasa ekspedisi terkenal di Indonesia seperti [JNE], [SiCepat] dan [Wahana] | `apiKey` |
+| Cek Resi | Wahid | [Link](http://wahidganteng.ga/api/cek-resi) | `Tidak Aktif` | Pengecekan resi jasa ekspedisi terkenal di Indonesia seperti [JNE], [SiCepat] dan [Wahana] | `apiKey` |
 | Paket ID | paket.id | [Link](http://docs.paket.id/API/Versi_2.html) | `Aktif` | Jasa pengiriman | `apiKey` |
 | Raja Ongkir | Rajaongkir | [Link](http://rajaongkir.com/dokumentasi) | `Aktif` | Cek ongkos kirim pada beberapa jasa antar barang seperti [JNE], [POS], [TIKI], dan lain-lain. | `apiKey` |
 | Cek Resi | binderbyte | [Link](https://docs.binderbyte.com/api/cek-resi) | `Aktif` | API Cek Resi adalah api yang berguna untuk melacak resi secara otomatis mulai dari jne, pos, jnt, wahana, tiki, sicepat dll. | `apiKey` |
@@ -84,7 +84,7 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Jadwal Sholat | Wahid | [Link](http://wahidganteng.ga/api/jadwal-sholat) | `Aktif` | Jadwal sholat dengan pencarian berdasarkan kota maupun tanggal | `apiKey`|
+| Jadwal Sholat | Wahid | [Link](http://wahidganteng.ga/api/jadwal-sholat) | `Tidak Aktif` | Jadwal sholat dengan pencarian berdasarkan kota maupun tanggal | `apiKey`|
 
 ### Kegiatan Khusus
 
@@ -122,6 +122,7 @@ Berisi API tentang Data Indonesia.
 | Spotify | Spotify Dev | [Link](https://developer.spotify.com/web-api/) | `Aktif` | Spotify Catalog | `OAuth` |
 | SoundCloud | SoundCloud Dev | [Link](https://developers.soundcloud.com/) | `Aktif` | upload dan share music | `apiKey` |
 | MusixMatch | MusixMatch Dev | [Link](https://developer.musixmatch.com/) | `Aktif` | Mencari Informasi dan Lirik lagu | `apiKey` |
+| Deezer | Deezer Dev | [Link](https://developers.deezer.com/api) | `Aktif` | Katalog Deezer | `OAuth` |
 
 ### Pemerintahan
 
