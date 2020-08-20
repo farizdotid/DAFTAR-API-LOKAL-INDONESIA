@@ -117,7 +117,6 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Lirik Lagu | iBachor | [Link](https://github.com/bachors/apiapi#lirik-lagu) | `Aktif` | Pencarian lirik lagu | Tidak |
 | Spotify | Spotify Dev | [Link](https://developer.spotify.com/web-api/) | `Aktif` | Spotify Catalog | `OAuth` |
 | SoundCloud | SoundCloud Dev | [Link](https://developers.soundcloud.com/) | `Aktif` | upload dan share music | `apiKey` |
 | MusixMatch | MusixMatch Dev | [Link](https://developer.musixmatch.com/) | `Aktif` | Mencari Informasi dan Lirik lagu | `apiKey` |
@@ -140,13 +139,11 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Perkiraan Keberangkatan Haji | iBachor | [Link](https://github.com/bachors/apiapi#perkiraan-keberangkatan-haji) | `Aktif` | API untuk perkiraan keberangkatan haji | Tidak |
 
 ### Sertifikasi
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Produk Halal MUI | iBachor | [Link](https://github.com/bachors/apiapi#produk-halal-mui) | `Aktif` | API untuk mencari produk halal yang terdaftar pada lembaga MUI (Majelis Ulama Indonesia) | Tidak |
 
 ### Utilitas
 
