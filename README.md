@@ -85,12 +85,12 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Cerpenmu.com API| Abdul Muttaqin | [Link](https://fdci.se/cerpenmu-com-api-random-cerpen/) | `Aktif` | Mendapatkan cerpen secara random dari situs cerpenmu.com  | Tidak |
 
 ### Sosial Media
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Pinterest Search Image | Abdul Muttaqin | [Link](https://fdci.se/pinterest-search-image/) | `Aktif` | Mencari gambar berdasarkan keyword di platform Pinterest | Tidak |
-
 
 ### Kegiatan Khusus
 
