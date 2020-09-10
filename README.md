@@ -128,6 +128,7 @@ Berisi API tentang Data Indonesia.
 | Spotify | Spotify Dev | [Link](https://developer.spotify.com/web-api/) | `Aktif` | Spotify Catalog | `OAuth` |
 | SoundCloud | SoundCloud Dev | [Link](https://developers.soundcloud.com/) | `Aktif` | upload dan share music | `apiKey` |
 | MusixMatch | MusixMatch Dev | [Link](https://developer.musixmatch.com/) | `Aktif` | Mencari Informasi dan Lirik lagu | `apiKey` |
+| MusixMatch (Unofficial) | [Link](https://github.com/sProDev/musixmatch/) | `Aktif` | Mencari Informasi dan Lirik lagu | Tidak |
 | Deezer | Deezer Dev | [Link](https://developers.deezer.com/api) | `Aktif` | Katalog Deezer | `OAuth` |
 
 ### Pemerintahan
