@@ -141,6 +141,7 @@ Berisi API tentang Data Indonesia.
 | Data BMKG | Badan Meteorologi dan Geofisika | [Link](http://data.bmkg.go.id/tentang/) | `Aktif` | Data terkini cuaca dan kejadian bencana di Indonesia | Tidak |
 | Cagar Budaya Indonesia | Kantor Staf Presiden | [Link](https://data.go.id/dataset/cagar-budaya) | `Aktif` | Warisan cagar budaya Indonesia termasuk bangunan, struktur, situs, dll. | Tidak
 | Gardu PLN | PLN | [Link](http://apps.iconpln.co.id:7181/Panas-1.0/AssetGarduAllRf) | `Aktif` | List Gardu PLN | Tidak
+| Batik Indonesia | BatiKita | [Link](https://batikita.docs.apiary.io/#reference/0/all-batik-collections) | `Aktif` | BatiKita merupakan sebuah aplikasi yang dapat memberikan informasi mengenai motif batik, dengan memberikan kata kunci atau mengunggah citra sehingga user tidak perlu melakukan pencarian informasi secara manual. | Tidak
 
 ### Prediksi
 
