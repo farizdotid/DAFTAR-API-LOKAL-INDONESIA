@@ -27,6 +27,7 @@ Berisi API tentang Data Indonesia.
   * [Sertifikasi](#sertifikasi)
   * [Utilitas](#utilitas)
   * [Sosial Media](#sosial-media)
+  * [Buku](#buku)
 * [Kontak](#kontak)
 * [Lisensi](#lisensi)
 
@@ -159,6 +160,12 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Arbanat | jajanjawa | [Link](https://arbanat.my.id) | `Aktif` | kirim sms melalui rest api | `apiKey` |
+
+### Buku
+
+| Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Alquran ID | bachors | [Link](https://github.com/bachors/Al-Quran-ID-API) | `Aktif` | Alquran bahasa indonesia | Tidak |
 
 
 ## Kontak
