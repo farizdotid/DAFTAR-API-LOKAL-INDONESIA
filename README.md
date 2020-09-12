@@ -12,6 +12,7 @@ Berisi API tentang Data Indonesia.
 * [Daftar Isi](#daftar-isi)
 * [Daftar API](#daftar-api)
   * [Berita](#berita)
+  * [Buku](#buku)
   * [E-Commerce](#e-commerce)
   * [Finansial](#finansial)
   * [Forum](#forum)
@@ -27,7 +28,6 @@ Berisi API tentang Data Indonesia.
   * [Sertifikasi](#sertifikasi)
   * [Utilitas](#utilitas)
   * [Sosial Media](#sosial-media)
-  * [Buku](#buku)
 * [Kontak](#kontak)
 * [Lisensi](#lisensi)
 
@@ -38,6 +38,12 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Indonesia news API | News API | [Link](https://newsapi.org/s/indonesia-news-api) | `Aktif` | API untuk mendapatkan update berita di indonesia | `apiKey` |
+
+### Buku
+
+| Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Alquran ID | bachors | [Link](https://github.com/bachors/Al-Quran-ID-API) | `Aktif` | Alquran bahasa indonesia | Tidak |
 
 ### *E-Commerce*
 
@@ -160,12 +166,6 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Arbanat | jajanjawa | [Link](https://arbanat.my.id) | `Aktif` | kirim sms melalui rest api | `apiKey` |
-
-### Buku
-
-| Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
-| --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Alquran ID | bachors | [Link](https://github.com/bachors/Al-Quran-ID-API) | `Aktif` | Alquran bahasa indonesia | Tidak |
 
 
 ## Kontak
