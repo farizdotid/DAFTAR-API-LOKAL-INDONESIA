@@ -169,7 +169,7 @@ This file is translation from Original (Bahasa Indonesia).
 
 | API Name        | Developer | URL | Status  | Description | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Pinterest Search Image | Abdul Muttaqin | [Link](https://fdci.se/pinterest-search-image/) | `Active` | Search images at Pinterest | Tidak |
+| Pinterest Search Image | Abdul Muttaqin | [Link](https://fdci.se/pinterest-search-image/) | `Active` | Search images at Pinterest | No |
 
 ### Utility
 
