@@ -8,28 +8,30 @@ Berisi API tentang Data Indonesia.
 
 ## Daftar Isi
 
-* [Daftar dalam Bahasa Lain](#daftar-dalam-bahasa-lain)
-* [Daftar Isi](#daftar-isi)
-* [Daftar API](#daftar-api)
-  * [Berita](#berita)
-  * [Buku](#buku)
-  * [E-Commerce](#e-commerce)
-  * [Finansial](#finansial)
-  * [Forum](#forum)
-  * [Hiburan](#hiburan)
-  * [Jasa Pengiriman](#jasa-pengiriman)
-  * [Kegiatan Sehari-hari](#kegiatan-sehari-hari)
-  * [Kegiatan Khusus](#kegiatan-khusus)
-  * [Kesehatan](#kesehatan)
-  * [Lokasi](#lokasi)
-  * [Musik](#musik)
-  * [Pemerintahan](#pemerintahan)
-  * [Prediksi](#prediksi)
-  * [Sertifikasi](#sertifikasi)
-  * [Utilitas](#utilitas)
-  * [Sosial Media](#sosial-media)
-* [Kontak](#kontak)
-* [Lisensi](#lisensi)
+- [Daftar API Lokal Indonesia](#daftar-api-lokal-indonesia)
+- [Daftar dalam bahasa lain](#daftar-dalam-bahasa-lain)
+  - [Daftar Isi](#daftar-isi)
+  - [Daftar API](#daftar-api)
+    - [Berita](#berita)
+    - [Buku](#buku)
+    - [*E-Commerce*](#e-commerce)
+    - [Finansial](#finansial)
+    - [Forum](#forum)
+    - [Hiburan](#hiburan)
+    - [Jasa Pengiriman](#jasa-pengiriman)
+    - [Kegiatan Sehari-hari](#kegiatan-sehari-hari)
+    - [Sosial Media](#sosial-media)
+    - [Kegiatan Khusus](#kegiatan-khusus)
+    - [Kesehatan](#kesehatan)
+    - [Lokasi](#lokasi)
+    - [Musik](#musik)
+    - [Pemerintahan](#pemerintahan)
+    - [Prediksi](#prediksi)
+    - [Sertifikasi](#sertifikasi)
+    - [Utilitas](#utilitas)
+  - [Kontak](#kontak)
+  - [:fire: TERIMAKASIH :fire:](#fire-terimakasih-fire)
+- [Lisensi](#lisensi)
 
 ## Daftar API
 
@@ -96,6 +98,7 @@ Berisi API tentang Data Indonesia.
 | Cerpenmu.com API| Abdul Muttaqin | [Link](https://fdci.se/cerpenmu-com-api-random-cerpen/) | `Aktif` | Mendapatkan cerpen secara random dari situs cerpenmu.com  | Tidak |
 
 ### Sosial Media
+
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Pinterest Search Image | Abdul Muttaqin | [Link](https://fdci.se/pinterest-search-image/) | `Aktif` | Mencari gambar berdasarkan keyword di platform Pinterest | Tidak |
@@ -151,7 +154,7 @@ Berisi API tentang Data Indonesia.
 | Data BMKG | Badan Meteorologi dan Geofisika | [Link](http://data.bmkg.go.id/tentang/) | `Aktif` | Data terkini cuaca dan kejadian bencana di Indonesia | Tidak |
 | Cagar Budaya Indonesia | Kantor Staf Presiden | [Link](https://data.go.id/dataset/cagar-budaya) | `Aktif` | Warisan cagar budaya Indonesia termasuk bangunan, struktur, situs, dll. | Tidak
 | Gardu PLN | PLN | [Link](http://apps.iconpln.co.id:7181/Panas-1.0/AssetGarduAllRf) | `Aktif` | List Gardu PLN | Tidak
-| Batik Indonesia | BatiKita | [Link](https://batikita.docs.apiary.io/#reference/0/all-batik-collections) | `Aktif` | BatiKita merupakan sebuah aplikasi yang dapat memberikan informasi mengenai motif batik, dengan memberikan kata kunci atau mengunggah citra sehingga user tidak perlu melakukan pencarian informasi secara manual. | Tidak
+| Batik Indonesia | BatiKita | [Link](https://batikita.docs.apiary.io/#reference/0/all-batik-collections) | `Aktif` | BatiKita merupakan sebuah aplikasi yang dapat memberikan informasi mengenai motif batik, dengan memberikan kata kunci atau mengunggah citra sehingga user tidak perlu melakukan pencarian informasi secara manual. | Tidak |
 
 ### Prediksi
 
