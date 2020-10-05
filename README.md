@@ -44,6 +44,7 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Alquran ID | bachors | [Link](https://github.com/bachors/Al-Quran-ID-API) | `Aktif` | Alquran bahasa indonesia | Tidak |
+| Quran JSON | penggguna | [Link](https://github.com/penggguna/QuranJSON) | `Aktif` | Quran JSON (Terjemahan Indonesia, Tafsir, dan Audio) | Tidak |
 
 ### *E-Commerce*
 
@@ -66,6 +67,8 @@ Berisi API tentang Data Indonesia.
 | Doku | Doku | [Link](https://www.doku.com/API/index.html) | `Aktif` | DOKU semakin dipercaya dan menjadi layanan pembayaran elektronik pilihan bagi merchant nasional maupun internasional. | `apiKey` |
 | OVO Unofficial | lintangtimur | [Link](https://github.com/lintangtimur/ovoid) | `Aktif` | Un-Official ovoid API Wrapper menggunakan PHP | `OTP` |
 | ESPAY | ESPAY | [Link](https://sandbox-kit.espay.id/docs/v2/docespay/en/index.php) | `Aktif` | Payment Gateway Indonesia | `apiKey` |
+| Duitku | Duitku | [Link](https://docs.duitku.com) | `Aktif` | Payment Gateway Indonesia | `apiKey` |
+| BCA | BCA | [Link](https://developer.bca.co.id/documentation) | `Aktif` | API Bank BCA | `apiKey` |
 
 ### Forum
 
@@ -94,6 +97,7 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Cerpenmu.com API| Abdul Muttaqin | [Link](https://fdci.se/cerpenmu-com-api-random-cerpen/) | `Aktif` | Mendapatkan cerpen secara random dari situs cerpenmu.com  | Tidak |
+| Jadwal Sholat | lakuapik | [Link](https://github.com/lakuapik/jadwalsholatorg) | `Aktif` | Jadwal sholat berdasarkan kota/kabupaten di Indonesia | Tidak |
 
 ### Sosial Media
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
