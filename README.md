@@ -40,6 +40,7 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Indonesia news API | News API | [Link](https://newsapi.org/s/indonesia-news-api) | `Aktif` | API untuk mendapatkan update berita di indonesia | `apiKey` |
+| CNN Indonesia | developeridn.com | [Link](https://github.com/rizki4106/cnnindonesia-news-api) | `Aktif` | API kumpulan berita dari cnn indonesia | `Tidak`|
 
 ### Buku
 
