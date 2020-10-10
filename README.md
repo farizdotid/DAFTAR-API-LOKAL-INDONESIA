@@ -107,6 +107,7 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Pinterest Search Image | Abdul Muttaqin | [Link](https://fdci.se/pinterest-search-image/) | `Aktif` | Mencari gambar berdasarkan keyword di platform Pinterest | Tidak |
+| Unofficial TikTok API | Abdul Muttaqin | [Link](https://api.fdci.se/api/tiktok.php) | `Aktif` | Unofficial API Tiktok Untuk Scraping | Tidak |
 
 ### Kegiatan Khusus
 
