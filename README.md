@@ -48,6 +48,7 @@ Berisi API tentang Data Indonesia.
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Alquran ID | bachors | [Link](https://github.com/bachors/Al-Quran-ID-API) | `Aktif` | Alquran bahasa indonesia | Tidak |
 | Quran JSON | penggguna | [Link](https://github.com/penggguna/QuranJSON) | `Aktif` | Quran JSON (Terjemahan Indonesia, Tafsir, dan Audio) | Tidak |
+| Masak Apa | Reski | [Link](https://github.com/tomorisakura/unofficial-masakapahariini-api) | `Aktif` | Buku resep makanan Indonesia | Tidak |
 
 ### *E-Commerce*
 
