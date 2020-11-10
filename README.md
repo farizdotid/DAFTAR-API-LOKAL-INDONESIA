@@ -137,6 +137,7 @@ Berisi API tentang Data Indonesia.
 | Kode Pos | Cain van Mason | [Link](https://nbc.vanmason.web.id/service/kodepos/42173) | `Aktif` | Daftar Kode Pos di Indonesia | Tidak |
 | Kode Pos | sProDev | [Link](https://github.com/sProDev/kodepos) | `Aktif` | Pencarian Kode Pos Indonesia Berdasarkan Nama Tempat, Desa atau Kota | Tidak |
 | Nama Daerah Seluruh Indonesia | farizdotid | [Link](https://farizdotid.com/blog/dokumentasi-api-daerah-indonesia/) | `Aktif` | Daftar nama Provinsi, Kabupaten, Kecamatan, dan Desa | Tidak |
+| Nama Daerah Seluruh Indonesia | ibnux | [Link](https://ibnux.github.io/data-indonesia/) | `Aktif` | JSON API nama Provinsi, Kabupaten, Kecamatan, dan Desa untuk Mobile Apps | Tidak |
 | Sekolah se Indonesia | Pemerintah Indonesia | [Link](https://data.go.id/dataset/sekolah) | `Aktif` | Daftar jumlah sekolah perwilayah, detail sekolah perwilayah dan data master wilayah | Tidak |
 | Museum di Indonesia | Pemerintah Indonesia | [Link](http://jendela.data.kemdikbud.go.id/api/index.php/CcariMuseum/searchGET?nama=museum) | `Aktif` | Daftar musem Indonesia berdasarkan nama | Tidak |
 
