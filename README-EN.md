@@ -136,6 +136,7 @@ This file is translation from Original (Bahasa Indonesia).
 | Kode Pos | sProDev | [Link](https://github.com/sProDev/kodepos) | `Active` | Search for Indonesian Postal Codes by Name of Place, Village or City | No |
 | Museum di Indonesia | Pemerintah Indonesia | [Link](http://jendela.data.kemdikbud.go.id/api/index.php/CcariMuseum/searchGET?nama=museum) | `Active` | List of Indonesian museum | No |
 | Nama Daerah Seluruh Indonesia | farizdotid | [Link](https://farizdotid.com/dokumentasi-api-daerah-indonesia/) | `Active` | Name List of Province, City, etc. in Indonesia | No |
+| Nama Daerah Seluruh Indonesia | ibnux | [Link](https://ibnux.github.io/data-indonesia/) | `Aktif` | JSON API List of Province, City, etc. in Indonesia for Mobile Apps | No |
 | Sekolah se Indonesia | Pemerintah Indonesia | [Link](https://data.go.id/dataset/sekolah) | `Active` | API for school data in Indonesia | No |
 
 ### Music
