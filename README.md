@@ -95,6 +95,7 @@ Berisi API tentang Data Indonesia.
 | Paket ID | paket.id | [Link](http://docs.paket.id/API/Versi_2.html) | `Aktif` | Jasa pengiriman | `apiKey` |
 | Raja Ongkir | Rajaongkir | [Link](http://rajaongkir.com/dokumentasi) | `Aktif` | Cek ongkos kirim pada beberapa jasa antar barang seperti [JNE], [POS], [TIKI], dan lain-lain. | `apiKey` |
 | Cek Resi | binderbyte | [Link](https://docs.binderbyte.com/api/cek-resi) | `Aktif` | API Cek Resi adalah api yang berguna untuk melacak resi secara otomatis mulai dari jne, pos, jnt, wahana, tiki, sicepat dll. | `apiKey` |
+| J&T | J&T Official | [Link](https://developer.jet.co.id/documentation) | `Aktif` | API Resmi yang diterbitkan oleh J&T untuk layanan AWB, Order Tracking, Cek Tarif, dan Pembatalan Order. | `apiKey` | 
 
 ### Kegiatan Sehari-hari
 
