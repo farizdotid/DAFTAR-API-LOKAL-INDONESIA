@@ -58,7 +58,7 @@ Berisi API tentang Data Indonesia.
 | Tiket.com API | Tiket.com Dev | [Link](https://www.tiket.com/affiliate/) | `Aktif` | API untuk transaksi pada tiket.com yang merupakan situs penjualan tiket kereta api, tiket pesawat, dan lain-lain. | `apiKey` |
 | Tokopedia.com API | Tokopedia.com Dev | [Link](https://developer.tokopedia.com/openapi/guide/) | `Aktif` | API ini memungkinkan Anda untuk mengintegrasikan sistem Anda ke dalam Tokopedia | `apiKey` |
 | JD.id API | JD.id Dev | [Link](https://api.jd.id/home) | `Aktif` | API ini memungkinkan Anda untuk mengintegrasikan sistem Anda ke dalam JD.id | `apiKey` |
-| Elevenia.co.id API | Elevenia.co.id Dev | [Link](hhttp://soffice.elevenia.co.id/jsp/openapi/in/docs/ProductAPI_latest.pdf) | `Aktif` | API ini memungkinkan Anda untuk mengintegrasikan sistem Anda ke dalam Elevenia | `apiKey` |
+| Elevenia.co.id API | Elevenia.co.id Dev | [Link](http://soffice.elevenia.co.id/jsp/openapi/in/docs/ProductAPI_latest.pdf) | `Aktif` | API ini memungkinkan Anda untuk mengintegrasikan sistem Anda ke dalam Elevenia | `apiKey` |
 | Lazada | Lazada Dev | [Link](https://open.lazada.com/doc/doc.htm) | `Aktif` | API resmi Lazada untuk layanan Product, Order, Finance, Logistic, Seller, dan System dari Lazada. | `apiKey` |
 | Shopee | Shopee Dev | [Link](https://open.shopee.com/documents) | `Aktif` | API resmi Shopee untuk integrasi berbagai layanan dari Shopee. | `apiKey` |
 
