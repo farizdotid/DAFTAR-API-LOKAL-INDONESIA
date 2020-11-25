@@ -59,6 +59,8 @@ Berisi API tentang Data Indonesia.
 | Tokopedia.com API | Tokopedia.com Dev | [Link](https://developer.tokopedia.com/openapi/guide/) | `Aktif` | API ini memungkinkan Anda untuk mengintegrasikan sistem Anda ke dalam Tokopedia | `apiKey` |
 | JD.id API | JD.id Dev | [Link](https://api.jd.id/home) | `Aktif` | API ini memungkinkan Anda untuk mengintegrasikan sistem Anda ke dalam JD.id | `apiKey` |
 | Elevenia.co.id API | Elevenia.co.id Dev | [Link](hhttp://soffice.elevenia.co.id/jsp/openapi/in/docs/ProductAPI_latest.pdf) | `Aktif` | API ini memungkinkan Anda untuk mengintegrasikan sistem Anda ke dalam Elevenia | `apiKey` |
+| Lazada | Lazada Dev | [Link](https://open.lazada.com/doc/doc.htm) | `Aktif` | API resmi Lazada untuk layanan Product, Order, Finance, Logistic, Seller, dan System dari Lazada. | `apiKey` |
+| Shopee | Shopee Dev | [Link](https://open.shopee.com/documents) | `Aktif` | API resmi Shopee untuk integrasi berbagai layanan dari Shopee. | `apiKey` |
 
 ### Finansial
 
@@ -95,7 +97,7 @@ Berisi API tentang Data Indonesia.
 | Paket ID | paket.id | [Link](http://docs.paket.id/API/Versi_2.html) | `Aktif` | Jasa pengiriman | `apiKey` |
 | Raja Ongkir | Rajaongkir | [Link](http://rajaongkir.com/dokumentasi) | `Aktif` | Cek ongkos kirim pada beberapa jasa antar barang seperti [JNE], [POS], [TIKI], dan lain-lain. | `apiKey` |
 | Cek Resi | binderbyte | [Link](https://docs.binderbyte.com/api/cek-resi) | `Aktif` | API Cek Resi adalah api yang berguna untuk melacak resi secara otomatis mulai dari jne, pos, jnt, wahana, tiki, sicepat dll. | `apiKey` |
-| J&T | J&T Official | [Link](https://developer.jet.co.id/documentation) | `Aktif` | API Resmi yang diterbitkan oleh J&T untuk layanan AWB, Order Tracking, Cek Tarif, dan Pembatalan Order. | `apiKey` | 
+| J&T | J&T Official | [Link](https://developer.jet.co.id/documentation) | `Aktif` | API Resmi yang diterbitkan oleh J&T untuk layanan AWB, Order Tracking, Cek Tarif, dan Pembatalan Order. | `apiKey` |
 
 ### Kegiatan Sehari-hari
 
