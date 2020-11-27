@@ -169,6 +169,12 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 
+### Ramalan Cuaca
+
+| Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| BMKG Json API   |[ibnux](https://github.com/ibnux/) | [link](https://ibnux.github.io/BMKG-importer/#pakai-langsung) | `Aktif` | Ramalan cuaca Indonesia sampai 3 hari kedepan Import dari BMKG dalam bentuk JSON | Tidak |
+
 ### Sertifikasi
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
