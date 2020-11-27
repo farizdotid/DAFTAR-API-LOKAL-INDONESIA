@@ -51,6 +51,7 @@ This file is translation from Original (Bahasa Indonesia).
 | Cek Resi | Wahid | [Link](http://wahidganteng.ga/api/cek-resi) | `Active` | Check receipt from [JNE], [SiCepat], [Wahana], etc. | `apiKey` |
 | Paket ID | paket.id | [Link](http://docs.paket.id/API/Versi_2.html) | `Active` | Courier API | `apiKey` |
 | Raja Ongkir | Rajaongkir | [Link](http://rajaongkir.com/dokumentasi) | `Active` | Check delivery cost using courier [JNE], [POS], [TIKI], etc. | `apiKey` |
+| J&T | J&T Official | [Link](https://developer.jet.co.id/documentation) | `Aktif` | J&T offcial API to access AWB, Order Tracking, Check Rates, and Order Cancellation. | `apiKey` |
 
 ### Daily Life
 
@@ -67,6 +68,8 @@ This file is translation from Original (Bahasa Indonesia).
 | Matahari Mall API for Seller | Matahari Mall Dev | [Link](http://docs.apiforseller.apiary.io) | `Active` | Matahari Mall API for Seller | `apiKey` |
 | Tiket.com API | Tiket.com Dev | [Link](http://docs.tiket.com/) | `Active` | Selling train ticket, etc. | `apiKey` |
 | Tokopedia.com API | Tokopedia.com Dev | [Link](https://developer.tokopedia.com/openapi/guide/) | `Active` | API for integrate your system into Tokopedia | `apiKey` |
+| Lazada | Lazada Dev | [Link](https://open.lazada.com/doc/doc.htm) | `Aktif` | Lazada official API to integrate Product, Order, Finance, Logistic, Seller, and System from Lazada on your app. | `apiKey` |
+| Shopee | Shopee Dev | [Link](https://open.shopee.com/documents) | `Aktif` | Shopee official API to integrate many services from Shopee. | `apiKey` |
 
 ### Entertainment
 
