@@ -89,6 +89,8 @@ Berisi API tentang Data Indonesia.
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Tanggal Lahiran Pasaran Zodiak | iBachor | [Link](https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak) | `Aktif` | Mengecek zodiak berdasarkan tanggal lahir serta dapat memberitahukan detail tanggal lahir, detail usia, serta detail rentang ulang tahun terdekat. | Tidak |
 | Film Indonesia | themoviedb | [Link](https://www.themoviedb.org/documentation/api) | `Aktif` | List film-film Indonesia dengan catatan configurasi API di set ke Negara Indonesia | `apiKey` |
+| Manga/Komik Bahasa Indonesia (Un-official) | Febry Ardiansyah | [Link](https://github.com/febryardiansyah/manga-api) | `Aktif` | Menyediakan Manga atau Komik bahasa Indonesia | Tidak |
+| Otakudesu API (Un-official) | KaedeNoKi Team | [Link](https://github.com/Kaede-No-Ki/otakudesu-rest-api) | `Aktif` | Menyediakan anime dengan subtitle Bahasa Indonesia | Tidak |
 
 ### Jasa Pengiriman
 
