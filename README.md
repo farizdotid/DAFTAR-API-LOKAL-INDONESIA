@@ -91,6 +91,7 @@ Berisi API tentang Data Indonesia.
 | Film Indonesia | themoviedb | [Link](https://www.themoviedb.org/documentation/api) | `Aktif` | List film-film Indonesia dengan catatan configurasi API di set ke Negara Indonesia | `apiKey` |
 | Manga/Komik Bahasa Indonesia (Un-official) | Febry Ardiansyah | [Link](https://github.com/febryardiansyah/manga-api) | `Aktif` | Menyediakan Manga atau Komik bahasa Indonesia | Tidak |
 | Otakudesu API (Un-official) | KaedeNoKi Team | [Link](https://github.com/Kaede-No-Ki/otakudesu-rest-api) | `Aktif` | Menyediakan anime dengan subtitle Bahasa Indonesia | Tidak |
+| Anitop API / Anitrendz API (Un-official) | Satya Wikananda | [Link](https://github.com/satyawikananda/anitop) | `Aktif` | Sebuah API yang menampilkan data-data anime, musik anime, karakter, dll yang sedang trending pada musim ini | Tidak |
 
 ### Jasa Pengiriman
 
