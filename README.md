@@ -49,6 +49,7 @@ Berisi API tentang Data Indonesia.
 | Alquran ID | bachors | [Link](https://github.com/bachors/Al-Quran-ID-API) | `Aktif` | Alquran bahasa indonesia | Tidak |
 | Quran JSON | penggguna | [Link](https://github.com/penggguna/QuranJSON) | `Aktif` | Quran JSON (Terjemahan Indonesia, Tafsir, dan Audio) | Tidak |
 | Masak Apa | Reski | [Link](https://github.com/tomorisakura/unofficial-masakapahariini-api) | `Aktif` | Buku resep makanan Indonesia | Tidak |
+| Hadits ID | azharimm | [Link](https://github.com/azharimm/hadits-api) | `Aktif` | Api Hadist 9 Imam| Tidak |
 
 ### *E-Commerce*
 
@@ -92,6 +93,8 @@ Berisi API tentang Data Indonesia.
 | Manga/Komik Bahasa Indonesia (Un-official) | Febry Ardiansyah | [Link](https://github.com/febryardiansyah/manga-api) | `Aktif` | Menyediakan Manga atau Komik bahasa Indonesia | Tidak |
 | Otakudesu API (Un-official) | KaedeNoKi Team | [Link](https://github.com/Kaede-No-Ki/otakudesu-rest-api) | `Aktif` | Menyediakan anime dengan subtitle Bahasa Indonesia | Tidak |
 | Anitop API / Anitrendz API (Un-official) | Satya Wikananda | [Link](https://github.com/satyawikananda/anitop) | `Aktif` | Sebuah API yang menampilkan data-data anime, musik anime, karakter, dll yang sedang trending pada musim ini | Tidak |
+| Klasemen Sepak Bola | azharimm | [Link](https://github.com/azharimm/football-standings-api) | `Aktif` | Realtime klasemen sepak bola e.g EPL, La Liga dll | Tidak |
+| Spesifikasi HP | azharimm | [Link](https://github.com/azharimm/phone-specs-api) | `Aktif` | Spesifikasi HP data dari gsm arena | Tidak |
 
 ### Jasa Pengiriman
 
@@ -195,6 +198,9 @@ Berisi API tentang Data Indonesia.
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Arbanat | jajanjawa | [Link](https://arbanat.my.id) | `Aktif` | kirim sms melalui rest api | `apiKey` |
 | Qur'an Randomizer | BangHasan | [Link](https://api.banghasan.com/quran/format/json/acak) | `Aktif` | Randomizer Qur'an Lengkap | Tidak |
+| Translasi | azharimm | [Link](https://github.com/azharimm/api-translate) | `Aktif` | API translasi dengan google translate/baidu translate engine | Tidak |
+| Google Trends | azharimm | [Link](https://github.com/azharimm/google-trends-api) | `Aktif` | Realtime Google Trends API | Tidak |
+| Google Playstore | azharimm | [Link](https://github.com/azharimm/google-play-api) | `Aktif` | Google playstore API | Tidak |
 
 
 ## Kontak
