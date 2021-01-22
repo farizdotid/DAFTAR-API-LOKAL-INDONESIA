@@ -12,6 +12,7 @@ Berisi API tentang Data Indonesia.
 - [Daftar dalam bahasa lain](#daftar-dalam-bahasa-lain)
   - [Daftar Isi](#daftar-isi)
   - [Daftar API](#daftar-api)
+    - [Informasi Umum](#informasi-umum)
     - [Berita](#berita)
     - [Buku](#buku)
     - [*E-Commerce*](#e-commerce)
@@ -34,6 +35,11 @@ Berisi API tentang Data Indonesia.
 - [Lisensi](#lisensi)
 
 ## Daftar API
+
+### Informasi Umum
+| Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Wikipedia API | Mediawiki | [Link](https://www.mediawiki.org/wiki/API:Tutorial) | `Aktif` | API untuk mendapatkan informasi yang digunakan dari Wikipedia. Untuk medapatkan data menggunakan bahasa Indonesia gunakan domain dengan format 'id' `https://id.wikipedia.org/w/api.php` | `Tidak` |
 
 ### Berita
 
