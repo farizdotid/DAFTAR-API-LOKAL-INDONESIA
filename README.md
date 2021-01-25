@@ -102,6 +102,7 @@ Berisi API tentang Data Indonesia.
 | Klasemen Sepak Bola | azharimm | [Link](https://github.com/azharimm/football-standings-api) | `Aktif` | Realtime klasemen sepak bola e.g EPL, La Liga dll | Tidak |
 | Spesifikasi HP | azharimm | [Link](https://github.com/azharimm/phone-specs-api) | `Aktif` | Spesifikasi HP data dari gsm arena | Tidak |
 | Scathach API | sinkaroid | [Link](https://github.com/sinkaroid/scathach-api) | `Aktif` | Massive Anime Art dengan fitur SFW dan NSFW | Tidak |
+| Wallpapers API | Zhirrr | [Link](https://github.com/Zhirrr/wallpaper-rest-api-indonesia) | `Aktif` | Menampilkan Banyak Wallpaper Unik HD/4K Gratis ! | Tidak |
 
 ### Jasa Pengiriman
 
