@@ -191,6 +191,12 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 
+### Pendidikan
+
+| Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Data Sekolah API | Ahmad Ramadhan | [Link](https://github.com/semogaBermanfaat-AhmadRamadhan/dataSekolahNegeriIndonesia) | `Aktif` |  Data Sekolah Negeri di Indonesia | Tidak |
+
 ### Ramalan Cuaca
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
