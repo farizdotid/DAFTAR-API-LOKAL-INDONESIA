@@ -57,6 +57,7 @@ Berisi API tentang Data Indonesia.
 | Quran JSON | penggguna | [Link](https://github.com/penggguna/QuranJSON) | `Aktif` | Quran JSON (Terjemahan Indonesia, Tafsir, dan Audio) | Tidak |
 | Masak Apa | Reski | [Link](https://github.com/tomorisakura/unofficial-masakapahariini-api) | `Aktif` | Buku resep makanan Indonesia | Tidak |
 | Islamic API | Zhirrr | [Link](https://github.com/Zhirrr/islamic-rest-api-indonesian) | `Aktif` | Menyimpan Data2 Islami | Tidak |
+| Kisah Nabi API | Zhirrr | [Link](https://github.com/Zhirrr/kisahnabi-rest-api-indonesia) | `Aktif` | Menyimpan Semua Kisah 25 Nabi Allah SWT | Tidak |
 
 ### *E-Commerce*
 
