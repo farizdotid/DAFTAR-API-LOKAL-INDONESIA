@@ -121,6 +121,7 @@ Berisi API tentang Data Indonesia.
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Cerpenmu.com API| Abdul Muttaqin | [Link](https://fdci.se/cerpenmu-com-api-random-cerpen/) | `Aktif` | Mendapatkan cerpen secara random dari situs cerpenmu.com  | Tidak |
 | Jadwal Sholat | lakuapik | [Link](https://github.com/lakuapik/jadwalsholatorg) | `Aktif` | Jadwal sholat berdasarkan kota/kabupaten di Indonesia | Tidak |
+| Ceramah API | Zhirrr | [Link](https://github.com/zhirrr/ceramah-rest-api-indonesia) | `Aktif` | Menyajikan Berbagai Kajian/Ceramah Dari Ustadz/Ulama Di Indonesia | Tidak |
 
 ### Sosial Media
 
