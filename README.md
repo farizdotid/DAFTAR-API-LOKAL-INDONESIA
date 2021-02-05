@@ -40,6 +40,7 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Wikipedia API | Mediawiki | [Link](https://www.mediawiki.org/wiki/API:Tutorial) | `Aktif` | API untuk mendapatkan informasi yang digunakan dari Wikipedia. Untuk medapatkan data menggunakan bahasa Indonesia gunakan domain dengan format 'id' `https://id.wikipedia.org/w/api.php` | `Tidak` |
+| Info Gempa API | Zhirrr | [Link](https://github.com/Zhirrr/gempa-rest-api-indonesia) | `Aktif` | API yg berguna Melihat Gempa Yg Terkini Dari Seluruh Indonesia | Tidak |
 
 ### Berita
 
