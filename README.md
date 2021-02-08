@@ -28,6 +28,8 @@ Berisi API tentang Data Indonesia.
     - [Musik](#musik)
     - [Pemerintahan](#pemerintahan)
     - [Prediksi](#prediksi)
+    - [Pendidikan](#pendidikan)
+    - [Ramalan Cuaca](#ramalan-cuaca)
     - [Sertifikasi](#sertifikasi)
     - [Utilitas](#utilitas)
   - [Kontak](#kontak)
@@ -220,7 +222,7 @@ Berisi API tentang Data Indonesia.
 | Google Trends | azharimm | [Link](https://github.com/azharimm/google-trends-api) | `Aktif` | Realtime Google Trends API | Tidak |
 | Google Playstore | azharimm | [Link](https://github.com/azharimm/google-play-api) | `Aktif` | Google playstore API | Tidak |
 | ArugaZ API | ArugaZ | [Link](https://arugaz.my.id/api) | `Aktif` | Hasil Scrape Website - Lengkap | Tidak |
-
+| SMSNotif | PT Solusi Inovasi Bisnis | [Link](https://www.smsnotif.id) | `Aktif` | Kirim sms melalui REST API atau Laravel Notification | `apiKey` |
 
 ## Kontak
 
