@@ -151,6 +151,7 @@ Berisi API tentang Data Indonesia.
 | Data Pandemi Covid-19 per provinsi | Muhammad Mustadi (mathdroid) | [Link](https://indonesia-covid-19.mathdro.id/api/provinsi/) | `Aktif` | API statistik kasus covid-19 per provinsi di Indonesia | Tidak |
 | Data rumah sakit rujukan covid-19 di Indonesia | Ariya Hidayat | [Link](https://dekontaminasi.com/api/id/covid19/hospitals) | `Aktif` | API rumah sakit rujukan covid-19 di Indonesia | Tidak |
 | Data COVID-19 di Indonesia | Reynadi | [Link](https://apicovid19indonesia-v2.vercel.app/) | `Aktif` | API untuk melihat data COIVD-19 di Indonesia | Tidak |
+| Data vaksinasi COVID-19 di Indonesia | Reynadi | [Link](https://vaksincovid19-api.now.sh/) | `Aktif` | Data vaksinasi COVID-19 hasil scrapping website kemenkes | Tidak |
 
 ### Lokasi
 
