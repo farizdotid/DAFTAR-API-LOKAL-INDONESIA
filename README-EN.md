@@ -95,6 +95,7 @@ This file is translation from Original (Bahasa Indonesia).
 | Jurnal API | jurnal.id | [Link](https://api-jurnal.api-docs.io/v1/getting-started/introduction) | `Active` | Financial Report API | `Oauth` / `apiKey` |
 | Midtrans - Payment gateway | Midtrans | [Link](https://midtrans.com/payments) | `Active` | Payment Gateway | `apiKey` |
 | OVO Unofficial | lintangtimur | [Link](https://github.com/lintangtimur/ovoid) | `Active` | Un-Official ovo.id API Wrapper built with PHP | `OTP` |
+| OJK Investasi API | Cristopher | [Link](https://ojk-invest-api.vercel.app/) | `Aktif` | An API that provides list of legal and ilegal investment products in Indonesia. Taken directly from OJK | No |
 
 ### Forum
 
@@ -163,7 +164,7 @@ This file is translation from Original (Bahasa Indonesia).
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Perkiraan Keberangkatan Haji | iBachor | [Link](https://github.com/bachors/apiapi#perkiraan-keberangkatan-haji) | `Active` | Predicition to going Haji | No |
 
-### Sertification
+### Certification
 
 | API Name        | Developer | URL | Status  | Description | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
