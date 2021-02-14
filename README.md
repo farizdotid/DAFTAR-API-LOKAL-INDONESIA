@@ -88,6 +88,7 @@ Berisi API tentang Data Indonesia.
 | ESPAY | ESPAY | [Link](https://sandbox-kit.espay.id/docs/v2/docespay/en/index.php) | `Aktif` | Payment Gateway Indonesia | `apiKey` |
 | Duitku | Duitku | [Link](https://docs.duitku.com) | `Aktif` | Payment Gateway Indonesia | `apiKey` |
 | BCA | BCA | [Link](https://developer.bca.co.id/documentation) | `Aktif` | API Bank BCA | `apiKey` |
+| OJK Investasi API | Cristopher | [Link](https://ojk-invest-api.vercel.app/) | `Aktif` | Sebuah API yang menampilkan daftar investasi legal dan ilegal di Indonesia. Bersumber dari data Otoritas Jasa Keuangan | Tidak |
 
 ### Forum
 
