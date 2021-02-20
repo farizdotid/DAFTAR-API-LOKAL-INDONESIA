@@ -111,6 +111,7 @@ Berisi API tentang Data Indonesia.
 | Spesifikasi HP | azharimm | [Link](https://github.com/azharimm/phone-specs-api) | `Aktif` | Spesifikasi HP data dari gsm arena | Tidak |
 | Scathach API | sinkaroid | [Link](https://github.com/sinkaroid/scathach-api) | `Aktif` | Massive Anime Art dengan fitur SFW dan NSFW | Tidak |
 | Wallpapers API | Zhirrr | [Link](https://github.com/Zhirrr/wallpaper-rest-api-indonesia) | `Aktif` | Menampilkan Banyak Wallpaper Unik HD/4K Gratis ! | Tidak |
+| FILMAPIK API (Un-official) | devnazir | [Link](https://github.com/devnazir/api-filmapik) | `Aktif` | Menampilkan data movie beserta link video google drive | Tidak |
 
 ### Jasa Pengiriman
 
