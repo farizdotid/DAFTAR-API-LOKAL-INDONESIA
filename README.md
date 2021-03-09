@@ -228,6 +228,7 @@ Berisi API tentang Data Indonesia.
 | Google Playstore | azharimm | [Link](https://github.com/azharimm/google-play-api) | `Aktif` | Google playstore API | Tidak |
 | ArugaZ API | ArugaZ | [Link](https://arugaz.my.id/api) | `Aktif` | Hasil Scrape Website - Lengkap | Tidak |
 | SMSNotif | PT Solusi Inovasi Bisnis | [Link](https://www.smsnotif.id) | `Aktif` | Kirim sms melalui REST API atau Laravel Notification | `apiKey` |
+| Zhirrr API | Zhirrr | [Link](https://github.com/Zhirrr/Zhirrr-Api) | `Aktif` | Menyajikan 30+ API Beserta Source Nya Gratis | apikey |
 
 ## Kontak
 
