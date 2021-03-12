@@ -112,6 +112,7 @@ Berisi API tentang Data Indonesia.
 | Scathach API | sinkaroid | [Link](https://github.com/sinkaroid/scathach-api) | `Aktif` | Massive Anime Art dengan fitur SFW dan NSFW | Tidak |
 | Wallpapers API | Zhirrr | [Link](https://github.com/Zhirrr/wallpaper-rest-api-indonesia) | `Aktif` | Menampilkan Banyak Wallpaper Unik HD/4K Gratis ! | Tidak |
 | FILMAPIK API (Un-official) | devnazir | [Link](https://github.com/devnazir/api-filmapik) | `Aktif` | Menampilkan data movie beserta link video google drive | Tidak |
+| Strygwyr Dota 2 API | sinkaroid | [Link](https://github.com/sinkaroid/strygwyr) | `Aktif` | Menampilkan data hero status untuk game Dota 2 | Tidak |
 
 ### Jasa Pengiriman
 
