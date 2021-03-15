@@ -112,6 +112,7 @@ Berisi API tentang Data Indonesia.
 | Scathach API | sinkaroid | [Link](https://github.com/sinkaroid/scathach-api) | `Aktif` | Massive Anime Art dengan fitur SFW dan NSFW | Tidak |
 | Wallpapers API | Zhirrr | [Link](https://github.com/Zhirrr/wallpaper-rest-api-indonesia) | `Aktif` | Menampilkan Banyak Wallpaper Unik HD/4K Gratis ! | Tidak |
 | FILMAPIK API (Un-official) | devnazir | [Link](https://github.com/devnazir/api-filmapik) | `Aktif` | Menampilkan data movie beserta link video google drive | Tidak |
+| LK21 API (Un-official) | devnazir | [Link](https://github.com/devnazir/api-lk21) | `Aktif` | Menampilkan data movie dari situs LK21 | Tidak |
 
 ### Jasa Pengiriman
 
