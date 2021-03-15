@@ -1,4 +1,4 @@
-# Daftar API Lokal Indonesia
+# Daftar API Lokal IndonesiA
 
 Berisi API tentang Data Indonesia.
 
