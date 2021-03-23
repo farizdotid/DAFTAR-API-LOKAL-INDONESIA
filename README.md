@@ -114,6 +114,7 @@ Berisi API tentang Data Indonesia.
 | FILMAPIK API (Un-official) | devnazir | [Link](https://github.com/devnazir/api-filmapik) | `Aktif` | Menampilkan data movie beserta link video google drive | Tidak |
 | Strygwyr Dota 2 API | sinkaroid | [Link](https://github.com/sinkaroid/strygwyr) | `Aktif` | Menampilkan data hero status untuk game Dota 2 | Tidak |
 | LK21 API (Un-official) | devnazir | [Link](https://github.com/devnazir/api-lk21) | `Aktif` | Menampilkan data movie dari situs LK21 | Tidak |
+| Bioskop API | Zhirrr | [Link](https://github.com/Zhirrr/Bioskop-Api) | `Aktif` | Menampilkan data movie Bioskop, serta daftar bioskop di Indonesia | Tidak |
 
 ### Jasa Pengiriman
 
