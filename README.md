@@ -233,6 +233,7 @@ Berisi API tentang Data Indonesia.
 | ArugaZ API | ArugaZ | [Link](https://arugaz.my.id/api) | `Aktif` | Hasil Scrape Website - Lengkap | Tidak |
 | SMSNotif | PT Solusi Inovasi Bisnis | [Link](https://www.smsnotif.id) | `Aktif` | Kirim sms melalui REST API atau Laravel Notification | `apiKey` |
 | Zhirrr API | Zhirrr | [Link](https://github.com/Zhirrr/Zhirrr-Api) | `Aktif` | Menyajikan 30+ API Beserta Source Nya Gratis | apikey |
+| Hadi API | m hadi firmansya | [Link](https://hadi-api.herokuapp.com/api) | `Aktif` | Hasil Scrape Website | Tidak |
 
 ## Kontak
 
