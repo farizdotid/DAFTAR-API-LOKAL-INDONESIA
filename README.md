@@ -44,6 +44,7 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Al Quran With Smart Assistant | [rizki4106](https://github.com/rizki4106) | [Link](https://www.bluenetid.com/documentation/MTE=?code=MTAtQWxRdXJhbldpdGhTbWFydEFzc2lzdGFudA==) | `Aktif` | Menerapkan Algoritma Machine learning untuk memudahkan pencarian ayat didalam alquran | APIKey |
 | Alquran ID | bachors | [Link](https://github.com/bachors/Al-Quran-ID-API) | `Aktif` | Alquran bahasa indonesia | Tidak |
 
 ### *E-Commerce*
