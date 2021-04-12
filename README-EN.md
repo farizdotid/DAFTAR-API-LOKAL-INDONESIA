@@ -1,3 +1,5 @@
+![GitHub forks](https://img.shields.io/github/forks/farizdotid/DAFTAR-API-LOKAL-INDONESIA?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/farizdotid/DAFTAR-API-LOKAL-INDONESIA?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/farizdotid/DAFTAR-API-LOKAL-INDONESIA?style=social)
+
 # List of Local API Indonesia
 
 This repository have list of local API Indonesia about Indonesia data.
@@ -95,7 +97,8 @@ This file is translation from Original (Bahasa Indonesia).
 | Jurnal API | jurnal.id | [Link](https://api-jurnal.api-docs.io/v1/getting-started/introduction) | `Active` | Financial Report API | `Oauth` / `apiKey` |
 | Midtrans - Payment gateway | Midtrans | [Link](https://midtrans.com/payments) | `Active` | Payment Gateway | `apiKey` |
 | OVO Unofficial | lintangtimur | [Link](https://github.com/lintangtimur/ovoid) | `Active` | Un-Official ovo.id API Wrapper built with PHP | `OTP` |
-| OJK Investasi API | Cristopher | [Link](https://ojk-invest-api.vercel.app/) | `Aktif` | An API that provides list of legal and ilegal investment products in Indonesia. Taken directly from OJK | No |
+| OJK Investasi API | Cristopher | [Link](https://ojk-invest-api.vercel.app/) | `Active` | An API that provides list of legal and ilegal investment products in Indonesia. Taken directly from OJK | No |
+| Xendit API | Xendit Official | [Link](https://developers.xendit.co/) | `Active` | Xendit official API to integrate your own application with Xendit Payment Gateway | `apiKey`
 
 ### Forum
 
