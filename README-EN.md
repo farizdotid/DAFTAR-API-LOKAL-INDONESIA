@@ -1,4 +1,4 @@
-[![GitHub forks](https://img.shields.io/github/forks/farizdotid/DAFTAR-API-LOKAL-INDONESIA?style=social)](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/network)  [![GitHub stars](https://img.shields.io/github/stars/farizdotid/DAFTAR-API-LOKAL-INDONESIA?style=social)](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/farizdotid/DAFTAR-API-LOKAL-INDONESIA?style=social)](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/network) &nbsp;&nbsp; [![GitHub stars](https://img.shields.io/github/stars/farizdotid/DAFTAR-API-LOKAL-INDONESIA?style=social)](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/stargazers)
 
 # List of Local API Indonesia
 
