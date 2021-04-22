@@ -60,7 +60,7 @@ Berisi API tentang Data Indonesia.
 | Alquran ID | bachors | [Link](https://github.com/bachors/Al-Quran-ID-API) | `Aktif` | Alquran bahasa indonesia | Tidak |
 | Quran JSON | penggguna | [Link](https://github.com/penggguna/QuranJSON) | `Aktif` | Quran JSON (Terjemahan Indonesia, Tafsir, dan Audio) | Tidak |
 | Masak Apa | Reski | [Link](https://github.com/tomorisakura/unofficial-masakapahariini-api) | `Aktif` | Buku resep makanan Indonesia | Tidak |
-| Islamic API | Zhirrr | [Link](https://github.com/Zhirrr/islamic-rest-api-indonesian) | `Aktif` | Menyimpan Data2 Islami | Tidak |
+| Islamic API V2 | Zhirrr | [Link](https://github.com/Zhirrr/islamic-rest-api-indonesian-v2) | `Aktif` | Menyimpan Data2 Islami | Tidak |
 | Kisah Nabi API | Zhirrr | [Link](https://github.com/Zhirrr/kisahnabi-rest-api-indonesia) | `Aktif` | Menyimpan Semua Kisah 25 Nabi Allah SWT | Tidak |
 |  Unofficial KBBI API | Zhirrr | [Link](https://github.com/Zhirrr/KBBI-api) | `Aktif` | Api Scraper KBBI Beserta Code Sourcenya | Tidak |
 
