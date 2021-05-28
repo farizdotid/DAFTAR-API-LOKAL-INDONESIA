@@ -94,6 +94,7 @@ Berisi API tentang Data Indonesia.
 | BCA | BCA | [Link](https://developer.bca.co.id/documentation) | `Aktif` | API Bank BCA | `apiKey` |
 | OJK Investasi API | Cristopher | [Link](https://ojk-invest-api.vercel.app/) | `Aktif` | Sebuah API yang menampilkan daftar investasi legal dan ilegal di Indonesia. Bersumber dari data Otoritas Jasa Keuangan | Tidak |
 | Xendit API | Xendit Official | [Link](https://developers.xendit.co/) | `Aktif` | API Gateway resmi dari Xendit untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran Xendit | `apiKey`
+| Tripay | TRIDI.NET | [Link](https://tripay.co.id/api-pulsa-h2h-murah) | `Aktif` | Bisnis Pembayaran Dalam Satu Genggaman.| `apiKey / Oauth` |
 
 ### Forum
 
