@@ -177,6 +177,7 @@ Berisi API tentang Data Indonesia.
 | Kode Pos | Widnyana Putra | [Link](http://log.kalarau.net/kodepos.html) | `Tidak Aktif` | Daftar Kode Pos di Indoneisa | Tidak |
 | Kode Pos | Cain van Mason | [Link](https://nbc.vanmason.web.id/service/kodepos/42173) | `Aktif` | Daftar Kode Pos di Indonesia | Tidak |
 | Kode Pos | sooluh | [Link](https://github.com/sooluh/kodepos) | `Aktif` | Pencarian Kode Pos Indonesia Berdasarkan Nama Tempat, Desa atau Kota | Tidak |
+| Lambang Propinsi Seluruh Indonesia| Feri Irawan | [Link](https://feriirawan-api.herokuapp.com/list/lambang-provinsi-indonesia/) | `Aktif` | API untuk menampikan Lambang Propinsi Seluruh Indonesia (34 Propinsi) | Tidak |
 | Nama Daerah Seluruh Indonesia | farizdotid | [Link](https://farizdotid.com/blog/dokumentasi-api-daerah-indonesia/) | `Aktif` | Daftar nama Provinsi, Kabupaten, Kecamatan, dan Desa | Tidak |
 | Nama Daerah Seluruh Indonesia | ibnux | [Link](https://ibnux.github.io/data-indonesia/) | `Aktif` | JSON API nama Provinsi, Kabupaten, Kecamatan, dan Desa untuk Mobile Apps | Tidak |
 | Sekolah se Indonesia | Pemerintah Indonesia | [Link](https://data.go.id/dataset/sekolah) | `Aktif` | Daftar jumlah sekolah perwilayah, detail sekolah perwilayah dan data master wilayah | Tidak |
