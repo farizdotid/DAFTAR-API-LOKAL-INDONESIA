@@ -94,6 +94,7 @@ Berisi API tentang Data Indonesia.
 | BCA | BCA | [Link](https://developer.bca.co.id/documentation) | `Aktif` | API Bank BCA | `apiKey` |
 | OJK Investasi API | Cristopher | [Link](https://ojk-invest-api.vercel.app/) | `Aktif` | Sebuah API yang menampilkan daftar investasi legal dan ilegal di Indonesia. Bersumber dari data Otoritas Jasa Keuangan | Tidak |
 | Xendit API | Xendit Official | [Link](https://developers.xendit.co/) | `Aktif` | API Gateway resmi dari Xendit untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran Xendit | `apiKey`
+| Tripay | TRIDI.NET | [Link](https://tripay.co.id/api-pulsa-h2h-murah) | `Aktif` | Bisnis Pembayaran Dalam Satu Genggaman.| `apiKey / Oauth` |
 
 ### Forum
 
@@ -143,7 +144,7 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Pinterest Search Image | Abdul Muttaqin | [Link](https://fdci.se/pinterest-search-image/) | `Aktif` | Mencari gambar berdasarkan keyword di platform Pinterest | Tidak |
+| Pinterest Search Image | Abdul Muttaqin | [Link](http://fdciabdul.tech/api/pinterest?keyword=keyword) | `Aktif` | Mencari gambar berdasarkan keyword di platform Pinterest | Tidak |
 | Unofficial TikTok API | Abdul Muttaqin | [Link](https://api.fdci.se/api/tiktok.php) | `Aktif` | Unofficial API Tiktok Untuk Scraping | Tidak |
 | Unofficial Instagram API | Abay | [Link](https://documenter.getpostman.com/view/7256976/TVeqbm7z) | `Aktif` | Unofficial API Instagram untuk Scraping Media, Stories, Profile Highlight | Tidak |
 | Twitter Video Downloader | Abay | [Link](https://documenter.getpostman.com/view/7256976/TVeqbm7z) | `Aktif` | Unofficial API Twitter untuk Scraping Video Twitter | Tidak |
@@ -176,6 +177,7 @@ Berisi API tentang Data Indonesia.
 | Kode Pos | Widnyana Putra | [Link](http://log.kalarau.net/kodepos.html) | `Tidak Aktif` | Daftar Kode Pos di Indoneisa | Tidak |
 | Kode Pos | Cain van Mason | [Link](https://nbc.vanmason.web.id/service/kodepos/42173) | `Aktif` | Daftar Kode Pos di Indonesia | Tidak |
 | Kode Pos | sooluh | [Link](https://github.com/sooluh/kodepos) | `Aktif` | Pencarian Kode Pos Indonesia Berdasarkan Nama Tempat, Desa atau Kota | Tidak |
+| Lambang Daerah Seluruh Indonesia| Feri Irawan | [Link](https://github.com/feri-irawan/API/tree/main/list/lambang-daerah-indonesia#readme) | `Aktif` | Lambang Provinsi dan Kabupaten Seluruh Indonesia (34 Provinsi dan 514 Kabupaten / Kota) | Tidak |
 | Nama Daerah Seluruh Indonesia | farizdotid | [Link](https://farizdotid.com/blog/dokumentasi-api-daerah-indonesia/) | `Aktif` | Daftar nama Provinsi, Kabupaten, Kecamatan, dan Desa | Tidak |
 | Nama Daerah Seluruh Indonesia | ibnux | [Link](https://ibnux.github.io/data-indonesia/) | `Aktif` | JSON API nama Provinsi, Kabupaten, Kecamatan, dan Desa untuk Mobile Apps | Tidak |
 | Sekolah se Indonesia | Pemerintah Indonesia | [Link](https://data.go.id/dataset/sekolah) | `Aktif` | Daftar jumlah sekolah perwilayah, detail sekolah perwilayah dan data master wilayah | Tidak |
