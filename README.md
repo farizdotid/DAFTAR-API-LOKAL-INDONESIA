@@ -45,6 +45,8 @@ Berisi API tentang Data Indonesia.
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Wikipedia API | Mediawiki | [Link](https://www.mediawiki.org/wiki/API:Tutorial) | `Aktif` | API untuk mendapatkan informasi yang digunakan dari Wikipedia. Untuk medapatkan data menggunakan bahasa Indonesia gunakan domain dengan format 'id' `https://id.wikipedia.org/w/api.php` | `Tidak` |
 | Info Gempa API | Zhirrr | [Link](https://github.com/Zhirrr/gempa-rest-api) | `Aktif` | API untuk mendapatkan informasi gempa terkini dari website bmkg | `Tidak` |
+| Info Gempa & Cuaca API | Renova Muhamad Reza | [Link](https://github.com/renomureza/cuaca-gempa-rest-api) | `Aktif` | REST API informasi gempa terkini dan cuaca kota besar di 35 provinsi dalam 3 harian, sumber data BMKG.  | `Tidak` |
+
 
 ### Berita
 
