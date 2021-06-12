@@ -234,6 +234,7 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Temp Mail API | Ihsan Devs | [Link](https://api-tempmail.herokuapp.com/docs/) | `Aktif` | Sebuah API untuk membuat email sementara | Tidak |
 | FREE API | Ihsan Devs | [Link](https://backend-ihsandevs.herokuapp.com/api/) | `Aktif` | Kumpulan API gratis. | Tidak |
 | Arbanat | jajanjawa | [Link](https://arbanat.my.id) | `Aktif` | kirim sms melalui rest api | `apiKey` |
 | Qur'an Randomizer | BangHasan | [Link](https://api.banghasan.com/quran/format/json/acak) | `Aktif` | Randomizer Qur'an Lengkap | Tidak |
