@@ -56,6 +56,7 @@ Berisi API tentang Data Indonesia.
 | CNN Indonesia | developeridn.com | [Link](https://github.com/rizki4106/cnnindonesia-news-api) | `Aktif` | API kumpulan berita dari cnn indonesia | `Tidak`|
 | Berita Indo API | Satya Wikananda | [Link](https://github.com/satyawikananda/berita-indo-api) | `Aktif` | Api yang bertujuan untuk menampilkan data data terkini dari beberapa portal berita di Indonesia | `Tidak` |
 | The Lazy Media  API | Nicola Deastra | [Link](https://github.com/NicolaDonoastro/The-Lazy-Media-api) | `Aktif` | API kumpulan berita game dan teknologi dari The Lazy Media | `Tidak` |
+| API Berita Indonesia | Renova Muhamad Reza | [Link](https://github.com/renomureza/api-berita-indonesia) | `Aktif` | API untuk menampilkan artikel terkini dari RSS Feed portal berita Indonesia. | `Tidak` |
 
 ### Buku
 
