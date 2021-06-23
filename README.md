@@ -90,7 +90,7 @@ Berisi API tentang Data Indonesia.
 | Jurnal API | jurnal.id | [Link](https://api-jurnal.api-docs.io/v1/getting-started/introduction) | `Aktif` | API untuk *software* laporan keuangan. | `Oauth` / `apiKey` |
 | Midtrans - Payment gateway | Midtrans | [Link](https://midtrans.com/payments) | `Aktif` | *Gateway* atau gerbang untuk transaksi pembayaran. | `apiKey` |
 | iPaymu | iPaymu | [Link](https://ipaymu.com/dokumentasi-api/) | `Aktif` | *Gateway* atau gerbang untuk transaksi pembayaran. | `apiKey` |
-| Doku | Doku | [Link](https://www.doku.com/API/index.html) | `Aktif` | DOKU semakin dipercaya dan menjadi layanan pembayaran elektronik pilihan bagi merchant nasional maupun internasional. | `apiKey` |
+| DOKU | DOKU | [Link](https://www.doku.com/API/index.html) | `Aktif` | DOKU semakin dipercaya dan menjadi layanan pembayaran elektronik pilihan bagi merchant nasional maupun internasional. | `apiKey` |
 | OVO Unofficial | lintangtimur | [Link](https://github.com/lintangtimur/ovoid) | `Aktif` | Un-Official ovoid API Wrapper menggunakan PHP | `OTP` |
 | ESPAY | ESPAY | [Link](https://sandbox-kit.espay.id/docs/v2/docespay/en/index.php) | `Aktif` | Payment Gateway Indonesia | `apiKey` |
 | Duitku | Duitku | [Link](https://docs.duitku.com) | `Aktif` | Payment Gateway Indonesia | `apiKey` |
@@ -98,6 +98,7 @@ Berisi API tentang Data Indonesia.
 | OJK Investasi API | Cristopher | [Link](https://ojk-invest-api.vercel.app/) | `Aktif` | Sebuah API yang menampilkan daftar investasi legal dan ilegal di Indonesia. Bersumber dari data Otoritas Jasa Keuangan | Tidak |
 | Xendit API | Xendit Official | [Link](https://developers.xendit.co/) | `Aktif` | API Gateway resmi dari Xendit untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran Xendit | `apiKey`
 | Tripay | TRIDI.NET | [Link](https://tripay.co.id/api-pulsa-h2h-murah) | `Aktif` | Bisnis Pembayaran Dalam Satu Genggaman.| `apiKey / Oauth` |
+| DOKU Jokul | DOKU | [Link](https://jokul.doku.com/docs) | `Aktif` | Sistem Payment Gateway baru dari DOKU yang mengutamakan *developer experience* | `apiKey` |
 
 ### Forum
 
