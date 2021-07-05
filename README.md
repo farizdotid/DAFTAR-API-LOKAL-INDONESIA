@@ -237,6 +237,7 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Screenshot API | statically.io | [Link](https://statically.io/) | `Aktif` | Sebuah API screenshot gratis untuk mengonversi web ke gambar atau PDF. Mendukung tampilan desktop dan seluler. | Tidak |
 | Temp Mail API | Ihsan Devs | [Link](https://api-tempmail.herokuapp.com/docs/) | `Aktif` | Sebuah API untuk membuat email sementara | Tidak |
 | FREE API | Ihsan Devs | [Link](https://backend-ihsandevs.herokuapp.com/api/) | `Aktif` | Kumpulan API gratis. | Tidak |
 | Arbanat | jajanjawa | [Link](https://arbanat.my.id) | `Aktif` | kirim sms melalui rest api | `apiKey` |
