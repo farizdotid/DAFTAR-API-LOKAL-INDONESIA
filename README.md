@@ -35,12 +35,13 @@ Berisi API tentang Data Indonesia.
     - [Sertifikasi](#sertifikasi)
     - [Utilitas](#utilitas)
   - [Kontak](#kontak)
-  - [:fire: TERIMAKASIH :fire:](#fire-terimakasih-fire)
+  - [:fire: TERIMAKASIH :fire](#fire-terimakasih-fire)
 - [Lisensi](#lisensi)
 
 ## Daftar API
 
 ### Informasi Umum
+
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Wikipedia API | Mediawiki | [Link](https://www.mediawiki.org/wiki/API:Tutorial) | `Aktif` | API untuk mendapatkan informasi yang digunakan dari Wikipedia. Untuk medapatkan data menggunakan bahasa Indonesia gunakan domain dengan format 'id' `https://id.wikipedia.org/w/api.php` | `Tidak` |
@@ -98,8 +99,7 @@ Berisi API tentang Data Indonesia.
 | BCA | BCA | [Link](https://developer.bca.co.id/documentation) | `Aktif` | API Bank BCA | `apiKey` |
 | OJK Investasi API | Cristopher | [Link](https://ojk-invest-api.vercel.app/) | `Aktif` | Sebuah API yang menampilkan daftar investasi legal dan ilegal di Indonesia. Bersumber dari data Otoritas Jasa Keuangan | Tidak |
 | Xendit API | Xendit Official | [Link](https://developers.xendit.co/) | `Aktif` | API Gateway resmi dari Xendit untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran Xendit | `apiKey`
-| Tripay | TRIDI.NET | [Link](https://tripay.co.id/api-pulsa-h2h-murah) | `Aktif` | Bisnis Pembayaran Dalam Satu Genggaman.| `apiKey / Oauth` |
-| DOKU Jokul | DOKU | [Link](https://jokul.doku.com/docs) | `Aktif` | Sistem Payment Gateway baru dari DOKU yang mengutamakan *developer experience* | `apiKey` |
+| MobilePulsa API | MobilePulsa Official | [Link](https://developer.mobilepulsa.net/documentation) | `Aktif` | API Gateway resmi dari MobilePulsa untuk pembayaran pulsa, top up, PLN, voucher game, dll | `apiKey`
 
 ### Forum
 
@@ -138,6 +138,7 @@ Berisi API tentang Data Indonesia.
 | Cek Resi | binderbyte | [Link](https://docs.binderbyte.com/api/cek-resi) | `Aktif` | API Cek Resi adalah api yang berguna untuk melacak resi secara otomatis mulai dari jne, pos, jnt, wahana, tiki, sicepat dll. | `apiKey` |
 | J&T | J&T Official | [Link](https://developer.jet.co.id/documentation) | `Aktif` | API Resmi yang diterbitkan oleh J&T untuk layanan AWB, Order Tracking, Cek Tarif, dan Pembatalan Order. | `apiKey` |
 | POST Indonesia | Trackingmore | [Link](https://www.trackingmore.com/indonesia-post-tracking-api.html) | `Aktif` | Jasa pengiriman | `apiKey` |
+
 ### Kegiatan Sehari-hari
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
@@ -260,7 +261,8 @@ Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [Fariz R
 
 Hatur Nuhun. :)
 
-## :fire: TERIMAKASIH :fire:
+## :fire: TERIMAKASIH :fire
+
 Terimakasih untuk kalian yang udah ikut ber-kontribusi! :heart:
 
 # Lisensi
