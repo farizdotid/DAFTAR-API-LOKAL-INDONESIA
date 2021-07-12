@@ -64,7 +64,7 @@ Berisi API tentang Data Indonesia.
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Al Quran With Smart Assistant | [rizki4106](https://github.com/rizki4106) | [Link](https://www.bluenetid.com/documentation/MTE=?code=MTAtQWxRdXJhbldpdGhTbWFydEFzc2lzdGFudA==) | `Aktif` | Menerapkan Algoritma Machine learning untuk memudahkan pencarian ayat didalam alquran | `apikey` |
 | Alquran ID | bachors | [Link](https://github.com/bachors/Al-Quran-ID-API) | `Aktif` | Alquran bahasa indonesia | Tidak |
-| Al-qur'an Indonesia | Alwan | [Link](https://github.com/wanrabbae/al-quran-indonesia-api) | `Aktif` | API gratis untuk Al-Qur'an Bahasa Indonesia | Tidak |
+| Al-qur'an Indonesia | Alwan | [Link](https://github.com/wanrabbae/al-quran-indonesia-api) | `Aktif` | API gratis untuk Al-Qur'an Bahasa Indonesia beserta Audionya | Tidak |
 | Quran JSON | penggguna | [Link](https://github.com/penggguna/QuranJSON) | `Aktif` | Quran JSON (Terjemahan Indonesia, Tafsir, dan Audio) | Tidak |
 | Masak Apa | Reski | [Link](https://github.com/tomorisakura/unofficial-masakapahariini-api) | `Aktif` | Buku resep makanan Indonesia | Tidak |
 | Islamic API V2 | Zhirrr | [Link](https://github.com/Zhirrr/islamic-rest-api-indonesian-v2) | `Aktif` | Menyimpan Data2 Islami | Tidak |
@@ -221,6 +221,7 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Data Sekolah API | Ahmad Ramadhan | [Link](https://github.com/semogaBermanfaat-AhmadRamadhan/dataSekolahNegeriIndonesia) | `Aktif` |  Data Sekolah Negeri di Indonesia | Tidak |
+| API Data Sekolah Indonesia | Alwan | [Link](https://github.com/wanrabbae/api-sekolah-indonesia) | `Aktif` |  Data Data Sekolah di Indonesia Lengkap | Tidak |
 
 ### Ramalan Cuaca
 
