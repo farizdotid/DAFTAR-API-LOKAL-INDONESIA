@@ -190,6 +190,7 @@ Berisi API tentang Data Indonesia.
 | Nama Daerah Seluruh Indonesia | ibnux | [Link](https://ibnux.github.io/data-indonesia/) | `Aktif` | JSON API nama Provinsi, Kabupaten, Kecamatan, dan Desa untuk Mobile Apps | Tidak |
 | Sekolah se Indonesia | Pemerintah Indonesia | [Link](https://data.go.id/dataset/sekolah) | `Aktif` | Daftar jumlah sekolah perwilayah, detail sekolah perwilayah dan data master wilayah | Tidak |
 | Museum di Indonesia | Pemerintah Indonesia | [Link](http://jendela.data.kemdikbud.go.id/api/index.php/CcariMuseum/searchGET?nama=museum) | `Aktif` | Daftar musem Indonesia berdasarkan nama | Tidak |
+| Pesantren se Indonesia | nasrul21 | [Link](https://github.com/nasrul21/data-pesantren-indonesia) | `Aktif` | API Data Pesantren se Indonesia | Tidak |
 
 ### Musik
 
