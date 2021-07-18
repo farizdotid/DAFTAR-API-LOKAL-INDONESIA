@@ -224,7 +224,7 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Data Sekolah API | Ahmad Ramadhan | [Link](https://github.com/semogaBermanfaat-AhmadRamadhan/dataSekolahNegeriIndonesia) | `Aktif` |  Data Sekolah Negeri di Indonesia | Tidak 
+| Data Sekolah API | Ahmad Ramadhan | [Link](https://github.com/semogaBermanfaat-AhmadRamadhan/dataSekolahNegeriIndonesia) | `Aktif` |  Data Sekolah Negeri di Indonesia | Tidak |
 | API Data Sekolah Indonesia | Alwan | [Link](https://github.com/wanrabbae/api-sekolah-indonesia) | `Aktif` |  Data Data Sekolah di Indonesia Lengkap | Tidak |
 
 ### Ramalan Cuaca
