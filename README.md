@@ -70,7 +70,7 @@ Berisi API tentang Data Indonesia.
 | Masak Apa | Reski | [Link](https://github.com/tomorisakura/unofficial-masakapahariini-api) | `Aktif` | Buku resep makanan Indonesia | Tidak |
 | Islamic API V2 | Zhirrr | [Link](https://github.com/Zhirrr/islamic-rest-api-indonesian-v2) | `Aktif` | Menyimpan Data2 Islami | Tidak |
 | Kisah Nabi API | Zhirrr | [Link](https://github.com/Zhirrr/kisahnabi-rest-api-indonesia) | `Aktif` | Menyimpan Semua Kisah 25 Nabi Allah SWT | Tidak |
-|  Unofficial KBBI API | Zhirrr | [Link](https://github.com/Zhirrr/KBBI-api) | `Aktif` | Api Scraper KBBI Beserta Code Sourcenya | Tidak |
+| Unofficial KBBI API | Zhirrr | [Link](https://github.com/Zhirrr/KBBI-api) | `Aktif` | Api Scraper KBBI Beserta Code Sourcenya | Tidak |
 
 ### *E-Commerce*
 
@@ -112,7 +112,7 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Chatbot AI | Abdul Muttaqin | [Link](https://fdciabdul.tech/api/ayla/?pesan=hai) | `Aktif` | Chatbot AI  Seperti Simsimi | Tidak |
+| Chatbot AI | Abdul Muttaqin | [Link](https://fdciabdul.tech/chatbot-ai/) | `Aktif` | Chatbot AI  Seperti Simsimi | Tidak |
 | Tanggal Lahiran Pasaran Zodiak | iBachor | [Link](https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak) | `Aktif` | Mengecek zodiak berdasarkan tanggal lahir serta dapat memberitahukan detail tanggal lahir, detail usia, serta detail rentang ulang tahun terdekat. | Tidak |
 | Film Indonesia | themoviedb | [Link](https://www.themoviedb.org/documentation/api) | `Aktif` | List film-film Indonesia dengan catatan configurasi API di set ke Negara Indonesia | `apiKey` |
 | Manga/Komik Bahasa Indonesia (Un-official) | Febry Ardiansyah | [Link](https://github.com/febryardiansyah/manga-api) | `Aktif` | Menyediakan Manga atau Komik bahasa Indonesia | Tidak |
@@ -143,7 +143,7 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Cerpenmu.com API| Abdul Muttaqin | [Link](https://fdci.se/cerpenmu-com-api-random-cerpen/) | `Aktif` | Mendapatkan cerpen secara random dari situs cerpenmu.com  | Tidak |
+| Cerpenmu.com API| Abdul Muttaqin | [Link](https://fdciabdul.tech/cerpenmu/) | `Aktif` | Mendapatkan cerpen secara random dari situs cerpenmu.com  | Tidak |
 | Jadwal Sholat | lakuapik | [Link](https://github.com/lakuapik/jadwalsholatorg) | `Aktif` | Jadwal sholat berdasarkan kota/kabupaten di Indonesia | Tidak |
 | Ceramah API | Zhirrr | [Link](https://github.com/zhirrr/ceramah-rest-api-indonesia) | `Aktif` | Menyajikan Berbagai Kajian/Ceramah Dari Ustadz/Ulama Di Indonesia | Tidak |
 
@@ -151,11 +151,12 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Pinterest Search Image | Abdul Muttaqin | [Link](http://fdciabdul.tech/api/pinterest?keyword=keyword) | `Aktif` | Mencari gambar berdasarkan keyword di platform Pinterest | Tidak |
-| Unofficial TikTok API | Abdul Muttaqin | [Link](https://api.fdci.se/api/tiktok.php) | `Aktif` | Unofficial API Tiktok Untuk Scraping | Tidak |
+| Pinterest Search Image | Abdul Muttaqin | [Link](https://fdciabdul.tech/pinterest-search-image/) | `Aktif` | Mencari gambar berdasarkan keyword di platform Pinterest | Tidak |
 | Unofficial Instagram API | Abay | [Link](https://documenter.getpostman.com/view/7256976/TVeqbm7z) | `Aktif` | Unofficial API Instagram untuk Scraping Media, Stories, Profile Highlight | Tidak |
 | Twitter Video Downloader | Abay | [Link](https://documenter.getpostman.com/view/7256976/TVeqbm7z) | `Aktif` | Unofficial API Twitter untuk Scraping Video Twitter | Tidak |
 | Facebook Video Downloader | bramaudi | [Link](https://github.com/bramaudi/fbdown) | `Aktif` | Unofficial API Facebook untuk Scraping Video Facebook | Tidak |
+| All In One Video Downloader API | Abdul Muttaqin | [Link](https://fdciabdul.tech/downloader/) | `Aktif` | Unofficial API Untuk mendapatkan data sumber video dari berbagai sosial media  | Tidak |
+
 
 ### Kegiatan Khusus
 
