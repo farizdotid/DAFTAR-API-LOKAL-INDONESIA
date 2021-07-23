@@ -152,6 +152,7 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Pinterest Search Image | Abdul Muttaqin | [Link](https://fdciabdul.tech/pinterest-search-image/) | `Aktif` | Mencari gambar berdasarkan keyword di platform Pinterest | Tidak |
+| Unofficial Youtube API | Abdul Muttaqin | [Link](https://fdciabdul.tech/youtube-api/) | `Aktif` | Mencari video berdasarkan keyword di platform Youtube , mendapatkan detail dari video youtube seperti timestamp , like , thumbnails , stream video , lirik , dansebagainya | Tidak |
 | Unofficial Instagram API | Abay | [Link](https://documenter.getpostman.com/view/7256976/TVeqbm7z) | `Aktif` | Unofficial API Instagram untuk Scraping Media, Stories, Profile Highlight | Tidak |
 | Twitter Video Downloader | Abay | [Link](https://documenter.getpostman.com/view/7256976/TVeqbm7z) | `Aktif` | Unofficial API Twitter untuk Scraping Video Twitter | Tidak |
 | Facebook Video Downloader | bramaudi | [Link](https://github.com/bramaudi/fbdown) | `Aktif` | Unofficial API Facebook untuk Scraping Video Facebook | Tidak |
