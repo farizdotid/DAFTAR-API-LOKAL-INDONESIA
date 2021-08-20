@@ -64,6 +64,7 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Al Quran With Smart Assistant | [rizki4106](https://github.com/rizki4106) | [Link](https://www.bluenetid.com/documentation/MTE=?code=MTAtQWxRdXJhbldpdGhTbWFydEFzc2lzdGFudA==) | `Aktif` | Menerapkan Algoritma Machine learning untuk memudahkan pencarian ayat didalam alquran | `apikey` |
+| Quran API | rzkytmgr | [Link](https://github.com/rzkytmgr/quran-api) | `Aktif` | quran api dengan custom imam recitation/murottal | Tidak |
 | Alquran ID | bachors | [Link](https://github.com/bachors/Al-Quran-ID-API) | `Aktif` | Alquran bahasa indonesia | Tidak |
 | Al-qur'an Indonesia | Alwan | [Link](https://github.com/wanrabbae/al-quran-indonesia-api) | `Aktif` | API gratis untuk Al-Qur'an Bahasa Indonesia beserta Audionya | Tidak |
 | Quran JSON | penggguna | [Link](https://github.com/penggguna/QuranJSON) | `Aktif` | Quran JSON (Terjemahan Indonesia, Tafsir, dan Audio) | Tidak |
