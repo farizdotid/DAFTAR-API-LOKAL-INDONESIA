@@ -195,6 +195,7 @@ Berisi API tentang Data Indonesia.
 | Sekolah se Indonesia | Pemerintah Indonesia | [Link](https://data.go.id/dataset/sekolah) | `Aktif` | Daftar jumlah sekolah perwilayah, detail sekolah perwilayah dan data master wilayah | Tidak |
 | Museum di Indonesia | Pemerintah Indonesia | [Link](http://jendela.data.kemdikbud.go.id/api/index.php/CcariMuseum/searchGET?nama=museum) | `Aktif` | Daftar musem Indonesia berdasarkan nama | Tidak |
 | Pesantren se Indonesia | nasrul21 | [Link](https://github.com/nasrul21/data-pesantren-indonesia) | `Aktif` | API Data Pesantren se Indonesia | Tidak |
+| Gunung Berapi di Indonesia | Yogi Saputro | [Link](https://indonesia-public-static-api.vercel.app/api/volcanoes) | `Aktif` | API daftar gunung berapi di Indonesia. Lihat [dokumentasi](https://github.com/yogski/indonesia-public-static-api#api-gunung-berapi-indonesia-apivolcanoes) untuk detail penggunaan. | Tidak |
 
 ### Musik
 
@@ -218,6 +219,7 @@ Berisi API tentang Data Indonesia.
 | Cagar Budaya Indonesia | Kantor Staf Presiden | [Link](https://data.go.id/dataset/cagar-budaya) | `Aktif` | Warisan cagar budaya Indonesia termasuk bangunan, struktur, situs, dll. | Tidak
 | Gardu PLN | PLN | [Link](http://apps.iconpln.co.id:7181/Panas-1.0/AssetGarduAllRf) | `Aktif` | List Gardu PLN | Tidak
 | Batik Indonesia | BatiKita | [Link](https://batikita.docs.apiary.io/#reference/0/all-batik-collections) | `Aktif` | BatiKita merupakan sebuah aplikasi yang dapat memberikan informasi mengenai motif batik, dengan memberikan kata kunci atau mengunggah citra sehingga user tidak perlu melakukan pencarian informasi secara manual. | Tidak |
+| Pahlawan Nasional Indonesia | Yogi Saputro | [Link](https://indonesia-public-static-api.vercel.app/api/heroes) | `Aktif` | API daftar pahlawan Indonesia. Lihat [dokumentasi](https://github.com/yogski/indonesia-public-static-api#api-pahlawan-nasional-indonesia-apiheroes) untuk detail penggunaan. | Tidak |
 
 ### Prediksi
 

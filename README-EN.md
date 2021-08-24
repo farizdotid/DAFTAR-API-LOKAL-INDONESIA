@@ -120,6 +120,7 @@ This file is translation from Original (Bahasa Indonesia).
 | Data Pajak Motor | dppad.jatengprov | [Link](https://github.com/elybin/parking_ocr) | `Active` | Motor vehicle tax data | `apiKey` |
 | Gardu PLN | PLN | [Link](http://apps.iconpln.co.id:7181/Panas-1.0/AssetGarduAllRf) | `Active` | List Gardu PLN | No
 | Instansi ( Polisi, Pemadam, Rumah Sakit ) | farizdotid | [Link](https://farizdotid.com/dokumentasi-api-instansi-indonesia/) | `Active` | Instance like police, hospital, etc. bring location, name, and another information. | No |
+| Indonesia National Heroes | Yogi Saputro | [Link](https://indonesia-public-static-api.vercel.app/api/heroes) | `Active` | Information about Indonesia national heroes. See [docs](https://github.com/yogski/indonesia-public-static-api#api-pahlawan-nasional-indonesia-apiheroes) for more details. | No |
 
 ### Health
 
@@ -145,6 +146,7 @@ This file is translation from Original (Bahasa Indonesia).
 | Nama Daerah Seluruh Indonesia | farizdotid | [Link](https://farizdotid.com/dokumentasi-api-daerah-indonesia/) | `Active` | Name List of Province, City, etc. in Indonesia | No |
 | Nama Daerah Seluruh Indonesia | ibnux | [Link](https://ibnux.github.io/data-indonesia/) | `Aktif` | JSON API List of Province, City, etc. in Indonesia for Mobile Apps | No |
 | Sekolah se Indonesia | Pemerintah Indonesia | [Link](https://data.go.id/dataset/sekolah) | `Active` | API for school data in Indonesia | No |
+| Indonesia Volcanoes | Yogi Saputro | [Link](https://indonesia-public-static-api.vercel.app/api/volcanoes) | `Active` | List of volcanoes in Indonesia. See [docs](https://github.com/yogski/indonesia-public-static-api#api-gunung-berapi-indonesia-apivolcanoes) for more details. | No |
 
 ### Music
 
