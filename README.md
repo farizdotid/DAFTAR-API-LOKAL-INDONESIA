@@ -220,6 +220,7 @@ Berisi API tentang Data Indonesia.
 | Gardu PLN | PLN | [Link](http://apps.iconpln.co.id:7181/Panas-1.0/AssetGarduAllRf) | `Aktif` | List Gardu PLN | Tidak
 | Batik Indonesia | BatiKita | [Link](https://batikita.docs.apiary.io/#reference/0/all-batik-collections) | `Aktif` | BatiKita merupakan sebuah aplikasi yang dapat memberikan informasi mengenai motif batik, dengan memberikan kata kunci atau mengunggah citra sehingga user tidak perlu melakukan pencarian informasi secara manual. | Tidak |
 | Pahlawan Nasional Indonesia | Yogi Saputro | [Link](https://indonesia-public-static-api.vercel.app/api/heroes) | `Aktif` | API daftar pahlawan Indonesia. Lihat [dokumentasi](https://github.com/yogski/indonesia-public-static-api#api-pahlawan-nasional-indonesia-apiheroes) untuk detail penggunaan. | Tidak |
+|Harga Komoditas Pangan | jibrilhp | [Link](https://jibs.my.id/api/harga_komoditas) | `Aktif` | Data mengenai hargapangan di Indonesia | Tidak |
 
 ### Prediksi
 
