@@ -262,6 +262,7 @@ Berisi API tentang Data Indonesia.
 | Nurutomo | Nurutomo | [Link](https://nurutomo.herokuapp.com) | `Aktif` | Screenshot website | Tidak |
 | SMSNotif | PT Solusi Inovasi Bisnis | [Link](https://www.smsnotif.id) | `Aktif` | Kirim sms melalui REST API atau Laravel Notification | `apiKey` |
 | Zhirrr API | Zhirrr | [Link](https://github.com/Zhirrr/Zhirrr-Api) | `Aktif` | Menyajikan 30+ API Beserta Source Nya Gratis | apikey |
+| Viko API | VikoDK | [Link](https://viko-api.herokuapp.com/) | `Aktif` | Rest API gratis hasil scrape & tembak | apikey |
 | Hadi API | m hadi firmansya | [Link](https://hadi-api.herokuapp.com/api) | `Aktif` | Hasil Scrape Website | Tidak |
 | Sentiment Classification API | ramnaufal | [Link](https://ramnaufal.herokuapp.com/#/Sentiment/post_sentiment_single) | `Aktif` | Mengklasifikasikan sentiment sebuah kalimat | Tidak |
 | Free API | Helix x 4DSec | [Link](https://tools.helixs.tech/home/?API) | `Aktif` | Kumpulan Free API tanpa Limit | Tidak |
