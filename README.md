@@ -274,7 +274,7 @@ Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [Fariz R
 
 Hatur Nuhun. :)
 
-## :fire: TERIMAKASIH :fire
+## :fire: TERIMAKASIH :fire:
 
 Terimakasih untuk kalian yang udah ikut ber-kontribusi! :heart:
 
