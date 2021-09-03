@@ -35,7 +35,7 @@ Berisi API tentang Data Indonesia.
     - [Sertifikasi](#sertifikasi)
     - [Utilitas](#utilitas)
   - [Kontak](#kontak)
-  - [:fire: TERIMAKASIH :fire](#fire-terimakasih-fire)
+  - [:fire: TERIMAKASIH :fire:](#fire-terimakasih-fire)
 - [Lisensi](#lisensi)
 
 ## Daftar API
@@ -273,7 +273,7 @@ Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [Fariz R
 
 Hatur Nuhun. :)
 
-## :fire: TERIMAKASIH :fire
+## :fire: TERIMAKASIH :fire:
 
 Terimakasih untuk kalian yang udah ikut ber-kontribusi! :heart:
 
