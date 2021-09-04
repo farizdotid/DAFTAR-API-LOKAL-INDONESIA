@@ -129,6 +129,7 @@ Berisi API tentang Data Indonesia.
 | Bioskop API | Zhirrr | [Link](https://github.com/Zhirrr/Bioskop-Api) | `Aktif` | Menampilkan data movie Bioskop, serta daftar bioskop di Indonesia | Tidak |
 | Cabul API | sinkaroid | [Link](https://github.com/sinkaroid/cabul) | `Aktif` | Sebuah API yang menampilkan banyak data Hentai(NSFW) dari hentai_subreddits | Tidak |
 | 1Cak API | dickymuliafiqri | [Link](https://github.com/dickymuliafiqri/onecak) | `Aktif` | API unofficial dari situs meme kesayangan kita | Tidak |
+| Manhwaindo API (Unofficial) | Aerysh | [Link](https://github.com/Aerysh/manhwaindo-api) | `Aktif` | Menyediakan manhwa bahasa indonesia | Tidak |
 
 ### Jasa Pengiriman
 
