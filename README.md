@@ -72,6 +72,7 @@ Berisi API tentang Data Indonesia.
 | Islamic API V2 | Zhirrr | [Link](https://github.com/Zhirrr/islamic-rest-api-indonesian-v2) | `Aktif` | Menyimpan Data2 Islami | Tidak |
 | Kisah Nabi API | Zhirrr | [Link](https://github.com/Zhirrr/kisahnabi-rest-api-indonesia) | `Aktif` | Menyimpan Semua Kisah 25 Nabi Allah SWT | Tidak |
 | Unofficial KBBI API | Zhirrr | [Link](https://github.com/Zhirrr/KBBI-api) | `Aktif` | Api Scraper KBBI Beserta Code Sourcenya | Tidak |
+| KBBI API | azharimm | [Link](https://github.com/azharimm/kbbi-api) | `Aktif` | Rest Api KBBI | Tidak |
 
 ### *E-Commerce*
 
@@ -101,6 +102,7 @@ Berisi API tentang Data Indonesia.
 | OJK Investasi API | Cristopher | [Link](https://ojk-invest-api.vercel.app/) | `Aktif` | Sebuah API yang menampilkan daftar investasi legal dan ilegal di Indonesia. Bersumber dari data Otoritas Jasa Keuangan | Tidak |
 | Xendit API | Xendit Official | [Link](https://developers.xendit.co/) | `Aktif` | API Gateway resmi dari Xendit untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran Xendit | `apiKey`
 | MobilePulsa API | MobilePulsa Official | [Link](https://developer.mobilepulsa.net/documentation) | `Aktif` | API Gateway resmi dari MobilePulsa untuk pembayaran pulsa, top up, PLN, voucher game, dll | `apiKey`
+| Currency Exchange | azharimm | [Link](https://github.com/azharimm/currency-exchange-api) | `Aktif` | Currency Exchange | Tidak |
 
 ### Forum
 
@@ -148,6 +150,7 @@ Berisi API tentang Data Indonesia.
 | Jadwal Sholat | lakuapik | [Link](https://github.com/lakuapik/jadwalsholatorg) | `Aktif` | Jadwal sholat berdasarkan kota/kabupaten di Indonesia | Tidak |
 | Ceramah API | Zhirrr | [Link](https://github.com/zhirrr/ceramah-rest-api-indonesia) | `Aktif` | Menyajikan Berbagai Kajian/Ceramah Dari Ustadz/Ulama Di Indonesia | Tidak |
 | Kunci Jawaban TTS API | nasrul21 | [Link](https://github.com/nasrul21/kunci-tts-api) | `Aktif` | API untuk mendapatkan kunci jawaban TTS (Teka Teki Silang) Indonesia | Tidak |
+| Jadwal Shalat | azharimm | [Link](https://github.com/azharimm/jadwal-shalat-api) | `Aktif` | Rest API jadwal shalat kota/kabupaten di Indonesia | Tidak |
 
 ### Sosial Media
 
@@ -159,6 +162,7 @@ Berisi API tentang Data Indonesia.
 | Twitter Video Downloader | Abay | [Link](https://documenter.getpostman.com/view/7256976/TVeqbm7z) | `Aktif` | Unofficial API Twitter untuk Scraping Video Twitter | Tidak |
 | Facebook Video Downloader | bramaudi | [Link](https://github.com/bramaudi/fbdown) | `Aktif` | Unofficial API Facebook untuk Scraping Video Facebook | Tidak |
 | All In One Video Downloader API | Abdul Muttaqin | [Link](https://fdciabdul.tech/downloader/) | `Aktif` | Unofficial API Untuk mendapatkan data sumber video dari berbagai sosial media  | Tidak |
+| Twitter Trends | azharimm | [Link](https://github.com/azharimm/twitter-trends-api) | `Aktif` | Unofficial API Twitter trends data | Tidak |
 
 
 ### Kegiatan Khusus
@@ -205,6 +209,7 @@ Berisi API tentang Data Indonesia.
 | SoundCloud | SoundCloud Dev | [Link](https://developers.soundcloud.com/) | `Aktif` | upload dan share music | `apiKey` |
 | MusixMatch | MusixMatch Dev | [Link](https://developer.musixmatch.com/) | `Aktif` | Mencari Informasi dan Lirik lagu | `apiKey` |
 | Deezer | Deezer Dev | [Link](https://developers.deezer.com/api) | `Aktif` | Katalog Deezer | `OAuth` |
+| Lirik lagu | azharimm | [Link](https://github.com/azharimm/song-lyrics-api) | `Aktif` | Rest Api lirik lagu | Tidak |
 
 ### Pemerintahan
 
