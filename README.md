@@ -115,7 +115,7 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Chatbot AI | Abdul Muttaqin | [Link](https://fdciabdul.tech/chatbot-ai/) | `Aktif` | Chatbot AI  Seperti Simsimi | Tidak |
+| Chatbot AI | Abdul Muttaqin | [Link](https://kitadev.id/chatbot-ai/) | `Aktif` | Chatbot AI  Seperti Simsimi | Tidak |
 | Tanggal Lahiran Pasaran Zodiak | iBachor | [Link](https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak) | `Aktif` | Mengecek zodiak berdasarkan tanggal lahir serta dapat memberitahukan detail tanggal lahir, detail usia, serta detail rentang ulang tahun terdekat. | Tidak |
 | Film Indonesia | themoviedb | [Link](https://www.themoviedb.org/documentation/api) | `Aktif` | List film-film Indonesia dengan catatan configurasi API di set ke Negara Indonesia | `apiKey` |
 | Manga/Komik Bahasa Indonesia (Un-official) | Febry Ardiansyah | [Link](https://github.com/febryardiansyah/manga-api) | `Aktif` | Menyediakan Manga atau Komik bahasa Indonesia | Tidak |
@@ -147,7 +147,7 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Cerpenmu.com API| Abdul Muttaqin | [Link](https://fdciabdul.tech/cerpenmu/) | `Aktif` | Mendapatkan cerpen secara random dari situs cerpenmu.com  | Tidak |
+| Cerpenmu.com API| Abdul Muttaqin | [Link](https://kitadev.id/cerpenmu/) | `Aktif` | Mendapatkan cerpen secara random dari situs cerpenmu.com  | Tidak |
 | Jadwal Sholat | lakuapik | [Link](https://github.com/lakuapik/jadwalsholatorg) | `Aktif` | Jadwal sholat berdasarkan kota/kabupaten di Indonesia | Tidak |
 | Ceramah API | Zhirrr | [Link](https://github.com/zhirrr/ceramah-rest-api-indonesia) | `Aktif` | Menyajikan Berbagai Kajian/Ceramah Dari Ustadz/Ulama Di Indonesia | Tidak |
 | Kunci Jawaban TTS API | nasrul21 | [Link](https://github.com/nasrul21/kunci-tts-api) | `Aktif` | API untuk mendapatkan kunci jawaban TTS (Teka Teki Silang) Indonesia | Tidak |
@@ -157,12 +157,12 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Pinterest Search Image | Abdul Muttaqin | [Link](https://fdciabdul.tech/pinterest-search-image/) | `Aktif` | Mencari gambar berdasarkan keyword di platform Pinterest | Tidak |
-| Unofficial Youtube API | Abdul Muttaqin | [Link](https://fdciabdul.tech/youtube-api/) | `Aktif` | Mencari video berdasarkan keyword di platform Youtube , mendapatkan detail dari video youtube seperti timestamp , like , thumbnails , stream video , lirik , dansebagainya | Tidak |
+| Pinterest Search Image | Abdul Muttaqin | [Link](https://kitadev.id/pinterest-search-image/) | `Aktif` | Mencari gambar berdasarkan keyword di platform Pinterest | Tidak |
+| Unofficial Youtube API | Abdul Muttaqin | [Link](https://kitadev.id/youtube-api/) | `Aktif` | Mencari video berdasarkan keyword di platform Youtube , mendapatkan detail dari video youtube seperti timestamp , like , thumbnails , stream video , lirik , dansebagainya | Tidak |
 | Unofficial Instagram API | Abay | [Link](https://documenter.getpostman.com/view/7256976/TVeqbm7z) | `Aktif` | Unofficial API Instagram untuk Scraping Media, Stories, Profile Highlight | Tidak |
 | Twitter Video Downloader | Abay | [Link](https://documenter.getpostman.com/view/7256976/TVeqbm7z) | `Aktif` | Unofficial API Twitter untuk Scraping Video Twitter | Tidak |
 | Facebook Video Downloader | bramaudi | [Link](https://github.com/bramaudi/fbdown) | `Aktif` | Unofficial API Facebook untuk Scraping Video Facebook | Tidak |
-| All In One Video Downloader API | Abdul Muttaqin | [Link](https://fdciabdul.tech/downloader/) | `Aktif` | Unofficial API Untuk mendapatkan data sumber video dari berbagai sosial media  | Tidak |
+| All In One Video Downloader API | Abdul Muttaqin | [Link](https://kitadev.id/downloader/) | `Aktif` | Unofficial API Untuk mendapatkan data sumber video dari berbagai sosial media  | Tidak |
 | Twitter Trends | azharimm | [Link](https://github.com/azharimm/twitter-trends-api) | `Aktif` | Unofficial API Twitter trends data | Tidak |
 
 
