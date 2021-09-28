@@ -103,6 +103,7 @@ Berisi API tentang Data Indonesia.
 | Xendit API | Xendit Official | [Link](https://developers.xendit.co/) | `Aktif` | API Gateway resmi dari Xendit untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran Xendit | `apiKey`
 | MobilePulsa API | MobilePulsa Official | [Link](https://developer.mobilepulsa.net/documentation) | `Aktif` | API Gateway resmi dari MobilePulsa untuk pembayaran pulsa, top up, PLN, voucher game, dll | `apiKey`
 | Currency Exchange | azharimm | [Link](https://github.com/azharimm/currency-exchange-api) | `Aktif` | Currency Exchange | Tidak |
+| Cek Harga Emas | Cek Harga Emas (CHE) | [Link](https://api.cekhargaemas.com/docs/) | `Aktif` | API untuk mengakses informasi data harga emas saat ini | `apiKey` |
 
 ### Forum
 
