@@ -45,6 +45,7 @@ This file is translation from Original (Bahasa Indonesia).
 | API Name        | Developer | URL | Status  | Description | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Alquran ID | bachors | [Link](https://github.com/bachors/Al-Quran-ID-API) | `Active` | Indonesian translation of Al-Quran | No |
+| New KBBI API | btrianurdin | [Link](https://github.com/btrianurdin/new-kbbi-api) | `Aktif` | KBBI API included word, class of word and meaning of the word | No |
 
 ### Courier
 
