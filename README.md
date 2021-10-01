@@ -105,6 +105,7 @@ Berisi API tentang Data Indonesia.
 | MobilePulsa API | MobilePulsa Official | [Link](https://developer.mobilepulsa.net/documentation) | `Aktif` | API Gateway resmi dari MobilePulsa untuk pembayaran pulsa, top up, PLN, voucher game, dll | `apiKey`
 | Currency Exchange | azharimm | [Link](https://github.com/azharimm/currency-exchange-api) | `Aktif` | Currency Exchange | Tidak |
 | Cek Harga Emas | Cek Harga Emas (CHE) | [Link](https://api.cekhargaemas.com/docs/) | `Aktif` | API untuk mengakses informasi data harga emas saat ini | `apiKey` |
+| Tripay | Payment Gateway | [Link](https://tripay.co.id/developer?tab=prolog) | `Aktif` | API payment Gateway yang terbagi menjadi 2 jenis yaitu Open Payment & Closed Payment. sehingga dapat dintegrasikan dengan aplikasi Anda dengan Gateway pembayaran Tripay | `apiKey` |
 
 ### Forum
 
