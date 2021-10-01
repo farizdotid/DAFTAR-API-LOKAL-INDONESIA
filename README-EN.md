@@ -100,7 +100,7 @@ This file is translation from Original (Bahasa Indonesia).
 | OVO Unofficial | lintangtimur | [Link](https://github.com/lintangtimur/ovoid) | `Active` | Un-Official ovo.id API Wrapper built with PHP | `OTP` |
 | OJK Investasi API | Cristopher | [Link](https://ojk-invest-api.vercel.app/) | `Active` | An API that provides list of legal and ilegal investment products in Indonesia. Taken directly from OJK | No |
 | Xendit API | Xendit Official | [Link](https://developers.xendit.co/) | `Active` | Xendit official API to integrate your own application with Xendit Payment Gateway | `apiKey`
-| Tripay API | Payment Gateway | [Link](https://tripay.co.id/developer?tab=prolog) | `Active` | API payment Gateway which is divided into 2 types, namely Open Payment & Closed Payment. so it can be integrated with your application with Tripay payment Gateway | `apiKey` |
+| Tripay API | Tripay | [Link](https://tripay.co.id/developer?tab=prolog) | `Active` | API payment Gateway which is divided into 2 types, namely Open Payment & Closed Payment. so it can be integrated with your application with Tripay payment Gateway | `apiKey` |
 
 ### Forum
 
