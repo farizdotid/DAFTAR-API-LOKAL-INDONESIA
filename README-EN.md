@@ -70,6 +70,7 @@ This file is translation from Original (Bahasa Indonesia).
 | JD.id API | JD.id Dev | [Link](https://api.jd.id/home) | `Active` | API for integrate your system into JD.id| `apiKey` |
 | Matahari Mall API for Seller | Matahari Mall Dev | [Link](http://docs.apiforseller.apiary.io) | `Active` | Matahari Mall API for Seller | `apiKey` |
 | Tiket.com API | Tiket.com Dev | [Link](http://docs.tiket.com/) | `Active` | Selling train ticket, etc. | `apiKey` |
+| Tiketux.com API | Tiketux.com Dev | [Link] (https://developer.tiketux.com/) | 'Active' | API for transactions on tiketux.com which is a travel ticket sales site. | `apiKey` |
 | Tokopedia.com API | Tokopedia.com Dev | [Link](https://developer.tokopedia.com/openapi/guide/) | `Active` | API for integrate your system into Tokopedia | `apiKey` |
 | Lazada | Lazada Dev | [Link](https://open.lazada.com/doc/doc.htm) | `Aktif` | Lazada official API to integrate Product, Order, Finance, Logistic, Seller, and System from Lazada on your app. | `apiKey` |
 | Shopee | Shopee Dev | [Link](https://open.shopee.com/documents) | `Aktif` | Shopee official API to integrate many services from Shopee. | `apiKey` |
