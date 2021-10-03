@@ -103,6 +103,7 @@ Berisi API tentang Data Indonesia.
 | Xendit API | Xendit Official | [Link](https://developers.xendit.co/) | `Aktif` | API Gateway resmi dari Xendit untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran Xendit | `apiKey`
 | MobilePulsa API | MobilePulsa Official | [Link](https://developer.mobilepulsa.net/documentation) | `Aktif` | API Gateway resmi dari MobilePulsa untuk pembayaran pulsa, top up, PLN, voucher game, dll | `apiKey`
 | Currency Exchange | azharimm | [Link](https://github.com/azharimm/currency-exchange-api) | `Aktif` | Currency Exchange | Tidak |
+| Paypal | Paypal | [Link](https://developer.paypal.com/docs/api/overview/) | `Aktif` | API Gateway resmi dari Paypal untuk transaksi internasional atau domestik dari dompet paypal | `apiKey` |
 
 ### Forum
 
