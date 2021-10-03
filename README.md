@@ -86,6 +86,7 @@ Berisi API tentang Data Indonesia.
 | Elevenia.co.id API | Elevenia.co.id Dev | [Link](http://soffice.elevenia.co.id/jsp/openapi/in/docs/ProductAPI_latest.pdf) | `Aktif` | API ini memungkinkan Anda untuk mengintegrasikan sistem Anda ke dalam Elevenia | `apiKey` |
 | Lazada | Lazada Dev | [Link](https://open.lazada.com/doc/doc.htm) | `Aktif` | API resmi Lazada untuk layanan Product, Order, Finance, Logistic, Seller, dan System dari Lazada. | `apiKey` |
 | Shopee | Shopee Dev | [Link](https://open.shopee.com/documents) | `Aktif` | API resmi Shopee untuk integrasi berbagai layanan dari Shopee. | `apiKey` |
+| Blibli | Blibli.com Dev | [Link](https://seller-api.blibli.com/home) | `Aktif` | API untuk penjual di Blibli. | `apiKey` |
 
 ### Finansial
 
