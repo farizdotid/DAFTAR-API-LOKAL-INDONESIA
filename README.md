@@ -274,6 +274,7 @@ Berisi API tentang Data Indonesia.
 | Hadi API | m hadi firmansya | [Link](https://hadi-api.herokuapp.com/api) | `Aktif` | Hasil Scrape Website | Tidak |
 | Sentiment Classification API | ramnaufal | [Link](https://ramnaufal.herokuapp.com/#/Sentiment/post_sentiment_single) | `Aktif` | Mengklasifikasikan sentiment sebuah kalimat | Tidak |
 | Free API | Helix x 4DSec | [Link](https://tools.helixs.id/home/?API) | `Aktif` | Kumpulan Free API tanpa Limit | Tidak |
+| Fxc7 API | Fxc7 | [Link](https://fxc7-api.herokuapp.com) | `Aktif` | Kumpulan API Menarik | `Apikey` |
 
 ## Kontak
 
