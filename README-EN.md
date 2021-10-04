@@ -45,6 +45,7 @@ This file is translation from Original (Bahasa Indonesia).
 | API Name        | Developer | URL | Status  | Description | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Alquran ID | bachors | [Link](https://github.com/bachors/Al-Quran-ID-API) | `Active` | Indonesian translation of Al-Quran | No |
+| New KBBI API | btrianurdin | [Link](https://github.com/btrianurdin/new-kbbi-api) | `Aktif` | KBBI API included word, class of word and meaning of the word | No |
 
 ### Courier
 
@@ -69,6 +70,7 @@ This file is translation from Original (Bahasa Indonesia).
 | JD.id API | JD.id Dev | [Link](https://api.jd.id/home) | `Active` | API for integrate your system into JD.id| `apiKey` |
 | Matahari Mall API for Seller | Matahari Mall Dev | [Link](http://docs.apiforseller.apiary.io) | `Active` | Matahari Mall API for Seller | `apiKey` |
 | Tiket.com API | Tiket.com Dev | [Link](http://docs.tiket.com/) | `Active` | Selling train ticket, etc. | `apiKey` |
+| Tiketux.com API | Tiketux.com Dev | [Link] (https://developer.tiketux.com/) | 'Active' | API for transactions on tiketux.com which is a travel ticket sales site. | `apiKey` |
 | Tokopedia.com API | Tokopedia.com Dev | [Link](https://developer.tokopedia.com/openapi/guide/) | `Active` | API for integrate your system into Tokopedia | `apiKey` |
 | Lazada | Lazada Dev | [Link](https://open.lazada.com/doc/doc.htm) | `Aktif` | Lazada official API to integrate Product, Order, Finance, Logistic, Seller, and System from Lazada on your app. | `apiKey` |
 | Shopee | Shopee Dev | [Link](https://open.shopee.com/documents) | `Aktif` | Shopee official API to integrate many services from Shopee. | `apiKey` |
@@ -99,6 +101,7 @@ This file is translation from Original (Bahasa Indonesia).
 | OVO Unofficial | lintangtimur | [Link](https://github.com/lintangtimur/ovoid) | `Active` | Un-Official ovo.id API Wrapper built with PHP | `OTP` |
 | OJK Investasi API | Cristopher | [Link](https://ojk-invest-api.vercel.app/) | `Active` | An API that provides list of legal and ilegal investment products in Indonesia. Taken directly from OJK | No |
 | Xendit API | Xendit Official | [Link](https://developers.xendit.co/) | `Active` | Xendit official API to integrate your own application with Xendit Payment Gateway | `apiKey`
+| Tripay API | Tripay | [Link](https://tripay.co.id/developer?tab=prolog) | `Active` | API payment Gateway which is divided into 2 types, namely Open Payment & Closed Payment. so it can be integrated with your application with Tripay payment Gateway | `apiKey` |
 
 ### Forum
 

@@ -73,6 +73,7 @@ Berisi API tentang Data Indonesia.
 | Kisah Nabi API | Zhirrr | [Link](https://github.com/Zhirrr/kisahnabi-rest-api-indonesia) | `Aktif` | Menyimpan Semua Kisah 25 Nabi Allah SWT | Tidak |
 | Unofficial KBBI API | Zhirrr | [Link](https://github.com/Zhirrr/KBBI-api) | `Aktif` | Api Scraper KBBI Beserta Code Sourcenya | Tidak |
 | KBBI API | azharimm | [Link](https://github.com/azharimm/kbbi-api) | `Aktif` | Rest Api KBBI | Tidak |
+| New KBBI API | btrianurdin | [Link](https://github.com/btrianurdin/new-kbbi-api) | `Aktif` | KBBI API yang dilengkapi dengan lema, kelas kata dan arti secara lengkap | Tidak |
 
 ### *E-Commerce*
 
@@ -80,6 +81,7 @@ Berisi API tentang Data Indonesia.
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Matahari Mall API for Seller | Matahari Mall Dev | [Link](http://docs.apiforseller.apiary.io) | `Aktif` | API untuk penjual di Matahari Mall | `apiKey` |
 | Tiket.com API | Tiket.com Dev | [Link](https://www.tiket.com/affiliate/) | `Aktif` | API untuk transaksi pada tiket.com yang merupakan situs penjualan tiket kereta api, tiket pesawat, dan lain-lain. | `apiKey` |
+| Tiketux.com API | Tiketux.com Dev | [Link](https://developer.tiketux.com/) | `Aktif` | API untuk transaksi pada tiketux.com yang merupakan situs penjualan tiket travel. | `apiKey` |
 | Tokopedia.com API | Tokopedia.com Dev | [Link](https://developer.tokopedia.com/openapi/guide/) | `Aktif` | API ini memungkinkan Anda untuk mengintegrasikan sistem Anda ke dalam Tokopedia | `apiKey` |
 | JD.id API | JD.id Dev | [Link](https://api.jd.id/home) | `Aktif` | API ini memungkinkan Anda untuk mengintegrasikan sistem Anda ke dalam JD.id | `apiKey` |
 | Elevenia.co.id API | Elevenia.co.id Dev | [Link](http://soffice.elevenia.co.id/jsp/openapi/in/docs/ProductAPI_latest.pdf) | `Aktif` | API ini memungkinkan Anda untuk mengintegrasikan sistem Anda ke dalam Elevenia | `apiKey` |
@@ -104,6 +106,9 @@ Berisi API tentang Data Indonesia.
 | MobilePulsa API | MobilePulsa Official | [Link](https://developer.mobilepulsa.net/documentation) | `Aktif` | API Gateway resmi dari MobilePulsa untuk pembayaran pulsa, top up, PLN, voucher game, dll | `apiKey`
 | Currency Exchange | azharimm | [Link](https://github.com/azharimm/currency-exchange-api) | `Aktif` | Currency Exchange | Tidak |
 | Paypal | Paypal | [Link](https://developer.paypal.com/docs/api/overview/) | `Aktif` | API Gateway resmi dari Paypal untuk transaksi internasional atau domestik dari dompet paypal | `apiKey` |
+| Cek Harga Emas | Cek Harga Emas (CHE) | [Link](https://api.cekhargaemas.com/docs/) | `Aktif` | API untuk mengakses informasi data harga emas saat ini | `apiKey` |
+| Tripay | Tripay | [Link](https://tripay.co.id/developer?tab=prolog) | `Aktif` | API payment Gateway yang terbagi menjadi 2 jenis yaitu Open Payment & Closed Payment. sehingga dapat dintegrasikan dengan aplikasi Anda dengan Gateway pembayaran Tripay | `apiKey` |
+
 
 ### Forum
 
@@ -116,7 +121,7 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Chatbot AI | Abdul Muttaqin | [Link](https://fdciabdul.tech/chatbot-ai/) | `Aktif` | Chatbot AI  Seperti Simsimi | Tidak |
+| Chatbot AI | Abdul Muttaqin | [Link](https://kitadev.id/chatbot-ai/) | `Aktif` | Chatbot AI  Seperti Simsimi | Tidak |
 | Tanggal Lahiran Pasaran Zodiak | iBachor | [Link](https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak) | `Aktif` | Mengecek zodiak berdasarkan tanggal lahir serta dapat memberitahukan detail tanggal lahir, detail usia, serta detail rentang ulang tahun terdekat. | Tidak |
 | Film Indonesia | themoviedb | [Link](https://www.themoviedb.org/documentation/api) | `Aktif` | List film-film Indonesia dengan catatan configurasi API di set ke Negara Indonesia | `apiKey` |
 | Manga/Komik Bahasa Indonesia (Un-official) | Febry Ardiansyah | [Link](https://github.com/febryardiansyah/manga-api) | `Aktif` | Menyediakan Manga atau Komik bahasa Indonesia | Tidak |
@@ -148,7 +153,7 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Cerpenmu.com API| Abdul Muttaqin | [Link](https://fdciabdul.tech/cerpenmu/) | `Aktif` | Mendapatkan cerpen secara random dari situs cerpenmu.com  | Tidak |
+| Cerpenmu.com API| Abdul Muttaqin | [Link](https://kitadev.id/cerpenmu/) | `Aktif` | Mendapatkan cerpen secara random dari situs cerpenmu.com  | Tidak |
 | Jadwal Sholat | lakuapik | [Link](https://github.com/lakuapik/jadwalsholatorg) | `Aktif` | Jadwal sholat berdasarkan kota/kabupaten di Indonesia | Tidak |
 | Ceramah API | Zhirrr | [Link](https://github.com/zhirrr/ceramah-rest-api-indonesia) | `Aktif` | Menyajikan Berbagai Kajian/Ceramah Dari Ustadz/Ulama Di Indonesia | Tidak |
 | Kunci Jawaban TTS API | nasrul21 | [Link](https://github.com/nasrul21/kunci-tts-api) | `Aktif` | API untuk mendapatkan kunci jawaban TTS (Teka Teki Silang) Indonesia | Tidak |
@@ -158,12 +163,12 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Pinterest Search Image | Abdul Muttaqin | [Link](https://fdciabdul.tech/pinterest-search-image/) | `Aktif` | Mencari gambar berdasarkan keyword di platform Pinterest | Tidak |
-| Unofficial Youtube API | Abdul Muttaqin | [Link](https://fdciabdul.tech/youtube-api/) | `Aktif` | Mencari video berdasarkan keyword di platform Youtube , mendapatkan detail dari video youtube seperti timestamp , like , thumbnails , stream video , lirik , dansebagainya | Tidak |
+| Pinterest Search Image | Abdul Muttaqin | [Link](https://kitadev.id/pinterest-search-image/) | `Aktif` | Mencari gambar berdasarkan keyword di platform Pinterest | Tidak |
+| Unofficial Youtube API | Abdul Muttaqin | [Link](https://kitadev.id/youtube-api/) | `Aktif` | Mencari video berdasarkan keyword di platform Youtube , mendapatkan detail dari video youtube seperti timestamp , like , thumbnails , stream video , lirik , dansebagainya | Tidak |
 | Unofficial Instagram API | Abay | [Link](https://documenter.getpostman.com/view/7256976/TVeqbm7z) | `Aktif` | Unofficial API Instagram untuk Scraping Media, Stories, Profile Highlight | Tidak |
 | Twitter Video Downloader | Abay | [Link](https://documenter.getpostman.com/view/7256976/TVeqbm7z) | `Aktif` | Unofficial API Twitter untuk Scraping Video Twitter | Tidak |
 | Facebook Video Downloader | bramaudi | [Link](https://github.com/bramaudi/fbdown) | `Aktif` | Unofficial API Facebook untuk Scraping Video Facebook | Tidak |
-| All In One Video Downloader API | Abdul Muttaqin | [Link](https://fdciabdul.tech/downloader/) | `Aktif` | Unofficial API Untuk mendapatkan data sumber video dari berbagai sosial media  | Tidak |
+| All In One Video Downloader API | Abdul Muttaqin | [Link](https://kitadev.id/downloader/) | `Aktif` | Unofficial API Untuk mendapatkan data sumber video dari berbagai sosial media  | Tidak |
 | Twitter Trends | azharimm | [Link](https://github.com/azharimm/twitter-trends-api) | `Aktif` | Unofficial API Twitter trends data | Tidak |
 
 
@@ -273,6 +278,7 @@ Berisi API tentang Data Indonesia.
 | Hadi API | m hadi firmansya | [Link](https://hadi-api.herokuapp.com/api) | `Aktif` | Hasil Scrape Website | Tidak |
 | Sentiment Classification API | ramnaufal | [Link](https://ramnaufal.herokuapp.com/#/Sentiment/post_sentiment_single) | `Aktif` | Mengklasifikasikan sentiment sebuah kalimat | Tidak |
 | Free API | Helix x 4DSec | [Link](https://tools.helixs.id/home/?API) | `Aktif` | Kumpulan Free API tanpa Limit | Tidak |
+| Fxc7 API | Fxc7 | [Link](https://fxc7-api.herokuapp.com) | `Aktif` | Kumpulan API Menarik | `Apikey` |
 
 ## Kontak
 
