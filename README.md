@@ -45,7 +45,6 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Wikipedia API | Mediawiki | [Link](https://www.mediawiki.org/wiki/API:Tutorial) | `Aktif` | API untuk mendapatkan informasi yang digunakan dari Wikipedia. Untuk medapatkan data menggunakan bahasa Indonesia gunakan domain dengan format 'id' `https://id.wikipedia.org/w/api.php` | `Tidak` |
-| Info Gempa API | Zhirrr | [Link](https://github.com/Zhirrr/gempa-rest-api) | `Aktif` | API untuk mendapatkan informasi gempa terkini dari website bmkg | `Tidak` |
 | Info Gempa & Cuaca API | Renova Muhamad Reza | [Link](https://github.com/renomureza/cuaca-gempa-rest-api) | `Aktif` | REST API informasi gempa terkini dan cuaca kota besar di 35 provinsi dalam 3 harian, sumber data BMKG.  | `Tidak` |
 
 
@@ -69,9 +68,6 @@ Berisi API tentang Data Indonesia.
 | Al-qur'an Indonesia | Alwan | [Link](https://github.com/wanrabbae/al-quran-indonesia-api) | `Aktif` | API gratis untuk Al-Qur'an Bahasa Indonesia beserta Audionya | Tidak |
 | Quran JSON | penggguna | [Link](https://github.com/penggguna/QuranJSON) | `Aktif` | Quran JSON (Terjemahan Indonesia, Tafsir, dan Audio) | Tidak |
 | Masak Apa | Reski | [Link](https://github.com/tomorisakura/unofficial-masakapahariini-api) | `Aktif` | Buku resep makanan Indonesia | Tidak |
-| Islamic API V2 | Zhirrr | [Link](https://github.com/Zhirrr/islamic-rest-api-indonesian-v2) | `Aktif` | Menyimpan Data2 Islami | Tidak |
-| Kisah Nabi API | Zhirrr | [Link](https://github.com/Zhirrr/kisahnabi-rest-api-indonesia) | `Aktif` | Menyimpan Semua Kisah 25 Nabi Allah SWT | Tidak |
-| Unofficial KBBI API | Zhirrr | [Link](https://github.com/Zhirrr/KBBI-api) | `Aktif` | Api Scraper KBBI Beserta Code Sourcenya | Tidak |
 | KBBI API | azharimm | [Link](https://github.com/azharimm/kbbi-api) | `Aktif` | Rest Api KBBI | Tidak |
 | New KBBI API | btrianurdin | [Link](https://github.com/btrianurdin/new-kbbi-api) | `Aktif` | KBBI API yang dilengkapi dengan lema, kelas kata dan arti secara lengkap | Tidak |
 
@@ -131,11 +127,9 @@ Berisi API tentang Data Indonesia.
 | Klasemen Sepak Bola | azharimm | [Link](https://github.com/azharimm/football-standings-api) | `Aktif` | Realtime klasemen sepak bola e.g EPL, La Liga dll | Tidak |
 | Spesifikasi HP | azharimm | [Link](https://github.com/azharimm/phone-specs-api) | `Aktif` | Spesifikasi HP data dari gsm arena | Tidak |
 | Scathach API | sinkaroid | [Link](https://github.com/sinkaroid/scathach-api) | `Aktif` | Massive Anime Art dengan fitur SFW dan NSFW | Tidak |
-| Wallpapers API | Zhirrr | [Link](https://github.com/Zhirrr/wallpaper-rest-api-indonesia) | `Aktif` | Menampilkan Banyak Wallpaper Unik HD/4K Gratis ! | Tidak |
 | FILMAPIK API (Un-official) | devnazir | [Link](https://github.com/devnazir/api-filmapik) | `Aktif` | Menampilkan data movie beserta link video google drive | Tidak |
 | Strygwyr Dota 2 API | sinkaroid | [Link](https://github.com/sinkaroid/strygwyr) | `Aktif` | Menampilkan data hero status untuk game Dota 2 | Tidak |
 | LK21 API (Un-official) | devnazir | [Link](https://github.com/devnazir/api-lk21) | `Aktif` | Menampilkan data movie dari situs LK21 | Tidak |
-| Bioskop API | Zhirrr | [Link](https://github.com/Zhirrr/Bioskop-Api) | `Aktif` | Menampilkan data movie Bioskop, serta daftar bioskop di Indonesia | Tidak |
 | Cabul API | sinkaroid | [Link](https://github.com/sinkaroid/cabul) | `Aktif` | Sebuah API yang menampilkan banyak data Hentai(NSFW) dari hentai_subreddits | Tidak |
 | 1Cak API | dickymuliafiqri | [Link](https://github.com/dickymuliafiqri/onecak) | `Aktif` | API unofficial dari situs meme kesayangan kita | Tidak |
 | Manhwaindo API (Unofficial) | Aerysh | [Link](https://github.com/Aerysh/manhwaindo-api) | `Aktif` | Menyediakan manhwa bahasa indonesia | Tidak |
@@ -156,7 +150,6 @@ Berisi API tentang Data Indonesia.
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Cerpenmu.com API| Abdul Muttaqin | [Link](https://kitadev.id/cerpenmu/) | `Aktif` | Mendapatkan cerpen secara random dari situs cerpenmu.com  | Tidak |
 | Jadwal Sholat | lakuapik | [Link](https://github.com/lakuapik/jadwalsholatorg) | `Aktif` | Jadwal sholat berdasarkan kota/kabupaten di Indonesia | Tidak |
-| Ceramah API | Zhirrr | [Link](https://github.com/zhirrr/ceramah-rest-api-indonesia) | `Aktif` | Menyajikan Berbagai Kajian/Ceramah Dari Ustadz/Ulama Di Indonesia | Tidak |
 | Kunci Jawaban TTS API | nasrul21 | [Link](https://github.com/nasrul21/kunci-tts-api) | `Aktif` | API untuk mendapatkan kunci jawaban TTS (Teka Teki Silang) Indonesia | Tidak |
 | Jadwal Shalat | azharimm | [Link](https://github.com/azharimm/jadwal-shalat-api) | `Aktif` | Rest API jadwal shalat kota/kabupaten di Indonesia | Tidak |
 
@@ -275,7 +268,6 @@ Berisi API tentang Data Indonesia.
 | Xteam API | xteam | [Link](https://xteam.xyz) | `Aktif` | API Collection | Tidak |
 | Nurutomo | Nurutomo | [Link](https://nurutomo.herokuapp.com) | `Aktif` | Screenshot website | Tidak |
 | SMSNotif | PT Solusi Inovasi Bisnis | [Link](https://www.smsnotif.id) | `Aktif` | Kirim sms melalui REST API atau Laravel Notification | `apiKey` |
-| Zhirrr API | Zhirrr | [Link](https://github.com/Zhirrr/Zhirrr-Api) | `Aktif` | Menyajikan 30+ API Beserta Source Nya Gratis | apikey |
 | Viko API | VikoDK | [Link](https://viko-api.herokuapp.com/) | `Aktif` | Rest API gratis hasil scrape & tembak | apikey |
 | Hadi API | m hadi firmansya | [Link](https://hadi-api.herokuapp.com/api) | `Aktif` | Hasil Scrape Website | Tidak |
 | Sentiment Classification API | ramnaufal | [Link](https://ramnaufal.herokuapp.com/#/Sentiment/post_sentiment_single) | `Aktif` | Mengklasifikasikan sentiment sebuah kalimat | Tidak |
