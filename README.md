@@ -143,6 +143,8 @@ Berisi API tentang Data Indonesia.
 | Cek Resi | binderbyte | [Link](https://docs.binderbyte.com/api/cek-resi) | `Aktif` | API Cek Resi adalah api yang berguna untuk melacak resi secara otomatis mulai dari jne, pos, jnt, wahana, tiki, sicepat dll. | `apiKey` |
 | J&T | J&T Official | [Link](https://developer.jet.co.id/documentation) | `Aktif` | API Resmi yang diterbitkan oleh J&T untuk layanan AWB, Order Tracking, Cek Tarif, dan Pembatalan Order. | `apiKey` |
 | POST Indonesia | Trackingmore | [Link](https://www.trackingmore.com/indonesia-post-tracking-api.html) | `Aktif` | Jasa pengiriman | `apiKey` |
+| Shipper | Shipper | [Link](https://shipper.id/api-integration) | `Aktif` | Solusi pelacakan terupdate dan akurat dari dashboard Shipper. Ketahui  posisi paket dengan mudah hanya dengan input no. resi. Adanya kemudahan pantau pengiriman secara real-time. Kami juga kirimkan notifikasi terkait status terkini paket Anda. | `apiKey` |
+
 
 ### Kegiatan Sehari-hari
 
