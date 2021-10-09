@@ -144,6 +144,7 @@ Berisi API tentang Data Indonesia.
 | J&T | J&T Official | [Link](https://developer.jet.co.id/documentation) | `Aktif` | API Resmi yang diterbitkan oleh J&T untuk layanan AWB, Order Tracking, Cek Tarif, dan Pembatalan Order. | `apiKey` |
 | POST Indonesia | Trackingmore | [Link](https://www.trackingmore.com/indonesia-post-tracking-api.html) | `Aktif` | Jasa pengiriman | `apiKey` |
 | Anteraja | developer.anteraja.id | [Link](https://developer.anteraja.id/#list-of-api) | `Aktif` | Jasa pengiriman | `apiKey` |
+| GoSend | gojek.com/gosend/api/ | [Link](https://www.gojek.com/gosend/api/) | `Aktif` | Jasa pengiriman | `Tidak` |
 
 ### Kegiatan Sehari-hari
 
