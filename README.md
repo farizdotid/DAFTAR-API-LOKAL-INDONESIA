@@ -133,6 +133,7 @@ Berisi API tentang Data Indonesia.
 | Cabul API | sinkaroid | [Link](https://github.com/sinkaroid/cabul) | `Aktif` | Sebuah API yang menampilkan banyak data Hentai(NSFW) dari hentai_subreddits | Tidak |
 | 1Cak API | dickymuliafiqri | [Link](https://github.com/dickymuliafiqri/onecak) | `Aktif` | API unofficial dari situs meme kesayangan kita | Tidak |
 | Manhwaindo API (Unofficial) | Aerysh | [Link](https://github.com/Aerysh/manhwaindo-api) | `Aktif` | Menyediakan manhwa bahasa indonesia | Tidak |
+| Kyoko API | Eilaluth | [Link](https://github.com/Eilaluth/Kyoko) | `Aktif` | Menampilkan random anime pictures dan random anime quotes seperti Nekoslife/Waifupics | Tidak |
 
 ### Jasa Pengiriman
 
