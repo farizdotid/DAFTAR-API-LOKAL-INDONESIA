@@ -133,6 +133,7 @@ Berisi API tentang Data Indonesia.
 | Cabul API | sinkaroid | [Link](https://github.com/sinkaroid/cabul) | `Aktif` | Sebuah API yang menampilkan banyak data Hentai(NSFW) dari hentai_subreddits | Tidak |
 | 1Cak API | dickymuliafiqri | [Link](https://github.com/dickymuliafiqri/onecak) | `Aktif` | API unofficial dari situs meme kesayangan kita | Tidak |
 | Manhwaindo API (Unofficial) | Aerysh | [Link](https://github.com/Aerysh/manhwaindo-api) | `Aktif` | Menyediakan manhwa bahasa indonesia | Tidak |
+| Film Indonesia | themoviedb | [Link](https://www.themoviedb.org/documentation/api) | `Aktif` | List film-film Indonesia dengan catatan configurasi API di set ke Negara Indonesia | `apiKey` |
 
 ### Jasa Pengiriman
 
