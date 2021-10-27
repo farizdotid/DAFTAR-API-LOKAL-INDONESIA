@@ -134,6 +134,7 @@ Berisi API tentang Data Indonesia.
 | 1Cak API | dickymuliafiqri | [Link](https://github.com/dickymuliafiqri/onecak) | `Aktif` | API unofficial dari situs meme kesayangan kita | Tidak |
 | Manhwaindo API (Unofficial) | Aerysh | [Link](https://github.com/Aerysh/manhwaindo-api) | `Aktif` | Menyediakan manhwa bahasa indonesia | Tidak |
 | Kyoko API | Eilaluth | [Link](https://github.com/Eilaluth/Kyoko) | `Aktif` | Menampilkan random anime pictures dan random anime quotes seperti Nekoslife/Waifupics | Tidak |
+| Kumpulan Anime/Manga | Shallty | [Link](https://documenter.getpostman.com/view/3762767/SWLh5STA) | `Aktif` | Kumpulan anime/manga beserta link download dan rilisan anime terbaru  | Tidak |
 
 ### Jasa Pengiriman
 
