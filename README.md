@@ -152,6 +152,7 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Doa Doa API | Ahmad Ramadhan | [Link](https://doa-doa-api-ahmadramadhan.fly.dev/) | `Aktif` | Doa - Doa Sehari - hari dan lain lain dalam agama islam | Tidak | 
 | Cerpenmu.com API| Abdul Muttaqin | [Link](https://kitadev.id/cerpenmu/) | `Aktif` | Mendapatkan cerpen secara random dari situs cerpenmu.com  | Tidak |
 | Jadwal Sholat | lakuapik | [Link](https://github.com/lakuapik/jadwalsholatorg) | `Aktif` | Jadwal sholat berdasarkan kota/kabupaten di Indonesia | Tidak |
 | Kunci Jawaban TTS API | nasrul21 | [Link](https://github.com/nasrul21/kunci-tts-api) | `Aktif` | API untuk mendapatkan kunci jawaban TTS (Teka Teki Silang) Indonesia | Tidak |
