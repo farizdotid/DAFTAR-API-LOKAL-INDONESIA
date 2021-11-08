@@ -45,7 +45,7 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Wikipedia API | Mediawiki | [Link](https://www.mediawiki.org/wiki/API:Tutorial) | `Aktif` | API untuk mendapatkan informasi yang digunakan dari Wikipedia. Untuk medapatkan data menggunakan bahasa Indonesia gunakan domain dengan format 'id' `https://id.wikipedia.org/w/api.php` | `Tidak` |
-| Info Gempa & Cuaca API | Renova Muhamad Reza | [Link](https://github.com/renomureza/cuaca-gempa-rest-api) | `Aktif` | REST API informasi gempa terkini dan cuaca kota besar di 35 provinsi dalam 3 harian, sumber data BMKG.  | `Tidak` |
+| Info Gempa & Cuaca API | R.M. Reza | [Link](https://github.com/renomureza/cuaca-gempa-rest-api) | `Aktif` | REST API informasi gempa terkini dan cuaca kota besar di 35 provinsi dalam 3 harian, sumber data BMKG.  | `Tidak` |
 
 
 ### Berita
@@ -56,7 +56,7 @@ Berisi API tentang Data Indonesia.
 | CNN Indonesia | developeridn.com | [Link](https://github.com/rizki4106/cnnindonesia-news-api) | `Aktif` | API kumpulan berita dari cnn indonesia | `Tidak`|
 | Berita Indo API | Satya Wikananda | [Link](https://github.com/satyawikananda/berita-indo-api) | `Aktif` | Api yang bertujuan untuk menampilkan data data terkini dari beberapa portal berita di Indonesia | `Tidak` |
 | The Lazy Media  API | Nicola Deastra | [Link](https://github.com/NicolaDonoastro/The-Lazy-Media-api) | `Aktif` | API kumpulan berita game dan teknologi dari The Lazy Media | `Tidak` |
-| API Berita Indonesia | Renova Muhamad Reza | [Link](https://github.com/renomureza/api-berita-indonesia) | `Aktif` | API untuk menampilkan artikel terkini dari RSS Feed portal berita Indonesia. | `Tidak` |
+| API Berita Indonesia | R.M. Reza | [Link](https://github.com/renomureza/api-berita-indonesia) | `Aktif` | API untuk menampilkan artikel terkini dari RSS Feed portal berita Indonesia. | `Tidak` |
 
 ### Buku
 
@@ -70,6 +70,7 @@ Berisi API tentang Data Indonesia.
 | Masak Apa | Reski | [Link](https://github.com/tomorisakura/unofficial-masakapahariini-api) | `Aktif` | Buku resep makanan Indonesia | Tidak |
 | KBBI API | azharimm | [Link](https://github.com/azharimm/kbbi-api) | `Aktif` | Rest Api KBBI | Tidak |
 | New KBBI API | btrianurdin | [Link](https://github.com/btrianurdin/new-kbbi-api) | `Aktif` | KBBI API yang dilengkapi dengan lema, kelas kata dan arti secara lengkap | Tidak |
+| Quran API ID | R.M. Reza | [Link](https://github.com/renomureza/quran-api-id) | `Aktif` | REST API Al-Quran Indonesia dengan terjemahan, tafsir (Kemenag, Quraish Shihab, Al-Jalalain), audio murottal (per surah dan ayat dari 6 qori), random ayat, dll. | Tidak |
 
 ### *E-Commerce*
 
