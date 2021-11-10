@@ -191,6 +191,7 @@ Berisi API tentang Data Indonesia.
 | Data COVID-19 di Indonesia | Reynadi | [Link](https://apicovid19indonesia-v2.vercel.app/) | `Aktif` | API untuk melihat data COIVD-19 di Indonesia | Tidak |
 | Data vaksinasi COVID-19 di Indonesia | Reynadi | [Link](https://vaksincovid19-api.now.sh/) | `Aktif` | Data vaksinasi COVID-19 hasil scrapping website kemenkes | Tidak |
 | Data ketersediaan tempat tidur rumah sakit di Indonesia | Satya Wikananda | [Link](https://github.com/satyawikananda/rs-bed-covid-indo-api) | `aktif` | API ketersediaan rumah sakit dan tempat tidur rumah sakit untuk pasien covid-19 ataupun non-covid yang berada di Indonesia | Tidak
+| API ketersediaan kamar rumah sakit COVID / Non COVID di Indonesia | Bayu | [Link](https://github.com/bayungrh/rs-bed-availability-api) | `aktif` | Data ketersediaan kamar rumah sakit COVID / Non COVID di Indonesia | Tidak
 
 ### Lokasi
 
