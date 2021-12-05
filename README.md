@@ -271,7 +271,7 @@ Berisi API tentang Data Indonesia.
 | Translasi | azharimm | [Link](https://github.com/azharimm/api-translate) | `Aktif` | API translasi dengan google translate/baidu translate engine | Tidak |
 | Google Trends | azharimm | [Link](https://github.com/azharimm/google-trends-api) | `Aktif` | Realtime Google Trends API | Tidak |
 | Google Playstore | azharimm | [Link](https://github.com/azharimm/google-play-api) | `Aktif` | Google playstore API | Tidak |
-| ArugaZ API | ArugaZ | [Link](https://arugaz.my.id/api) | `Aktif` | Hasil Scrape Website - Lengkap | Tidak |
+| Wibusoft API | ArugaZ | [Link](https://api.wibusoft.com/) | `Aktif` | Free API Collection | Tidak |
 | Xteam API | xteam | [Link](https://xteam.xyz) | `Aktif` | API Collection | Tidak |
 | Nurutomo | Nurutomo | [Link](https://nurutomo.herokuapp.com) | `Aktif` | Screenshot website | Tidak |
 | SMSNotif | PT Solusi Inovasi Bisnis | [Link](https://www.smsnotif.id) | `Aktif` | Kirim sms melalui REST API atau Laravel Notification | `apiKey` |
