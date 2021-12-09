@@ -282,6 +282,7 @@ Berisi API tentang Data Indonesia.
 | Fxc7 API | Fxc7 | [Link](https://fxc7-api.herokuapp.com) | `Aktif` | Kumpulan API Menarik | `Apikey` |
 | RNS API | Rey | [Link](https://server-api-rey.herokuapp.com) | `Aktif` | Api collection and free | `Apikey` |
 | Api SMS | Virdig | [Link](https://jotp.me) | `Aktif` | Sms Gratis Dan Penyedia API Sms Ke Seluruh Nomor/Operator Di Indonesia | `Apikey,Secret,Acid` |
+| Raku API | Nathan | [Link](https://webraku.xyz) | `Aktif` | Kumpulan API Gratis & Hiburan Semata Hasil Module & Scrape | apikey |
 
 ## Kontak
 
