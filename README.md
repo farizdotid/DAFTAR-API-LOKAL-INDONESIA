@@ -283,6 +283,7 @@ Berisi API tentang Data Indonesia.
 | RNS API | Rey | [Link](https://server-api-rey.herokuapp.com) | `Aktif` | Api collection and free | `Apikey` |
 | LK API | Loli killers | [Lk](https://api.loli.loveslife.biz) | `Aktif` | Free rest api | `Apikey` |
 | Api SMS | Virdig | [Link](https://jotp.me) | `Aktif` | Sms Gratis Dan Penyedia API Sms Ke Seluruh Nomor/Operator Di Indonesia | `Apikey,Secret,Acid` |
+| MyFileArchive API | MyFIleArchive | [Link](https://restapi.myfilearchive.cloud) | `Aktif` | Api Collection | `Apikey` |
 | Raku API | Nathan | [Link](https://webraku.xyz) | `Aktif` | Kumpulan API Gratis & Hiburan Semata Hasil Module & Scrape | apikey |
 | ZENZ API | Zhwzein | [Link](https://zenzapi.xyz/dashboard) | `Aktif` | Sebuah Rest API Gratis hasil scrape website | `Apikey` |
 
