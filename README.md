@@ -271,7 +271,7 @@ Berisi API tentang Data Indonesia.
 | Translasi | azharimm | [Link](https://github.com/azharimm/api-translate) | `Aktif` | API translasi dengan google translate/baidu translate engine | Tidak |
 | Google Trends | azharimm | [Link](https://github.com/azharimm/google-trends-api) | `Aktif` | Realtime Google Trends API | Tidak |
 | Google Playstore | azharimm | [Link](https://github.com/azharimm/google-play-api) | `Aktif` | Google playstore API | Tidak |
-| ArugaZ API | ArugaZ | [Link](https://arugaz.my.id/api) | `Aktif` | Hasil Scrape Website - Lengkap | Tidak |
+| Wibusoft API | ArugaZ | [Link](https://api.wibusoft.com/) | `Aktif` | Free API Collection | Tidak |
 | Xteam API | xteam | [Link](https://xteam.xyz) | `Aktif` | API Collection | Tidak |
 | Nurutomo | Nurutomo | [Link](https://nurutomo.herokuapp.com) | `Aktif` | Screenshot website | Tidak |
 | SMSNotif | PT Solusi Inovasi Bisnis | [Link](https://www.smsnotif.id) | `Aktif` | Kirim sms melalui REST API atau Laravel Notification | `apiKey` |
@@ -281,9 +281,11 @@ Berisi API tentang Data Indonesia.
 | Free API | Helix x 4DSec | [Link](https://tools.helixs.id/home/?API) | `Aktif` | Kumpulan Free API tanpa Limit | Tidak |
 | Fxc7 API | Fxc7 | [Link](https://fxc7-api.herokuapp.com) | `Aktif` | Kumpulan API Menarik | `Apikey` |
 | RNS API | Rey | [Link](https://server-api-rey.herokuapp.com) | `Aktif` | Api collection and free | `Apikey` |
+| LK API | Loli killers | [Lk](https://api.loli.loveslife.biz) | `Aktif` | Free rest api | `Apikey` |
 | Api SMS | Virdig | [Link](https://jotp.me) | `Aktif` | Sms Gratis Dan Penyedia API Sms Ke Seluruh Nomor/Operator Di Indonesia | `Apikey,Secret,Acid` |
 | MyFileArchive API | MyFIleArchive | [Link](https://restapi.myfilearchive.cloud) | `Aktif` | Api Collection | `Apikey` |
-
+| Raku API | Nathan | [Link](https://webraku.xyz) | `Aktif` | Kumpulan API Gratis & Hiburan Semata Hasil Module & Scrape | apikey |
+| ZENZ API | Zhwzein | [Link](https://zenzapi.xyz/dashboard) | `Aktif` | Sebuah Rest API Gratis hasil scrape website | `Apikey` |
 
 ## Kontak
 
