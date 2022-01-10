@@ -287,6 +287,13 @@ Berisi API tentang Data Indonesia.
 | Raku API | Nathan | [Link](https://webraku.xyz) | `Aktif` | Kumpulan API Gratis & Hiburan Semata Hasil Module & Scrape | apikey |
 | ZENZ API | Zhwzein | [Link](https://zenzapi.xyz/dashboard) | `Aktif` | Sebuah Rest API Gratis hasil scrape website | `Apikey` |
 
+## Crypto
+| Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| TokoCrypto | Abi Amarulloh | [Link](https://www.tokocrypto.com/apidocs/#api-document-description) | `Aktif` | Dokumentasi Api TokoCrypto Exchange. | `ApiKey` |
+| Indodax | Abi Amarulloh | [Link](https://github.com/btcid/indodax-official-api-docs/blob/master/Public-RestAPI.md) | `Aktif` | Dokumentasi Public Api Indodax Exchange. | Tidak |
+| Indodax | Abi Amarulloh | [Link](https://github.com/btcid/indodax-official-api-docs) | `Aktif` | Full Dokumentasi Api Public, Private Indodax Exchange. | Tidak dan `ApiKey` |
+
 ## Kontak
 
 Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [Fariz Ramadhan](https://www.facebook.com/farizdotid) ya! ATAU berkomentar via fitur [Issues](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/issues) ATAU langsung edit saja nanti biar didiskusikan terlebih dahulu.
