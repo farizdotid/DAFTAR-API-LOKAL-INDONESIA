@@ -280,7 +280,7 @@ Berisi API tentang Data Indonesia.
 | Hadi API | m hadi firmansya | [Link](https://hadi-api.herokuapp.com/api) | `Aktif` | Hasil Scrape Website | Tidak |
 | Sentiment Classification API | ramnaufal | [Link](https://ramnaufal.herokuapp.com/#/Sentiment/post_sentiment_single) | `Aktif` | Mengklasifikasikan sentiment sebuah kalimat | Tidak |
 | Free API | Helix x 4DSec | [Link](https://tools.helixs.id/home/?API) | `Aktif` | Kumpulan Free API tanpa Limit | Tidak |
-| Fxc7 API | Fxc7 | [Link](https://fxc7-api.herokuapp.com) | `Aktif` | Kumpulan API Menarik | `Apikey` |
+| XCoders API | Farhannn | [Link](https://api-xcoders.xyz) | `Aktif` | Kumpulan API Scrape Result | `Apikey` |
 | RNS API | Rey | [Link](https://server-api-rey.herokuapp.com) | `Aktif` | Api collection and free | `Apikey` |
 | LK API | Loli killers | [Lk](https://api.loli.loveslife.biz) | `Aktif` | Free rest api | `Apikey` |
 | Api SMS | Virdig | [Link](https://jotp.me) | `Aktif` | Sms Gratis Dan Penyedia API Sms Ke Seluruh Nomor/Operator Di Indonesia | `Apikey,Secret,Acid` |
