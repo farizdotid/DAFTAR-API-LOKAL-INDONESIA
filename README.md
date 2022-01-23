@@ -283,7 +283,7 @@ Berisi API tentang Data Indonesia.
 | Sentiment Classification API | ramnaufal | [Link](https://ramnaufal.herokuapp.com/#/Sentiment/post_sentiment_single) | `Aktif` | Mengklasifikasikan sentiment sebuah kalimat | Tidak |
 | Free API | Helix x 4DSec | [Link](https://tools.helixs.id/home/?API) | `Aktif` | Kumpulan Free API tanpa Limit | Tidak |
 | XCoders API | Farhannn | [Link](https://api-xcoders.xyz) | `Aktif` | Kumpulan API Scrape Result | `Apikey` |
-| RNS API | Rey | [Link](https://server-api-rey.herokuapp.com) | `Aktif` | Api collection and free | `Apikey` |
+| RNS API | Rey | [Link](https://api.sekha.tech) | `Aktif` | Api collection and free | `Apikey` |
 | LK API | Loli killers | [Lk](https://api.loli.loveslife.biz) | `Aktif` | Free rest api | `Apikey` |
 | MyFileArchive API | MyFIleArchive | [Link](https://restapi.myfilearchive.cloud) | `Aktif` | Api Collection | `Apikey` |
 | Raku API | Nathan | [Link](https://webraku.xyz) | `Aktif` | Kumpulan API Gratis & Hiburan Semata Hasil Module & Scrape | apikey |
