@@ -291,6 +291,8 @@ Berisi API tentang Data Indonesia.
 | ZENZ API | Zhwzein | [Link](https://zenzapi.xyz/dashboard) | `Aktif` | Sebuah Rest API Gratis hasil scrape website | `Apikey` |
 | Zoom API | Rasi Tech | [Link](http://anonyzoom.herokuapp.com/) | `Aktif` | REST API membuat link Zoom otomatis. Parameter pass (Custom Pass), Parameter Format bisa kosong atau isi dengan txt. | `Tidak` |
 | Avamini API | yogibagus | [Link](https://avamini.decko.my.id/) | `Aktif` | API untuk generate secara dinamis gambar avatar | Tidak |
+| AKUARI API | akuari | [Link](https://api.akuari.my.id/) | `Aktif` | REST API Gratis untuk kebutuhan anda / bot json |
+
 
 ## Crypto
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
