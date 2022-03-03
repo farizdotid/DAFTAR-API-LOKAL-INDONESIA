@@ -293,6 +293,7 @@ Berisi API tentang Data Indonesia.
 | Zoom API | Rasi Tech | [Link](http://anonyzoom.herokuapp.com/) | `Aktif` | REST API membuat link Zoom otomatis. Parameter pass (Custom Pass), Parameter Format bisa kosong atau isi dengan txt. | `Tidak` |
 | Avamini API | yogibagus | [Link](https://avamini.decko.my.id/) | `Aktif` | API untuk generate secara dinamis gambar avatar | Tidak |
 | AKUARI API | akuari | [Link](https://api.akuari.my.id/) | `Aktif` | REST API Gratis untuk kebutuhan anda / bot json |
+| Distrowatch API (unofficial) | Zulfahmi | [Link](https://github.com/Zzzul/diwa) | `Aktif` | API untuk mendapatkan informasi seputar Linux | Tidak |
 
 
 ## Crypto
