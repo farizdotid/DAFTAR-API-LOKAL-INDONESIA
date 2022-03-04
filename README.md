@@ -244,7 +244,8 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Burung Prediksi | Prima Nugraha | [Link](https://prima-openapi.herokuapp.com/) | `Aktif` |  Sebuah API untuk memprediksi burung/ Klasifikasi Burung | Tidak |
+| Prediksi Burung | Prima Nugraha | [Link](https://prima-openapi.herokuapp.com/) | `Aktif` |  Sebuah API untuk memprediksi burung/ Klasifikasi Burung | Tidak |
+| Prediksi Wajah | Prima Nugraha | [Link](https://prima-openapi.herokuapp.com/) | `Aktif` |  Sebuah API untuk memprediksi Umur, Jenis Kelamin dan Etnik | Tidak |
 
 ### Pendidikan
 
