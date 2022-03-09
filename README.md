@@ -201,6 +201,7 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Data GeoJSON Provinsi, Kota atau Kabupaten Seluruh Wilayah Indonesia | Zulham Nur | [Link](https://github.com/Z4nR/geojson-api-indonesia) | `Aktif (ongoing)` | API statis berisi data wilayah Indonesia dalam bentuk GeoJSON yang sudah disimplify tanpa merubah bentuk map secara signifikan | Tidak |
 | Kode Pos | iBachor | [Link](https://github.com/bachors/apiapi#kode-pos-api) | `Aktif` | Daftar Kode Pos di Indonesia | Tidak |
 | Kode Pos | Widnyana Putra | [Link](http://log.kalarau.net/kodepos.html) | `Tidak Aktif` | Daftar Kode Pos di Indoneisa | Tidak |
 | Kode Pos | Cain van Mason | [Link](https://nbc.vanmason.web.id/service/kodepos/42173) | `Aktif` | Daftar Kode Pos di Indonesia | Tidak |
