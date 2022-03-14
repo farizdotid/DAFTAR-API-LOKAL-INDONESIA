@@ -140,6 +140,7 @@ Berisi API tentang Data Indonesia.
 | Kumpulan Anime/Manga | Shallty | [Link](https://documenter.getpostman.com/view/3762767/SWLh5STA) | `Aktif` | Kumpulan anime/manga beserta link download dan rilisan anime terbaru  | Tidak |
 | Game Player CHeck | Alex | [Link](https://documenter.getpostman.com/view/13751573/UVXjKbts) | `Aktif` | Cek player suatu game cocok untuk web topup game  | `apiKey` |
 | Katanime | ricko-v | [Link](https://github.com/ricko-v/katanime) | `Aktif` | Quotes anime bahasa Indonesia dan Inggris.  | Tidak |
+| Pururin | sinkaroid | [Link](https://github.com/sinkaroid/pururin) | `Aktif` | API berfitur yang menampilkan doujin / komik hentai dari situs Pururin (Un-official) | Tidak dan `ApiKey` |
 
 ### Jasa Pengiriman
 
