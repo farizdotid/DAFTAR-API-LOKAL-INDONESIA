@@ -131,7 +131,7 @@ Berisi API tentang Data Indonesia.
 | Anitop API / Anitrendz API (Un-official) | Satya Wikananda | [Link](https://github.com/satyawikananda/anitop) | `Aktif` | Sebuah API yang menampilkan data-data anime, musik anime, karakter, dll yang sedang trending pada musim ini | Tidak |
 | Klasemen Sepak Bola | azharimm | [Link](https://github.com/azharimm/football-standings-api) | `Aktif` | Realtime klasemen sepak bola e.g EPL, La Liga dll | Tidak |
 | Spesifikasi HP | azharimm | [Link](https://github.com/azharimm/phone-specs-api) | `Aktif` | Spesifikasi HP data dari gsm arena | Tidak |
-| Scathach API | sinkaroid | [Link](https://github.com/sinkaroid/scathach-api) | `Aktif` | Massive Anime Art dengan fitur SFW dan NSFW | Tidak |
+| Scathach API | sinkaroid | [Link](https://github.com/sinkaroid/scathach-api) | `Aktif` | Genshin impact, Fgo, Azur lane hentai API | Tidak dan `ApiKey` |
 | FILMAPIK API (Un-official) | devnazir | [Link](https://github.com/devnazir/api-filmapik) | `Aktif` | Menampilkan data movie beserta link video google drive | Tidak |
 | Strygwyr Dota 2 API | sinkaroid | [Link](https://github.com/sinkaroid/strygwyr) | `Aktif` | Menampilkan data hero status untuk game Dota 2 | Tidak |
 | LK21 API (Un-official) | devnazir | [Link](https://github.com/devnazir/api-lk21) | `Aktif` | Menampilkan data movie dari situs LK21 | Tidak |
