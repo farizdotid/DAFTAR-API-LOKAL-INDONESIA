@@ -34,6 +34,7 @@ Berisi API tentang Data Indonesia.
     - [Ramalan Cuaca](#ramalan-cuaca)
     - [Sertifikasi](#sertifikasi)
     - [Utilitas](#utilitas)
+  - [Crypto](#crypto)
   - [Kontak](#kontak)
   - [:fire: TERIMAKASIH :fire:](#fire-terimakasih-fire)
 - [Lisensi](#lisensi)
@@ -185,6 +186,7 @@ Berisi API tentang Data Indonesia.
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Ayo Donor PMI | iBachor | [Link](https://github.com/bachors/apiapi#ayo-donor-pmi) | `Aktif` | API untuk kegiatan dari PMI mengenai donor darah | Tidak |
+| Puasa Sunnah API | Granite Bagas | [Link](https://api.puasa-sunnah.granitebps.com/swagger/index.html) | `Aktif` | API untuk melihat jadwal Puasa Sunnah di Indonesia. Start dari tahun 2022 | Tidak |
 
 ### Kesehatan
 
