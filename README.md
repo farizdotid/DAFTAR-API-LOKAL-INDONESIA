@@ -144,6 +144,7 @@ Berisi API tentang Data Indonesia.
 | Katanime | ricko-v | [Link](https://github.com/ricko-v/katanime) | `Aktif` | Quotes anime bahasa Indonesia dan Inggris.  | Tidak |
 | Pururin | sinkaroid | [Link](https://github.com/sinkaroid/pururin) | `Aktif` | API berfitur yang menampilkan doujin / komik hentai dari situs Pururin (Un-official) | Tidak dan `ApiKey` |
 | Janda | sinkaroid | [Link](https://github.com/sinkaroid/janda) | `Aktif` | All-in-one doujinshi API | Tidak dan `ApiKey` |
+| RAZnime | Romadhonaji | [Link](https://raznime.herokuapp.com/) | `Aktif` | API Streaming Anime Bahasa Inggris  | Tidak |
 
 ### Jasa Pengiriman
 
