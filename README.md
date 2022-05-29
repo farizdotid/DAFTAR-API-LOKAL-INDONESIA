@@ -310,9 +310,11 @@ Berisi API tentang Data Indonesia.
 ## Crypto
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| TokoCrypto | Abi Amarulloh | [Link](https://www.tokocrypto.com/apidocs/#api-document-description) | `Aktif` | Dokumentasi Api TokoCrypto Exchange. | `ApiKey` |
-| Indodax | Abi Amarulloh | [Link](https://github.com/btcid/indodax-official-api-docs/blob/master/Public-RestAPI.md) | `Aktif` | Dokumentasi Public Api Indodax Exchange. | Tidak |
-| Indodax | Abi Amarulloh | [Link](https://github.com/btcid/indodax-official-api-docs) | `Aktif` | Full Dokumentasi Api Public, Private Indodax Exchange. | Tidak dan `ApiKey` |
+| TokoCrypto | Toko Crypto | [Link](https://www.tokocrypto.com/apidocs/#api-document-description) | `Aktif` | Dokumentasi Api TokoCrypto Exchange. | `ApiKey` |
+| Indodax | btcid | [Link](https://github.com/btcid/indodax-official-api-docs/blob/master/Public-RestAPI.md) | `Aktif` | Dokumentasi Public Api Indodax Exchange. | Tidak |
+| Indodax | btcid | [Link](https://github.com/btcid/indodax-official-api-docs) | `Aktif` | Full Dokumentasi Api Public, Private Indodax Exchange. | Tidak dan `ApiKey` |
+| Binance | binance | [Link](https://github.com/binance/binance-spot-api-docs) | `Aktif` | Official Documentation for the Binance APIs and Streams | Tidak dan `ApiKey` |
+| Rekeningku | rekeningku | [Link](https://api.rekeningku.com/#introduction) | `Aktif` | Anda dapat menggunakan API kami untuk mengakses titik akhir API Rekeningku, yang dapat memperoleh informasi seperti Pesanan, Pasar, dll. | Tidak |
 
 ## Kontak
 
