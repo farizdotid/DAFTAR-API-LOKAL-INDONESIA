@@ -76,6 +76,7 @@ Berisi API tentang Data Indonesia.
 | New KBBI API | btrianurdin | [Link](https://github.com/btrianurdin/new-kbbi-api) | `Aktif` | KBBI API yang dilengkapi dengan lema, kelas kata dan arti secara lengkap | Tidak |
 | Quran API ID | R.M. Reza | [Link](https://github.com/renomureza/quran-api-id) | `Aktif` | REST API Al-Quran Indonesia dengan terjemahan, tafsir (Kemenag, Quraish Shihab, Al-Jalalain), audio murottal (per surah dan ayat dari 6 qori), random ayat, dll. | Tidak |
 | Unofficial Gramedia Ebooks | Yusuf T. | [Link](https://github.com/yusuftaufiq/laravel-books-api) | `Aktif` | Unofficial REST API yang menyediakan daftar buku digital dari [Gramedia](https://ebooks.gramedia.com/) melalui web scraping. | `apiKey` |
+| Holy Quran API | Kang Cahya | [Link](https://github.com/dyazincahya/quran-api-with-php-codeigniter) | `Aktif` | Holy Quran API - 6236 verses, 114 surah, 30 Juz | Tidak |
 
 ### *E-Commerce*
 
