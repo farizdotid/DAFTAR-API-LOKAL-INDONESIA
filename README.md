@@ -299,7 +299,7 @@ Berisi API tentang Data Indonesia.
 | RNS API | Rey | [Link](https://api.sekha.tech) | `Aktif` | Api collection and free | `Apikey` |
 | LK API | Loli killers | [Lk](https://api.loli.loveslife.biz) | `Aktif` | Free rest api | `Apikey` |
 | MyFileArchive API | MyFIleArchive | [Link](https://restapi.myfilearchive.cloud) | `Aktif` | Api Collection | `Apikey` |
-| Raku API | Nathan | [Link](https://webraku.xyz) | `Aktif` | Kumpulan API Gratis & Hiburan Semata Hasil Module & Scrape | apikey |
+| Raku API | Nathan | [Link](https://api.webraku.xyz) | `Aktif` | Kumpulan API Gratis & Hiburan Semata Hasil Module & Scrape | apikey |
 | ZENZ API | Zhwzein | [Link](https://zenzapis.xyz) | `Aktif` | Sebuah Rest API Gratis hasil scrape website | `Apikey` |
 | Zoom API | Rasi Tech | [Link](http://anonyzoom.herokuapp.com/) | `Aktif` | REST API membuat link Zoom otomatis. Parameter pass (Custom Pass), Parameter Format bisa kosong atau isi dengan txt. | `Tidak` |
 | Avamini API | yogibagus | [Link](https://avamini.decko.my.id/) | `Aktif` | API untuk generate secara dinamis gambar avatar | Tidak |
