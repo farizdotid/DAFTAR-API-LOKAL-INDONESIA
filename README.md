@@ -176,8 +176,6 @@ Berisi API tentang Data Indonesia.
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Pinterest Search Image | Abdul Muttaqin | [Link](https://kitadev.id/pinterest-search-image/) | `Aktif` | Mencari gambar berdasarkan keyword di platform Pinterest | Tidak |
 | Unofficial Youtube API | Abdul Muttaqin | [Link](https://kitadev.id/youtube-api/) | `Aktif` | Mencari video berdasarkan keyword di platform Youtube , mendapatkan detail dari video youtube seperti timestamp , like , thumbnails , stream video , lirik , dansebagainya | Tidak |
-| Unofficial Instagram API | Abay | [Link](https://documenter.getpostman.com/view/7256976/TVeqbm7z) | `Aktif` | Unofficial API Instagram untuk Scraping Media, Stories, Profile Highlight | Tidak |
-| Twitter Video Downloader | Abay | [Link](https://documenter.getpostman.com/view/7256976/TVeqbm7z) | `Aktif` | Unofficial API Twitter untuk Scraping Video Twitter | Tidak |
 | Facebook Video Downloader | bramaudi | [Link](https://github.com/bramaudi/fbdown) | `Aktif` | Unofficial API Facebook untuk Scraping Video Facebook | Tidak |
 | All In One Video Downloader API | Abdul Muttaqin | [Link](https://kitadev.id/downloader/) | `Aktif` | Unofficial API Untuk mendapatkan data sumber video dari berbagai sosial media  | Tidak |
 | Twitter Trends | azharimm | [Link](https://github.com/azharimm/twitter-trends-api) | `Aktif` | Unofficial API Twitter trends data | Tidak |
