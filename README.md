@@ -304,6 +304,7 @@ Berisi API tentang Data Indonesia.
 | AKUARI API | akuari | [Link](https://api.akuari.my.id/) | `Aktif` | REST API Gratis untuk kebutuhan anda / bot json |
 | Distrowatch API (unofficial) | Zulfahmi | [Link](https://github.com/Zzzul/diwa) | `Aktif` | API untuk mendapatkan informasi seputar Linux | Tidak |
 | Face API | Irfan Akbari Habibi | [Link](https://github.com/Irfanakbari/face-recognition) | `Aktif` |  API untuk mendeteksi wajah dalam gambar, mendapatkan UID untuk cek similarity(berguna untuk sistem face recognition) | Tidak |
+| Api Frieren | Frieren | [Link](https://frieren.my.id/) | `Aktif` | REST API Gratis hasil scrape | Tidak |
 
 
 ## Crypto
