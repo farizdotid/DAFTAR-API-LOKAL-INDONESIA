@@ -295,7 +295,7 @@ Berisi API tentang Data Indonesia.
 | Free API | Helix x 4DSec | [Link](https://tools.helixs.id/home/?API) | `Aktif` | Kumpulan Free API tanpa Limit | Tidak |
 | XCoders API | Farhannn | [Link](https://api-xcoders.xyz) | `Aktif` | Kumpulan API Scrape Result | `Apikey` |
 | RNS API | Rey | [Link](https://api.sekha.tech) | `Aktif` | Api collection and free | `Apikey` |
-| LK API | Loli killers | [Lk](https://api.loli.loveslife.biz) | `Aktif` | Free rest api | `Apikey` |
+| ARIASUXYZ | Loli killers | [ariasu.xyz](https://api.ariasu.xyz) | `Aktif` | Web APIs | `Apikey` |
 | MyFileArchive API | MyFIleArchive | [Link](https://restapi.myfilearchive.cloud) | `Aktif` | Api Collection | `Apikey` |
 | Raku API | Nathan | [Link](https://api.webraku.xyz) | `Aktif` | Kumpulan API Gratis & Hiburan Semata Hasil Module & Scrape | apikey |
 | ZENZ API | Zhwzein | [Link](https://zenzapis.xyz) | `Aktif` | Sebuah Rest API Gratis hasil scrape website | `Apikey` |
