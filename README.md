@@ -112,6 +112,7 @@ Berisi API tentang Data Indonesia.
 | Paypal | Paypal | [Link](https://developer.paypal.com/docs/api/overview/) | `Aktif` | API Gateway resmi dari Paypal untuk transaksi internasional atau domestik dari dompet paypal | `apiKey` |
 | Cek Harga Emas | Cek Harga Emas (CHE) | [Link](https://api.cekhargaemas.com/docs/) | `Aktif` | API untuk mengakses informasi data harga emas saat ini | `apiKey` |
 | Tripay | Tripay | [Link](https://tripay.co.id/developer?tab=prolog) | `Aktif` | API payment Gateway yang terbagi menjadi 2 jenis yaitu Open Payment & Closed Payment. sehingga dapat dintegrasikan dengan aplikasi Anda dengan Gateway pembayaran Tripay | `apiKey` |
+| OY! Indonesia | OY! Indonesia | [Link](https://api-docs.oyindonesia.com/#introduction) | `Aktif` | API Gateway resmi dari OY! Indonesia untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran [OY! Indonesia](https://www.oyindonesia.com/) | `apiKey` |
 
 
 ### Forum
