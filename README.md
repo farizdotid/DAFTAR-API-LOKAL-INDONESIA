@@ -4,7 +4,7 @@
 
 Kumpulan API tentang data dan informasi di Indonesia
 
-# Daftar dalam bahasa lain
+## Daftar dalam bahasa lain
 
 - [English](README-EN.md)
 
@@ -32,7 +32,7 @@ Kumpulan API tentang data dan informasi di Indonesia
   - [Sertifikasi](#sertifikasi)
   - [Utilitas](#utilitas)
   - [Crypto](#crypto)
-  - [Kontak](#kontak)
+- [Kontak](#kontak)
 - [Penutup](#fire-terimakasih-fire)
 - [Lisensi](#lisensi)
 
@@ -298,7 +298,7 @@ To be added
 | Distrowatch API (unofficial) |         Zulfahmi         |                   [Link](https://github.com/Zzzul/diwa)                   | `Aktif` | API untuk mendapatkan informasi seputar Linux                                                                        |  Tidak   |
 | Face API                     |   Irfan Akbari Habibi    |          [Link](https://github.com/Irfanakbari/face-recognition)          | `Aktif` | API untuk mendeteksi wajah dalam gambar, mendapatkan UID untuk cek similarity(berguna untuk sistem face recognition) |  Tidak   |
 
-## Crypto
+### Crypto
 
 | Nama API   |  Developer  |                                           URL                                            | Status  | Deskripsi                                                                                                                                |       `Auth`       |
 |------------|:-----------:|:----------------------------------------------------------------------------------------:|:-------:|:-----------------------------------------------------------------------------------------------------------------------------------------|:------------------:|
@@ -318,6 +318,6 @@ Hatur Nuhun. :)
 
 Terimakasih untuk kalian yang udah ikut ber-kontribusi! :heart:
 
-# Lisensi
+## Lisensi
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
