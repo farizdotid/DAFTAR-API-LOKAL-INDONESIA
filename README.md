@@ -301,13 +301,11 @@ Kumpulan API tentang data dan informasi di Indonesia
 | AKUARI API                   |          akuari          |                     [Link](https://api.akuari.my.id/)                     | `Aktif` | REST API Gratis untuk kebutuhan anda / bot json                                                                      |
 | Distrowatch API (unofficial) |         Zulfahmi         |                   [Link](https://github.com/Zzzul/diwa)                   | `Aktif` | API untuk mendapatkan informasi seputar Linux                                                                        |  Tidak   |
 | Face API                     |   Irfan Akbari Habibi    |          [Link](https://github.com/Irfanakbari/face-recognition)          | `Aktif` | API untuk mendeteksi wajah dalam gambar, mendapatkan UID untuk cek similarity(berguna untuk sistem face recognition) |  Tidak   |
-=======
-To be added
 
 ## Crypto
 
-| Nama API   |  Developer  |  
-| ---------- | :---------: | :--------------------------------------------------------------------------------------: | :-----: | :--------------------------------------------------------------------------------------------------------------------------------------- | :----------------: |
+| Nama API                     |        Developer         |                                    URL                                    | Status  | Deskripsi                                                                                                            |  `Auth`  |
+| ---------------------------- | :----------------------: | :-----------------------------------------------------------------------: | :-----: | :------------------------------------------------------------------------------------------------------------------- | :------: |
 | TokoCrypto | Toko Crypto |           [Link](https://www.tokocrypto.com/apidocs/#api-document-description)           | `Aktif` | Dokumentasi Api TokoCrypto Exchange.                                                                                                     |      `ApiKey`      |
 | Indodax    |    btcid    | [Link](https://github.com/btcid/indodax-official-api-docs/blob/master/Public-RestAPI.md) | `Aktif` | Dokumentasi Public Api Indodax Exchange.                                                                                                 |       Tidak        |
 | Indodax    |    btcid    |                [Link](https://github.com/btcid/indodax-official-api-docs)                | `Aktif` | Full Dokumentasi Api Public, Private Indodax Exchange.                                                                                   | Tidak dan `ApiKey` |
