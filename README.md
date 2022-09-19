@@ -120,30 +120,30 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 ### Hiburan
 
-| Nama API                                   |    Developer     |                                   URL                                    |    Status     | Deskripsi                                                                                                                                          |       `Auth`       |
-|--------------------------------------------|:----------------:|:------------------------------------------------------------------------:|:-------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------|:------------------:|
-| Chatbot AI                                 |  Abdul Muttaqin  |                  [Link](https://kitadev.id/chatbot-ai/)                  | `Tidak Aktif` | Chatbot AI Seperti Simsimi                                                                                                                         |       Tidak        |
-| Tanggal Lahiran Pasaran Zodiak             |     iBachor      | [Link](https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak) |    `Aktif`    | Mengecek zodiak berdasarkan tanggal lahir serta dapat memberitahukan detail tanggal lahir, detail usia, serta detail rentang ulang tahun terdekat. |       Tidak        |
-| Film Indonesia                             |    themoviedb    |           [Link](https://www.themoviedb.org/documentation/api)           |    `Aktif`    | List film-film Indonesia dengan catatan configurasi API di set ke Negara Indonesia                                                                 |      `apiKey`      |
-| Manga/Komik Bahasa Indonesia (Un-official) | Febry Ardiansyah |           [Link](https://github.com/febryardiansyah/manga-api)           | `Tidak Aktif` | Menyediakan Manga atau Komik bahasa Indonesia                                                                                                      |       Tidak        |
-| Otakudesu API (Un-official)                |  KaedeNoKi Team  |        [Link](https://github.com/Kaede-No-Ki/otakudesu-rest-api)         | `Tidak Aktif` | Menyediakan anime dengan subtitle Bahasa Indonesia                                                                                                 |       Tidak        |
-| Anitop API / Anitrendz API (Un-official)   | Satya Wikananda  |             [Link](https://github.com/satyawikananda/anitop)             |    `Aktif`    | Sebuah API yang menampilkan data-data anime, musik anime, karakter, dll yang sedang trending pada musim ini                                        |       Tidak        |
-| Klasemen Sepak Bola                        |     azharimm     |        [Link](https://github.com/azharimm/football-standings-api)        |    `Aktif`    | Realtime klasemen sepak bola e.g EPL, La Liga dll                                                                                                  |       Tidak        |
-| Spesifikasi HP                             |     azharimm     |           [Link](https://github.com/azharimm/phone-specs-api)            |    `Aktif`    | Spesifikasi HP data dari gsm arena                                                                                                                 |       Tidak        |
-| Scathach API                               |    sinkaroid     |            [Link](https://github.com/sinkaroid/scathach-api)             |    `Aktif`    | Genshin impact, Fgo, Azur lane hentai API                                                                                                          | Tidak dan `ApiKey` |
-| FILMAPIK API (Un-official)                 |     devnazir     |             [Link](https://github.com/devnazir/api-filmapik)             |    `Aktif`    | Menampilkan data movie beserta link video google drive                                                                                             |       Tidak        |
-| Strygwyr Dota 2 API (NPM Package)          |    sinkaroid     |              [Link](https://github.com/sinkaroid/strygwyr)               |  `Self Host`  | Menampilkan data hero status untuk game Dota 2                                                                                                     |       Tidak        |
-| LK21 API (Un-official)                     |     devnazir     |               [Link](https://github.com/devnazir/api-lk21)               |    `Aktif`    | Menampilkan data movie dari situs LK21                                                                                                             |       Tidak        |
-| Cabul API                                  |    sinkaroid     |                [Link](https://github.com/sinkaroid/cabul)                |    `Aktif`    | Sebuah API yang menampilkan banyak data Hentai(NSFW) dari hentai_subreddits                                                                        |       Tidak        |
-| 1Cak API                                   | dickymuliafiqri  |            [Link](https://github.com/dickymuliafiqri/onecak)             |    `Aktif`    | API unofficial dari situs meme kesayangan kita                                                                                                     |       Tidak        |
-| Manhwaindo API (Unofficial)                |      Aerysh      |             [Link](https://github.com/Aerysh/manhwaindo-api)             |  `Self Host`  | Menyediakan manhwa bahasa indonesia                                                                                                                |       Tidak        |
-| Kyoko API                                  |     Eilaluth     |                [Link](https://github.com/Eilaluth/Kyoko)                 |    `Aktif`    | Menampilkan random anime pictures dan random anime quotes seperti Nekoslife/Waifupics                                                              |       Tidak        |
-| Kumpulan Anime/Manga                       |     Shallty      |     [Link](https://documenter.getpostman.com/view/3762767/SWLh5STA)      | `Tidak Aktif` | Kumpulan anime/manga beserta link download dan rilisan anime terbaru                                                                               |       Tidak        |
-| Game Player CHeck   (Paid)                 |       Alex       |     [Link](https://documenter.getpostman.com/view/13751573/UVXjKbts)     |    `Aktif`    | Cek player suatu game cocok untuk web topup game                                                                                                   |      `apiKey`      |
-| Katanime                                   |     ricko-v      |               [Link](https://github.com/ricko-v/katanime)                |    `Aktif`    | Quotes anime bahasa Indonesia dan Inggris.                                                                                                         |       Tidak        |
-| Pururin API Wrapper                        |    sinkaroid     |               [Link](https://github.com/sinkaroid/pururin)               |    `Aktif`    | API berfitur yang menampilkan doujin / komik hentai dari situs Pururin (Un-official)                                                               | Tidak dan `ApiKey` |
-| Janda                                      |    sinkaroid     |                [Link](https://github.com/sinkaroid/janda)                |    `Aktif`    | All-in-one doujinshi API                                                                                                                           | Tidak dan `ApiKey` |
-| RAZnime                                    |   Romadhonaji    |                  [Link](https://raznime.herokuapp.com/)                  |    `Aktif`    | API Streaming Anime Bahasa Inggris                                                                                                                 |       Tidak        |
+| Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Chatbot AI | Abdul Muttaqin | [Link](https://kitadev.id/chatbot-ai/) | `Aktif` | Chatbot AI  Seperti Simsimi | Tidak |
+| Tanggal Lahiran Pasaran Zodiak | iBachor | [Link](https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak) | `Aktif` | Mengecek zodiak berdasarkan tanggal lahir serta dapat memberitahukan detail tanggal lahir, detail usia, serta detail rentang ulang tahun terdekat. | Tidak |
+| Film Indonesia | themoviedb | [Link](https://www.themoviedb.org/documentation/api) | `Aktif` | List film-film Indonesia dengan catatan configurasi API di set ke Negara Indonesia | `apiKey` |
+| Manga/Komik Bahasa Indonesia (Un-official) | Febry Ardiansyah | [Link](https://github.com/febryardiansyah/manga-api) | `Aktif` | Menyediakan Manga atau Komik bahasa Indonesia | Tidak |
+| Otakudesu API (Un-official) | KaedeNoKi Team | [Link](https://github.com/Kaede-No-Ki/otakudesu-rest-api) | `Aktif` | Menyediakan anime dengan subtitle Bahasa Indonesia | Tidak |
+| Anitop API / Anitrendz API (Un-official) | Satya Wikananda | [Link](https://github.com/satyawikananda/anitop) | `Aktif` | Sebuah API yang menampilkan data-data anime, musik anime, karakter, dll yang sedang trending pada musim ini | Tidak |
+| Klasemen Sepak Bola | azharimm | [Link](https://github.com/azharimm/football-standings-api) | `Aktif` | Realtime klasemen sepak bola e.g EPL, La Liga dll | Tidak |
+| Spesifikasi HP | azharimm | [Link](https://github.com/azharimm/phone-specs-api) | `Aktif` | Spesifikasi HP data dari gsm arena | Tidak |
+| Scathach API | sinkaroid | [Link](https://github.com/sinkaroid/scathach-api) | `Aktif` | Genshin impact, Fgo, Azur lane hentai API | Tidak dan `ApiKey` |
+| FILMAPIK API (Un-official) | devnazir | [Link](https://github.com/devnazir/api-filmapik) | `Aktif` | Menampilkan data movie beserta link video google drive | Tidak |
+| Strygwyr Dota 2 API | sinkaroid | [Link](https://github.com/sinkaroid/strygwyr) | `Aktif` | Menampilkan data hero status untuk game Dota 2 | Tidak |
+| LK21 API (Un-official) | devnazir | [Link](https://github.com/devnazir/api-lk21) | `Aktif` | Menampilkan data movie dari situs LK21 | Tidak |
+| Cabul API | sinkaroid | [Link](https://github.com/sinkaroid/cabul) | `Aktif` | Sebuah API yang menampilkan banyak data Hentai(NSFW) dari hentai_subreddits | Tidak |
+| 1Cak API | dickymuliafiqri | [Link](https://github.com/dickymuliafiqri/onecak) | `Aktif` | API unofficial dari situs meme kesayangan kita | Tidak |
+| Manhwaindo API (Unofficial) | Aerysh | [Link](https://github.com/Aerysh/manhwaindo-api) | `Aktif` | Menyediakan manhwa bahasa indonesia | Tidak |
+| Kyoko API | Eilaluth | [Link](https://github.com/Eilaluth/Kyoko) | `Aktif` | Menampilkan random anime pictures dan random anime quotes seperti Nekoslife/Waifupics | Tidak |
+| Kumpulan Anime/Manga | Shallty | [Link](https://documenter.getpostman.com/view/3762767/SWLh5STA) | `Aktif` | Kumpulan anime/manga beserta link download dan rilisan anime terbaru  | Tidak |
+| Game Player CHeck | Alex | [Link](https://documenter.getpostman.com/view/13751573/UVXjKbts) | `Aktif` | Cek player suatu game cocok untuk web topup game  | `apiKey` |
+| Katanime | ricko-v | [Link](https://github.com/ricko-v/katanime) | `Aktif` | Quotes anime bahasa Indonesia dan Inggris.  | Tidak |
+| Pururin | sinkaroid | [Link](https://github.com/sinkaroid/pururin) | `Aktif` | API berfitur yang menampilkan doujin / komik hentai dari situs Pururin (Un-official) | Tidak dan `ApiKey` |
+| Jandapress | sinkaroid | [Link](https://github.com/sinkaroid/jandapress) | `Aktif` | All-in-one doujinshi API | Tidak dan `ApiKey` |
+| RAZnime | Romadhonaji | [Link](https://raznime.herokuapp.com/) | `Aktif` | API Streaming Anime Bahasa Inggris  | Tidak |
 
 ### Jasa Pengiriman
 
@@ -269,34 +269,36 @@ To be added
 
 ### Utilitas
 
-| Nama API                     |        Developer         |                                    URL                                    |    Status     | Deskripsi                                                                                                            |  `Auth`  |
-|------------------------------|:------------------------:|:-------------------------------------------------------------------------:|:-------------:|:---------------------------------------------------------------------------------------------------------------------|:--------:|
-| Screenshot API               |      statically.io       |                      [Link](https://statically.io/)                       |    `Aktif`    | Sebuah API screenshot gratis untuk mengonversi web ke gambar atau PDF. Mendukung tampilan desktop dan seluler.       |  Tidak   |
-| Temp Mail API                |        Ihsan Devs        |             [Link](https://api-tempmail.herokuapp.com/docs/)              | `Tidak Aktif` | Sebuah API untuk membuat email sementara                                                                             |  Tidak   |
-| FREE API                     |        Ihsan Devs        |           [Link](https://backend-ihsandevs.herokuapp.com/api/)            | `Tidak Aktif` | Kumpulan API gratis.                                                                                                 |  Tidak   |
-| Arbanat                      |        jajanjawa         |                       [Link](https://arbanat.my.id)                       |    `Aktif`    | kirim sms melalui rest api                                                                                           | `apiKey` |
-| Translasi                    |         azharimm         |             [Link](https://github.com/azharimm/api-translate)             |    `Aktif`    | API translasi dengan google translate/baidu translate engine                                                         |  Tidak   |
-| Google Trends                |         azharimm         |           [Link](https://github.com/azharimm/google-trends-api)           |    `Aktif`    | Realtime Google Trends API                                                                                           |  Tidak   |
-| Google Playstore             |         azharimm         |            [Link](https://github.com/azharimm/google-play-api)            |    `Aktif`    | Google playstore API                                                                                                 |  Tidak   |
-| Wibusoft API                 |          ArugaZ          |                     [Link](https://api.wibusoft.com/)                     |    `Aktif`    | Free API Collection                                                                                                  |  Tidak   |
-| Xteam API                    |          xteam           |                         [Link](https://xteam.xyz)                         |    `Tidak Aktif`    | API Collection                                                                                                       |  Tidak   |
-| Nurutomo                     |         Nurutomo         |                  [Link](https://nurutomo.herokuapp.com)                   |    `Tidak Aktif`    | Screenshot website                                                                                                   |  Tidak   |
-| SMSNotif                     | PT Solusi Inovasi Bisnis |                      [Link](https://www.smsnotif.id)                      |    `Aktif`    | Kirim sms melalui REST API atau Laravel Notification                                                                 | `apiKey` |
-| Viko API                     |          VikoDK          |                  [Link](https://viko-api.herokuapp.com/)                  |    `Tidak Aktif`    | Rest API gratis hasil scrape & tembak                                                                                |  apikey  |
-| Hadi API                     |     m hadi firmansya     |                [Link](https://hadi-api.herokuapp.com/api)                 |    `Aktif`    | Hasil Scrape Website                                                                                                 |  Tidak   |
-| Sentiment Classification API |        ramnaufal         | [Link](https://ramnaufal.herokuapp.com/#/Sentiment/post_sentiment_single) |    `Aktif`    | Mengklasifikasikan sentiment sebuah kalimat                                                                          |  Tidak   |
-| Free API                     |      Helix x 4DSec       |                 [Link](https://tools.helixs.id/home/?API)                 |    `Aktif`    | Kumpulan Free API tanpa Limit                                                                                        |  Tidak   |
-| XCoders API                  |         Farhannn         |                      [Link](https://api-xcoders.xyz)                      |    `Aktif`    | Kumpulan API Scrape Result                                                                                           | `Apikey` |
-| RNS API                      |           Rey            |                      [Link](https://sekha.me/)                       |    `Aktif`    | Api collection and free                                                                                              | `Apikey` |
-| LK API                       |       Loli killers       |                   [Lk](https://api.loli.loveslife.biz)                    |    `Tidak Aktif`    | Free rest api                                                                                                        | `Apikey` |
-| MyFileArchive API            |      MyFIleArchive       |                [Link](https://restapi.myfilearchive.cloud)                |    `Aktif`    | Api Collection                                                                                                       | `Apikey` |
-| Raku API                     |          Nathan          |                      [Link](https://api.webraku.xyz)                      |    `Aktif`    | Kumpulan API Gratis & Hiburan Semata Hasil Module & Scrape                                                           |  apikey  |
-| ZENZ API                     |         Zhwzein          |                       [Link](https://zenzapis.xyz)                        |    `Aktif`    | Sebuah Rest API Gratis hasil scrape website                                                                          | `Apikey` |
-| Zoom API                     |        Rasi Tech         |                  [Link](http://anonyzoom.herokuapp.com/)                  |    `Aktif`    | REST API membuat link Zoom otomatis. Parameter pass (Custom Pass), Parameter Format bisa kosong atau isi dengan txt. | `Tidak`  |
-| Avamini API                  |        yogibagus         |                   [Link](https://avamini.decko.my.id/)                    |    `Tidak Aktif`    | API untuk generate secara dinamis gambar avatar                                                                      |  Tidak   |
-| AKUARI API                   |          akuari          |                     [Link](https://api.akuari.my.id/)                     | `Aktif` | REST API Gratis untuk kebutuhan anda / bot json                                                                      |
-| Distrowatch API (unofficial) |         Zulfahmi         |                   [Link](https://github.com/Zzzul/diwa)                   | `Aktif` | API untuk mendapatkan informasi seputar Linux                                                                        |  Tidak   |
-| Face API                     |   Irfan Akbari Habibi    |          [Link](https://github.com/Irfanakbari/face-recognition)          | `Aktif` | API untuk mendeteksi wajah dalam gambar, mendapatkan UID untuk cek similarity(berguna untuk sistem face recognition) |  Tidak   |
+| Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Screenshot API | statically.io | [Link](https://statically.io/) | `Aktif` | Sebuah API screenshot gratis untuk mengonversi web ke gambar atau PDF. Mendukung tampilan desktop dan seluler. | Tidak |
+| Temp Mail API | Ihsan Devs | [Link](https://api-tempmail.herokuapp.com/docs/) | `Aktif` | Sebuah API untuk membuat email sementara | Tidak |
+| FREE API | Ihsan Devs | [Link](https://backend-ihsandevs.herokuapp.com/api/) | `Aktif` | Kumpulan API gratis. | Tidak |
+| Arbanat | jajanjawa | [Link](https://arbanat.my.id) | `Aktif` | kirim sms melalui rest api | `apiKey` |
+| Qur'an Randomizer | BangHasan | [Link](https://api.banghasan.com/quran/format/json/acak) | `Aktif` | Randomizer Qur'an Lengkap | Tidak |
+| Translasi | azharimm | [Link](https://github.com/azharimm/api-translate) | `Aktif` | API translasi dengan google translate/baidu translate engine | Tidak |
+| Google Trends | azharimm | [Link](https://github.com/azharimm/google-trends-api) | `Aktif` | Realtime Google Trends API | Tidak |
+| Google Playstore | azharimm | [Link](https://github.com/azharimm/google-play-api) | `Aktif` | Google playstore API | Tidak |
+| Wibusoft API | ArugaZ | [Link](https://api.wibusoft.com/) | `Aktif` | Free API Collection | Tidak |
+| Xteam API | xteam | [Link](https://xteam.xyz) | `Aktif` | API Collection | Tidak |
+| Nurutomo | Nurutomo | [Link](https://nurutomo.herokuapp.com) | `Aktif` | Screenshot website | Tidak |
+| SMSNotif | PT Solusi Inovasi Bisnis | [Link](https://www.smsnotif.id) | `Aktif` | Kirim sms melalui REST API atau Laravel Notification | `apiKey` |
+| Viko API | VikoDK | [Link](https://viko-api.herokuapp.com/) | `Aktif` | Rest API gratis hasil scrape & tembak | apikey |
+| Hadi API | m hadi firmansya | [Link](https://hadi-api.herokuapp.com/api) | `Aktif` | Hasil Scrape Website | Tidak |
+| Sentiment Classification API | ramnaufal | [Link](https://ramnaufal.herokuapp.com/#/Sentiment/post_sentiment_single) | `Aktif` | Mengklasifikasikan sentiment sebuah kalimat | Tidak |
+| Free API | Helix x 4DSec | [Link](https://tools.helixs.id/home/?API) | `Aktif` | Kumpulan Free API tanpa Limit | Tidak |
+| XCoders API | Farhannn | [Link](https://api-xcoders.xyz) | `Aktif` | Kumpulan API Scrape Result | `Apikey` |
+| RNS API | Rey | [Link](https://api.sekha.tech) | `Aktif` | Api collection and free | `Apikey` |
+| LK API | Loli killers | [Lk](https://api.loli.loveslife.biz) | `Aktif` | Free rest api | `Apikey` |
+| MyFileArchive API | MyFIleArchive | [Link](https://restapi.myfilearchive.cloud) | `Aktif` | Api Collection | `Apikey` |
+| Raku API | Nathan | [Link](https://api.webraku.xyz) | `Aktif` | Kumpulan API Gratis & Hiburan Semata Hasil Module & Scrape | apikey |
+| ZENZ API | Zhwzein | [Link](https://zenzapis.xyz) | `Aktif` | Sebuah Rest API Gratis hasil scrape website | `Apikey` |
+| Zoom API | Rasi Tech | [Link](http://anonyzoom.herokuapp.com/) | `Aktif` | REST API membuat link Zoom otomatis. Parameter pass (Custom Pass), Parameter Format bisa kosong atau isi dengan txt. | `Tidak` |
+| Avamini API | yogibagus | [Link](https://avamini.decko.my.id/) | `Aktif` | API untuk generate secara dinamis gambar avatar | Tidak |
+| AKUARI API | akuari | [Link](https://api.akuari.my.id/) | `Aktif` | REST API Gratis untuk kebutuhan anda / bot json |
+| Distrowatch API (unofficial) | Zulfahmi | [Link](https://github.com/Zzzul/diwa) | `Aktif` | API untuk mendapatkan informasi seputar Linux | Tidak |
+| Face API | Irfan Akbari Habibi | [Link](https://github.com/Irfanakbari/face-recognition) | `Aktif` |  API untuk mendeteksi wajah dalam gambar, mendapatkan UID untuk cek similarity(berguna untuk sistem face recognition) | Tidak |
+| Disgrow | sinkaroid | [Link](https://github.com/sinkaroid/disgrow) | `Aktif` | API untuk melihat perkembangan dan memprediksi pertumbuhan bot Discord | Tidak |
 
 ## Crypto
 
