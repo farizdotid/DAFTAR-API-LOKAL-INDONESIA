@@ -300,7 +300,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Avamini API                  |        yogibagus         |                   [Link](https://avamini.decko.my.id/)                    | `Aktif` | API untuk generate secara dinamis gambar avatar                                                                      |  Tidak   |
 | AKUARI API                   |          akuari          |                     [Link](https://api.akuari.my.id/)                     | `Aktif` | REST API Gratis untuk kebutuhan anda / bot json                                                                      |
 | Distrowatch API (unofficial) |         Zulfahmi         |                   [Link](https://github.com/Zzzul/diwa)                   | `Aktif` | API untuk mendapatkan informasi seputar Linux                                                                        |  Tidak   |
-| Face API                     |   Irfan Akbari Habibi    |          [Link](https://github.com/Irfanakbari/face-recognition)          | `Aktif` | API untuk mendeteksi wajah dalam gambar, mendapatkan UID untuk cek similarity(berguna untuk sistem face recognition) |  Tidak   |
+| Face API                     |   Irfan Akbari Habibi    |          [Link](https://github.com/Irfanakbari1810/face-recognition)          | `Aktif` | API untuk mendeteksi wajah dalam gambar, mendapatkan UID untuk cek similarity(berguna untuk sistem face recognition) |  Tidak   |
 
 ## Crypto
 
