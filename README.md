@@ -10,30 +10,33 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 ## Daftar Isi
 
-- [Daftar API](#daftar-api)
-  - [Informasi Umum](#informasi-umum)
-  - [Berita](#berita)
-  - [Buku](#buku)
-  - [E-Commerce](#e-commerce)
-  - [Finansial](#finansial)
-  - [Forum](#forum)
-  - [Hiburan](#hiburan)
-  - [Jasa Pengiriman](#jasa-pengiriman)
-  - [Kegiatan Sehari-hari](#kegiatan-sehari-hari)
-  - [Sosial Media](#sosial-media)
-  - [Kegiatan Khusus](#kegiatan-khusus)
-  - [Kesehatan](#kesehatan)
-  - [Lokasi](#lokasi)
-  - [Musik](#musik)
-  - [Pemerintahan](#pemerintahan)
-  - [Prediksi](#prediksi)
-  - [Pendidikan](#pendidikan)
-  - [Ramalan Cuaca](#ramalan-cuaca)
-  - [Sertifikasi](#sertifikasi)
-  - [Utilitas](#utilitas)
+- [Daftar API Lokal Indonesia](#daftar-api-lokal-indonesia)
+- [Daftar dalam bahasa lain](#daftar-dalam-bahasa-lain)
+  - [Daftar Isi](#daftar-isi)
+  - [Daftar API](#daftar-api)
+    - [Informasi Umum](#informasi-umum)
+    - [Berita](#berita)
+    - [Buku](#buku)
+    - [E-Commerce](#e-commerce)
+    - [Finansial](#finansial)
+    - [Forum](#forum)
+    - [Hiburan](#hiburan)
+    - [Jasa Pengiriman](#jasa-pengiriman)
+    - [Kegiatan Sehari-hari](#kegiatan-sehari-hari)
+    - [Sosial Media](#sosial-media)
+    - [Kegiatan Khusus](#kegiatan-khusus)
+    - [Kesehatan](#kesehatan)
+    - [Lokasi](#lokasi)
+    - [Musik](#musik)
+    - [Pemerintahan](#pemerintahan)
+    - [Prediksi](#prediksi)
+    - [Pendidikan](#pendidikan)
+    - [Ramalan Cuaca](#ramalan-cuaca)
+    - [Sertifikasi](#sertifikasi)
+    - [Utilitas](#utilitas)
   - [Crypto](#crypto)
-- [Kontak](#kontak)
-- [Penutup](#fire-terimakasih-fire)
+  - [Kontak](#kontak)
+  - [:fire: TERIMAKASIH :fire:](#fire-terimakasih-fire)
 - [Lisensi](#lisensi)
 
 ## Daftar API
@@ -109,6 +112,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Paypal                     |        Paypal        |        [Link](https://developer.paypal.com/docs/api/overview/)         |    `Aktif`    | API Gateway resmi dari Paypal untuk transaksi internasional atau domestik dari dompet paypal                                                                             |      `apiKey`      |
 | Cek Harga Emas             | Cek Harga Emas (CHE) |               [Link](https://api.cekhargaemas.com/docs/)               | `Tidak Aktif` | API untuk mengakses informasi data harga emas saat ini                                                                                                                   |      `apiKey`      |
 | Tripay                     |        Tripay        |           [Link](https://tripay.co.id/developer?tab=prolog)            |    `Aktif`    | API payment Gateway yang terbagi menjadi 2 jenis yaitu Open Payment & Closed Payment. sehingga dapat dintegrasikan dengan aplikasi Anda dengan Gateway pembayaran Tripay |      `apiKey`      |
+| CoinMarketCap              |        CoinMarketCap |           [Link](https://coinmarketcap.com/api/)            |    `Aktif`    | CoinMarketCap API adalah rangkaian endpoint RESTful JSON berkinerja tinggi yang dirancang khusus untuk memenuhi tuntutan misi-kritis dari pengembang aplikasi, ilmuwan data, dan platform bisnis perusahaan. |      `apiKey`      |
 | OY! Indonesia              |    OY! Indonesia     |         [Link](https://api-docs.oyindonesia.com/#introduction)         |    `Aktif`    | API Gateway resmi dari OY! Indonesia untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran [OY! Indonesia](https://www.oyindonesia.com/)                        |      `apiKey`      |
 
 ### Forum
