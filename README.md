@@ -4,38 +4,35 @@
 
 Kumpulan API tentang data dan informasi di Indonesia
 
-# Daftar dalam bahasa lain
+## Daftar dalam bahasa lain
 
 - [English](README-EN.md)
 
 ## Daftar Isi
 
-- [Daftar API Lokal Indonesia](#daftar-api-lokal-indonesia)
-- [Daftar dalam bahasa lain](#daftar-dalam-bahasa-lain)
-  - [Daftar Isi](#daftar-isi)
-  - [Daftar API](#daftar-api)
-    - [Informasi Umum](#informasi-umum)
-    - [Berita](#berita)
-    - [Buku](#buku)
-    - [_E-Commerce_](#e-commerce)
-    - [Finansial](#finansial)
-    - [Forum](#forum)
-    - [Hiburan](#hiburan)
-    - [Jasa Pengiriman](#jasa-pengiriman)
-    - [Kegiatan Sehari-hari](#kegiatan-sehari-hari)
-    - [Sosial Media](#sosial-media)
-    - [Kegiatan Khusus](#kegiatan-khusus)
-    - [Kesehatan](#kesehatan)
-    - [Lokasi](#lokasi)
-    - [Musik](#musik)
-    - [Pemerintahan](#pemerintahan)
-    - [Prediksi](#prediksi)
-    - [Pendidikan](#pendidikan)
-    - [Ramalan Cuaca](#ramalan-cuaca)
-    - [Sertifikasi](#sertifikasi)
-    - [Utilitas](#utilitas)
-    - [Crypto](#crypto)
-  - [Kontak](#kontak)
+- [Daftar API](#daftar-api)
+  - [Informasi Umum](#informasi-umum)
+  - [Berita](#berita)
+  - [Buku](#buku)
+  - [E-Commerce](#e-commerce)
+  - [Finansial](#finansial)
+  - [Forum](#forum)
+  - [Hiburan](#hiburan)
+  - [Jasa Pengiriman](#jasa-pengiriman)
+  - [Kegiatan Sehari-hari](#kegiatan-sehari-hari)
+  - [Sosial Media](#sosial-media)
+  - [Kegiatan Khusus](#kegiatan-khusus)
+  - [Kesehatan](#kesehatan)
+  - [Lokasi](#lokasi)
+  - [Musik](#musik)
+  - [Pemerintahan](#pemerintahan)
+  - [Prediksi](#prediksi)
+  - [Pendidikan](#pendidikan)
+  - [Ramalan Cuaca](#ramalan-cuaca)
+  - [Sertifikasi](#sertifikasi)
+  - [Utilitas](#utilitas)
+  - [Crypto](#crypto)
+- [Kontak](#kontak)
 - [Penutup](#fire-terimakasih-fire)
 - [Lisensi](#lisensi)
 
@@ -304,7 +301,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Face API                     |   Irfan Akbari Habibi    |          [Link](https://github.com/Irfanakbari/face-recognition)          | `Aktif` | API untuk mendeteksi wajah dalam gambar, mendapatkan UID untuk cek similarity(berguna untuk sistem face recognition) |  Tidak   |
 | PetPet GIF Generator API                     |   balhisyhrl    |          [Link](https://anon-petpet.herokuapp.com/)          | `Aktif` | API PetPet GIF Generator |  Tidak   |
 
-## Crypto
+### Crypto
 
 | Nama API                     |        Developer         |                                    URL                                    | Status  | Deskripsi                                                                                                            |  `Auth`  |
 | ---------------------------- | :----------------------: | :-----------------------------------------------------------------------: | :-----: | :------------------------------------------------------------------------------------------------------------------- | :------: |
@@ -324,7 +321,7 @@ Hatur Nuhun. :)
 
 Terimakasih untuk kalian yang udah ikut ber-kontribusi! :heart:
 
-# Lisensi
+## Lisensi
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
