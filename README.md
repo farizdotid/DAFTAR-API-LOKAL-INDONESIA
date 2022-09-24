@@ -4,7 +4,7 @@
 
 Kumpulan API tentang data dan informasi di Indonesia
 
-# Daftar dalam bahasa lain
+## Daftar dalam bahasa lain
 
 - [English](README-EN.md)
 
@@ -17,7 +17,7 @@ Kumpulan API tentang data dan informasi di Indonesia
     - [Informasi Umum](#informasi-umum)
     - [Berita](#berita)
     - [Buku](#buku)
-    - [_E-Commerce_](#e-commerce)
+    - [E-Commerce](#e-commerce)
     - [Finansial](#finansial)
     - [Forum](#forum)
     - [Hiburan](#hiburan)
@@ -34,9 +34,9 @@ Kumpulan API tentang data dan informasi di Indonesia
     - [Ramalan Cuaca](#ramalan-cuaca)
     - [Sertifikasi](#sertifikasi)
     - [Utilitas](#utilitas)
-    - [Crypto](#crypto)
+  - [Crypto](#crypto)
   - [Kontak](#kontak)
-- [Penutup](#fire-terimakasih-fire)
+  - [:fire: TERIMAKASIH :fire:](#fire-terimakasih-fire)
 - [Lisensi](#lisensi)
 
 ## Daftar API
@@ -94,24 +94,26 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 ### Finansial
 
-| Nama API                   |      Developer       |                                  URL                                   | Status  | Deskripsi                                                                                                                                                                |       `Auth`       |
-| -------------------------- | :------------------: | :--------------------------------------------------------------------: | :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: |
-| Bisatopup                  |      Bisatopup       |                [Link](http://docs.bisatopup.apiary.io/)                | `Aktif` | Melalui API ini dapat melakukan transaksi seperti beli pulsa, bayar token listrik, dan lain-lain.                                                                        |      `apiKey`      |
-| Jurnal API                 |      jurnal.id       | [Link](https://api-jurnal.api-docs.io/v1/getting-started/introduction) | `Aktif` | API untuk _software_ laporan keuangan.                                                                                                                                   | `Oauth` / `apiKey` |
-| Midtrans - Payment gateway |       Midtrans       |                 [Link](https://midtrans.com/payments)                  | `Aktif` | _Gateway_ atau gerbang untuk transaksi pembayaran.                                                                                                                       |      `apiKey`      |
-| iPaymu                     |        iPaymu        |              [Link](https://ipaymu.com/dokumentasi-api/)               | `Aktif` | _Gateway_ atau gerbang untuk transaksi pembayaran.                                                                                                                       |      `apiKey`      |
-| DOKU                       |         DOKU         |              [Link](https://www.doku.com/API/index.html)               | `Aktif` | DOKU semakin dipercaya dan menjadi layanan pembayaran elektronik pilihan bagi merchant nasional maupun internasional.                                                    |      `apiKey`      |
-| OVO Unofficial             |     lintangtimur     |             [Link](https://github.com/lintangtimur/ovoid)              | `Aktif` | Un-Official ovoid API Wrapper menggunakan PHP                                                                                                                            |       `OTP`        |
-| ESPAY                      |        ESPAY         |   [Link](https://sandbox-kit.espay.id/docs/v2/docespay/en/index.php)   | `Aktif` | Payment Gateway Indonesia                                                                                                                                                |      `apiKey`      |
-| Duitku                     |        Duitku        |                    [Link](https://docs.duitku.com)                     | `Aktif` | Payment Gateway Indonesia                                                                                                                                                |      `apiKey`      |
-| BCA                        |         BCA          |           [Link](https://developer.bca.co.id/documentation)            | `Aktif` | API Bank BCA                                                                                                                                                             |      `apiKey`      |
-| OJK Investasi API          |      Cristopher      |               [Link](https://ojk-invest-api.vercel.app/)               | `Aktif` | Sebuah API yang menampilkan daftar investasi legal dan ilegal di Indonesia. Bersumber dari data Otoritas Jasa Keuangan                                                   |       Tidak        |
-| Xendit API                 |   Xendit Official    |                 [Link](https://developers.xendit.co/)                  | `Aktif` | API Gateway resmi dari Xendit untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran Xendit                                                                      |      `apiKey`      |
-| MobilePulsa API            | MobilePulsa Official |        [Link](https://developer.mobilepulsa.net/documentation)         | `Aktif` | API Gateway resmi dari MobilePulsa untuk pembayaran pulsa, top up, PLN, voucher game, dll                                                                                |      `apiKey`      |
-| Currency Exchange          |       azharimm       |       [Link](https://github.com/azharimm/currency-exchange-api)        | `Aktif` | Currency Exchange                                                                                                                                                        |       Tidak        |
-| Paypal                     |        Paypal        |        [Link](https://developer.paypal.com/docs/api/overview/)         | `Aktif` | API Gateway resmi dari Paypal untuk transaksi internasional atau domestik dari dompet paypal                                                                             |      `apiKey`      |
-| Cek Harga Emas             | Cek Harga Emas (CHE) |               [Link](https://api.cekhargaemas.com/docs/)               | `Aktif` | API untuk mengakses informasi data harga emas saat ini                                                                                                                   |      `apiKey`      |
-| Tripay                     |        Tripay        |           [Link](https://tripay.co.id/developer?tab=prolog)            | `Aktif` | API payment Gateway yang terbagi menjadi 2 jenis yaitu Open Payment & Closed Payment. sehingga dapat dintegrasikan dengan aplikasi Anda dengan Gateway pembayaran Tripay |      `apiKey`      |
+| Nama API                   |      Developer       |                                  URL                                   |    Status     | Deskripsi                                                                                                                                                                |       `Auth`       |
+|----------------------------|:--------------------:|:----------------------------------------------------------------------:|:-------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------:|
+| Bisatopup                  |      Bisatopup       |                [Link](http://docs.bisatopup.apiary.io/)                |    `Aktif`    | Melalui API ini dapat melakukan transaksi seperti beli pulsa, bayar token listrik, dan lain-lain.                                                                        |      `apiKey`      |
+| Jurnal API                 |      jurnal.id       | [Link](https://api-jurnal.api-docs.io/v1/getting-started/introduction) |    `Aktif`    | API untuk _software_ laporan keuangan.                                                                                                                                   | `Oauth` / `apiKey` |
+| Midtrans - Payment gateway |       Midtrans       |                 [Link](https://midtrans.com/payments)                  |    `Aktif`    | _Gateway_ atau gerbang untuk transaksi pembayaran.                                                                                                                       |      `apiKey`      |
+| iPaymu                     |        iPaymu        |              [Link](https://ipaymu.com/dokumentasi-api/)               |    `Aktif`    | _Gateway_ atau gerbang untuk transaksi pembayaran.                                                                                                                       |      `apiKey`      |
+| DOKU                       |         DOKU         |              [Link](https://www.doku.com/API/index.html)               |    `Aktif`    | DOKU semakin dipercaya dan menjadi layanan pembayaran elektronik pilihan bagi merchant nasional maupun internasional.                                                    |      `apiKey`      |
+| OVO Unofficial             |     lintangtimur     |             [Link](https://github.com/lintangtimur/ovoid)              |    `Aktif`    | Un-Official ovoid API Wrapper menggunakan PHP                                                                                                                            |       `OTP`        |
+| ESPAY                      |        ESPAY         |   [Link](https://sandbox-kit.espay.id/docs/v2/docespay/en/index.php)   |    `Aktif`    | Payment Gateway Indonesia                                                                                                                                                |      `apiKey`      |
+| Duitku                     |        Duitku        |                    [Link](https://docs.duitku.com)                     |    `Aktif`    | Payment Gateway Indonesia                                                                                                                                                |      `apiKey`      |
+| BCA                        |         BCA          |                  [Link](https://developer.bca.co.id/)                  |    `Aktif`    | API Bank BCA                                                                                                                                                             |      `apiKey`      |
+| OJK Investasi API          |      Cristopher      |           [Link](https://github.com/Namchee/ojk-invest-api/)           |    `Aktif`    | Sebuah API yang menampilkan daftar investasi legal dan ilegal di Indonesia. Bersumber dari data Otoritas Jasa Keuangan                                                   |       Tidak        |
+| Xendit API                 |   Xendit Official    |                 [Link](https://developers.xendit.co/)                  |    `Aktif`    | API Gateway resmi dari Xendit untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran Xendit                                                                      |      `apiKey`      |
+| MobilePulsa API            | MobilePulsa Official |        [Link](https://developer.mobilepulsa.net/documentation)         |    `Aktif`    | API Gateway resmi dari MobilePulsa untuk pembayaran pulsa, top up, PLN, voucher game, dll                                                                                |      `apiKey`      |
+| Currency Exchange          |       azharimm       |       [Link](https://github.com/azharimm/currency-exchange-api)        | `Tidak Aktif` | Currency Exchange                                                                                                                                                        |       Tidak        |
+| Paypal                     |        Paypal        |        [Link](https://developer.paypal.com/docs/api/overview/)         |    `Aktif`    | API Gateway resmi dari Paypal untuk transaksi internasional atau domestik dari dompet paypal                                                                             |      `apiKey`      |
+| Cek Harga Emas             | Cek Harga Emas (CHE) |               [Link](https://api.cekhargaemas.com/docs/)               | `Tidak Aktif` | API untuk mengakses informasi data harga emas saat ini                                                                                                                   |      `apiKey`      |
+| Tripay                     |        Tripay        |           [Link](https://tripay.co.id/developer?tab=prolog)            |    `Aktif`    | API payment Gateway yang terbagi menjadi 2 jenis yaitu Open Payment & Closed Payment. sehingga dapat dintegrasikan dengan aplikasi Anda dengan Gateway pembayaran Tripay |      `apiKey`      |
+| CoinMarketCap              |        CoinMarketCap |           [Link](https://coinmarketcap.com/api/)            |    `Aktif`    | CoinMarketCap API adalah rangkaian endpoint RESTful JSON berkinerja tinggi yang dirancang khusus untuk memenuhi tuntutan misi-kritis dari pengembang aplikasi, ilmuwan data, dan platform bisnis perusahaan. |      `apiKey`      |
+| OY! Indonesia              |    OY! Indonesia     |         [Link](https://api-docs.oyindonesia.com/#introduction)         |    `Aktif`    | API Gateway resmi dari OY! Indonesia untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran [OY! Indonesia](https://www.oyindonesia.com/)                        |      `apiKey`      |
 
 ### Forum
 
@@ -300,9 +302,10 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Avamini API                  |        yogibagus         |                   [Link](https://avamini.decko.my.id/)                    | `Aktif` | API untuk generate secara dinamis gambar avatar                                                                      |  Tidak   |
 | AKUARI API                   |          akuari          |                     [Link](https://api.akuari.my.id/)                     | `Aktif` | REST API Gratis untuk kebutuhan anda / bot json                                                                      |
 | Distrowatch API (unofficial) |         Zulfahmi         |                   [Link](https://github.com/Zzzul/diwa)                   | `Aktif` | API untuk mendapatkan informasi seputar Linux                                                                        |  Tidak   |
-| Face API                     |   Irfan Akbari Habibi    |          [Link](https://github.com/Irfanakbari1810/face-recognition)          | `Aktif` | API untuk mendeteksi wajah dalam gambar, mendapatkan UID untuk cek similarity(berguna untuk sistem face recognition) |  Tidak   |
+| Face API                     |   Irfan Akbari Habibi    |          [Link](https://github.com/Irfanakbari/face-recognition)          | `Aktif` | API untuk mendeteksi wajah dalam gambar, mendapatkan UID untuk cek similarity(berguna untuk sistem face recognition) |  Tidak   |
+| PetPet GIF Generator API                     |   balhisyhrl    |          [Link](https://anon-petpet.herokuapp.com/)          | `Aktif` | API PetPet GIF Generator |  Tidak   |
 
-## Crypto
+### Crypto
 
 | Nama API                     |        Developer         |                                    URL                                    | Status  | Deskripsi                                                                                                            |  `Auth`  |
 | ---------------------------- | :----------------------: | :-----------------------------------------------------------------------: | :-----: | :------------------------------------------------------------------------------------------------------------------- | :------: |
@@ -322,7 +325,7 @@ Hatur Nuhun. :)
 
 Terimakasih untuk kalian yang udah ikut ber-kontribusi! :heart:
 
-# Lisensi
+## Lisensi
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
