@@ -11,13 +11,14 @@ Kumpulan API tentang data dan informasi di Indonesia
 ## Daftar Isi
 
 - [Daftar API Lokal Indonesia](#daftar-api-lokal-indonesia)
-- [Daftar dalam bahasa lain](#daftar-dalam-bahasa-lain)
+  - [Daftar dalam bahasa lain](#daftar-dalam-bahasa-lain)
   - [Daftar Isi](#daftar-isi)
   - [Daftar API](#daftar-api)
     - [Informasi Umum](#informasi-umum)
     - [Berita](#berita)
     - [Buku](#buku)
-    - [E-Commerce](#e-commerce)
+    - [Data](#data)
+    - [_E-Commerce_](#e-commerce)
     - [Finansial](#finansial)
     - [Forum](#forum)
     - [Hiburan](#hiburan)
@@ -34,10 +35,10 @@ Kumpulan API tentang data dan informasi di Indonesia
     - [Ramalan Cuaca](#ramalan-cuaca)
     - [Sertifikasi](#sertifikasi)
     - [Utilitas](#utilitas)
-  - [Crypto](#crypto)
+    - [Crypto](#crypto)
   - [Kontak](#kontak)
   - [:fire: TERIMAKASIH :fire:](#fire-terimakasih-fire)
-- [Lisensi](#lisensi)
+  - [Lisensi](#lisensi)
 
 ## Daftar API
 
@@ -77,6 +78,12 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Quran API ID                  |                 R.M. Reza                 |                         [Link](https://github.com/renomureza/quran-api-id)                         | `Aktif` | REST API Al-Quran Indonesia dengan terjemahan, tafsir (Kemenag, Quraish Shihab, Al-Jalalain), audio murottal (per surah dan ayat dari 6 qori), random ayat, dll. |  Tidak   |
 | Unofficial Gramedia Ebooks    |                 Yusuf T.                  |                      [Link](https://github.com/yusuftaufiq/laravel-books-api)                      | `Aktif` | Unofficial REST API yang menyediakan daftar buku digital dari [Gramedia](https://ebooks.gramedia.com/) melalui web scraping.                                     | `apiKey` |
 | Holy Quran API                |                Kang Cahya                 |               [Link](https://github.com/dyazincahya/quran-api-with-php-codeigniter)                | `Aktif` | Holy Quran API - 6236 verses, 114 surah, 30 Juz                                                                                                                  |  Tidak   |
+
+### Data
+
+| Nama API                     |     Developer      |                                       URL                                       | Status  | Deskripsi                                                                                                         |  `Auth`  |
+| ---------------------------- | :----------------: | :-----------------------------------------------------------------------------: | :-----: | :---------------------------------------------------------------------------------------------------------------- | :------: |
+| Web API Badan Pusat Statistik RI | Badan Pusat Statistik | [Link](https://webapi.bps.go.id/developer/) | `Aktif` | API untuk akses data dan produk statistik Badan Pusat Statistik RI | `apiKey` |
 
 ### _E-Commerce_
 
