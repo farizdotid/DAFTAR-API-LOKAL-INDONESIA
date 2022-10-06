@@ -20,6 +20,7 @@ This file is translation from Original (Bahasa Indonesia).
     - [Book](#book)
     - [Courier](#courier)
     - [Daily Life](#daily-life)
+    - [Data](#data)
     - [E-Commerce](#e-commerce)
     - [Entertainment](#entertainment)
     - [Event](#event)
@@ -61,6 +62,12 @@ This file is translation from Original (Bahasa Indonesia).
 | API Name        | Developer | URL | Status  | Description | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Cerpenmu.com API| Abdul Muttaqin | [Link](https://fdci.se/cerpenmu-com-api-random-cerpen/) | `Active` | Get random short stories from cerpenmu.com  | No |
+
+### Data
+
+| Nama API                     |     Developer      |                                       URL                                       | Status  | Deskripsi                                                                                                         |  `Auth`  |
+| ---------------------------- | :----------------: | :-----------------------------------------------------------------------------: | :-----: | :---------------------------------------------------------------------------------------------------------------- | :------: |
+| Web API Badan Pusat Statistik RI | Badan Pusat Statistik | [Link](https://webapi.bps.go.id/developer/) | `Active` | Official API from Badan Pusat Statistik RI to access data and statistics products of BPS RI | `apiKey` |
 
 ### E-Commerce
 
