@@ -261,6 +261,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | -------------------------- | :------------: | :----------------------------------------------------------------------------------: | :-----: | :------------------------------------- | :----: |
 | Data Sekolah API           | Ahmad Ramadhan | [Link](https://github.com/semogaBermanfaat-AhmadRamadhan/dataSekolahNegeriIndonesia) | `Aktif` | Data Sekolah Negeri di Indonesia       | Tidak  |
 | API Data Sekolah Indonesia |     Alwan      |              [Link](https://github.com/wanrabbae/api-sekolah-indonesia)              | `Aktif` | Data Data Sekolah di Indonesia Lengkap | Tidak  |
+| Data Mahasiswa Indonesia | Kemendikbud | [Link](https://api-frontend.kemdikbud.go.id/hit_mhs/abiel%20zulio%20maseida) | `Aktif` | Data mahasiswa se-Indonesia mencakupi nama lengkap, universitas, dan program studi | Tidak |
 
 ### Ramalan Cuaca
 
