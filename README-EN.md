@@ -1,3 +1,5 @@
+[![GitHub forks](https://img.shields.io/github/forks/farizdotid/DAFTAR-API-LOKAL-INDONESIA?style=social)](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/network) &nbsp;&nbsp; [![GitHub stars](https://img.shields.io/github/stars/farizdotid/DAFTAR-API-LOKAL-INDONESIA?style=social)](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/stargazers)
+
 # List of Local API Indonesia
 
 This repository have list of local API Indonesia about Indonesia data.
@@ -29,7 +31,7 @@ This file is translation from Original (Bahasa Indonesia).
     - [Music](#music)
     - [News](#news)
     - [Prediction](#prediction)
-    - [Sertification](#sertification)
+    - [Certification](#certification)
     - [Social Media](#social-media)
     - [Utility](#utility)
     - [Voluntary](#voluntary)
@@ -43,6 +45,7 @@ This file is translation from Original (Bahasa Indonesia).
 | API Name        | Developer | URL | Status  | Description | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Alquran ID | bachors | [Link](https://github.com/bachors/Al-Quran-ID-API) | `Active` | Indonesian translation of Al-Quran | No |
+| New KBBI API | btrianurdin | [Link](https://github.com/btrianurdin/new-kbbi-api) | `Aktif` | KBBI API included word, class of word and meaning of the word | No |
 
 ### Courier
 
@@ -51,6 +54,7 @@ This file is translation from Original (Bahasa Indonesia).
 | Cek Resi | Wahid | [Link](http://wahidganteng.ga/api/cek-resi) | `Active` | Check receipt from [JNE], [SiCepat], [Wahana], etc. | `apiKey` |
 | Paket ID | paket.id | [Link](http://docs.paket.id/API/Versi_2.html) | `Active` | Courier API | `apiKey` |
 | Raja Ongkir | Rajaongkir | [Link](http://rajaongkir.com/dokumentasi) | `Active` | Check delivery cost using courier [JNE], [POS], [TIKI], etc. | `apiKey` |
+| J&T | J&T Official | [Link](https://developer.jet.co.id/documentation) | `Aktif` | J&T offcial API to access AWB, Order Tracking, Check Rates, and Order Cancellation. | `apiKey` |
 
 ### Daily Life
 
@@ -66,7 +70,10 @@ This file is translation from Original (Bahasa Indonesia).
 | JD.id API | JD.id Dev | [Link](https://api.jd.id/home) | `Active` | API for integrate your system into JD.id| `apiKey` |
 | Matahari Mall API for Seller | Matahari Mall Dev | [Link](http://docs.apiforseller.apiary.io) | `Active` | Matahari Mall API for Seller | `apiKey` |
 | Tiket.com API | Tiket.com Dev | [Link](http://docs.tiket.com/) | `Active` | Selling train ticket, etc. | `apiKey` |
+| Tiketux.com API | Tiketux.com Dev | [Link] (https://developer.tiketux.com/) | 'Active' | API for transactions on tiketux.com which is a travel ticket sales site. | `apiKey` |
 | Tokopedia.com API | Tokopedia.com Dev | [Link](https://developer.tokopedia.com/openapi/guide/) | `Active` | API for integrate your system into Tokopedia | `apiKey` |
+| Lazada | Lazada Dev | [Link](https://open.lazada.com/doc/doc.htm) | `Aktif` | Lazada official API to integrate Product, Order, Finance, Logistic, Seller, and System from Lazada on your app. | `apiKey` |
+| Shopee | Shopee Dev | [Link](https://open.shopee.com/documents) | `Aktif` | Shopee official API to integrate many services from Shopee. | `apiKey` |
 
 ### Entertainment
 
@@ -92,6 +99,10 @@ This file is translation from Original (Bahasa Indonesia).
 | Jurnal API | jurnal.id | [Link](https://api-jurnal.api-docs.io/v1/getting-started/introduction) | `Active` | Financial Report API | `Oauth` / `apiKey` |
 | Midtrans - Payment gateway | Midtrans | [Link](https://midtrans.com/payments) | `Active` | Payment Gateway | `apiKey` |
 | OVO Unofficial | lintangtimur | [Link](https://github.com/lintangtimur/ovoid) | `Active` | Un-Official ovo.id API Wrapper built with PHP | `OTP` |
+| OJK Investasi API | Cristopher | [Link](https://ojk-invest-api.vercel.app/) | `Active` | An API that provides list of legal and ilegal investment products in Indonesia. Taken directly from OJK | No |
+| Xendit API | Xendit Official | [Link](https://developers.xendit.co/) | `Active` | Xendit official API to integrate your own application with Xendit Payment Gateway | `apiKey`
+| Tripay API | Tripay | [Link](https://tripay.co.id/developer?tab=prolog) | `Active` | API payment Gateway which is divided into 2 types, namely Open Payment & Closed Payment. so it can be integrated with your application with Tripay payment Gateway | `apiKey` |
+| OY! Indonesia | OY! Indonesia | [Link](https://api-docs.oyindonesia.com/#introduction) | `Active` | OY! Indonesia official API to integrate your own application with OY! Indonesia Payment Gateway | `apiKey` |
 
 ### Forum
 
@@ -113,6 +124,7 @@ This file is translation from Original (Bahasa Indonesia).
 | Data Pajak Motor | dppad.jatengprov | [Link](https://github.com/elybin/parking_ocr) | `Active` | Motor vehicle tax data | `apiKey` |
 | Gardu PLN | PLN | [Link](http://apps.iconpln.co.id:7181/Panas-1.0/AssetGarduAllRf) | `Active` | List Gardu PLN | No
 | Instansi ( Polisi, Pemadam, Rumah Sakit ) | farizdotid | [Link](https://farizdotid.com/dokumentasi-api-instansi-indonesia/) | `Active` | Instance like police, hospital, etc. bring location, name, and another information. | No |
+| Indonesia National Heroes | Yogi Saputro | [Link](https://indonesia-public-static-api.vercel.app/api/heroes) | `Active` | Information about Indonesia national heroes. See [docs](https://github.com/yogski/indonesia-public-static-api#api-pahlawan-nasional-indonesia-apiheroes) for more details. | No |
 
 ### Health
 
@@ -133,10 +145,12 @@ This file is translation from Original (Bahasa Indonesia).
 | Kode Pos | iBachor | [Link](https://github.com/bachors/apiapi#kode-pos-api) | `Active` | Post code in Indonesia | No |
 | Kode Pos | Widnyana Putra | [Link](http://log.kalarau.net/kodepos.html) | `Active` | Post code in Indonesia | No |
 | Kode Pos | Cain van Mason | [Link](https://nbc.vanmason.web.id/service/kodepos/42173) | `Active` | Post code in Indonesia | No |
-| Kode Pos | sProDev | [Link](https://github.com/sProDev/kodepos) | `Active` | Search for Indonesian Postal Codes by Name of Place, Village or City | No |
+| Kode Pos | sooluh | [Link](https://github.com/sooluh/kodepos) | `Active` | Search for Indonesian Postal Codes by Name of Place, Village or City | No |
 | Museum di Indonesia | Pemerintah Indonesia | [Link](http://jendela.data.kemdikbud.go.id/api/index.php/CcariMuseum/searchGET?nama=museum) | `Active` | List of Indonesian museum | No |
 | Nama Daerah Seluruh Indonesia | farizdotid | [Link](https://farizdotid.com/dokumentasi-api-daerah-indonesia/) | `Active` | Name List of Province, City, etc. in Indonesia | No |
+| Nama Daerah Seluruh Indonesia | ibnux | [Link](https://ibnux.github.io/data-indonesia/) | `Aktif` | JSON API List of Province, City, etc. in Indonesia for Mobile Apps | No |
 | Sekolah se Indonesia | Pemerintah Indonesia | [Link](https://data.go.id/dataset/sekolah) | `Active` | API for school data in Indonesia | No |
+| Indonesia Volcanoes | Yogi Saputro | [Link](https://indonesia-public-static-api.vercel.app/api/volcanoes) | `Active` | List of volcanoes in Indonesia. See [docs](https://github.com/yogski/indonesia-public-static-api#api-gunung-berapi-indonesia-apivolcanoes) for more details. | No |
 
 ### Music
 
@@ -159,7 +173,7 @@ This file is translation from Original (Bahasa Indonesia).
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Perkiraan Keberangkatan Haji | iBachor | [Link](https://github.com/bachors/apiapi#perkiraan-keberangkatan-haji) | `Active` | Predicition to going Haji | No |
 
-### Sertification
+### Certification
 
 | API Name        | Developer | URL | Status  | Description | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
@@ -176,6 +190,7 @@ This file is translation from Original (Bahasa Indonesia).
 | API Name        | Developer | URL | Status  | Description | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Arbanat | jajanjawa | [Link](https://arbanat.my.id) | `Active` | Send sms via rest api | `apiKey` |
+| Screenshot API | statically.io | [Link](https://statically.io/) | `Active` | A free screenshot API to convert web to image or PDF. Supports desktop and mobile views. | No |
 
 ### Voluntary
 
