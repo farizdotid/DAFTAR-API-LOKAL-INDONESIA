@@ -307,7 +307,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Distrowatch API (unofficial) |         Zulfahmi         |                   [Link](https://github.com/Zzzul/diwa)                   | `Aktif` | API untuk mendapatkan informasi seputar Linux                                                                        |  Tidak   |
 | Face API                     |   Irfan Akbari Habibi    |          [Link](https://github.com/Irfanakbari/face-recognition)          | `Aktif` | API untuk mendeteksi wajah dalam gambar, mendapatkan UID untuk cek similarity(berguna untuk sistem face recognition) |  Tidak   |
 | PetPet GIF Generator API                     |   balhisyhrl    |          [Link](https://anon-petpet.herokuapp.com/)          | `Aktif` | API PetPet GIF Generator |  Tidak   |
-| Spammer Call                 |         Rud Az           |            [Link](https://spamertelpon.herokuapp.com/)                    | `Aktif` | Api untuk spam call, per spam/telpon bisa beda² nomer.                                                               | `ApiKey`  |
+| Spam Call                 |         Rud Az           |            [Link](https://spamertelpon.herokuapp.com/)                    | `Aktif` | Api untuk spam call, per spam/telpon bisa beda² nomer.                                                               | `ApiKey`  |
 
 ### Crypto
 
