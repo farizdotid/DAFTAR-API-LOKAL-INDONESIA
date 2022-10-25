@@ -149,7 +149,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Pururin                                    |    sinkaroid     |               [Link](https://github.com/sinkaroid/pururin)               | `Aktif` | API berfitur yang menampilkan doujin / komik hentai dari situs Pururin (Un-official)                                                               | Tidak dan `ApiKey` |
 | Jandapress                                 |    sinkaroid     |                [Link](https://github.com/sinkaroid/jandapress)           | `Aktif` | All-in-one doujinshi API with gather in mind.                                                                                                    | Tidak dan `ApiKey` |
 | RAZnime                                    |   Romadhonaji    |                  [Link](https://raznime.herokuapp.com/)                  | `Aktif` | API Streaming Anime Bahasa Inggris                                                                                                                 |       Tidak        |
-| Student Blue Archive |  arufars | [Link](https://github.com/arufars/api-blue-archive) | `Aktif` | API (unofficial) berisi data informasi character dari game Blue Archive  | Tidak |
+| Student Blue Archive                       |     arufars      |               [Link](https://github.com/arufars/api-blue-archive)  |         `Aktif`    | API (unofficial) berisi informasi data character dari game Blue Archive                                                                        | Tidak        |
 
 ### Jasa Pengiriman
 
