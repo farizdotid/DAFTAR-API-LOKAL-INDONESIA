@@ -319,6 +319,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Indodax    |    btcid    |                [Link](https://github.com/btcid/indodax-official-api-docs)                | `Aktif` | Full Dokumentasi Api Public, Private Indodax Exchange.                                                                                   | Tidak dan `ApiKey` |
 | Binance    |   binance   |                 [Link](https://github.com/binance/binance-spot-api-docs)                 | `Aktif` | Official Documentation for the Binance APIs and Streams                                                                                  | Tidak dan `ApiKey` |
 | Rekeningku | rekeningku  |                     [Link](https://api.rekeningku.com/#introduction)                     | `Aktif` | Anda dapat menggunakan API kami untuk mengakses titik akhir API Rekeningku, yang dapat memperoleh informasi seperti Pesanan, Pasar, dll. |       Tidak        |
+| Cek ID Game    |   topup.monster   |                 [Link](https://docs.topup.monster)                 | `Aktif` | Api Cek ID Game                                                                                  | `ApiKey` |
 
 ## Kontak
 
