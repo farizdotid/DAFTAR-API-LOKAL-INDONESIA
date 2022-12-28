@@ -49,6 +49,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Tahukah Anda API       |  Icaksh   | [Link](https://cinnabar.icaksh.my.id/api/public/daily/wiki) | `Aktif` | API untuk mendapatkan informasi fakta harian (Tahukah Anda) yang berasal dari Wikipedia (dikarenakan API untuk mendapatkan fakta harian tidak tersedia)                                  | `Tidak` |
 | Info Gempa & Cuaca API | R.M. Reza | [Link](https://github.com/renomureza/cuaca-gempa-rest-api)  | `Aktif` | REST API informasi gempa terkini dan cuaca kota besar di 35 provinsi dalam 3 harian, sumber data BMKG.                                                                                   | `Tidak` |
 | Pencarian Nomer HP     | Rasi Tech |           [Link](http://osinttools.my.id/#tools)            | `Aktif` | REST API Pencariam Nomer HP Melalui Internet / Phone Number OSINT                                                                                                                        | `Tidak` |
+| Hibersunda Undak Usuk Basa Sunda     | Hiberin Digital |           [Link](https://hibersunda.netlify.app)            | `Aktif` | API Pencarian Kosa Kata dalam Undak Usuk Basa Sunda                                                                                                                         | `Tidak` |
 
 ### Berita
 
