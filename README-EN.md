@@ -70,7 +70,7 @@ This file is translation from Original (Bahasa Indonesia).
 | JD.id API | JD.id Dev | [Link](https://api.jd.id/home) | `Active` | API for integrate your system into JD.id| `apiKey` |
 | Matahari Mall API for Seller | Matahari Mall Dev | [Link](http://docs.apiforseller.apiary.io) | `Active` | Matahari Mall API for Seller | `apiKey` |
 | Tiket.com API | Tiket.com Dev | [Link](http://docs.tiket.com/) | `Active` | Selling train ticket, etc. | `apiKey` |
-| Tiketux.com API | Tiketux.com Dev | [Link] (https://developer.tiketux.com/) | 'Active' | API for transactions on tiketux.com which is a travel ticket sales site. | `apiKey` |
+| Tiketux.com API | Tiketux.com Dev | [Link](https://developer.tiketux.com/) | `Active` | API for transactions on tiketux.com which is a travel ticket sales site. | `apiKey` |
 | Tokopedia.com API | Tokopedia.com Dev | [Link](https://developer.tokopedia.com/openapi/guide/) | `Active` | API for integrate your system into Tokopedia | `apiKey` |
 | Lazada | Lazada Dev | [Link](https://open.lazada.com/doc/doc.htm) | `Aktif` | Lazada official API to integrate Product, Order, Finance, Logistic, Seller, and System from Lazada on your app. | `apiKey` |
 | Shopee | Shopee Dev | [Link](https://open.shopee.com/documents) | `Aktif` | Shopee official API to integrate many services from Shopee. | `apiKey` |
@@ -81,6 +81,7 @@ This file is translation from Original (Bahasa Indonesia).
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Film Indonesia | themoviedb | [Link](https://www.themoviedb.org/documentation/api) | `Active` | List of Indonesian films with a record of API configuration set to Indonesia | `apiKey` |
 | Tanggal Lahiran Pasaran Zodiak | iBachor | [Link](https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak) | `Active` | Zodiac checker | No |
+| KyokoAPI | Elliottophellia | [Link](https://kyoko.rei.my.id) | `Active` | Generate Random Anime Pictures & Quotes,Trace Anime Screenshot To Find The Source,And Find Detail Information About Any Anime Titles! | No |
 
 ### Event
 
