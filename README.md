@@ -11,13 +11,13 @@ Kumpulan API tentang data dan informasi di Indonesia
 ## Daftar Isi
 
 - [Daftar API Lokal Indonesia](#daftar-api-lokal-indonesia)
-- [Daftar dalam bahasa lain](#daftar-dalam-bahasa-lain)
+  - [Daftar dalam bahasa lain](#daftar-dalam-bahasa-lain)
   - [Daftar Isi](#daftar-isi)
   - [Daftar API](#daftar-api)
     - [Informasi Umum](#informasi-umum)
     - [Berita](#berita)
     - [Buku](#buku)
-    - [E-Commerce](#e-commerce)
+    - [_E-Commerce_](#e-commerce)
     - [Finansial](#finansial)
     - [Forum](#forum)
     - [Hiburan](#hiburan)
@@ -34,10 +34,10 @@ Kumpulan API tentang data dan informasi di Indonesia
     - [Ramalan Cuaca](#ramalan-cuaca)
     - [Sertifikasi](#sertifikasi)
     - [Utilitas](#utilitas)
-  - [Crypto](#crypto)
+    - [Crypto](#crypto)
   - [Kontak](#kontak)
   - [:fire: TERIMAKASIH :fire:](#fire-terimakasih-fire)
-- [Lisensi](#lisensi)
+  - [Lisensi](#lisensi)
 
 ## Daftar API
 
@@ -117,6 +117,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | CoinMarketCap              |        CoinMarketCap |           [Link](https://coinmarketcap.com/api/)                       |    `Aktif`    | CoinMarketCap API adalah rangkaian endpoint RESTful JSON berkinerja tinggi yang dirancang khusus untuk memenuhi tuntutan misi-kritis dari pengembang aplikasi, ilmuwan data, dan platform bisnis perusahaan. |      `apiKey`      |
 | OY! Indonesia              |    OY! Indonesia     |         [Link](https://api-docs.oyindonesia.com/#introduction)         |    `Aktif`    | API Gateway resmi dari OY! Indonesia untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran [OY! Indonesia](https://www.oyindonesia.com/)                        |      `apiKey`      |
 | Bank BRI                   |       BRI Dev        |         [Link](https://developer.bri.co.id/)                           | `Tidak Aktif`  | API Bank BRI.                                                                                                                                                            |      `apiKey`      |
+| Tradingview              |        Tradingview |           [Link](https://www.tradingview.com/rest-api-spec/)                       |    `Aktif`    | API ini akan diimplementasikan oleh Broker untuk menghubungkan sistem backend mereka ke TradingView. |      `apiKey`      |
 
 ### Forum
 
