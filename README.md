@@ -35,6 +35,7 @@ Kumpulan API tentang data dan informasi di Indonesia
     - [Sertifikasi](#sertifikasi)
     - [Utilitas](#utilitas)
     - coba aku bg
+    - skidi
   - [Crypto](#crypto)
   - [Kontak](#kontak)
   - [:fire: TERIMAKASIH :fire:](#fire-terimakasih-fire)
