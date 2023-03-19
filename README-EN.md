@@ -79,6 +79,7 @@ This file is translation from Original (Bahasa Indonesia).
 
 | API Name        | Developer | URL | Status  | Description | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| LK21 & NontonDrama (Unofficial) | [Febriadji](https://github.com/febriadj) | [Link](https://github.com/febriadj/lk21-api) | `Active` | Serving movies, animations, and series from around the world with streaming support (Indonesian subtitles) | No |
 | Film Indonesia | themoviedb | [Link](https://www.themoviedb.org/documentation/api) | `Active` | List of Indonesian films with a record of API configuration set to Indonesia | `apiKey` |
 | Tanggal Lahiran Pasaran Zodiak | iBachor | [Link](https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak) | `Active` | Zodiac checker | No |
 | KyokoAPI | Elliottophellia | [Link](https://kyoko.rei.my.id) | `Active` | Generate Random Anime Pictures & Quotes,Trace Anime Screenshot To Find The Source,And Find Detail Information About Any Anime Titles! | No |
