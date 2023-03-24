@@ -126,7 +126,7 @@ This file is translation from Original (Bahasa Indonesia).
 | Gardu PLN | PLN | [Link](http://apps.iconpln.co.id:7181/Panas-1.0/AssetGarduAllRf) | `Active` | List Gardu PLN | No
 | Instansi ( Polisi, Pemadam, Rumah Sakit ) | farizdotid | [Link](https://farizdotid.com/dokumentasi-api-instansi-indonesia/) | `Active` | Instance like police, hospital, etc. bring location, name, and another information. | No |
 | Indonesia National Heroes | Yogi Saputro | [Link](https://indonesia-public-static-api.vercel.app/api/heroes) | `Active` | Information about Indonesia national heroes. See [docs](https://github.com/yogski/indonesia-public-static-api#api-pahlawan-nasional-indonesia-apiheroes) for more details. | No |
-| Local Language                    |            Mahes2             |               [Link](https://github.com/Mahes2/bahasa-daerah-indonesia)               | `Aktif` | List of local language in Indonesia                                                                                                                                                                              |  No   |
+| Local Language                    |            Mahes2             |               [Link](https://github.com/Mahes2/bahasa-daerah-indonesia)               | `Active` | List of local language in Indonesia                                                                                                                                                                              |  No   |
 
 ### Health
 
