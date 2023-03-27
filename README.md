@@ -11,13 +11,13 @@ Kumpulan API tentang data dan informasi di Indonesia
 ## Daftar Isi
 
 - [Daftar API Lokal Indonesia](#daftar-api-lokal-indonesia)
-- [Daftar dalam bahasa lain](#daftar-dalam-bahasa-lain)
+  - [Daftar dalam bahasa lain](#daftar-dalam-bahasa-lain)
   - [Daftar Isi](#daftar-isi)
   - [Daftar API](#daftar-api)
     - [Informasi Umum](#informasi-umum)
     - [Berita](#berita)
     - [Buku](#buku)
-    - [E-Commerce](#e-commerce)
+    - [_E-Commerce_](#e-commerce)
     - [Finansial](#finansial)
     - [Forum](#forum)
     - [Hiburan](#hiburan)
@@ -34,10 +34,10 @@ Kumpulan API tentang data dan informasi di Indonesia
     - [Ramalan Cuaca](#ramalan-cuaca)
     - [Sertifikasi](#sertifikasi)
     - [Utilitas](#utilitas)
-  - [Crypto](#crypto)
+    - [Crypto](#crypto)
   - [Kontak](#kontak)
   - [:fire: TERIMAKASIH :fire:](#fire-terimakasih-fire)
-- [Lisensi](#lisensi)
+  - [Lisensi](#lisensi)
 
 ## Daftar API
 
@@ -174,6 +174,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Jadwal Sholat         |    lakuapik    |  [Link](https://github.com/lakuapik/jadwalsholatorg)  | `Aktif` | Jadwal sholat berdasarkan kota/kabupaten di Indonesia                | Tidak  |
 | Kunci Jawaban TTS API |    nasrul21    |   [Link](https://github.com/nasrul21/kunci-tts-api)   | `Aktif` | API untuk mendapatkan kunci jawaban TTS (Teka Teki Silang) Indonesia | Tidak  |
 | Jadwal Shalat         |    azharimm    | [Link](https://github.com/azharimm/jadwal-shalat-api) | `Aktif` | Rest API jadwal shalat kota/kabupaten di Indonesia                   | Tidak  |
+| Cari Masjid        |    jibrilhp    | [Link](https://jibs.my.id/api/masjid/search/masjid%20%al%20ikhlas) | `Aktif` | API Masjid, source data kemenag                  | Tidak  |
 
 ### Sosial Media
 
