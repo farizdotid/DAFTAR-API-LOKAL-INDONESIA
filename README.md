@@ -119,6 +119,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | OY! Indonesia              |    OY! Indonesia     |         [Link](https://api-docs.oyindonesia.com/#introduction)         |    `Aktif`    | API Gateway resmi dari OY! Indonesia untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran [OY! Indonesia](https://www.oyindonesia.com/)                        |      `apiKey`      |
 | Bank BRI                   |       BRI Dev        |         [Link](https://developer.bri.co.id/)                           | `Tidak Aktif`  | API Bank BRI.                                                                                                                                                            |      `apiKey`      |
 | Tradingview              |        Tradingview |           [Link](https://www.tradingview.com/rest-api-spec/)                       |    `Aktif`    | API ini akan diimplementasikan oleh Broker untuk menghubungkan sistem backend mereka ke TradingView. |      `apiKey`      |
+| tradingeconomics | tradingeconomics | [Link](https://tradingeconomics.com/api/) |    `Aktif`    | rading Economics Application Programming Interface (API) Menyediakan akses langsung ke data kami. Ini memungkinkan klien untuk mengunduh jutaan baris data historis, untuk mempertanyakan kalender ekonomi real-time. |      `apiKey`      |
 
 ### Forum
 
