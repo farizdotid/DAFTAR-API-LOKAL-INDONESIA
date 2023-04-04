@@ -157,6 +157,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Student Blue Archive                       |     arufars      |               [Link](https://github.com/arufars/api-blue-archive)  |         `Aktif`    | API (unofficial) berisi informasi data character dari game Blue Archive                                                                        | Tidak        |
 | TOOLCEK                       |     Alex      |     [Link](https://documenter.getpostman.com/view/13751573/2s8Z6vYZgS#b488f545-0053-4818-a440-ddc360391d36)      | `Aktif` | API Cek ID Games,Nomor Rekening,Nomor E-Wallet,Nomor meter PLN,DLL,Membantumu dalam system validasi,Integrasikan sekarang juga!                                                                             |       `ApiKey`        |
 | ID Game Checker                         |   Nevertary I Forster  |     [Link](https://rapidapi.com/nazi436123/api/id-game-checker)      | `Aktif` | Buat Validasi atau dapatkan username dengan ID Game. Tersedia untuk Free Fire, Mobile Legends, PUBG Mobile, Higgs Domino, Point Blank dll.                                         |       `ApiKey`        |
+| Quotes Generator API                       |   Irfan Akbari Habibi  |     [Link](https://github.com/Irfanakbari/quote-generator-api)      | `Aktif` | API untuk Dapatkan Random Quotes Harian                                        |       `Tidak`        |
 
 ### Jasa Pengiriman
 
