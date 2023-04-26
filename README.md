@@ -160,6 +160,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | ID Game Checker                         |   Nevertary I Forster  |     [Link](https://rapidapi.com/nazi436123/api/id-game-checker)      | `Aktif` | Buat Validasi atau dapatkan username dengan ID Game. Tersedia untuk Free Fire, Mobile Legends, PUBG Mobile, Higgs Domino, Point Blank dll.                                         |       `ApiKey`        |
 | Quotes Generator API                       |   Irfan Akbari Habibi  |     [Link](https://github.com/Irfanakbari/quote-generator-api)      | `Aktif` | API untuk Dapatkan Random Quotes Harian                                        |       Tidak        |
 | Wibu API | Yoga Pranata Damanik | [Link](https://wibu-api.eu.org) | `Aktif` | Multi API: Anime, Donghua, Hentai, Manga, Doujin, Anime Opening & Ending, Lk21, Google, Facebook, Download link scraper, NSFW & Konten dewasa, dll. | Tidak |
+| Flamescans Manga Scraper (EN) | KevinNVM | [Link](https://github.com/KevinNVM/flamescans-manga-scraper) | `Aktif` | Flamescans Manga Scraper English Language | Tidak |
 
 ### Jasa Pengiriman
 
