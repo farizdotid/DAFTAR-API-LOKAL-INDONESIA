@@ -51,6 +51,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Pencarian Nomer HP     | Rasi Tech |           [Link](http://osinttools.my.id/#tools)            | `Tidak Aktif` | REST API Pencariam Nomer HP Melalui Internet / Phone Number OSINT                                                                                                                        | `Tidak` |
 | Hibersunda Undak Usuk Basa Sunda     | Hiberin Digital |           [Link](https://hibersunda.netlify.app)            | `Aktif` | API Pencarian Kosa Kata dalam Undak Usuk Basa Sunda                                                                                                                         | `Tidak` |
 | Daftar Stasiun Kereta Api di Indonesia    | PT Kereta Api Indonesia (Persero) |           [Link](https://booking.kai.id/api/stations2)            | `Aktif` | API Daftar Stasiun Kereta Api                                                                                                                         | `Tidak` |
+| Dayoff API    | Gerinsp |           [Link](https://dayoffapi.vercel.app/)            | `Aktif` | Api untuk mendapatkan data hari libur nasional dan cuti bersama di indonesia																															| `Tidak` |
 
 ### Berita
 
