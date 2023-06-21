@@ -96,6 +96,7 @@ This file is translation from Original (Bahasa Indonesia).
 
 | API Name        | Developer | URL | Status  | Description | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Neropass API | [Neropass](https://neropass.com/reseller)  | [Link](https://docs.neropass.com/) | `Aktif` | All-in-one voucher and online game topup services by PT Busur Media Indonesia (open for resellers), we can accept USD and Crypto payments for international resellers. |  `userId` and `apiKey` |
 | Bisatopup | Bisatopup | [Link](http://docs.bisatopup.apiary.io/) | `Active` | Buy electric token, etc. | `apiKey` |
 | Doku | Doku | [Link](https://www.doku.com/API/index.html) | `Active` | DOKU Payment API to integrate with your system. | `apiKey` |
 | ESPAY | ESPAY | [Link](https://sandbox-kit.espay.id/docs/v2/docespay/en/index.php) | `Active` | Payment Gateway Indonesia | `apiKey` |
