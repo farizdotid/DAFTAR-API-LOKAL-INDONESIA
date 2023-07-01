@@ -148,6 +148,7 @@ This file is translation from Original (Bahasa Indonesia).
 
 | API Name        | Developer | URL | Status  | Description | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| idn-area | [fityannugroho](https://github.com/fityannugroho) | [Link](https://github.com/fityannugroho/idn-area) | `Active` | Open API of the latest Indonesia region data: Provinces, Regencies/Cities, Subdistricts, Villages, and Islands. | No |
 | Kode Pos | iBachor | [Link](https://github.com/bachors/apiapi#kode-pos-api) | `Active` | Post code in Indonesia | No |
 | Kode Pos | Widnyana Putra | [Link](http://log.kalarau.net/kodepos.html) | `Active` | Post code in Indonesia | No |
 | Kode Pos | Cain van Mason | [Link](https://nbc.vanmason.web.id/service/kodepos/42173) | `Active` | Post code in Indonesia | No |
@@ -210,7 +211,7 @@ This file is translation from Original (Bahasa Indonesia).
 
 Feel free to ask me in Facebook, message to [Fariz Ramadhan](https://www.facebook.com/farizdotid). You can submit [issues](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/issues) for any comment for this repository.
 
-Thank You (Hatur Nuhun - in Sundanese). 
+Thank You (Hatur Nuhun - in Sundanese).
 
 ## License
 
