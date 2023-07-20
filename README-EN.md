@@ -197,6 +197,7 @@ This file is translation from Original (Bahasa Indonesia).
 
 | API Name        | Developer | URL | Status  | Description | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Indiwtf API | Frans Allen | [Link](https://indiwtf.upset.dev/api) | `Active` | A simple API to check whether a website is blocked in Indonesia or not. | No |
 | 1Akun | 1Akun | [Link](https://1akun.com) | `Active` | Authentication made easy (Oauth API) | `apiKey` |
 | Arbanat | jajanjawa | [Link](https://arbanat.my.id) | `Active` | Send sms via rest api | `apiKey` |
 | Screenshot API | statically.io | [Link](https://statically.io/) | `Active` | A free screenshot API to convert web to image or PDF. Supports desktop and mobile views. | No |
