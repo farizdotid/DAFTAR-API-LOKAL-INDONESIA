@@ -292,6 +292,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | ------------------ | :--------------------------------: | :-----------------------------------------------------------: | :-----: | :------------------------------------------------------------------------------- | :----: |
 | BMKG Json API      | [ibnux](https://github.com/ibnux/) | [link](https://ibnux.github.io/BMKG-importer/#pakai-langsung) | `Aktif` | Ramalan cuaca Indonesia sampai 3 hari kedepan Import dari BMKG dalam bentuk JSON | Tidak  |
 | API Cuaca Realtime |             weatherapi             |              [link](https://www.weatherapi.com)               | `Aktif` | Ramalan Cuaca Terkini Berbagai Kota dengan Format JSON                           | apiKey |
+|API & Graphql Cuaca BMKG  | [pace11](https://github.com/pace11) | [link](https://github.com/pace11/weather-api) | `Aktif` | Ramalan Cuaca konversi dari format XML ke JSON sumber dari API BMKG. Sudah tersedia dalam versi Graphql | Tidak |
 
 ### Sertifikasi
 
