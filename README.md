@@ -176,6 +176,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | POST Indonesia | Trackingmore | [Link](https://www.trackingmore.com/indonesia-post-tracking-api.html) | `Aktif` | Jasa pengiriman                                                                                                                                                                                                                                    | `apiKey` |
 | Shipper        |   Shipper    |              [Link](https://shipper.id/api-integration)               | `Aktif` | Solusi pelacakan terupdate dan akurat dari dashboard Shipper. Ketahui posisi paket dengan mudah hanya dengan input no. resi. Adanya kemudahan pantau pengiriman secara real-time. Kami juga kirimkan notifikasi terkait status terkini paket Anda. | `apiKey` |
 | JNE            | JNE Official |           [Link](https://apidash.jne.co.id/)           | `Aktif` | API Resmi JNE yang dapat digunakan untuk layanan cek ongkos kirim hingga generate AWB. Untuk akses link diperlukan akun yang diberikan langsung dari pihak JNE.                                                                                                                                            | `apiKey` |
+| KiriminAja | KiriminAja Official | [Link](https://developer.kiriminaja.com) | `Aktif` | Solusi pengiriman paket ke berbagai ekspedisi, ketahui posisi paket secara real-time, mendukung pengiriman reguler, kargo, dan instan. | `apiKey` |
 
 ### Kegiatan Sehari-hari
 
