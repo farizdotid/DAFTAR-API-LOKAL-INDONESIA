@@ -85,6 +85,7 @@ This file is translation from Original (Bahasa Indonesia).
 | Tanggal Lahiran Pasaran Zodiak | iBachor | [Link](https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak) | `Active` | Zodiac checker | No |
 | KyokoAPI | Elliottophellia | [Link](https://kyoko.rei.my.id) | `Active` | Generate Random Anime Pictures & Quotes,Trace Anime Screenshot To Find The Source,And Find Detail Information About Any Anime Titles! | No |
 | Wibu API | Yoga Pranata Damanik | [Link](https://wibu-api.eu.org) | `Active` | Multi API: Anime, Donghua, Hentai, Manga, Doujin, Anime Opening & Ending, Lk21, Google, Facebook, Download link scraper, NSFW & Adult content, etc. | No |
+| AnimeAPI | nattadasu | [Link](https://animeapi.my.id) | `Active` | RESTful API for ID relational mapping across 15 anime databases | No |
 
 ### Event
 

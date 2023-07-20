@@ -164,6 +164,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Quotes Generator API                       |   Irfan Akbari Habibi  |     [Link](https://github.com/Irfanakbari/quote-generator-api)      | `Aktif` | API untuk Dapatkan Random Quotes Harian                                        |       Tidak        |
 | Wibu API | Yoga Pranata Damanik | [Link](https://wibu-api.eu.org) | `Aktif` | Multi API: Anime, Donghua, Hentai, Manga, Doujin, Anime Opening & Ending, Lk21, Google, Facebook, Download link scraper, NSFW & Konten dewasa, dll. | Tidak |
 | Flamescans Manga Scraper (EN) | KevinNVM | [Link](https://github.com/KevinNVM/flamescans-manga-scraper) | `Aktif` | Flamescans Manga Scraper English Language | Tidak |
+| AnimeAPI | nattadasu | [Link](https://animeapi.my.id) | `Aktif` | REST API untuk pemetaan relasi ID antara 15 situs database anime lokal dan luar negeri | Tidak |
 
 ### Jasa Pengiriman
 
