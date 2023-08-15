@@ -303,6 +303,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Face API                     |   Irfan Akbari Habibi    |          [Link](https://github.com/Irfanakbari/face-recognition)          | `Aktif` | API untuk mendeteksi wajah dalam gambar, mendapatkan UID untuk cek similarity(berguna untuk sistem face recognition) |  Tidak   |
 | PetPet GIF Generator API                     |   balhisyhrl    |          [Link](https://anon-petpet.herokuapp.com/)          | `Aktif` | API PetPet GIF Generator |  Tidak   |
 | Spam Call                 |         Rud Az           |            [Link](https://spamertelpon.herokuapp.com/)                    | `Aktif` | Api untuk spam call, per spam/telpon bisa beda² nomer.                                                               | `ApiKey`  |
+| TimeApi                |         Mininxd          |            [Link](https://timeapi.mininxd.my.id/)                    | `Aktif` | Api untuk menampilkan waktu, tanggal secara realtime berbasis UNIX.                                                               | `ApiKey`  |
 
 ### Crypto
 
