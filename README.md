@@ -1,5 +1,3 @@
-[![GitHub forks](https://img.shields.io/github/forks/farizdotid/DAFTAR-API-LOKAL-INDONESIA?style=social)](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/network) &nbsp;&nbsp; [![GitHub stars](https://img.shields.io/github/stars/farizdotid/DAFTAR-API-LOKAL-INDONESIA?style=social)](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/stargazers)
-
 # Daftar API Lokal Indonesia
 
 Kumpulan API tentang data dan informasi di Indonesia
@@ -35,8 +33,6 @@ Kumpulan API tentang data dan informasi di Indonesia
     - [Sertifikasi](#sertifikasi)
     - [Utilitas](#utilitas)
     - [Crypto](#crypto)
-  - [Kontak](#kontak)
-  - [:fire: TERIMAKASIH :fire:](#fire-terimakasih-fire)
   - [Lisensi](#lisensi)
 
 ## Daftar API
@@ -149,20 +145,16 @@ Kumpulan API tentang data dan informasi di Indonesia
 | FILMAPIK API (Un-official)                 |     devnazir     |             [Link](https://github.com/devnazir/api-filmapik)             | `Aktif` | Menampilkan data movie beserta link video google drive                                                                                             |       Tidak        |
 | Strygwyr Dota 2 API                        |    sinkaroid     |              [Link](https://github.com/sinkaroid/strygwyr)               | `Aktif` | Menampilkan data hero status untuk game Dota 2                                                                                                     |       Tidak        |
 | LK21 API (Un-official)                     |     devnazir     |               [Link](https://github.com/devnazir/api-lk21)               | `Aktif` | Menampilkan data movie dari situs LK21                                                                                                             |       Tidak        |
-| Cabul API                                  |    sinkaroid     |                [Link](https://github.com/sinkaroid/cabul)                | `Aktif` | Sebuah API yang menampilkan banyak data Hentai(NSFW) dari hentai_subreddits                                                                        |       Tidak        |
 | 1Cak API                                   | dickymuliafiqri  |            [Link](https://github.com/dickymuliafiqri/onecak)             | `Aktif` | API unofficial dari situs meme kesayangan kita                                                                                                     |       Tidak        |
 | Manhwaindo API (Unofficial)                |      Aerysh      |             [Link](https://github.com/Aerysh/manhwaindo-api)             | `Aktif` | Menyediakan manhwa bahasa indonesia                                                                                                                |       Tidak        |
 | KyokoAPI | Elliottophellia | [Link](https://kyoko.rei.my.id) | `Aktif` | Menampilkan random anime pictures dan quotes, trace anime screenshot untuk mengetahui judul animenya, dan memberikan informasi detail tentang anime apapun!. | Tidak |
 | Kumpulan Anime/Manga                       |     Shallty      |     [Link](https://documenter.getpostman.com/view/3762767/SWLh5STA)      | `Aktif` | Kumpulan anime/manga beserta link download dan rilisan anime terbaru                                                                               |       Tidak        |
 | Katanime                                   |     ricko-v      |               [Link](https://github.com/ricko-v/katanime)                | `Aktif` | Quotes anime bahasa Indonesia dan Inggris.                                                                                                         |       Tidak        |
-| Pururin                                    |    sinkaroid     |               [Link](https://github.com/sinkaroid/pururin)               | `Aktif` | API berfitur yang menampilkan doujin / komik hentai dari situs Pururin (Un-official)                                                               | Tidak dan `ApiKey` |
-| Jandapress                                 |    sinkaroid     |                [Link](https://github.com/sinkaroid/jandapress)           | `Aktif` | All-in-one doujinshi API with gather in mind.                                                                                                    | Tidak dan `ApiKey` |
 | RAZnime                                    |   Romadhonaji    |                  [Link](https://raznime.herokuapp.com/)                  | `Aktif` | API Streaming Anime Bahasa Inggris                                                                                                                 |       Tidak        |
 | Student Blue Archive                       |     arufars      |               [Link](https://github.com/arufars/api-blue-archive)  |         `Aktif`    | API (unofficial) berisi informasi data character dari game Blue Archive                                                                        | Tidak        |
 | TOOLCEK                       |     Alex      |     [Link](https://documenter.getpostman.com/view/13751573/2s8Z6vYZgS#b488f545-0053-4818-a440-ddc360391d36)      | `Aktif` | API Cek ID Games,Nomor Rekening,Nomor E-Wallet,Nomor meter PLN,DLL,Membantumu dalam system validasi,Integrasikan sekarang juga!                                                                             |       `ApiKey`        |
 | ID Game Checker                         |   Nevertary I Forster  |     [Link](https://rapidapi.com/nazi436123/api/id-game-checker)      | `Aktif` | Buat Validasi atau dapatkan username dengan ID Game. Tersedia untuk Free Fire, Mobile Legends, PUBG Mobile, Higgs Domino, Point Blank dll.                                         |       `ApiKey`        |
 | Quotes Generator API                       |   Irfan Akbari Habibi  |     [Link](https://github.com/Irfanakbari/quote-generator-api)      | `Aktif` | API untuk Dapatkan Random Quotes Harian                                        |       Tidak        |
-| Wibu API | Yoga Pranata Damanik | [Link](https://wibu-api.eu.org) | `Aktif` | Multi API: Anime, Donghua, Hentai, Manga, Doujin, Anime Opening & Ending, Lk21, Google, Facebook, Download link scraper, NSFW & Konten dewasa, dll. | Tidak |
 | Flamescans Manga Scraper (EN) | KevinNVM | [Link](https://github.com/KevinNVM/flamescans-manga-scraper) | `Aktif` | Flamescans Manga Scraper English Language | Tidak |
 | AnimeAPI | nattadasu | [Link](https://animeapi.my.id) | `Aktif` | REST API untuk pemetaan relasi ID antara 15 situs database anime lokal dan luar negeri | Tidak |
 
@@ -346,16 +338,6 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Binance    |   binance   |                 [Link](https://github.com/binance/binance-spot-api-docs)                 | `Aktif` | Official Documentation for the Binance APIs and Streams                                                                                  | Tidak dan `ApiKey` |
 | Rekeningku | rekeningku  |                     [Link](https://api.rekeningku.com/#introduction)                     | `Aktif` | Anda dapat menggunakan API kami untuk mengakses titik akhir API Rekeningku, yang dapat memperoleh informasi seperti Pesanan, Pasar, dll. |       Tidak        |
 | Cek ID Game    |   topup.monster   |                 [Link](https://docs.topup.monster)                 | `Aktif` | Api Cek ID Game                                                                                  | `ApiKey` |
-
-## Kontak
-
-Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [Fariz Ramadhan](https://www.facebook.com/farizdotid) ya! ATAU berkomentar via fitur [Issues](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/issues) ATAU langsung edit saja nanti biar didiskusikan terlebih dahulu.
-
-Hatur Nuhun. :)
-
-## :fire: TERIMAKASIH :fire:
-
-Terimakasih untuk kalian yang udah ikut ber-kontribusi! :heart:
 
 ## Lisensi
 
