@@ -196,6 +196,7 @@ This file is translation from Original (Bahasa Indonesia).
 
 | API Name        | Developer | URL | Status  | Description | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| **ConnectAPI** (*Freemium*) | [Ihsan Devs](https://ihsandevs.com) | [Link](https://api.ihsandevs.io) | `Aktif` | The public API that provides various APIs and API services will increase over time. Currently, the following API services are available:<br />❖ Github Trending API<br />❖ Text2Image API (Like DALL-E)<br />❖ SimSimi ChatBot API | `apiKey` |
 | Indiwtf API | Frans Allen | [Link](https://indiwtf.upset.dev/api) | `Active` | A simple API to check whether a website is blocked in Indonesia or not. | No |
 | 1Akun | 1Akun | [Link](https://1akun.com) | `Active` | Authentication made easy (Oauth API) | `apiKey` |
 | Arbanat | jajanjawa | [Link](https://arbanat.my.id) | `Active` | Send sms via rest api | `apiKey` |
