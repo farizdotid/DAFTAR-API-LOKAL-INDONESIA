@@ -26,9 +26,9 @@ for await (const file of await getFiles()) {
     try {
       const response = await axios.get(api.documentationUrl, {
         httpsAgent: agent,
-        headers: { 'User-Agent': 'PostmanRuntime/7.26.5' }, // ignore it wkwk
+        headers: { 'User-Agent': 'PostmanRuntime/7.26.5', 'Accept-Encoding': 'zlib' },
         maxRedirects: 10,
-        validateStatus: null,
+        validateStatus: () => true,
       })
 
       if (isBlacklisted(response.data.toString())) {
