@@ -1,0 +1,27 @@
+{
+  "categoryName": "Buku",
+  "apis": [
+    {
+      "apiName": "Masak Apa",
+      "status": true,
+      "documentationUrl": "https://github.com/tomorisakura/unofficial-masakapahariini-api",
+      "developer": {
+        "name": "Reski",
+        "profileUrl": null
+      },
+      "description": "Buku resep makanan Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Unofficial Gramedia Ebooks",
+      "status": true,
+      "documentationUrl": "https://github.com/yusuftaufiq/laravel-books-api",
+      "developer": {
+        "name": "Yusuf T.",
+        "profileUrl": null
+      },
+      "description": "Unofficial REST API yang menyediakan daftar buku digital dari Gramedia melalui web scraping.",
+      "authentication": "API KEY"
+    }
+  ]
+}

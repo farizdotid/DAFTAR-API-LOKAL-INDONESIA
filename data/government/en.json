@@ -1,0 +1,104 @@
+{
+  "categoryName": "Government",
+  "apis": [
+    {
+      "apiName": "Bahasa Daerah",
+      "status": true,
+      "documentationUrl": "https://github.com/Mahes2/bahasa-daerah-indonesia",
+      "developer": {
+        "name": "Mahes2",
+        "profileUrl": null
+      },
+      "description": "Data on local languages in Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Batik Indonesia",
+      "status": true,
+      "documentationUrl": "https://batikita.docs.apiary.io/#reference/0/all-batik-collections",
+      "developer": {
+        "name": "BatiKita",
+        "profileUrl": null
+      },
+      "description": "BatiKita is an application that provides information about batik motifs. Users can use keywords or upload images to retrieve information without the need for manual searches.",
+      "authentication": false
+    },
+    {
+      "apiName": "Cagar Budaya Indonesia",
+      "status": true,
+      "documentationUrl": "https://data.go.id/dataset/cagar-budaya",
+      "developer": {
+        "name": "Kantor Staf Presiden",
+        "profileUrl": null
+      },
+      "description": "Heritage of Indonesia's cultural sites, including buildings, structures, and sites.",
+      "authentication": false
+    },
+    {
+      "apiName": "Data BMKG",
+      "status": true,
+      "documentationUrl": "http://data.bmkg.go.id/tentang",
+      "developer": {
+        "name": "Badan Meteorologi dan Geofisika",
+        "profileUrl": null
+      },
+      "description": "Current weather and disaster event data in Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Data BPS",
+      "status": true,
+      "documentationUrl": "https://webapi.bps.go.id/developer",
+      "developer": {
+        "name": "Badan Pusat Statistik",
+        "profileUrl": null
+      },
+      "description": "Statistical data on development indicators throughout Indonesia.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Data Indonesia",
+      "status": true,
+      "documentationUrl": "https://data.go.id",
+      "developer": {
+        "name": "Pemerintah Indonesia",
+        "profileUrl": null
+      },
+      "description": "Data related to Indonesia.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "E-samsat Jateng",
+      "status": true,
+      "documentationUrl": "https://github.com/lintangtimur/cek-pajak-esamsat",
+      "developer": {
+        "name": "lintangtimur",
+        "profileUrl": null
+      },
+      "description": "Unofficial API to check vehicle taxes in Central Java.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Harga Komoditas Pangan",
+      "status": true,
+      "documentationUrl": "https://jibs.my.id/api/harga_komoditas",
+      "developer": {
+        "name": "jibrilhp",
+        "profileUrl": null
+      },
+      "description": "Data on food commodity prices in Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Pahlawan Nasional Indonesia",
+      "status": true,
+      "documentationUrl": "https://github.com/yogski/indonesia-public-static-api#api-pahlawan-nasional-indonesia-apiheroes",
+      "developer": {
+        "name": "Yogi Saputro",
+        "profileUrl": null
+      },
+      "description": "API for a list of Indonesian national heroes. Refer to documentation for usage details.",
+      "authentication": false
+    }
+  ]
+}

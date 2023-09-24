@@ -1,0 +1,27 @@
+name: NSFW Check
+
+on:
+  pull_request:
+    types:
+      - opened
+      - reopened
+
+jobs:
+  nsfw-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: '0.8.0'
+
+      - name: Install dependencies
+        run: bun install
+
+      - name: Run NSFW Check
+        id: run_nsfw_check
+        run: bun check

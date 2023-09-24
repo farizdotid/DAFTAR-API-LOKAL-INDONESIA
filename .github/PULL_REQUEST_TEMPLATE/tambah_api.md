@@ -1,20 +1,24 @@
 ---
 name: Tambah API
-about: Tambahkan API kedalam repositori
+about: Tambahkan API Ke Daftar
 title: ''
 labels: api-baru
-assignees: ''
 ---
 
 ## Informasi API
 
 **Nama API**:
-**Developer**:
-**API Endpoint/Dokumentasi**:
+**Pengembang**:
+**Tautan Profil Pengembang**:
+**Tautan Dokumentasi**:
 **Status**:
 **Deskripsi**:
-**Auth**:
+**Autentikasi**:
 
 ### Penjelasan API
 
-jelaskan secara singkat tentang bagaimana API anda bekerja dan apa saja yang harus dilakukan oleh peserta.
+Jelaskan secara singkat tentang bagaimana API anda bekerja dan apa saja yang harus dilakukan oleh peserta.
+
+---
+
+Dengan mengajukan pull request atau issue pada repositori ini, saya menyatakan bahwa tautan RESTful API yang saya sertakan tidak akan mengandung konten NSFW (Not Safe for Work).

@@ -1,0 +1,104 @@
+{
+  "categoryName": "Jasa Pengiriman",
+  "apis": [
+    {
+      "apiName": "Cek Resi",
+      "status": true,
+      "documentationUrl": "https://docs.binderbyte.com/api/cek-resi",
+      "developer": {
+        "name": "binderbyte",
+        "profileUrl": null
+      },
+      "description": "API Cek Resi adalah api yang berguna untuk melacak resi secara otomatis mulai dari jne, pos, jnt, wahana, tiki, sicepat dll.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "J&T",
+      "status": true,
+      "documentationUrl": "https://developer.jet.co.id/documentation",
+      "developer": {
+        "name": "J&T Official",
+        "profileUrl": null
+      },
+      "description": "API Resmi yang diterbitkan oleh J&T untuk layanan AWB, Order Tracking, Cek Tarif, dan Pembatalan Order.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "JNE",
+      "status": true,
+      "documentationUrl": "https://apidash.jne.co.id",
+      "developer": {
+        "name": "JNE Official",
+        "profileUrl": null
+      },
+      "description": "API Resmi JNE yang dapat digunakan untuk layanan cek ongkos kirim hingga generate AWB. Untuk akses link diperlukan akun yang diberikan langsung dari pihak JNE.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "KiriminAja",
+      "status": true,
+      "documentationUrl": "https://developer.kiriminaja.com",
+      "developer": {
+        "name": "KiriminAja Official",
+        "profileUrl": null
+      },
+      "description": "Solusi pengiriman paket ke berbagai ekspedisi, ketahui posisi paket secara real-time, mendukung pengiriman reguler, kargo, dan instan.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Paket ID",
+      "status": true,
+      "documentationUrl": "http://docs.paket.id/API/Versi_2.html",
+      "developer": {
+        "name": "paket.id",
+        "profileUrl": null
+      },
+      "description": "Jasa pengiriman.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "POST Indonesia",
+      "status": true,
+      "documentationUrl": "https://www.trackingmore.com/indonesia-post-tracking-api.html",
+      "developer": {
+        "name": "Trackingmore",
+        "profileUrl": null
+      },
+      "description": "Jasa pengiriman.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Raja Ongkir",
+      "status": true,
+      "documentationUrl": "http://rajaongkir.com/dokumentasi",
+      "developer": {
+        "name": "Rajaongkir",
+        "profileUrl": null
+      },
+      "description": "Cek ongkos kirim pada beberapa jasa antar barang seperti JNE, POS, TIKI, dan lain-lain.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Shipper",
+      "status": true,
+      "documentationUrl": "https://shipper.id/api-integration",
+      "developer": {
+        "name": "Shipper",
+        "profileUrl": null
+      },
+      "description": "Solusi pelacakan terupdate dan akurat dari dashboard Shipper. Ketahui posisi paket dengan mudah hanya dengan input no. resi. Adanya kemudahan pantau pengiriman secara real-time. Kami juga kirimkan notifikasi terkait status terkini paket Anda.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Tracking API",
+      "status": true,
+      "documentationUrl": "https://documenter.getpostman.com/view/29221489/2s9YC7SBgH",
+      "developer": {
+        "name": "Klik Resi",
+        "profileUrl": "https://klikresi.com"
+      },
+      "description": "API untuk membantu pelaku eCommerce untuk melacak paket secara akurat.",
+      "authentication": "API KEY"
+    }
+  ]
+}

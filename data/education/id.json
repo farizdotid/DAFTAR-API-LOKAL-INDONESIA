@@ -1,0 +1,93 @@
+{
+  "categoryName": "Pendidikan",
+  "apis": [
+    {
+      "apiName": "API Data Sekolah Indonesia",
+      "status": true,
+      "documentationUrl": "https://github.com/wanrabbae/api-sekolah-indonesia",
+      "developer": {
+        "name": "Alwan",
+        "profileUrl": null
+      },
+      "description": "Data Data Sekolah di Indonesia Lengkap.",
+      "authentication": false
+    },
+    {
+      "apiName": "Data Mahasiswa Indonesia",
+      "status": true,
+      "documentationUrl": "https://api-frontend.kemdikbud.go.id/hit_mhs/abiel%20zulio%20maseida",
+      "developer": {
+        "name": "Kemendikbud",
+        "profileUrl": null
+      },
+      "description": "Data mahasiswa se-Indonesia mencakupi nama lengkap, universitas, dan program studi.",
+      "authentication": false
+    },
+    {
+      "apiName": "Data Sekolah API",
+      "status": true,
+      "documentationUrl": "https://github.com/semogaBermanfaat-AhmadRamadhan/dataSekolahNegeriIndonesia",
+      "developer": {
+        "name": "Ahmad Ramadhan",
+        "profileUrl": null
+      },
+      "description": "Data Sekolah Negeri di Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Hibersunda Undak Usuk Basa Sunda",
+      "status": true,
+      "documentationUrl": "https://github.com/hiberin/hibersunda",
+      "developer": {
+        "name": "Hiberin Digital",
+        "profileUrl": null
+      },
+      "description": "API Pencarian Kosa Kata dalam Undak Usuk Basa Sunda.",
+      "authentication": false
+    },
+    {
+      "apiName": "KBBI API",
+      "status": true,
+      "documentationUrl": "https://github.com/azharimm/kbbi-api",
+      "developer": {
+        "name": "azharimm",
+        "profileUrl": null
+      },
+      "description": "Rest Api KBBI.",
+      "authentication": false
+    },
+    {
+      "apiName": "New KBBI API",
+      "status": true,
+      "documentationUrl": "https://github.com/btrianurdin/new-kbbi-api",
+      "developer": {
+        "name": "btrianurdin",
+        "profileUrl": null
+      },
+      "description": "KBBI API yang dilengkapi dengan lema, kelas kata dan arti secara lengkap.",
+      "authentication": false
+    },
+    {
+      "apiName": "Python 3 API wrapper PDDIKTI",
+      "status": true,
+      "documentationUrl": "https://github.com/IlhamriSKY/PDDIKTI-kemdikbud-API",
+      "developer": {
+        "name": "IlhamRisky",
+        "profileUrl": null
+      },
+      "description": "Python API wrapper, yang mengambil data dari web PDDIKTI, terdiri dari data Universitas, Program Studi, Dosen, Mahasiswa/Alumni, Berita, Laporan, Dll.",
+      "authentication": false
+    },
+    {
+      "apiName": "Wikipedia API",
+      "status": true,
+      "documentationUrl": "https://www.mediawiki.org/wiki/API:Tutorial",
+      "developer": {
+        "name": "Mediawiki",
+        "profileUrl": null
+      },
+      "description": "API untuk mendapatkan informasi yang digunakan dari Wikipedia.",
+      "authentication": false
+    }
+  ]
+}

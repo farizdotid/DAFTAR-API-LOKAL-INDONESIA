@@ -1,0 +1,170 @@
+{
+  "categoryName": "Location",
+  "apis": [
+    {
+      "apiName": "API Wilayah Indonesia",
+      "status": true,
+      "documentationUrl": "https://goapi.id/p/api-wilayah-indonesia",
+      "developer": {
+        "name": "goapi-id",
+        "profileUrl": null
+      },
+      "description": "A free service that can be used by software developers to develop their applications.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Daftar Stasiun Kereta Api di Indonesia",
+      "status": true,
+      "documentationUrl": "https://booking.kai.id/api/stations2",
+      "developer": {
+        "name": "PT Kereta Api Indonesia (Persero)",
+        "profileUrl": null
+      },
+      "description": "API List of Train Stations.",
+      "authentication": false
+    },
+    {
+      "apiName": "Data GeoJSON Provinsi, Kota atau Kabupaten Seluruh Wilayah Indonesia",
+      "status": true,
+      "documentationUrl": "https://github.com/Z4nR/geojson-api-indonesia",
+      "developer": {
+        "name": "Zulham Nur",
+        "profileUrl": null
+      },
+      "description": "Static API containing Indonesian geographical data in simplified GeoJSON format without significant map distortion.",
+      "authentication": false
+    },
+    {
+      "apiName": "Gunung Berapi di Indonesia",
+      "status": true,
+      "documentationUrl": "https://github.com/yogski/indonesia-public-static-api#api-gunung-berapi-indonesia-apivolcanoes",
+      "developer": {
+        "name": "Yogi Saputro",
+        "profileUrl": null
+      },
+      "description": "API list of volcanoes in Indonesia. See documentation for usage details.",
+      "authentication": false
+    },
+    {
+      "apiName": "idn-area",
+      "status": true,
+      "documentationUrl": "https://github.com/fityannugroho/idn-area",
+      "developer": {
+        "name": "fityannugroho",
+        "profileUrl": "https://github.com/fityannugroho"
+      },
+      "description": "Open API for the latest Indonesian geographical data: Provinces, Regencies/Cities, Districts, Villages, and Islands.",
+      "authentication": false
+    },
+    {
+      "apiName": "Kode Pos",
+      "status": true,
+      "documentationUrl": "https://github.com/bachors/apiapi#kode-pos-api",
+      "developer": {
+        "name": "iBachor",
+        "profileUrl": null
+      },
+      "description": "List of postal codes in Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Kode Pos",
+      "status": true,
+      "documentationUrl": "https://nbc.vanmason.web.id/service/kodepos/42173",
+      "developer": {
+        "name": "Cain van Mason",
+        "profileUrl": null
+      },
+      "description": "List of postal codes in Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Kode Pos",
+      "status": true,
+      "documentationUrl": "https://github.com/sooluh/kodepos",
+      "developer": {
+        "name": "sooluh",
+        "profileUrl": "https://github.com/sooluh"
+      },
+      "description": "Search for Indonesian postal codes based on place name, village, or city.",
+      "authentication": false
+    },
+    {
+      "apiName": "Lambang Daerah Seluruh Indonesia",
+      "status": true,
+      "documentationUrl": "https://github.com/feri-irawan/API/tree/main/list/lambang-daerah-indonesia#readme",
+      "developer": {
+        "name": "Feri Irawan",
+        "profileUrl": null
+      },
+      "description": "Coat of arms of provinces and regencies/cities in Indonesia (34 provinces and 514 regencies/cities).",
+      "authentication": false
+    },
+    {
+      "apiName": "Nama Daerah Seluruh Indonesia",
+      "status": true,
+      "documentationUrl": "https://farizdotid.com/blog/dokumentasi-api-daerah-indonesia/",
+      "developer": {
+        "name": "farizdotid",
+        "profileUrl": "https://github.com/farizdotid"
+      },
+      "description": "List of names of provinces, regencies/cities, districts, and villages.",
+      "authentication": false
+    },
+    {
+      "apiName": "Nama Daerah Seluruh Indonesia",
+      "status": true,
+      "documentationUrl": "https://ibnux.github.io/data-indonesia",
+      "developer": {
+        "name": "ibnux",
+        "profileUrl": null
+      },
+      "description": "JSON API for the names of provinces, regencies/cities, districts, and villages for mobile apps.",
+      "authentication": false
+    },
+    {
+      "apiName": "Nama Provinsi, Kota, Kabupaten Seluruh Wilayah Indonesia",
+      "status": true,
+      "documentationUrl": "https://github.com/emsifa/api-wilayah-indonesia",
+      "developer": {
+        "name": "Muhammad Syifa",
+        "profileUrl": null
+      },
+      "description": "Static API containing Indonesian geographical data and commands to deploy it to static hosting.",
+      "authentication": false
+    },
+    {
+      "apiName": "Pesantren se Indonesia",
+      "status": true,
+      "documentationUrl": "https://github.com/nasrul21/data-pesantren-indonesia",
+      "developer": {
+        "name": "nasrul21",
+        "profileUrl": null
+      },
+      "description": "API for data on Islamic boarding schools in Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Places API Indonesia",
+      "status": true,
+      "documentationUrl": "https://goapi.id/p/places-api",
+      "developer": {
+        "name": "goapi-id",
+        "profileUrl": null
+      },
+      "description": "Search for coordinates of a place as an alternative to Google Places API.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Sekolah se Indonesia",
+      "status": true,
+      "documentationUrl": "https://data.go.id/dataset/sekolah",
+      "developer": {
+        "name": "Pemerintah Indonesia",
+        "profileUrl": null
+      },
+      "description": "List of schools per region, detailed school information per region, and master regional data.",
+      "authentication": false
+    }
+  ]
+}

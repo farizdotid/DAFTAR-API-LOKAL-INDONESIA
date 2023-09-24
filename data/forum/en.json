@@ -1,0 +1,27 @@
+{
+  "categoryName": "Forum",
+  "apis": [
+    {
+      "apiName": "Hot Threads from Kaskus (Unofficial)",
+      "status": true,
+      "documentationUrl": "https://api.bayyu.net",
+      "developer": {
+        "name": "Bayu",
+        "profileUrl": null
+      },
+      "description": "Retrieve hot threads from Kaskus.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Kaskus API",
+      "status": true,
+      "documentationUrl": "https://github.com/kaskus/kaskus-php-sdk/wiki",
+      "developer": {
+        "name": "Kaskus Dev",
+        "profileUrl": null
+      },
+      "description": "API to access the famous Indonesian forum - Kaskus.",
+      "authentication": "OAUTH"
+    }
+  ]
+}

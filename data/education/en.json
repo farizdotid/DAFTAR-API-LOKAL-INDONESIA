@@ -1,0 +1,93 @@
+{
+  "categoryName": "Education",
+  "apis": [
+    {
+      "apiName": "API Data Sekolah Indonesia",
+      "status": true,
+      "documentationUrl": "https://github.com/wanrabbae/api-sekolah-indonesia",
+      "developer": {
+        "name": "Alwan",
+        "profileUrl": null
+      },
+      "description": "Complete data of schools in Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Data Mahasiswa Indonesia",
+      "status": true,
+      "documentationUrl": "https://api-frontend.kemdikbud.go.id/hit_mhs/abiel%20zulio%20maseida",
+      "developer": {
+        "name": "Kemendikbud",
+        "profileUrl": null
+      },
+      "description": "Data of students across Indonesia, including full name, university, and study program.",
+      "authentication": false
+    },
+    {
+      "apiName": "Data Sekolah API",
+      "status": true,
+      "documentationUrl": "https://github.com/semogaBermanfaat-AhmadRamadhan/dataSekolahNegeriIndonesia",
+      "developer": {
+        "name": "Ahmad Ramadhan",
+        "profileUrl": null
+      },
+      "description": "Public school data in Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Hibersunda Sundanese Dictionary",
+      "status": true,
+      "documentationUrl": "https://github.com/hiberin/hibersunda",
+      "developer": {
+        "name": "Hiberin Digital",
+        "profileUrl": null
+      },
+      "description": "API for searching words in the Sundanese Dictionary.",
+      "authentication": false
+    },
+    {
+      "apiName": "KBBI API",
+      "status": true,
+      "documentationUrl": "https://github.com/azharimm/kbbi-api",
+      "developer": {
+        "name": "azharimm",
+        "profileUrl": null
+      },
+      "description": "KBBI REST API.",
+      "authentication": false
+    },
+    {
+      "apiName": "New KBBI API",
+      "status": true,
+      "documentationUrl": "https://github.com/btrianurdin/new-kbbi-api",
+      "developer": {
+        "name": "btrianurdin",
+        "profileUrl": null
+      },
+      "description": "KBBI API with complete lemma, word class, and meanings.",
+      "authentication": false
+    },
+    {
+      "apiName": "Python 3 API wrapper for PDDIKTI",
+      "status": true,
+      "documentationUrl": "https://github.com/IlhamriSKY/PDDIKTI-kemdikbud-API",
+      "developer": {
+        "name": "IlhamRisky",
+        "profileUrl": null
+      },
+      "description": "Python API wrapper that fetches data from the PDDIKTI website, including data about Universities, Study Programs, Professors, Students/Alumni, News, Reports, etc.",
+      "authentication": false
+    },
+    {
+      "apiName": "Wikipedia API",
+      "status": true,
+      "documentationUrl": "https://www.mediawiki.org/wiki/API:Tutorial",
+      "developer": {
+        "name": "Mediawiki",
+        "profileUrl": null
+      },
+      "description": "API for retrieving information used from Wikipedia.",
+      "authentication": false
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "categoryName": "Sosial Media",
+  "apis": [
+    {
+      "apiName": "Facebook Video Downloader",
+      "status": true,
+      "documentationUrl": "https://github.com/bramaudi/fbdown",
+      "developer": {
+        "name": "bramaudi",
+        "profileUrl": null
+      },
+      "description": "Unofficial API Facebook untuk Scraping Video Facebook.",
+      "authentication": false
+    },
+    {
+      "apiName": "Twitter Trends",
+      "status": true,
+      "documentationUrl": "https://github.com/azharimm/twitter-trends-api",
+      "developer": {
+        "name": "azharimm",
+        "profileUrl": null
+      },
+      "description": "Unofficial API Twitter trends data.",
+      "authentication": false
+    }
+  ]
+}

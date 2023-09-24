@@ -1,0 +1,49 @@
+{
+  "categoryName": "Weather",
+  "apis": [
+    {
+      "apiName": "API & Graphql Weather BMKG",
+      "status": true,
+      "documentationUrl": "https://github.com/pace11/weather-api",
+      "developer": {
+        "name": "pace11",
+        "profileUrl": "https://github.com/pace11"
+      },
+      "description": "Weather forecast converted from XML to JSON format sourced from BMKG API. Available in Graphql version.",
+      "authentication": false
+    },
+    {
+      "apiName": "API Cuaca Realtime",
+      "status": true,
+      "documentationUrl": "https://www.weatherapi.com",
+      "developer": {
+        "name": "weatherapi",
+        "profileUrl": null
+      },
+      "description": "Current Weather Forecast for Various Cities in JSON Format.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "BMKG Json API",
+      "status": true,
+      "documentationUrl": "https://ibnux.github.io/BMKG-importer/#pakai-langsung",
+      "developer": {
+        "name": "ibnux",
+        "profileUrl": "https://github.com/ibnux"
+      },
+      "description": "Weather forecast for Indonesia up to 3 days ahead. Imported from BMKG in JSON format.",
+      "authentication": false
+    },
+    {
+      "apiName": "Info Gempa & Cuaca API",
+      "status": true,
+      "documentationUrl": "https://github.com/renomureza/cuaca-gempa-rest-api",
+      "developer": {
+        "name": "R.M. Reza",
+        "profileUrl": null
+      },
+      "description": "REST API for the latest earthquake and weather information in major cities in 35 provinces within 3 days. Data source: BMKG.",
+      "authentication": false
+    }
+  ]
+}

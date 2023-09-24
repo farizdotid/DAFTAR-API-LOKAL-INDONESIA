@@ -1,0 +1,60 @@
+{
+  "categoryName": "Musik",
+  "apis": [
+    {
+      "apiName": "Deezer",
+      "status": true,
+      "documentationUrl": "https://developers.deezer.com/api",
+      "developer": {
+        "name": "Deezer Dev",
+        "profileUrl": null
+      },
+      "description": "Katalog Deezer.",
+      "authentication": "OAUTH"
+    },
+    {
+      "apiName": "Lirik lagu",
+      "status": true,
+      "documentationUrl": "https://github.com/azharimm/song-lyrics-api",
+      "developer": {
+        "name": "azharimm",
+        "profileUrl": null
+      },
+      "description": "Rest Api lirik lagu.",
+      "authentication": false
+    },
+    {
+      "apiName": "MusixMatch",
+      "status": true,
+      "documentationUrl": "https://developer.musixmatch.com",
+      "developer": {
+        "name": "MusixMatch Dev",
+        "profileUrl": null
+      },
+      "description": "Mencari Informasi dan Lirik lagu.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "SoundCloud",
+      "status": true,
+      "documentationUrl": "https://developers.soundcloud.com",
+      "developer": {
+        "name": "SoundCloud Dev",
+        "profileUrl": null
+      },
+      "description": "upload dan share music.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Spotify",
+      "status": true,
+      "documentationUrl": "https://developer.spotify.com/documentation/web-api",
+      "developer": {
+        "name": "Spotify Dev",
+        "profileUrl": null
+      },
+      "description": "Spotify Catalog.",
+      "authentication": "OAUTH"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "categoryName": "Islamic",
+  "apis": [
+    {
+      "apiName": "Al-Qur'an Indonesia",
+      "status": true,
+      "documentationUrl": "https://github.com/wanrabbae/al-quran-indonesia-api",
+      "developer": {
+        "name": "Alwan",
+        "profileUrl": null
+      },
+      "description": "Free API for Al-Qur'an in Indonesian language along with its audio.",
+      "authentication": false
+    },
+    {
+      "apiName": "Alquran ID",
+      "status": true,
+      "documentationUrl": "https://github.com/bachors/Al-Quran-ID-API",
+      "developer": {
+        "name": "bachors",
+        "profileUrl": null
+      },
+      "description": "Al-Qur'an in Indonesian language.",
+      "authentication": false
+    },
+    {
+      "apiName": "Doa Doa API",
+      "status": true,
+      "documentationUrl": "https://doa-doa-api-ahmadramadhan.fly.dev",
+      "developer": {
+        "name": "Ahmad Ramadhan",
+        "profileUrl": null
+      },
+      "description": "Daily prayers and other prayers in Islam.",
+      "authentication": false
+    },
+    {
+      "apiName": "Dua & Dhikr",
+      "status": true,
+      "documentationUrl": "https://github.com/fitrahive/dua-dhikr",
+      "developer": {
+        "name": "Fitrahive",
+        "profileUrl": "https://github.com/fitrahive"
+      },
+      "description": "RESTful API for authentic supplications and remembrance (dua & dhikr).",
+      "authentication": false
+    },
+    {
+      "apiName": "Holy Quran API",
+      "status": true,
+      "documentationUrl": "https://github.com/dyazincahya/quran-api-with-php-codeigniter",
+      "developer": {
+        "name": "Kang Cahya",
+        "profileUrl": null
+      },
+      "description": "Holy Quran API - 6236 verses, 114 surah, 30 Juz.",
+      "authentication": false
+    },
+    {
+      "apiName": "Jadwal Sholat",
+      "status": true,
+      "documentationUrl": "https://github.com/lakuapik/jadwalsholatorg",
+      "developer": {
+        "name": "lakuapik",
+        "profileUrl": null
+      },
+      "description": "Prayer schedule based on city/district in Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Jadwal Sholat",
+      "status": true,
+      "documentationUrl": "https://github.com/azharimm/jadwal-shalat-api",
+      "developer": {
+        "name": "azharimm",
+        "profileUrl": null
+      },
+      "description": "REST API for prayer schedule by city/district in Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Puasa Sunnah API",
+      "status": true,
+      "documentationUrl": "https://api.puasa-sunnah.granitebps.com/swagger/index.html",
+      "developer": {
+        "name": "Granite Bagas",
+        "profileUrl": null
+      },
+      "description": "API to view Sunnah fasting schedule in Indonesia, starting from 2022.",
+      "authentication": false
+    },
+    {
+      "apiName": "Quran API",
+      "status": true,
+      "documentationUrl": "https://github.com/rzkytmgr/quran-api",
+      "developer": {
+        "name": "rzkytmgr",
+        "profileUrl": null
+      },
+      "description": "Quran API with custom imam recitation/murottal.",
+      "authentication": false
+    },
+    {
+      "apiName": "Quran API ID",
+      "status": true,
+      "documentationUrl": "https://github.com/renomureza/quran-api-id",
+      "developer": {
+        "name": "R.M. Reza",
+        "profileUrl": null
+      },
+      "description": "REST API for Al-Quran in Indonesia with translation, tafsir (Kemenag, Quraish Shihab, Al-Jalalain), audio murottal (per surah and ayah from 6 qaris), random verse, etc.",
+      "authentication": false
+    },
+    {
+      "apiName": "Quran JSON",
+      "status": true,
+      "documentationUrl": "https://github.com/penggguna/QuranJSON",
+      "developer": {
+        "name": "penggguna",
+        "profileUrl": null
+      },
+      "description": "Quran JSON (Indonesian translation, tafsir, and audio).",
+      "authentication": false
+    }
+  ]
+}

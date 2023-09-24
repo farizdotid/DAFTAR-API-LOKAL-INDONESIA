@@ -1,0 +1,60 @@
+{
+  "categoryName": "Crypto",
+  "apis": [
+    {
+      "apiName": "Binance",
+      "status": true,
+      "documentationUrl": "https://github.com/binance/binance-spot-api-docs",
+      "developer": {
+        "name": "binance",
+        "profileUrl": null
+      },
+      "description": "Official Documentation for the Binance APIs and Streams.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Indodax",
+      "status": true,
+      "documentationUrl": "https://github.com/btcid/indodax-official-api-docs/blob/master/Public-RestAPI.md",
+      "developer": {
+        "name": "btcid",
+        "profileUrl": null
+      },
+      "description": "Documentation of the Public Api for Indodax Exchange.",
+      "authentication": false
+    },
+    {
+      "apiName": "Indodax",
+      "status": true,
+      "documentationUrl": "https://github.com/btcid/indodax-official-api-docs",
+      "developer": {
+        "name": "btcid",
+        "profileUrl": null
+      },
+      "description": "Full Documentation of Public and Private Api for Indodax Exchange.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Rekeningku",
+      "status": true,
+      "documentationUrl": "https://api.rekeningku.com/#introduction",
+      "developer": {
+        "name": "rekeningku",
+        "profileUrl": null
+      },
+      "description": "You can use our API to access Rekeningku API endpoints, which can obtain information such as Orders, Markets, etc.",
+      "authentication": false
+    },
+    {
+      "apiName": "TokoCrypto",
+      "status": true,
+      "documentationUrl": "https://www.tokocrypto.com/apidocs/#api-document-description",
+      "developer": {
+        "name": "Toko Crypto",
+        "profileUrl": null
+      },
+      "description": "Documentation of the TokoCrypto Exchange API.",
+      "authentication": "API KEY"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "categoryName": "Utilities",
+  "apis": [
+    {
+      "apiName": "1Akun",
+      "status": true,
+      "documentationUrl": "https://1akun.com",
+      "developer": {
+        "name": "1Akun",
+        "profileUrl": null
+      },
+      "description": "API for authentication (OAuth).",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Arbanat",
+      "status": true,
+      "documentationUrl": "https://arbanat.my.id",
+      "developer": {
+        "name": "jajanjawa",
+        "profileUrl": null
+      },
+      "description": "Send SMS through REST API.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "ConnectAPI",
+      "status": true,
+      "documentationUrl": "https://api.ihsandevs.io",
+      "developer": {
+        "name": "Ihsan Devs",
+        "profileUrl": "https://ihsandevs.com"
+      },
+      "description": "The public API that provides various APIs and API services will increase over time.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Distrowatch API (unofficial)",
+      "status": true,
+      "documentationUrl": "https://github.com/Zzzul/diwa",
+      "developer": {
+        "name": "Zulfahmi",
+        "profileUrl": null
+      },
+      "description": "API to get information about Linux.",
+      "authentication": false
+    },
+    {
+      "apiName": "Google Playstore",
+      "status": true,
+      "documentationUrl": "https://github.com/azharimm/google-play-api",
+      "developer": {
+        "name": "azharimm",
+        "profileUrl": null
+      },
+      "description": "Google Playstore API.",
+      "authentication": false
+    },
+    {
+      "apiName": "Google Trends",
+      "status": true,
+      "documentationUrl": "https://github.com/azharimm/google-trends-api",
+      "developer": {
+        "name": "azharimm",
+        "profileUrl": null
+      },
+      "description": "Realtime Google Trends API.",
+      "authentication": false
+    },
+    {
+      "apiName": "Indiwtf API",
+      "status": true,
+      "documentationUrl": "https://indiwtf.upset.dev/api/",
+      "developer": {
+        "name": "Frans Allen",
+        "profileUrl": null
+      },
+      "description": "A simple API to check if a website is blocked in Indonesia or not.",
+      "authentication": false
+    },
+    {
+      "apiName": "Screenshot API",
+      "status": true,
+      "documentationUrl": "https://statically.io",
+      "developer": {
+        "name": "statically.io",
+        "profileUrl": null
+      },
+      "description": "A free screenshot API to convert web to image or PDF. Supports desktop and mobile views.",
+      "authentication": false
+    },
+    {
+      "apiName": "SMSNotif",
+      "status": true,
+      "documentationUrl": "https://www.smsnotif.id",
+      "developer": {
+        "name": "PT Solusi Inovasi Bisnis",
+        "profileUrl": null
+      },
+      "description": "Send SMS through REST API or Laravel Notification.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "TimeApi",
+      "status": true,
+      "documentationUrl": "https://timeapi.mininxd.my.id",
+      "developer": {
+        "name": "Mininxd",
+        "profileUrl": null
+      },
+      "description": "API to display real-time UNIX-based time and date.",
+      "authentication": false
+    },
+    {
+      "apiName": "Translasi",
+      "status": true,
+      "documentationUrl": "https://github.com/azharimm/api-translate",
+      "developer": {
+        "name": "azharimm",
+        "profileUrl": null
+      },
+      "description": "Translation API with Google Translate/Baidu Translate engine.",
+      "authentication": false
+    }
+  ]
+}
