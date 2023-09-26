@@ -1,0 +1,49 @@
+{
+  "categoryName": "Cuaca",
+  "apis": [
+    {
+      "apiName": "API & Graphql Cuaca BMKG",
+      "status": true,
+      "documentationUrl": "https://github.com/pace11/weather-api",
+      "developer": {
+        "name": "pace11",
+        "profileUrl": "https://github.com/pace11"
+      },
+      "description": "Ramalan Cuaca konversi dari format XML ke JSON sumber dari API BMKG. Sudah tersedia dalam versi Graphql.",
+      "authentication": false
+    },
+    {
+      "apiName": "API Cuaca Realtime",
+      "status": true,
+      "documentationUrl": "https://www.weatherapi.com",
+      "developer": {
+        "name": "weatherapi",
+        "profileUrl": null
+      },
+      "description": "Ramalan Cuaca Terkini Berbagai Kota dengan Format JSON.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "BMKG Json API",
+      "status": true,
+      "documentationUrl": "https://ibnux.github.io/BMKG-importer/#pakai-langsung",
+      "developer": {
+        "name": "ibnux",
+        "profileUrl": "https://github.com/ibnux"
+      },
+      "description": "Ramalan cuaca Indonesia sampai 3 hari kedepan Import dari BMKG dalam bentuk JSON.",
+      "authentication": false
+    },
+    {
+      "apiName": "Info Gempa & Cuaca API",
+      "status": true,
+      "documentationUrl": "https://github.com/renomureza/cuaca-gempa-rest-api",
+      "developer": {
+        "name": "R.M. Reza",
+        "profileUrl": null
+      },
+      "description": "REST API informasi gempa terkini dan cuaca kota besar di 35 provinsi dalam 3 harian, sumber data BMKG.",
+      "authentication": false
+    }
+  ]
+}

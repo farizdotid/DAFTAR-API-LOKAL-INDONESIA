@@ -1,0 +1,258 @@
+{
+  "categoryName": "Hiburan",
+  "apis": [
+    {
+      "apiName": "1Cak API",
+      "status": true,
+      "documentationUrl": "https://github.com/dickymuliafiqri/onecak",
+      "developer": {
+        "name": "dickymuliafiqri",
+        "profileUrl": null
+      },
+      "description": "API unofficial dari situs meme kesayangan kita.",
+      "authentication": false
+    },
+    {
+      "apiName": "AnimeAPI",
+      "status": true,
+      "documentationUrl": "https://animeapi.my.id",
+      "developer": {
+        "name": "nattadasu",
+        "profileUrl": null
+      },
+      "description": "REST API untuk pemetaan relasi ID antara 15 situs database anime lokal dan luar negeri.",
+      "authentication": false
+    },
+    {
+      "apiName": "Anitop API / Anitrendz API (Un-official)",
+      "status": true,
+      "documentationUrl": "https://github.com/satyawikananda/anitop",
+      "developer": {
+        "name": "Satya Wikananda",
+        "profileUrl": null
+      },
+      "description": "Sebuah API yang menampilkan data-data anime, musik anime, karakter, dll yang sedang trending pada musim ini.",
+      "authentication": false
+    },
+    {
+      "apiName": "Epic Free Games API",
+      "status": true,
+      "documentationUrl": "https://github.com/woicip/epic-free-games",
+      "developer": {
+        "name": "woicip",
+        "profileUrl": null
+      },
+      "description": "Menyediakan daftar game - game gratis yang tersedia di Epic Games",
+      "authentication": false
+    },
+    {
+      "apiName": "FILMAPIK API (Un-official)",
+      "status": true,
+      "documentationUrl": "https://github.com/devnazir/api-filmapik",
+      "developer": {
+        "name": "devnazir",
+        "profileUrl": null
+      },
+      "description": "Menampilkan data movie beserta link video google drive.",
+      "authentication": false
+    },
+    {
+      "apiName": "Flamescans Manga Scraper (EN)",
+      "status": true,
+      "documentationUrl": "https://github.com/KevinNVM/flamescans-manga-scraper",
+      "developer": {
+        "name": "KevinNVM",
+        "profileUrl": null
+      },
+      "description": "Flamescans Manga Scraper English Language.",
+      "authentication": false
+    },
+    {
+      "apiName": "ID Game Checker",
+      "status": true,
+      "documentationUrl": "https://rapidapi.com/nazi436123/api/id-game-checker",
+      "developer": {
+        "name": "Nevertary I Forster",
+        "profileUrl": null
+      },
+      "description": "Buat Validasi atau dapatkan username dengan ID Game. Tersedia untuk Free Fire, Mobile Legends, PUBG Mobile, Higgs Domino, Point Blank dll.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Katanime",
+      "status": true,
+      "documentationUrl": "https://github.com/ricko-v/katanime",
+      "developer": {
+        "name": "ricko-v",
+        "profileUrl": null
+      },
+      "description": "Quotes anime bahasa Indonesia dan Inggris.",
+      "authentication": false
+    },
+    {
+      "apiName": "Klasemen Sepak Bola",
+      "status": true,
+      "documentationUrl": "https://github.com/azharimm/football-standings-api",
+      "developer": {
+        "name": "azharimm",
+        "profileUrl": null
+      },
+      "description": "Realtime klasemen sepak bola e.g EPL, La Liga dll.",
+      "authentication": false
+    },
+    {
+      "apiName": "Kunci Jawaban TTS API",
+      "status": true,
+      "documentationUrl": "https://github.com/nasrul21/kunci-tts-api",
+      "developer": {
+        "name": "nasrul21",
+        "profileUrl": null
+      },
+      "description": "API untuk mendapatkan kunci jawaban TTS (Teka Teki Silang) Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "KyokoAPI",
+      "status": true,
+      "documentationUrl": "https://kyoko.rei.my.id",
+      "developer": {
+        "name": "Elliottophellia",
+        "profileUrl": null
+      },
+      "description": "Menampilkan random anime pictures dan quotes, trace anime screenshot untuk mengetahui judul animenya, dan memberikan informasi detail tentang anime apapun!",
+      "authentication": false
+    },
+    {
+      "apiName": "LK21 & NontonDrama (Unofficial)",
+      "status": true,
+      "documentationUrl": "https://github.com/febriadj/lk21-api",
+      "developer": {
+        "name": "Febriadji",
+        "profileUrl": "http://github.com/febriadj"
+      },
+      "description": "Menyajikan movie, animasi, dan series dari berbagai negara dengan dukungan fitur streaming ber-subtitle Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "LK21 API (Un-official)",
+      "status": true,
+      "documentationUrl": "https://github.com/devnazir/api-lk21",
+      "developer": {
+        "name": "devnazir",
+        "profileUrl": null
+      },
+      "description": "Menampilkan data movie dari situs LK21.",
+      "authentication": false
+    },
+    {
+      "apiName": "Manga/Komik Bahasa Indonesia (Un-official)",
+      "status": true,
+      "documentationUrl": "https://github.com/febryardiansyah/manga-api",
+      "developer": {
+        "name": "Febry Ardiansyah",
+        "profileUrl": null
+      },
+      "description": "Menyediakan Manga atau Komik bahasa Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Manhwaindo API (Unofficial)",
+      "status": true,
+      "documentationUrl": "https://github.com/Aerysh/manhwaindo-api",
+      "developer": {
+        "name": "Aerysh",
+        "profileUrl": null
+      },
+      "description": "Menyediakan manhwa bahasa indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Otakudesu API (Un-official)",
+      "status": true,
+      "documentationUrl": "https://github.com/Kaede-No-Ki/otakudesu-rest-api",
+      "developer": {
+        "name": "KaedeNoKi Team",
+        "profileUrl": null
+      },
+      "description": "Menyediakan anime dengan subtitle Bahasa Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Quotes Generator API",
+      "status": true,
+      "documentationUrl": "https://github.com/Irfanakbari/quote-generator-api",
+      "developer": {
+        "name": "Irfan Akbari Habibi",
+        "profileUrl": null
+      },
+      "description": "API untuk Dapatkan Random Quotes Harian.",
+      "authentication": false
+    },
+    {
+      "apiName": "Spesifikasi HP",
+      "status": true,
+      "documentationUrl": "https://github.com/azharimm/phone-specs-api",
+      "developer": {
+        "name": "azharimm",
+        "profileUrl": null
+      },
+      "description": "Spesifikasi HP data dari gsm arena.",
+      "authentication": false
+    },
+    {
+      "apiName": "Strygwyr Dota 2 API",
+      "status": true,
+      "documentationUrl": "https://github.com/sinkaroid/strygwyr",
+      "developer": {
+        "name": "sinkaroid",
+        "profileUrl": null
+      },
+      "description": "Menampilkan data hero status untuk game Dota 2.",
+      "authentication": false
+    },
+    {
+      "apiName": "Student Blue Archive",
+      "status": true,
+      "documentationUrl": "https://github.com/arufars/api-blue-archive",
+      "developer": {
+        "name": "arufars",
+        "profileUrl": null
+      },
+      "description": "API (unofficial) berisi informasi data character dari game Blue Archive.",
+      "authentication": false
+    },
+    {
+      "apiName": "Tahukah Anda API",
+      "status": true,
+      "documentationUrl": "https://cinnabar.icaksh.my.id/public/daily/tawiki",
+      "developer": {
+        "name": "Icaksh",
+        "profileUrl": null
+      },
+      "description": "API untuk mendapatkan informasi fakta harian (Tahukah Anda) yang berasal dari Wikipedia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Tanggal Lahiran Pasaran Zodiak",
+      "status": true,
+      "documentationUrl": "https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak",
+      "developer": {
+        "name": "iBachor",
+        "profileUrl": null
+      },
+      "description": "Mengecek zodiak berdasarkan tanggal lahir serta dapat memberitahukan detail tanggal lahir, detail usia, serta detail rentang ulang tahun terdekat.",
+      "authentication": false
+    },
+    {
+      "apiName": "TOOLCEK",
+      "status": true,
+      "documentationUrl": "https://documenter.getpostman.com/view/13751573/2s8Z6vYZgS#b488f545-0053-4818-a440-ddc360391d36",
+      "developer": {
+        "name": "Alex",
+        "profileUrl": null
+      },
+      "description": "API Cek ID Games,Nomor Rekening,Nomor E-Wallet,Nomor meter PLN,DLL,Membantumu dalam system validasi,Integrasikan sekarang juga!",
+      "authentication": "API KEY"
+    }
+  ]
+}

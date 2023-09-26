@@ -1,0 +1,49 @@
+{
+  "categoryName": "Health",
+  "apis": [
+    {
+      "apiName": "API ketersediaan kamar rumah sakit COVID / Non COVID di Indonesia",
+      "status": true,
+      "documentationUrl": "https://github.com/bayungrh/rs-bed-availability-api",
+      "developer": {
+        "name": "Bayu",
+        "profileUrl": null
+      },
+      "description": "Data on COVID / Non-COVID hospital room availability in Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Data COVID-19 di Indonesia",
+      "status": true,
+      "documentationUrl": "https://apicovid19indonesia-v2.vercel.app/api",
+      "developer": {
+        "name": "Reynadi",
+        "profileUrl": null
+      },
+      "description": "API for viewing COVID-19 data in Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Data ketersediaan tempat tidur rumah sakit di Indonesia",
+      "status": true,
+      "documentationUrl": "https://github.com/satyawikananda/rs-bed-covid-indo-api",
+      "developer": {
+        "name": "Satya Wikananda",
+        "profileUrl": null
+      },
+      "description": "API for hospital and hospital bed availability for both COVID-19 and non-COVID patients in Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Data rumah sakit rujukan covid-19 di Indonesia",
+      "status": true,
+      "documentationUrl": "https://dekontaminasi.com/api/id/covid19/hospitals",
+      "developer": {
+        "name": "Ariya Hidayat",
+        "profileUrl": null
+      },
+      "description": "API for COVID-19 referral hospitals in Indonesia.",
+      "authentication": false
+    }
+  ]
+}

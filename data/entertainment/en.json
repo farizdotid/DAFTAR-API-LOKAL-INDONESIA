@@ -1,0 +1,258 @@
+{
+  "categoryName": "Entertainment",
+  "apis": [
+    {
+      "apiName": "1Cak API",
+      "status": true,
+      "documentationUrl": "https://github.com/dickymuliafiqri/onecak",
+      "developer": {
+        "name": "dickymuliafiqri",
+        "profileUrl": null
+      },
+      "description": "Unofficial API from our favorite meme site.",
+      "authentication": false
+    },
+    {
+      "apiName": "AnimeAPI",
+      "status": true,
+      "documentationUrl": "https://animeapi.my.id",
+      "developer": {
+        "name": "nattadasu",
+        "profileUrl": null
+      },
+      "description": "REST API for mapping ID relations between 15 local and international anime databases.",
+      "authentication": false
+    },
+    {
+      "apiName": "Anitop API / Anitrendz API (Un-official)",
+      "status": true,
+      "documentationUrl": "https://github.com/satyawikananda/anitop",
+      "developer": {
+        "name": "Satya Wikananda",
+        "profileUrl": null
+      },
+      "description": "An API that displays anime data, anime music, characters, etc. that are currently trending this season.",
+      "authentication": false
+    },
+    {
+      "apiName": "Epic Free Games API",
+      "status": true,
+      "documentationUrl": "https://github.com/woicip/epic-free-games",
+      "developer": {
+        "name": "woicip",
+        "profileUrl": null
+      },
+      "description": "Serving list of games that available in Epic Games",
+      "authentication": false
+    },
+    {
+      "apiName": "FILMAPIK API (Un-official)",
+      "status": true,
+      "documentationUrl": "https://github.com/devnazir/api-filmapik",
+      "developer": {
+        "name": "devnazir",
+        "profileUrl": null
+      },
+      "description": "Displays movie data along with Google Drive video links.",
+      "authentication": false
+    },
+    {
+      "apiName": "Flamescans Manga Scraper (EN)",
+      "status": true,
+      "documentationUrl": "https://github.com/KevinNVM/flamescans-manga-scraper",
+      "developer": {
+        "name": "KevinNVM",
+        "profileUrl": null
+      },
+      "description": "Flamescans Manga Scraper for the English Language.",
+      "authentication": false
+    },
+    {
+      "apiName": "ID Game Checker",
+      "status": true,
+      "documentationUrl": "https://rapidapi.com/nazi436123/api/id-game-checker",
+      "developer": {
+        "name": "Nevertary I Forster",
+        "profileUrl": null
+      },
+      "description": "Create validation or get usernames with Game IDs. Available for Free Fire, Mobile Legends, PUBG Mobile, Higgs Domino, Point Blank, etc.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Katanime",
+      "status": true,
+      "documentationUrl": "https://github.com/ricko-v/katanime",
+      "developer": {
+        "name": "ricko-v",
+        "profileUrl": null
+      },
+      "description": "Quotes from anime in Indonesian and English.",
+      "authentication": false
+    },
+    {
+      "apiName": "Klasemen Sepak Bola",
+      "status": true,
+      "documentationUrl": "https://github.com/azharimm/football-standings-api",
+      "developer": {
+        "name": "azharimm",
+        "profileUrl": null
+      },
+      "description": "Real-time football standings, e.g., EPL, La Liga, etc.",
+      "authentication": false
+    },
+    {
+      "apiName": "Kunci Jawaban TTS API",
+      "status": true,
+      "documentationUrl": "https://github.com/nasrul21/kunci-tts-api",
+      "developer": {
+        "name": "nasrul21",
+        "profileUrl": null
+      },
+      "description": "API to get the answer key for Indonesian crossword puzzles (Teka Teki Silang).",
+      "authentication": false
+    },
+    {
+      "apiName": "KyokoAPI",
+      "status": true,
+      "documentationUrl": "https://kyoko.rei.my.id",
+      "developer": {
+        "name": "Elliottophellia",
+        "profileUrl": null
+      },
+      "description": "Displays random anime pictures and quotes, traces anime screenshots to identify the anime title, and provides detailed information about any anime!",
+      "authentication": false
+    },
+    {
+      "apiName": "LK21 & NontonDrama (Unofficial)",
+      "status": true,
+      "documentationUrl": "https://github.com/febriadj/lk21-api",
+      "developer": {
+        "name": "Febriadji",
+        "profileUrl": "http://github.com/febriadj"
+      },
+      "description": "Presents movies, animations, and series from various countries with Indonesian subtitle streaming features.",
+      "authentication": false
+    },
+    {
+      "apiName": "LK21 API (Un-official)",
+      "status": true,
+      "documentationUrl": "https://github.com/devnazir/api-lk21",
+      "developer": {
+        "name": "devnazir",
+        "profileUrl": null
+      },
+      "description": "Displays movie data from the LK21 website.",
+      "authentication": false
+    },
+    {
+      "apiName": "Manga/Komik Bahasa Indonesia (Un-official)",
+      "status": true,
+      "documentationUrl": "https://github.com/febryardiansyah/manga-api",
+      "developer": {
+        "name": "Febry Ardiansyah",
+        "profileUrl": null
+      },
+      "description": "Provides Manga or Comics in Indonesian.",
+      "authentication": false
+    },
+    {
+      "apiName": "Manhwaindo API (Unofficial)",
+      "status": true,
+      "documentationUrl": "https://github.com/Aerysh/manhwaindo-api",
+      "developer": {
+        "name": "Aerysh",
+        "profileUrl": null
+      },
+      "description": "Provides Indonesian manhwa.",
+      "authentication": false
+    },
+    {
+      "apiName": "Otakudesu API (Un-official)",
+      "status": true,
+      "documentationUrl": "https://github.com/Kaede-No-Ki/otakudesu-rest-api",
+      "developer": {
+        "name": "KaedeNoKi Team",
+        "profileUrl": null
+      },
+      "description": "Provides anime with Indonesian subtitles.",
+      "authentication": false
+    },
+    {
+      "apiName": "Quotes Generator API",
+      "status": true,
+      "documentationUrl": "https://github.com/Irfanakbari/quote-generator-api",
+      "developer": {
+        "name": "Irfan Akbari Habibi",
+        "profileUrl": null
+      },
+      "description": "API to Get Random Daily Quotes.",
+      "authentication": false
+    },
+    {
+      "apiName": "Spesifikasi HP",
+      "status": true,
+      "documentationUrl": "https://github.com/azharimm/phone-specs-api",
+      "developer": {
+        "name": "azharimm",
+        "profileUrl": null
+      },
+      "description": "Mobile phone specifications from GSM Arena.",
+      "authentication": false
+    },
+    {
+      "apiName": "Strygwyr Dota 2 API",
+      "status": true,
+      "documentationUrl": "https://github.com/sinkaroid/strygwyr",
+      "developer": {
+        "name": "sinkaroid",
+        "profileUrl": null
+      },
+      "description": "Displays hero status data for Dota 2 game.",
+      "authentication": false
+    },
+    {
+      "apiName": "Student Blue Archive",
+      "status": true,
+      "documentationUrl": "https://github.com/arufars/api-blue-archive",
+      "developer": {
+        "name": "arufars",
+        "profileUrl": null
+      },
+      "description": "Unofficial API containing character data information from the game Blue Archive.",
+      "authentication": false
+    },
+    {
+      "apiName": "Tahukah Anda API",
+      "status": true,
+      "documentationUrl": "https://cinnabar.icaksh.my.id/public/daily/tawiki",
+      "developer": {
+        "name": "Icaksh",
+        "profileUrl": null
+      },
+      "description": "API to get daily facts (Did You Know?) from Wikipedia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Tanggal Lahiran Pasaran Zodiak",
+      "status": true,
+      "documentationUrl": "https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak",
+      "developer": {
+        "name": "iBachor",
+        "profileUrl": null
+      },
+      "description": "Checks the zodiac sign based on birth date and provides birth date details, age details, and nearest upcoming birthday details.",
+      "authentication": false
+    },
+    {
+      "apiName": "TOOLCEK",
+      "status": true,
+      "documentationUrl": "https://documenter.getpostman.com/view/13751573/2s8Z6vYZgS#b488f545-0053-4818-a440-ddc360391d36",
+      "developer": {
+        "name": "Alex",
+        "profileUrl": null
+      },
+      "description": "API to check Game IDs, Bank Account Numbers, E-Wallet Numbers, PLN Meter Numbers, etc. Helps you with validation and integration in your systems!",
+      "authentication": "API KEY"
+    }
+  ]
+}

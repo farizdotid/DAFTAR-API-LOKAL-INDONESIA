@@ -1,0 +1,71 @@
+{
+  "categoryName": "E-Commerce",
+  "apis": [
+    {
+      "apiName": "Blibli",
+      "status": true,
+      "documentationUrl": "https://seller-api.blibli.com/home",
+      "developer": {
+        "name": "Blibli.com Dev",
+        "profileUrl": null
+      },
+      "description": "API for sellers on Blibli.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Lazada",
+      "status": true,
+      "documentationUrl": "https://open.lazada.com/doc/doc.htm",
+      "developer": {
+        "name": "Lazada Dev",
+        "profileUrl": null
+      },
+      "description": "Official Lazada API for Product, Order, Finance, Logistic, Seller, and System services.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Matahari Mall API for Seller",
+      "status": true,
+      "documentationUrl": "http://docs.apiforseller.apiary.io",
+      "developer": {
+        "name": "Matahari Mall Dev",
+        "profileUrl": null
+      },
+      "description": "API for sellers on Matahari Mall.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Shopee",
+      "status": true,
+      "documentationUrl": "https://open.shopee.com/documents",
+      "developer": {
+        "name": "Shopee Dev",
+        "profileUrl": null
+      },
+      "description": "Official Shopee API for integrating various services from Shopee.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Tiketux.com API",
+      "status": true,
+      "documentationUrl": "https://developer.tiketux.com",
+      "developer": {
+        "name": "Tiketux.com Dev",
+        "profileUrl": null
+      },
+      "description": "API for transactions on tiketux.com, a ticket travel sales website.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Tokopedia.com API",
+      "status": true,
+      "documentationUrl": "https://developer.tokopedia.com/openapi/guide",
+      "developer": {
+        "name": "Tokopedia.com Dev",
+        "profileUrl": null
+      },
+      "description": "This API allows you to integrate your system with Tokopedia.",
+      "authentication": "API KEY"
+    }
+  ]
+}

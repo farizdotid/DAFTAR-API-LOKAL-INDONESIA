@@ -1,0 +1,16 @@
+{
+  "categoryName": "General",
+  "apis": [
+    {
+      "apiName": "Dayoff API",
+      "status": true,
+      "documentationUrl": "https://dayoffapi.vercel.app",
+      "developer": {
+        "name": "Gerinsp",
+        "profileUrl": null
+      },
+      "description": "API to retrieve data on national holidays and collective leave days in Indonesia.",
+      "authentication": false
+    }
+  ]
+}

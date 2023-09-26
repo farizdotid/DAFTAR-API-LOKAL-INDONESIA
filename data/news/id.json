@@ -1,0 +1,82 @@
+{
+  "categoryName": "Berita",
+  "apis": [
+    {
+      "apiName": "API Berita Indonesia",
+      "status": true,
+      "documentationUrl": "https://github.com/renomureza/api-berita-indonesia",
+      "developer": {
+        "name": "R.M. Reza",
+        "profileUrl": null
+      },
+      "description": "API untuk menampilkan artikel terkini dari RSS Feed portal berita Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Berita Indo API",
+      "status": true,
+      "documentationUrl": "https://github.com/satyawikananda/berita-indo-api",
+      "developer": {
+        "name": "Satya Wikananda",
+        "profileUrl": null
+      },
+      "description": "Api yang bertujuan untuk menampilkan data data terkini dari beberapa portal berita di Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "CNN Indonesia",
+      "status": true,
+      "documentationUrl": "https://github.com/rizki4106/cnnindonesia-news-api",
+      "developer": {
+        "name": "developeridn.com",
+        "profileUrl": null
+      },
+      "description": "API kumpulan berita dari cnn Indonesia.",
+      "authentication": false
+    },
+    {
+      "apiName": "Detik News API",
+      "status": true,
+      "documentationUrl": "https://github.com/Ucok23/detiknews_api",
+      "developer": {
+        "name": "Ucok Isa Lubis",
+        "profileUrl": null
+      },
+      "description": "API berita detik news. Search, dapatkan list berita, dapatkan detail berita.",
+      "authentication": false
+    },
+    {
+      "apiName": "Indonesia news API",
+      "status": true,
+      "documentationUrl": "https://newsapi.org/s/indonesia-news-api",
+      "developer": {
+        "name": "News API",
+        "profileUrl": null
+      },
+      "description": "API untuk mendapatkan update berita di Indonesia.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Jakarta Post API",
+      "status": true,
+      "documentationUrl": "https://github.com/faruqmaulana/JAKARTA-POST-API",
+      "developer": {
+        "name": "Faruq Maulana",
+        "profileUrl": null
+      },
+      "description": "API yang menyajikan berita dan data podcast dari media berita Jakarta Post.",
+      "authentication": false
+    },
+    {
+      "apiName": "The Lazy Media API",
+      "status": true,
+      "documentationUrl": "https://github.com/NicolaDonoastro/The-Lazy-Media-api",
+      "developer": {
+        "name": "Nicola Deastra",
+        "profileUrl": null
+      },
+      "description": "API kumpulan berita game dan teknologi dari The Lazy Media.",
+      "authentication": false
+    }
+  ]
+}

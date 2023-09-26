@@ -1,0 +1,236 @@
+{
+  "categoryName": "Finansial",
+  "apis": [
+    {
+      "apiName": "API Data Saham Indonesia",
+      "status": true,
+      "documentationUrl": "https://goapi.id/p/data-saham-indonesia",
+      "developer": {
+        "name": "goapi-id",
+        "profileUrl": null
+      },
+      "description": "REST API data saham indonesia dalam format json, dengan api ini anda bisa mendapatkan data perusahaan, harga saham, dll.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "BCA",
+      "status": true,
+      "documentationUrl": "https://developer.bca.co.id",
+      "developer": {
+        "name": "BCA",
+        "profileUrl": null
+      },
+      "description": "API Bank BCA.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Bisatopup",
+      "status": true,
+      "documentationUrl": "http://docs.bisatopup.apiary.io",
+      "developer": {
+        "name": "Bisatopup",
+        "profileUrl": null
+      },
+      "description": "Melalui API ini dapat melakukan transaksi seperti beli pulsa, bayar token listrik, dan lain-lain.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "CoinMarketCap",
+      "status": true,
+      "documentationUrl": "https://coinmarketcap.com/api",
+      "developer": {
+        "name": "CoinMarketCap",
+        "profileUrl": null
+      },
+      "description": "CoinMarketCap API adalah rangkaian endpoint RESTful JSON berkinerja tinggi yang dirancang khusus untuk memenuhi tuntutan misi-kritis dari pengembang aplikasi, ilmuwan data, dan platform bisnis perusahaan.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Currency Exchange",
+      "status": true,
+      "documentationUrl": "https://github.com/azharimm/currency-exchange-api",
+      "developer": {
+        "name": "azharimm",
+        "profileUrl": null
+      },
+      "description": "Currency Exchange.",
+      "authentication": false
+    },
+    {
+      "apiName": "DOKU",
+      "status": true,
+      "documentationUrl": "https://www.doku.com/API/index.html",
+      "developer": {
+        "name": "DOKU",
+        "profileUrl": null
+      },
+      "description": "DOKU semakin dipercaya dan menjadi layanan pembayaran elektronik pilihan bagi merchant nasional maupun internasional.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Duitku",
+      "status": true,
+      "documentationUrl": "https://docs.duitku.com",
+      "developer": {
+        "name": "Duitku",
+        "profileUrl": null
+      },
+      "description": "Payment Gateway Indonesia.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "ESPAY",
+      "status": true,
+      "documentationUrl": "https://sandbox-kit.espay.id/docs/v2/docespay/en/index.php",
+      "developer": {
+        "name": "ESPAY",
+        "profileUrl": null
+      },
+      "description": "Payment Gateway Indonesia.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "iPaymu",
+      "status": true,
+      "documentationUrl": "https://ipaymu.com/dokumentasi-api",
+      "developer": {
+        "name": "iPaymu",
+        "profileUrl": null
+      },
+      "description": "Gateway atau gerbang untuk transaksi pembayaran.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Jurnal API",
+      "status": true,
+      "documentationUrl": "https://api-jurnal.api-docs.io/v1/getting-started/introduction",
+      "developer": {
+        "name": "jurnal.id",
+        "profileUrl": null
+      },
+      "description": "API untuk software laporan keuangan.",
+      "authentication": "OAUTH / API KEY"
+    },
+    {
+      "apiName": "Midtrans",
+      "status": true,
+      "documentationUrl": "https://docs.midtrans.com",
+      "developer": {
+        "name": "Midtrans",
+        "profileUrl": null
+      },
+      "description": "Gateway atau gerbang untuk transaksi pembayaran.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "MobilePulsa API",
+      "status": true,
+      "documentationUrl": "https://developer.mobilepulsa.net",
+      "developer": {
+        "name": "MobilePulsa Official",
+        "profileUrl": null
+      },
+      "description": "API Gateway resmi dari MobilePulsa untuk pembayaran pulsa, top up, PLN, voucher game, dll.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Neropass API",
+      "status": true,
+      "documentationUrl": "https://docs.neropass.com",
+      "developer": {
+        "name": "Neropass",
+        "profileUrl": "https://neropass.com/reseller"
+      },
+      "description": "API distributor game online dan voucher game terlengkap dari PT Busur Media Indonesia (terbuka untuk reseller), tersedia juga layanan topup pulsa, paket data, dll.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "OJK Investasi API",
+      "status": true,
+      "documentationUrl": "https://github.com/Namchee/ojk-invest-api",
+      "developer": {
+        "name": "Cristopher",
+        "profileUrl": null
+      },
+      "description": "Sebuah API yang menampilkan daftar investasi legal dan ilegal di Indonesia. Bersumber dari data Otoritas Jasa Keuangan.",
+      "authentication": false
+    },
+    {
+      "apiName": "OVO Unofficial",
+      "status": true,
+      "documentationUrl": "https://github.com/lintangtimur/ovoid",
+      "developer": {
+        "name": "lintangtimur",
+        "profileUrl": null
+      },
+      "description": "Un-Official ovoid API Wrapper menggunakan PHP.",
+      "authentication": "OTP"
+    },
+    {
+      "apiName": "OY! Indonesia",
+      "status": true,
+      "documentationUrl": "https://api-docs.oyindonesia.com/#introduction",
+      "developer": {
+        "name": "OY! Indonesia",
+        "profileUrl": null
+      },
+      "description": "API Gateway resmi dari OY! Indonesia untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran OY! Indonesia.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Paypal",
+      "status": true,
+      "documentationUrl": "https://developer.paypal.com/api/rest/",
+      "developer": {
+        "name": "Paypal",
+        "profileUrl": null
+      },
+      "description": "API Gateway resmi dari Paypal untuk transaksi internasional atau domestik dari dompet paypal.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "tradingeconomics",
+      "status": true,
+      "documentationUrl": "https://tradingeconomics.com/api/",
+      "developer": {
+        "name": "tradingeconomics",
+        "profileUrl": null
+      },
+      "description": "Trading Economics Application Programming Interface (API) Menyediakan akses langsung ke data kami. Ini memungkinkan klien untuk mengunduh jutaan baris data historis, untuk mempertanyakan kalender ekonomi real-time.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Tradingview",
+      "status": true,
+      "documentationUrl": "https://www.tradingview.com/rest-api-spec",
+      "developer": {
+        "name": "Tradingview",
+        "profileUrl": null
+      },
+      "description": "API ini akan diimplementasikan oleh Broker untuk menghubungkan sistem backend mereka ke TradingView.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Tripay",
+      "status": true,
+      "documentationUrl": "https://tripay.co.id/developer?tab=prolog",
+      "developer": {
+        "name": "Tripay",
+        "profileUrl": null
+      },
+      "description": "API payment Gateway yang terbagi menjadi 2 jenis yaitu Open Payment & Closed Payment. sehingga dapat dintegrasikan dengan aplikasi Anda dengan Gateway pembayaran Tripay.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Xendit API",
+      "status": true,
+      "documentationUrl": "https://developers.xendit.co",
+      "developer": {
+        "name": "Xendit Official",
+        "profileUrl": null
+      },
+      "description": "API Gateway resmi dari Xendit untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran Xendit.",
+      "authentication": "API KEY"
+    }
+  ]
+}

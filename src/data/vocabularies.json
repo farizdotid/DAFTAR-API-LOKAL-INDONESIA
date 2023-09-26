@@ -1,0 +1,18 @@
+{
+  "id": {
+    "apiName": "Nama API",
+    "developer": "Pengembang",
+    "documentation": "Dokumentasi",
+    "status": "Status",
+    "description": "Deskripsi",
+    "authentication": "Autentikasi"
+  },
+  "en": {
+    "apiName": "API Name",
+    "developer": "Developer",
+    "documentation": "Documentation",
+    "status": "Status",
+    "description": "Description",
+    "authentication": "Authentication"
+  }
+}

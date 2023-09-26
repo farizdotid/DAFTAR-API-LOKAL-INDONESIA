@@ -1,0 +1,104 @@
+{
+  "categoryName": "Shipping",
+  "apis": [
+    {
+      "apiName": "Cek Resi",
+      "status": true,
+      "documentationUrl": "https://docs.binderbyte.com/api/cek-resi",
+      "developer": {
+        "name": "binderbyte",
+        "profileUrl": null
+      },
+      "description": "Cek Resi API is used to automatically track shipments from various courier services such as JNE, Pos, J&T, Wahana, Tiki, Sicepat, and more.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "J&T",
+      "status": true,
+      "documentationUrl": "https://developer.jet.co.id/documentation",
+      "developer": {
+        "name": "J&T Official",
+        "profileUrl": null
+      },
+      "description": "Official API published by J&T for AWB services, Order Tracking, Rate Checking, and Order Cancellation.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "JNE",
+      "status": true,
+      "documentationUrl": "https://apidash.jne.co.id",
+      "developer": {
+        "name": "JNE Official",
+        "profileUrl": null
+      },
+      "description": "Official JNE API for services such as checking shipping costs and generating AWBs. Access to the link requires an account provided directly by JNE.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "KiriminAja",
+      "status": true,
+      "documentationUrl": "https://developer.kiriminaja.com",
+      "developer": {
+        "name": "KiriminAja Official",
+        "profileUrl": null
+      },
+      "description": "Package delivery solution to various courier services. Track the real-time position of packages, support regular, cargo, and instant delivery.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Paket ID",
+      "status": true,
+      "documentationUrl": "http://docs.paket.id/API/Versi_2.html",
+      "developer": {
+        "name": "paket.id",
+        "profileUrl": null
+      },
+      "description": "Shipping service.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "POST Indonesia",
+      "status": true,
+      "documentationUrl": "https://www.trackingmore.com/indonesia-post-tracking-api.html",
+      "developer": {
+        "name": "Trackingmore",
+        "profileUrl": null
+      },
+      "description": "Shipping service.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Raja Ongkir",
+      "status": true,
+      "documentationUrl": "http://rajaongkir.com/dokumentasi",
+      "developer": {
+        "name": "Rajaongkir",
+        "profileUrl": null
+      },
+      "description": "Check shipping rates for various delivery services such as JNE, Pos, TIKI, and more.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Shipper",
+      "status": true,
+      "documentationUrl": "https://shipper.id/api-integration",
+      "developer": {
+        "name": "Shipper",
+        "profileUrl": null
+      },
+      "description": "Get the most up-to-date and accurate package tracking from the Shipper dashboard. Easily track your package's status with just the tracking number. Receive real-time notifications about your package's status.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Tracking API",
+      "status": true,
+      "documentationUrl": "https://documenter.getpostman.com/view/29221489/2s9YC7SBgH",
+      "developer": {
+        "name": "Klik Resi",
+        "profileUrl": "https://klikresi.com"
+      },
+      "description": "Developers' choice multi-carrier tracking API.",
+      "authentication": "API KEY"
+    }
+  ]
+}

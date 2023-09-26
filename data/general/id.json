@@ -1,0 +1,16 @@
+{
+  "categoryName": "Umum",
+  "apis": [
+    {
+      "apiName": "Dayoff API",
+      "status": true,
+      "documentationUrl": "https://dayoffapi.vercel.app",
+      "developer": {
+        "name": "Gerinsp",
+        "profileUrl": null
+      },
+      "description": "Api untuk mendapatkan data hari libur nasional dan cuti bersama di Indonesia.",
+      "authentication": false
+    }
+  ]
+}

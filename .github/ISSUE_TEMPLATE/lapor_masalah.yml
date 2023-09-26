@@ -1,40 +1,42 @@
-name: Laporkan API yang bermasalah
-description: Laporkan API yang mengalami masalah atau telah tidak aktif
-title: "[ERROR]: "
-labels: ["error", "triage"]
-assignees:
-  - vzrenggamani
+name: Laporkan API Yang Bermasalah
+description: Laporkan API yang sudah tidak aktif atau mengalami masalah.
+title: '[ERROR]: '
+labels: ['error', 'triage']
+
 body:
   - type: textarea
     id: situasi-user
     attributes:
-      label: Apa yang terjadi?
-      description: Bisakah anda menjelaskan apa yang ingin anda lakukan?
+      label: Apa Yang Terjadi?
+      description: Bisakah kamu menjelaskan apa yang ingin kamu lakukan?
       placeholder: Ceritakan di bawah ini
-      value: "Saya tidak bisa mengakses API ...., saya mengalami error....."
+      value: 'Saya tidak bisa mengakses API ...., saya mengalami error.....'
     validations:
       required: true
-- type: input
-  id: nama-api
-  attributes:
-    label: Nama API
-    description: "Nama API yang anda gunakan"
-    placeholder: "Peta Cuaca Indonesia BMKG"
-  validations:
-    required: true
-- type: input
-  id: api-endpoint
-  attributes:
-    label: API Endpoint
-    description: "Endpoint dari API yang anda gunakan"
-    placeholder: "https://data.bmkg.go.id/cuaca/peta.json"
-  validations:
-    required: true
-- type: dropdown
+
+  - type: input
+    id: nama-api
+    attributes:
+      label: Nama API
+      description: 'Nama API Yang Digunakan'
+      placeholder: 'Peta Cuaca Indonesia BMKG'
+    validations:
+      required: true
+
+  - type: input
+    id: api-endpoint
+    attributes:
+      label: Titik Akhir API
+      description: 'Titik akhir dari API yang digunakan'
+      placeholder: 'https://data.bmkg.go.id/cuaca/peta.json'
+    validations:
+      required: true
+
+  - type: dropdown
     id: respon-api
     attributes:
       label: Respon dari API
-      description: Bagaimana respon dari API yang anda gunakan?
+      description: Bagaimana respon dari API yang kamu gunakan?
       options:
         - 200 (OKE)
         - 401 Unauthorized
@@ -47,15 +49,15 @@ body:
         - 504 Service unavailable
     validations:
       required: true
+
   - type: textarea
     id: code
     attributes:
       label: Script / Kode Consume API
-      description: Mohoncopypastekan potongan kode yang anda gunakan untuk mengambil data dari API yang dimaksud
-      render: shell
+      description: Mohon copy-paste-kan potongan kode yang kamu gunakan untuk mengambil data dari API yang dimaksud
+
   - type: textarea
     id: logs
     attributes:
-      label: Log Error
-      description: Mohon copypastekan error log yang anda dapat ketika menjalankan error
-      render: shell
+      label: Log Kesalahan
+      description: Mohon copy-paste-kan error log yang anda dapat ketika mendapati kesalahan

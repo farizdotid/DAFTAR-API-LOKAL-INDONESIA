@@ -1,0 +1,71 @@
+{
+  "categoryName": "E-Commerce",
+  "apis": [
+    {
+      "apiName": "Blibli",
+      "status": true,
+      "documentationUrl": "https://seller-api.blibli.com/home",
+      "developer": {
+        "name": "Blibli.com Dev",
+        "profileUrl": null
+      },
+      "description": "API untuk penjual di Blibli.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Lazada",
+      "status": true,
+      "documentationUrl": "https://open.lazada.com/doc/doc.htm",
+      "developer": {
+        "name": "Lazada Dev",
+        "profileUrl": null
+      },
+      "description": "API resmi Lazada untuk layanan Product, Order, Finance, Logistic, Seller, dan System dari Lazada.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Matahari Mall API for Seller",
+      "status": true,
+      "documentationUrl": "http://docs.apiforseller.apiary.io",
+      "developer": {
+        "name": "Matahari Mall Dev",
+        "profileUrl": null
+      },
+      "description": "API untuk penjual di Matahari Mall.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Shopee",
+      "status": true,
+      "documentationUrl": "https://open.shopee.com/documents",
+      "developer": {
+        "name": "Shopee Dev",
+        "profileUrl": null
+      },
+      "description": "API resmi Shopee untuk integrasi berbagai layanan dari Shopee.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Tiketux.com API",
+      "status": true,
+      "documentationUrl": "https://developer.tiketux.com",
+      "developer": {
+        "name": "Tiketux.com Dev",
+        "profileUrl": null
+      },
+      "description": "API untuk transaksi pada tiketux.com yang merupakan situs penjualan tiket travel.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Tokopedia.com API",
+      "status": true,
+      "documentationUrl": "https://developer.tokopedia.com/openapi/guide",
+      "developer": {
+        "name": "Tokopedia.com Dev",
+        "profileUrl": null
+      },
+      "description": "API ini memungkinkan Anda untuk mengintegrasikan sistem Anda ke dalam Tokopedia.",
+      "authentication": "API KEY"
+    }
+  ]
+}

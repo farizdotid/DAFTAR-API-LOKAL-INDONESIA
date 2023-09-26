@@ -1,0 +1,46 @@
+{
+  "name": "daftar-api-lokal-indonesia",
+  "type": "module",
+  "module": "src/builder.ts",
+  "scripts": {
+    "prepare": "husky install",
+    "format": "prettier --write .",
+    "start": "bun run src/build.ts",
+    "check": "bun run src/check.ts",
+    "commit": "git-cz"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "semi": false,
+    "singleQuote": true,
+    "useTabs": false,
+    "quoteProps": "consistent",
+    "bracketSpacing": true,
+    "arrowParens": "always",
+    "printWidth": 100
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "bun format && git add --all",
+      "prepare-commit-msg": "exec < /dev/tty && npx cz --hook || true"
+    }
+  },
+  "devDependencies": {
+    "bun-types": "^0.6.0",
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^8.0.3",
+    "prettier": "^3.0.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
