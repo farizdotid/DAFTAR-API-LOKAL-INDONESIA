@@ -130,7 +130,7 @@
         "name": "akuari",
         "profileUrl": null
       },
-      "description": "A collection of bot needs api, and several visitor api, check ip, Check Website is down or no, Api file with JSON response.",
+      "description": "A collection of bot needs api, and some api: Visitor api, Check ip api, Check Website Live or not, File api, etc. with JSON response.",
       "authentication": false
     }
   ]
