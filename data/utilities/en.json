@@ -121,6 +121,17 @@
       },
       "description": "Translation API with Google Translate/Baidu Translate engine.",
       "authentication": false
+    },
+    {
+      "apiName": "Akuari Api",
+      "status": true,
+      "documentationUrl": "https://api.akuari.my.id/",
+      "developer": {
+        "name": "akuari",
+        "profileUrl": null
+      },
+      "description": "A collection of bot needs api, and some api: Visitor api, Check ip api, Check Website Live or not, File api, etc. with JSON response.",
+      "authentication": false
     }
   ]
 }
