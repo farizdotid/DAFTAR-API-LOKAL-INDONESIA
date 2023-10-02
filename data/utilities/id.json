@@ -13,6 +13,17 @@
       "authentication": "API KEY"
     },
     {
+      "apiName": "Akuari Api",
+      "status": true,
+      "documentationUrl": "https://api.akuari.my.id/",
+      "developer": {
+        "name": "akuari",
+        "profileUrl": null
+      },
+      "description": "Kumpulan api kebutuhan bot, dan beberapa api:  Visitor api, Cek ip api, Cek Website Hidup atau tidak, File api, dan lain-lain dengan respon JSON.",
+      "authentication": false
+    },
+    {
       "apiName": "Arbanat",
       "status": true,
       "documentationUrl": "https://arbanat.my.id",
@@ -120,17 +131,6 @@
         "profileUrl": null
       },
       "description": "API translasi dengan google translate/baidu translate engine.",
-      "authentication": false
-    },
-    {
-      "apiName": "Akuari Api",
-      "status": true,
-      "documentationUrl": "https://api.akuari.my.id/",
-      "developer": {
-        "name": "akuari",
-        "profileUrl": null
-      },
-      "description": "Kumpulan api kebutuhan bot, dan beberapa api:  Visitor api, Cek ip api, Cek Website Hidup atau tidak, File api, dan lain-lain dengan respon JSON.",
       "authentication": false
     }
   ]
