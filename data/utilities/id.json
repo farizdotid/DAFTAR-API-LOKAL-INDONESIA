@@ -13,17 +13,6 @@
       "authentication": "API KEY"
     },
     {
-      "apiName": "Akuari Api",
-      "status": true,
-      "documentationUrl": "https://api.akuari.my.id/",
-      "developer": {
-        "name": "akuari",
-        "profileUrl": null
-      },
-      "description": "Kumpulan api kebutuhan bot, dan beberapa api:  Visitor api, Cek ip api, Cek Website Hidup atau tidak, File api, dan lain-lain dengan respon JSON.",
-      "authentication": false
-    },
-    {
       "apiName": "Arbanat",
       "status": true,
       "documentationUrl": "https://arbanat.my.id",
@@ -32,17 +21,6 @@
         "profileUrl": null
       },
       "description": "kirim sms melalui rest api.",
-      "authentication": "API KEY"
-    },
-    {
-      "apiName": "ConnectAPI",
-      "status": true,
-      "documentationUrl": "https://api.ihsandevs.io",
-      "developer": {
-        "name": "Ihsan Devs",
-        "profileUrl": "https://ihsandevs.com"
-      },
-      "description": "API Publik yang menyediakan berbagai macam API dan layanan API akan bertambah seiring berjalannya waktu.",
       "authentication": "API KEY"
     },
     {
