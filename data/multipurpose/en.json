@@ -1,4 +1,38 @@
 {
   "categoryName": "Multipurpose",
-  "apis": []
+  "apis": [
+    {
+      "apiName": "Akuari Api",
+      "status": true,
+      "documentationUrl": "https://api.akuari.my.id/",
+      "developer": {
+        "name": "akuari",
+        "profileUrl": null
+      },
+      "description": "A collection of bot needs api, and some api: Visitor api, Check ip api, Check Website Live or not, File api, etc. with JSON response.",
+      "authentication": false
+    },
+    {
+      "apiName": "ConnectAPI",
+      "status": true,
+      "documentationUrl": "https://api.ihsandevs.io",
+      "developer": {
+        "name": "Ihsan Devs",
+        "profileUrl": "https://ihsandevs.com"
+      },
+      "description": "The public API that provides various APIs and API services will increase over time.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "Forest API",
+      "status": true,
+      "documentationUrl": "https://www.forestapi.my.id",
+      "developer": {
+        "name": "Rio Agung Purnomo",
+        "profileUrl": "https://github.com/rioagungpurnomo"
+      },
+      "description": "A collection of unlimited free APIs that can be used anytime and anywhere.",
+      "authentication": false
+    }
+  ]
 }
