@@ -262,11 +262,6 @@ Kumpulan API tentang data dan informasi di Indonesia
 | ------------------------- | ---------- | ------------------------------------------------------ | ------ | ------------------------------------------------------ | ----------- |
 | Facebook Video Downloader | bramaudi   | [Link](https://github.com/bramaudi/fbdown)             | ✅     | Unofficial API Facebook untuk Scraping Video Facebook. | `false`     |
 | Twitter Trends            | azharimm   | [Link](https://github.com/azharimm/twitter-trends-api) | ✅     | Unofficial API Twitter trends data.                    | `false`     |
-<<<<<<< HEAD
-=======
-| Whatsapp Official API     | Facebook   | [Link](https://developers.facebook.com/docs/whatsapp/) | ✅     | Official Whatsapp Cloud API Bahasa Indonesia.          | API KEY     |
-| Instagram Official API    | Facebook   | [Link](https://developers.facebook.com/docs/instagram-api/getting-started) | ✅     | Official Instagram API Bahasa Indonesia.          | API KEY     |
->>>>>>> parent of 952a4b5 ((ADD) Finance API)
 
 ### Umum
 
