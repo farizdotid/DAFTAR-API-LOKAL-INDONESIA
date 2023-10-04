@@ -57,6 +57,17 @@
       "authentication": false
     },
     {
+      "apiName": "Dana Enterprise ",
+      "status": true,
+      "documentationUrl": "https://dashboard.dana.id/api-docs/",
+      "developer": {
+        "name": "DANA",
+        "profileUrl": ""
+      },
+      "description": "Official DANA Enterprise API.",
+      "authentication": "OAUTH"
+    },
+    {
       "apiName": "DOKU",
       "status": true,
       "documentationUrl": "https://www.doku.com/API/index.html",
@@ -158,12 +169,12 @@
     {
       "apiName": "OVO Unofficial",
       "status": true,
-      "documentationUrl": "https://github.com/lintangtimur/ovoid",
+      "documentationUrl": "https://github.com/fdciabdul/new-ovoid-nodejs",
       "developer": {
-        "name": "lintangtimur",
-        "profileUrl": null
+        "name": "fdciabdul",
+        "profileUrl": "https://github.com/fdciabdul"
       },
-      "description": "Unofficial ovoid API Wrapper using PHP.",
+      "description": "new Unofficial ovoid API Wrapper using NodeJS.",
       "authentication": "OTP"
     },
     {
