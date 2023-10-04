@@ -24,6 +24,17 @@
       "authentication": false
     },
     {
+      "apiName": "Whatsapp Cloud API Wrapper",
+      "status": true,
+      "documentationUrl": "https://github.com/fdciabdul/WhatsApp-Cloud-API-Wrapper",
+      "developer": {
+        "name": "fdciabdul",
+        "profileUrl": null
+      },
+      "description": "Unofiicial Wrapper untuk Whatsapp Cloud API.",
+      "authentication": false
+    },
+    {
       "apiName": "Whatsapp Official API ",
       "status": true,
       "documentationUrl": "https://developers.facebook.com/docs/whatsapp",
