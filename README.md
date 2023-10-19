@@ -1,3 +1,5 @@
+<a href="https://s.id/standwithpalestine"><img alt="I stand with Palestine" src="https://github.com/Safouene1/support-palestine-banner/blob/master/banner-project.svg" width="100%" /></a>
+
 # Daftar API Lokal Indonesia
 
 Kumpulan API tentang data dan informasi di Indonesia
