@@ -113,7 +113,7 @@
     },
     {
       "apiName": "KyokoAPI",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://kyoko.rei.my.id",
       "developer": {
         "name": "Elliottophellia",
