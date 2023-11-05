@@ -68,6 +68,17 @@
       "authentication": false
     },
     {
+      "apiName": "NekoBot",
+      "status": true,
+      "documentationUrl": "https://docs.nekobot.xyz",
+      "developer": {
+        "name": "Anonymous",
+        "profileUrl": null
+      },
+      "description": "API for creating various kinds of images.",
+      "authentication": false
+    },
+    {
       "apiName": "Screenshot API",
       "status": true,
       "documentationUrl": "https://statically.io",
