@@ -1,0 +1,16 @@
+{
+  "categoryName": "Christian",
+  "apis": [
+    {
+      "apiName": "Alkitab API",
+      "status": true,
+      "documentationUrl": "https://github.com/raselldev/alkitab-api",
+      "developer": {
+        "name": "raselldev",
+        "profileUrl": null
+      },
+      "description": "This is a simple Bible API that provides access to various Bible passages and verses.",
+      "authentication": false
+    }
+  ]
+}
