@@ -19,6 +19,7 @@ This file is translation from Original (Bahasa Indonesia).
   - [Table of Content](#table-of-content)
   - [API List](#api-list)
     - [Books](#books)
+    - [Christian](#christian)
     - [Crypto](#crypto)
     - [E-Commerce](#e-commerce)
     - [Education](#education)
@@ -52,6 +53,12 @@ This file is translation from Original (Bahasa Indonesia).
 | -------------------------- | --------- | ---------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------------------------- | -------------- |
 | Masak Apa                  | Reski     | [Link](https://github.com/tomorisakura/unofficial-masakapahariini-api) | ✅     | Indonesian food recipes book.                                                                 | `false`        |
 | Unofficial Gramedia Ebooks | Yusuf T.  | [Link](https://github.com/yusuftaufiq/laravel-books-api)               | ✅     | Unofficial REST API that provides a list of digital books from Gramedia through web scraping. | API KEY        |
+
+### Christian
+
+| API Name    | Developer | Documentation                                    | Status | Description                                                                           | Authentication |
+| ----------- | --------- | ------------------------------------------------ | ------ | ------------------------------------------------------------------------------------- | -------------- |
+| Alkitab API | raselldev | [Link](https://github.com/raselldev/alkitab-api) | ✅     | This is a simple Bible API that provides access to various Bible passages and verses. | `false`        |
 
 ### Crypto
 

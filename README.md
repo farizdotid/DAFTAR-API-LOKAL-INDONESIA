@@ -19,6 +19,7 @@ Kumpulan API tentang data dan informasi di Indonesia
     - [Agama Islam](#agama-islam)
     - [Berita](#berita)
     - [Buku](#buku)
+    - [Christian](#christian)
     - [Cuaca](#cuaca)
     - [E-Commerce](#e-commerce)
     - [Finansial](#finansial)
@@ -78,6 +79,12 @@ Kumpulan API tentang data dan informasi di Indonesia
 | -------------------------- | ---------- | ---------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------------------------- | ----------- |
 | Masak Apa                  | Reski      | [Link](https://github.com/tomorisakura/unofficial-masakapahariini-api) | ✅     | Buku resep makanan Indonesia.                                                                | `false`     |
 | Unofficial Gramedia Ebooks | Yusuf T.   | [Link](https://github.com/yusuftaufiq/laravel-books-api)               | ✅     | Unofficial REST API yang menyediakan daftar buku digital dari Gramedia melalui web scraping. | API KEY     |
+
+### Christian
+
+| Nama API    | Pengembang | Dokumentasi                                      | Status | Deskripsi                                                                             | Autentikasi |
+| ----------- | ---------- | ------------------------------------------------ | ------ | ------------------------------------------------------------------------------------- | ----------- |
+| Alkitab API | raselldev  | [Link](https://github.com/raselldev/alkitab-api) | ✅     | This is a simple Bible API that provides access to various Bible passages and verses. | `false`     |
 
 ### Cuaca
 
