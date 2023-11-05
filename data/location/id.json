@@ -4,7 +4,7 @@
     {
       "apiName": "API Wilayah Indonesia",
       "status": true,
-      "documentationUrl": "https://goapi.id/p/api-wilayah-indonesia",
+      "documentationUrl": "https://goapi.io/api-wilayah-indonesia",
       "developer": {
         "name": "goapi-id",
         "profileUrl": null
@@ -135,8 +135,8 @@
     },
     {
       "apiName": "Places API Indonesia",
-      "status": false,
-      "documentationUrl": "https://goapi.id/p/places-api",
+      "status": true,
+      "documentationUrl": "https://goapi.io/places-api",
       "developer": {
         "name": "goapi-id",
         "profileUrl": null
