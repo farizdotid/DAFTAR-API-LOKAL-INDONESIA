@@ -92,23 +92,12 @@
     {
       "apiName": "Lambang Daerah Seluruh Indonesia",
       "status": true,
-      "documentationUrl": "https://github.com/feri-irawan/API/tree/main/list/lambang-daerah-indonesia#readme",
+      "documentationUrl": "https://github.com/feri-irawan/lambang-daerah-seluruh-indonesia",
       "developer": {
         "name": "Feri Irawan",
-        "profileUrl": null
+        "profileUrl": "https://github.com/feri-irawan"
       },
-      "description": "Lambang Provinsi dan Kabupaten Seluruh Indonesia (34 Provinsi dan 514 Kabupaten / Kota).",
-      "authentication": false
-    },
-    {
-      "apiName": "Nama Daerah Seluruh Indonesia",
-      "status": false,
-      "documentationUrl": "https://farizdotid.com/blog/dokumentasi-api-daerah-indonesia/",
-      "developer": {
-        "name": "farizdotid",
-        "profileUrl": "https://github.com/farizdotid"
-      },
-      "description": "Daftar nama Provinsi, Kabupaten, Kecamatan, dan Desa.",
+      "description": "Lambang Provinsi dan Kabupaten Seluruh Indonesia (38 Provinsi dan 514 Kabupaten / Kota).",
       "authentication": false
     },
     {
@@ -146,7 +135,7 @@
     },
     {
       "apiName": "Places API Indonesia",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://goapi.id/p/places-api",
       "developer": {
         "name": "goapi-id",

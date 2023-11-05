@@ -112,17 +112,6 @@
       "authentication": false
     },
     {
-      "apiName": "KyokoAPI",
-      "status": false,
-      "documentationUrl": "https://kyoko.rei.my.id",
-      "developer": {
-        "name": "Elliottophellia",
-        "profileUrl": null
-      },
-      "description": "Menampilkan random anime pictures dan quotes, trace anime screenshot untuk mengetahui judul animenya, dan memberikan informasi detail tentang anime apapun!",
-      "authentication": false
-    },
-    {
       "apiName": "LK21 & NontonDrama (Unofficial)",
       "status": true,
       "documentationUrl": "https://github.com/febriadj/lk21-api",

@@ -92,23 +92,12 @@
     {
       "apiName": "Lambang Daerah Seluruh Indonesia",
       "status": true,
-      "documentationUrl": "https://github.com/feri-irawan/API/tree/main/list/lambang-daerah-indonesia#readme",
+      "documentationUrl": "https://github.com/feri-irawan/lambang-daerah-seluruh-indonesia",
       "developer": {
         "name": "Feri Irawan",
-        "profileUrl": null
+        "profileUrl": "https://github.com/feri-irawan"
       },
-      "description": "Coat of arms of provinces and regencies/cities in Indonesia (34 provinces and 514 regencies/cities).",
-      "authentication": false
-    },
-    {
-      "apiName": "Nama Daerah Seluruh Indonesia",
-      "status": false,
-      "documentationUrl": "https://farizdotid.com/blog/dokumentasi-api-daerah-indonesia/",
-      "developer": {
-        "name": "farizdotid",
-        "profileUrl": "https://github.com/farizdotid"
-      },
-      "description": "List of names of provinces, regencies/cities, districts, and villages.",
+      "description": "Coat of arms of provinces and regencies/cities in Indonesia (38 provinces and 514 regencies/cities).",
       "authentication": false
     },
     {
@@ -146,7 +135,7 @@
     },
     {
       "apiName": "Places API Indonesia",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://goapi.id/p/places-api",
       "developer": {
         "name": "goapi-id",
