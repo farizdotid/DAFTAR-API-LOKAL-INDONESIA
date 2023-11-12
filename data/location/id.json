@@ -26,10 +26,10 @@
     {
       "apiName": "Data GeoJSON Provinsi, Kota atau Kabupaten Seluruh Wilayah Indonesia",
       "status": true,
-      "documentationUrl": "https://github.com/Z4nR/geojson-api-indonesia",
+      "documentationUrl": "https://z4nr.github.io/WhatGeo/",
       "developer": {
         "name": "Zulham Nur",
-        "profileUrl": null
+        "profileUrl": "https://github.com/Z4nR"
       },
       "description": "API statis berisi data wilayah Indonesia dalam bentuk GeoJSON yang sudah disimplify tanpa merubah bentuk map secara signifikan.",
       "authentication": false
