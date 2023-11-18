@@ -290,12 +290,14 @@ This file is translation from Original (Bahasa Indonesia).
 
 ### Weather
 
-| API Name                   | Developer                           | Documentation                                                 | Status | Description                                                                                                                  | Authentication |
-| -------------------------- | ----------------------------------- | ------------------------------------------------------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| API & Graphql Weather BMKG | [pace11](https://github.com/pace11) | [Link](https://github.com/pace11/weather-api)                 | ✅     | Weather forecast converted from XML to JSON format sourced from BMKG API. Available in Graphql version.                      | `false`        |
-| API Cuaca Realtime         | weatherapi                          | [Link](https://www.weatherapi.com)                            | ✅     | Current Weather Forecast for Various Cities in JSON Format.                                                                  | API KEY        |
-| BMKG Json API              | [ibnux](https://github.com/ibnux)   | [Link](https://ibnux.github.io/BMKG-importer/#pakai-langsung) | ✅     | Weather forecast for Indonesia up to 3 days ahead. Imported from BMKG in JSON format.                                        | `false`        |
-| Info Gempa & Cuaca API     | R.M. Reza                           | [Link](https://github.com/renomureza/cuaca-gempa-rest-api)    | ✅     | REST API for the latest earthquake and weather information in major cities in 35 provinces within 3 days. Data source: BMKG. | `false`        |
+| API Name                   | Developer                                    | Documentation                                                 | Status | Description                                                                                                                  | Authentication |
+| -------------------------- | -------------------------------------------- | ------------------------------------------------------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| API & Graphql Weather BMKG | [pace11](https://github.com/pace11)          | [Link](https://github.com/pace11/weather-api)                 | ✅     | Weather forecast converted from XML to JSON format sourced from BMKG API. Available in Graphql version.                      | `false`        |
+| API Cuaca Realtime         | weatherapi                                   | [Link](https://www.weatherapi.com)                            | ✅     | Current Weather Forecast for Various Cities in JSON Format.                                                                  | API KEY        |
+| BMKG Json API              | [ibnux](https://github.com/ibnux)            | [Link](https://ibnux.github.io/BMKG-importer/#pakai-langsung) | ✅     | Weather forecast for Indonesia up to 3 days ahead. Imported from BMKG in JSON format.                                        | `false`        |
+| Info Gempa & Cuaca API     | R.M. Reza                                    | [Link](https://github.com/renomureza/cuaca-gempa-rest-api)    | ✅     | REST API for the latest earthquake and weather information in major cities in 35 provinces within 3 days. Data source: BMKG. | `false`        |
+| Multipurpose Fake API      | [daniwebdev](https://github.com/daniwebdev)  | [Link](https://json.web.id)                                   | ✅     | A Dummy API is like a practice or learning tool. It's used for testing or just to learn. With a Dummy API, you can do things like creating, reading, updating, and deleting (CRUD), as well as authentication tasks such as logging in and registering.  | `false`     |
+
 
 <!-- API END -->
 
