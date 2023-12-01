@@ -78,7 +78,7 @@ This file is translation from Original (Bahasa Indonesia).
 | Lazada                       | Lazada Dev        | [Link](https://open.lazada.com/doc/doc.htm)           | ✅     | Official Lazada API for Product, Order, Finance, Logistic, Seller, and System services. | API KEY        |
 | Matahari Mall API for Seller | Matahari Mall Dev | [Link](http://docs.apiforseller.apiary.io)            | ✅     | API for sellers on Matahari Mall.                                                       | API KEY        |
 | Shopee                       | Shopee Dev        | [Link](https://open.shopee.com/documents)             | ✅     | Official Shopee API for integrating various services from Shopee.                       | API KEY        |
-| Tiketux.com API              | Tiketux.com Dev   | [Link](https://developer.tiketux.com)                 | ✅     | API for transactions on tiketux.com, a ticket travel sales website.                     | API KEY        |
+| Tiketux.com API              | Tiketux.com Dev   | [Link](https://developer.tiketux.com)                 | ❎     | API for transactions on tiketux.com, a ticket travel sales website.                     | API KEY        |
 | Tokopedia.com API            | Tokopedia.com Dev | [Link](https://developer.tokopedia.com/openapi/guide) | ✅     | This API allows you to integrate your system with Tokopedia.                            | API KEY        |
 
 ### Education

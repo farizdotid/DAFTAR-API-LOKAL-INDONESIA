@@ -103,7 +103,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Lazada                       | Lazada Dev        | [Link](https://open.lazada.com/doc/doc.htm)           | ✅     | API resmi Lazada untuk layanan Product, Order, Finance, Logistic, Seller, dan System dari Lazada. | API KEY     |
 | Matahari Mall API for Seller | Matahari Mall Dev | [Link](http://docs.apiforseller.apiary.io)            | ✅     | API untuk penjual di Matahari Mall.                                                               | API KEY     |
 | Shopee                       | Shopee Dev        | [Link](https://open.shopee.com/documents)             | ✅     | API resmi Shopee untuk integrasi berbagai layanan dari Shopee.                                    | API KEY     |
-| Tiketux.com API              | Tiketux.com Dev   | [Link](https://developer.tiketux.com)                 | ✅     | API untuk transaksi pada tiketux.com yang merupakan situs penjualan tiket travel.                 | API KEY     |
+| Tiketux.com API              | Tiketux.com Dev   | [Link](https://developer.tiketux.com)                 | ❎     | API untuk transaksi pada tiketux.com yang merupakan situs penjualan tiket travel.                 | API KEY     |
 | Tokopedia.com API            | Tokopedia.com Dev | [Link](https://developer.tokopedia.com/openapi/guide) | ✅     | API ini memungkinkan Anda untuk mengintegrasikan sistem Anda ke dalam Tokopedia.                  | API KEY     |
 
 ### Finansial
