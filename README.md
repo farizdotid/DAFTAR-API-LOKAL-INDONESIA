@@ -292,7 +292,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Indiwtf API                  | Frans Allen              | [Link](https://indiwtf.com/api/)                      | ✅     | Sebuah API sederhana untuk mengecek apakah sebuah website diblokir di Indonesia atau tidak.                    | `false`     |
 | Screenshot API               | statically.io            | [Link](https://statically.io)                         | ✅     | Sebuah API screenshot gratis untuk mengonversi web ke gambar atau PDF. Mendukung tampilan desktop dan seluler. | `false`     |
 | SMSNotif                     | PT Solusi Inovasi Bisnis | [Link](https://www.smsnotif.id)                       | ✅     | Kirim sms melalui REST API atau Laravel Notification.                                                          | API KEY     |
-| TimeApi                      | Mininxd                  | [Link](https://timeapi.mininxd.my.id)                 | ✅     | Api untuk menampilkan waktu, tanggal secara realtime berbasis UNIX.                                            | `false`     |
+| TimeApi                      | [Mininxd](https://mininxd.my.id)                  | [Link](https://timeapi.mininxd.my.id)                 | ✅     | Api untuk menampilkan waktu, tanggal secara realtime berbasis UNIX.                                            | `false`     |
 | Translasi                    | azharimm                 | [Link](https://github.com/azharimm/api-translate)     | ✅     | API translasi dengan google translate/baidu translate engine.                                                  | `false`     |
 
 <!-- API END -->
