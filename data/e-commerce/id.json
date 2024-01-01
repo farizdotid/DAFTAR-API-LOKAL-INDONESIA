@@ -46,17 +46,6 @@
       "authentication": "API KEY"
     },
     {
-      "apiName": "Tiketux.com API",
-      "status": false,
-      "documentationUrl": "https://developer.tiketux.com",
-      "developer": {
-        "name": "Tiketux.com Dev",
-        "profileUrl": null
-      },
-      "description": "API untuk transaksi pada tiketux.com yang merupakan situs penjualan tiket travel.",
-      "authentication": "API KEY"
-    },
-    {
       "apiName": "Tokopedia.com API",
       "status": true,
       "documentationUrl": "https://developer.tokopedia.com/openapi/guide",

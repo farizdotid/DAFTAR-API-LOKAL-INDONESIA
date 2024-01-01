@@ -80,7 +80,7 @@
     },
     {
       "apiName": "Harga Komoditas Pangan",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://jibs.my.id/api/harga_komoditas",
       "developer": {
         "name": "jibrilhp",
