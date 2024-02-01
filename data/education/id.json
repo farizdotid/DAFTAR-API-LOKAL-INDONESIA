@@ -14,7 +14,7 @@
     },
     {
       "apiName": "Data Mahasiswa Indonesia",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://api-frontend.kemdikbud.go.id/hit_mhs/abiel%20zulio%20maseida",
       "developer": {
         "name": "Kemendikbud",

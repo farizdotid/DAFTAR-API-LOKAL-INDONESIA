@@ -80,7 +80,7 @@
     },
     {
       "apiName": "Shipper",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://shipper.id/api-integration",
       "developer": {
         "name": "Shipper",

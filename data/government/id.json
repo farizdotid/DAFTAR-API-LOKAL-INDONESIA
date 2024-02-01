@@ -47,7 +47,7 @@
     },
     {
       "apiName": "Data BPS",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://webapi.bps.go.id/developer",
       "developer": {
         "name": "Badan Pusat Statistik",
@@ -77,17 +77,6 @@
       },
       "description": "Unofficial API Cek pajak kendaraan untuk wilayah Jateng.",
       "authentication": "API KEY"
-    },
-    {
-      "apiName": "Harga Komoditas Pangan",
-      "status": false,
-      "documentationUrl": "https://jibs.my.id/api/harga_komoditas",
-      "developer": {
-        "name": "jibrilhp",
-        "profileUrl": null
-      },
-      "description": "Data mengenai hargapangan di Indonesia.",
-      "authentication": false
     },
     {
       "apiName": "Pahlawan Nasional Indonesia",

@@ -3,7 +3,7 @@
   "apis": [
     {
       "apiName": "Akuari Api",
-      "status": false,
+      "status": true,
       "documentationUrl": "https://api.akuari.my.id/",
       "developer": {
         "name": "akuari",
