@@ -88,6 +88,17 @@
       },
       "description": "API for retrieving information used from Wikipedia.",
       "authentication": false
+    },
+    {
+      "apiName": "Dapodik API",
+      "status": true,
+      "documentationUrl": "http://api.datadik.id/api/docs/",
+      "developer": {
+        "name": "Swagger",
+        "profileUrl": null
+      },
+      "description": "API antar muka komunikasi data pokok pendidikan.",
+      "authentication": true
     }
   ]
 }
