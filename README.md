@@ -253,6 +253,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | New KBBI API                     | btrianurdin     | [Link](https://github.com/btrianurdin/new-kbbi-api)                                  | ✅     | KBBI API yang dilengkapi dengan lema, kelas kata dan arti secara lengkap.                                                                              | `false`     |
 | Python 3 API wrapper PDDIKTI     | IlhamRisky      | [Link](https://github.com/IlhamriSKY/PDDIKTI-kemdikbud-API)                          | ✅     | Python API wrapper, yang mengambil data dari web PDDIKTI, terdiri dari data Universitas, Program Studi, Dosen, Mahasiswa/Alumni, Berita, Laporan, Dll. | `false`     |
 | Wikipedia API                    | Mediawiki       | [Link](https://www.mediawiki.org/wiki/API:Tutorial)                                  | ✅     | API untuk mendapatkan informasi yang digunakan dari Wikipedia.                                                                                         | `false`     |
+| Dapodik API                    | Swagger       | [Link](http://api.datadik.id/api/docs/)                                  | ✅     | API Antar muka komunikasi data pokok pendidikan.                                                                                         | `false`     |
 
 ### Serba Guna
 
