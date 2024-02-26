@@ -1,4 +1,4 @@
-<a href="https://s.id/standwithpalestine"><img alt="We stand with Palestine" src="https://cdn.jsdelivr.net/gh/Safouene1/support-palestine-banner@master/banner-project.svg" width="100%" /></a>
+Hello to all the people of the world, especially Indonesia, let us unite to help the struggle for change so that people all over the world can experience justice and prosperity for everyone equally!a href="https://s.id/standwithpalestine"><img alt="We stand with Palestine" src="https://cdn.jsdelivr.net/gh/Safouene1/support-palestine-banner@master/banner-project.svg" width="100%" /></a>
 
 # Daftar API Lokal Indonesia
 
