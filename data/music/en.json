@@ -3,7 +3,7 @@
   "apis": [
     {
       "apiName": "Deezer",
-      "status": false,
+      "status": true,
       "documentationUrl": "https://developers.deezer.com/api",
       "developer": {
         "name": "Deezer Dev",

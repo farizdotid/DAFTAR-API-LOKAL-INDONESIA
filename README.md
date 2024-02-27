@@ -223,7 +223,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 | Nama API   | Pengembang     | Dokumentasi                                                 | Status | Deskripsi                         | Autentikasi |
 | ---------- | -------------- | ----------------------------------------------------------- | ------ | --------------------------------- | ----------- |
-| Deezer     | Deezer Dev     | [Link](https://developers.deezer.com/api)                   | ❎     | Katalog Deezer.                   | OAUTH       |
+| Deezer     | Deezer Dev     | [Link](https://developers.deezer.com/api)                   | ✅     | Katalog Deezer.                   | OAUTH       |
 | Lirik lagu | azharimm       | [Link](https://github.com/azharimm/song-lyrics-api)         | ✅     | Rest Api lirik lagu.              | `false`     |
 | MusixMatch | MusixMatch Dev | [Link](https://developer.musixmatch.com)                    | ✅     | Mencari Informasi dan Lirik lagu. | API KEY     |
 | SoundCloud | SoundCloud Dev | [Link](https://developers.soundcloud.com)                   | ✅     | upload dan share music.           | API KEY     |
@@ -260,7 +260,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Nama API   | Pengembang                                              | Dokumentasi                         | Status | Deskripsi                                                                                                                                        | Autentikasi |
 | ---------- | ------------------------------------------------------- | ----------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
 | Akuari Api | akuari                                                  | [Link](https://api.akuari.my.id/)   | ✅     | Kumpulan api kebutuhan bot, dan beberapa api: Visitor api, Cek ip api, Cek Website Hidup atau tidak, File api, dan lain-lain dengan respon JSON. | `false`     |
-| ConnectAPI | [Ihsan Devs](https://ihsandevs.com)                     | [Link](https://api.ihsandevs.io)    | ✅     | API Publik yang menyediakan berbagai macam API dan layanan API akan bertambah seiring berjalannya waktu.                                         | API KEY     |
+| ConnectAPI | [Ihsan Devs](https://ihsandevs.com)                     | [Link](https://api.ihsandevs.io)    | ❎     | API Publik yang menyediakan berbagai macam API dan layanan API akan bertambah seiring berjalannya waktu.                                         | API KEY     |
 | Forest API | [Rio Agung Purnomo](https://github.com/rioagungpurnomo) | [Link](https://www.forestapi.my.id) | ✅     | Kumpulan API gratis tanpa batas yang dapat digunakan kapan saja dan di mana saja.                                                                | `false`     |
 
 ### Sosial Media

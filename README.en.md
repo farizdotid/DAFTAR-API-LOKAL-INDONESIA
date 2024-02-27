@@ -223,14 +223,14 @@ This file is translation from Original (Bahasa Indonesia).
 | API Name   | Developer                                               | Documentation                       | Status | Description                                                                                                                           | Authentication |
 | ---------- | ------------------------------------------------------- | ----------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
 | Akuari Api | akuari                                                  | [Link](https://api.akuari.my.id/)   | ✅     | A collection of bot needs api, and some api: Visitor api, Check ip api, Check Website Live or not, File api, etc. with JSON response. | `false`        |
-| ConnectAPI | [Ihsan Devs](https://ihsandevs.com)                     | [Link](https://api.ihsandevs.io)    | ✅     | The public API that provides various APIs and API services will increase over time.                                                   | API KEY        |
+| ConnectAPI | [Ihsan Devs](https://ihsandevs.com)                     | [Link](https://api.ihsandevs.io)    | ❎     | The public API that provides various APIs and API services will increase over time.                                                   | API KEY        |
 | Forest API | [Rio Agung Purnomo](https://github.com/rioagungpurnomo) | [Link](https://www.forestapi.my.id) | ✅     | A collection of unlimited free APIs that can be used anytime and anywhere.                                                            | `false`        |
 
 ### Music
 
 | API Name   | Developer      | Documentation                                               | Status | Description                                 | Authentication |
 | ---------- | -------------- | ----------------------------------------------------------- | ------ | ------------------------------------------- | -------------- |
-| Deezer     | Deezer Dev     | [Link](https://developers.deezer.com/api)                   | ❎     | Deezer Catalog.                             | OAUTH          |
+| Deezer     | Deezer Dev     | [Link](https://developers.deezer.com/api)                   | ✅     | Deezer Catalog.                             | OAUTH          |
 | Lyrics API | azharimm       | [Link](https://github.com/azharimm/song-lyrics-api)         | ✅     | Rest API for song lyrics.                   | `false`        |
 | MusixMatch | MusixMatch Dev | [Link](https://developer.musixmatch.com)                    | ✅     | Search for Information and Lyrics of songs. | API KEY        |
 | SoundCloud | SoundCloud Dev | [Link](https://developers.soundcloud.com)                   | ✅     | Upload and Share Music.                     | API KEY        |
