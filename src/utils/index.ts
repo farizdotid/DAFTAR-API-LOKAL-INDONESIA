@@ -21,7 +21,7 @@ export const getFiles = async (
       const filePath = path.join(dirPath, file)
       const stats = await fsPromises.stat(filePath)
 
-      if (stats.isFile()) {
+      if (stats.isFile() && file.endsWith('.json')) {
         fileList.push(filePath)
       } else if (stats.isDirectory()) {
         await getFiles(filePath, fileList)
