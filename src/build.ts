@@ -1,5 +1,5 @@
-import axios from 'axios'
 import https from 'https'
+import fetch from 'node-fetch'
 import { CategoryType, ListType } from './types'
 import { generateToc, markdownBuilder } from './utils/markdown'
 import { getFiles, getLanguage, isBlacklisted, resolve } from './utils'
@@ -7,7 +7,6 @@ import { getFiles, getLanguage, isBlacklisted, resolve } from './utils'
 const data: ListType = {}
 const crawledx: string[] = []
 const crawled: Record<string, boolean> = {}
-// @ts-ignore
 const agent = new https.Agent({ rejectUnauthorized: false })
 
 // filter files
@@ -32,26 +31,30 @@ for await (const file of await getFiles()) {
 
       if (url in crawled) {
         api.status = crawled[url]
-        console.log(`[cache] => ${url}`)
+        console.log(`[ cache ] => ${url}`)
       } else {
         try {
-          const response = await axios.get(url, {
-            httpsAgent: agent,
-            headers: { 'User-Agent': 'PostmanRuntime/7.26.5', 'Accept-Encoding': 'zlib' },
-            maxRedirects: 10,
-            validateStatus: () => true,
+          console.log(`[  ...  ] => ${url}`)
+
+          const response = await fetch(api.documentationUrl, {
+            headers: { 'Accept-Encoding': 'zlib, gzip' },
+            agent,
+            redirect: 'follow',
+            follow: 10,
+            signal: AbortSignal.timeout(10_000),
           })
+          const body = await response.text()
 
           api.status = response!.status !== 404
-          console.log(`[ ${response.status} ] => ${url}`)
+          console.log(`[  ${response.status}  ] => ${url}`)
 
           // mark as nsfw
-          if (isBlacklisted(response.data.toString())) {
+          if (isBlacklisted(body)) {
             crawledx.push(url)
           }
         } catch (error: any) {
           api.status = false
-          console.log(`[ 404 ] => ${url}`)
+          console.log(`[  404  ] => ${url}`)
         }
 
         // mark as crawled
