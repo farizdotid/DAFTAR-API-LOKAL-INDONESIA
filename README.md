@@ -165,6 +165,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Tahukah Anda API                           | Icaksh                                  | [Link](https://cinnabar.icaksh.my.id/public/daily/tawiki)                                               | ✅     | API untuk mendapatkan informasi fakta harian (Tahukah Anda) yang berasal dari Wikipedia.                                                           | `false`     |
 | Tanggal Lahiran Pasaran Zodiak             | iBachor                                 | [Link](https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak)                                | ✅     | Mengecek zodiak berdasarkan tanggal lahir serta dapat memberitahukan detail tanggal lahir, detail usia, serta detail rentang ulang tahun terdekat. | `false`     |
 | TOOLCEK                                    | Alex                                    | [Link](https://documenter.getpostman.com/view/13751573/2s8Z6vYZgS#b488f545-0053-4818-a440-ddc360391d36) | ✅     | API Cek ID Games,Nomor Rekening,Nomor E-Wallet,Nomor meter PLN,DLL,Membantumu dalam system validasi,Integrasikan sekarang juga!                    | API KEY     |
+| Unofficial Liga Indonesia                  | Agis R Herdiana                         | [Link](https://ligaindonesia-api.vercel.app/docs)                                                       | ✅     | Unofficial API liga Indonesia tentang info pertandingan, statistik, klasemen, tim, dan lain-lain.                                                  | `false`     |
 
 ### Jasa Pengiriman
 

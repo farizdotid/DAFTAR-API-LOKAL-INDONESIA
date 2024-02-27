@@ -119,6 +119,7 @@ This file is translation from Original (Bahasa Indonesia).
 | Tahukah Anda API                           | Icaksh                                  | [Link](https://cinnabar.icaksh.my.id/public/daily/tawiki)                                               | ✅     | API to get daily facts (Did You Know?) from Wikipedia.                                                                                            | `false`        |
 | Tanggal Lahiran Pasaran Zodiak             | iBachor                                 | [Link](https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak)                                | ✅     | Checks the zodiac sign based on birth date and provides birth date details, age details, and nearest upcoming birthday details.                   | `false`        |
 | TOOLCEK                                    | Alex                                    | [Link](https://documenter.getpostman.com/view/13751573/2s8Z6vYZgS#b488f545-0053-4818-a440-ddc360391d36) | ✅     | API to check Game IDs, Bank Account Numbers, E-Wallet Numbers, PLN Meter Numbers, etc. Helps you with validation and integration in your systems! | API KEY        |
+| Unofficial Liga Indonesia                  | Agis R Herdiana                         | [Link](https://ligaindonesia-api.vercel.app/docs)                                                       | ✅     | Unofficial API liga Indonesia about info matches, statistics, standings, teams, etc.                                                              | `false`        |
 
 ### Financial
 
