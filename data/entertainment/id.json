@@ -242,6 +242,17 @@
       },
       "description": "API Cek ID Games,Nomor Rekening,Nomor E-Wallet,Nomor meter PLN,DLL,Membantumu dalam system validasi,Integrasikan sekarang juga!",
       "authentication": "API KEY"
+    },
+    {
+      "apiName": "Unofficial Liga Indonesia",
+      "status": true,
+      "documentationUrl": "https://ligaindonesia-api.vercel.app/docs",
+      "developer": {
+        "name": "Agis R Herdiana",
+        "profileUrl": null
+      },
+      "description": "Unofficial API liga Indonesia tentang info pertandingan, statistik, klasemen, tim, dan lain-lain.",
+      "authentication": false
     }
   ]
 }
