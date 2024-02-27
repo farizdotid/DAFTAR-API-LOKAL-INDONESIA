@@ -58,7 +58,7 @@
     },
     {
       "apiName": "Flamescans Manga Scraper (EN)",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://github.com/KevinNVM/flamescans-manga-scraper",
       "developer": {
         "name": "KevinNVM",
