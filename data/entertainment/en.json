@@ -57,17 +57,6 @@
       "authentication": false
     },
     {
-      "apiName": "Flamescans Manga Scraper (EN)",
-      "status": false,
-      "documentationUrl": "https://github.com/KevinNVM/flamescans-manga-scraper",
-      "developer": {
-        "name": "KevinNVM",
-        "profileUrl": null
-      },
-      "description": "Flamescans Manga Scraper for the English Language.",
-      "authentication": false
-    },
-    {
       "apiName": "ID Game Checker",
       "status": true,
       "documentationUrl": "https://rapidapi.com/nazi436123/api/id-game-checker",

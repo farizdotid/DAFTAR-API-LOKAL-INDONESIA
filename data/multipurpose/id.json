@@ -14,7 +14,7 @@
     },
     {
       "apiName": "ConnectAPI",
-      "status": false,
+      "status": true,
       "documentationUrl": "https://api.ihsandevs.io",
       "developer": {
         "name": "Ihsan Devs",
