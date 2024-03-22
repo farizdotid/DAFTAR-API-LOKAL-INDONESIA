@@ -134,17 +134,6 @@
       "authentication": false
     },
     {
-      "apiName": "Manhwaindo API (Unofficial)",
-      "status": true,
-      "documentationUrl": "https://github.com/Aerysh/manhwaindo-api",
-      "developer": {
-        "name": "Aerysh",
-        "profileUrl": null
-      },
-      "description": "Provides Indonesian manhwa.",
-      "authentication": false
-    },
-    {
       "apiName": "Otakudesu API (Un-official)",
       "status": true,
       "documentationUrl": "https://github.com/Kaede-No-Ki/otakudesu-rest-api",
@@ -241,6 +230,17 @@
         "profileUrl": null
       },
       "description": "Unofficial API liga Indonesia about info matches, statistics, standings, teams, etc.",
+      "authentication": false
+    },
+    {
+      "apiName": "Yet Another API for Anime and Stuff",
+      "status": true,
+      "documentationUrl": "https://github.com/Aerysh/yaaas",
+      "developer": {
+        "name": "Aerysh",
+        "profileUrl": "https://github.com/Aerysh"
+      },
+      "description": "Provides a way to access information about entertainments such as Anime, Manga, etc.",
       "authentication": false
     }
   ]
