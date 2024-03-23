@@ -131,6 +131,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Tradingview              | Tradingview                               | [Link](https://www.tradingview.com/rest-api-spec)                             | ✅     | API ini akan diimplementasikan oleh Broker untuk menghubungkan sistem backend mereka ke TradingView.                                                                                                                   | API KEY         |
 | Tripay                   | Tripay                                    | [Link](https://tripay.co.id/developer?tab=prolog)                             | ✅     | API payment Gateway yang terbagi menjadi 2 jenis yaitu Open Payment & Closed Payment. sehingga dapat dintegrasikan dengan aplikasi Anda dengan Gateway pembayaran Tripay.                                              | API KEY         |
 | Xendit API               | Xendit Official                           | [Link](https://developers.xendit.co)                                          | ✅     | API Gateway resmi dari Xendit untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran Xendit.                                                                                                                   | API KEY         |
+| Harga Emas               | bramaudi                           | [Link](https://codeberg.org/bramaudi/gold-price)                                          | ✅     | API untuk melihat update harga emas.                                                                                                                     | `false`         |
 
 ### Forum
 
@@ -266,7 +267,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 | Nama API                   | Pengembang | Dokumentasi                                                                | Status | Deskripsi                                              | Autentikasi |
 | -------------------------- | ---------- | -------------------------------------------------------------------------- | ------ | ------------------------------------------------------ | ----------- |
-| Facebook Video Downloader  | bramaudi   | [Link](https://github.com/bramaudi/fbdown)                                 | ✅     | Unofficial API Facebook untuk Scraping Video Facebook. | `false`     |
+| Facebook Video Downloader  | bramaudi   | [Link](https://codeberg.org/bramaudi/fbdown)                                 | ✅     | Unofficial API Facebook untuk Scraping Video Facebook. | `false`     |
 | Instagram Official API     | Facebook   | [Link](https://developers.facebook.com/docs/instagram-api/getting-started) | ✅     | Official API untuk Instagram Graph API.                | `false`     |
 | Twitter Trends             | azharimm   | [Link](https://github.com/azharimm/twitter-trends-api)                     | ✅     | Unofficial API Twitter trends data.                    | `false`     |
 | Whatsapp Cloud API Wrapper | fdciabdul  | [Link](https://github.com/fdciabdul/WhatsApp-Cloud-API-Wrapper)            | ✅     | Unofiicial Wrapper untuk Whatsapp Cloud API.           | `false`     |
