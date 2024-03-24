@@ -101,6 +101,17 @@
       "authentication": "API KEY"
     },
     {
+      "apiName": "Harga Emas",
+      "status": true,
+      "documentationUrl": "https://codeberg.org/bramaudi/gold-price",
+      "developer": {
+        "name": "bramaudi",
+        "profileUrl": null
+      },
+      "description": "API to get latest gold price exchange.",
+      "authentication": false
+    },
+    {
       "apiName": "iPaymu",
       "status": true,
       "documentationUrl": "https://ipaymu.com/dokumentasi-api",
@@ -242,17 +253,6 @@
       },
       "description": "Official Xendit Gateway API to integrate your application with the Xendit payment gateway.",
       "authentication": "API KEY"
-    },
-    {
-      "apiName": "Harga Emas",
-      "status": true,
-      "documentationUrl": "https://codeberg.org/bramaudi/gold-price",
-      "developer": {
-        "name": "bramaudi",
-        "profileUrl": null
-      },
-      "description": "API to get latest gold price exchange.",
-      "authentication": false
     }
   ]
 }
