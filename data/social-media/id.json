@@ -4,7 +4,7 @@
     {
       "apiName": "Facebook Video Downloader",
       "status": true,
-      "documentationUrl": "https://github.com/bramaudi/fbdown",
+      "documentationUrl": "https://codeberg.org/bramaudi/fbdown",
       "developer": {
         "name": "bramaudi",
         "profileUrl": null

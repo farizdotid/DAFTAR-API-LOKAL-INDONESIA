@@ -242,6 +242,17 @@
       },
       "description": "API Gateway resmi dari Xendit untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran Xendit.",
       "authentication": "API KEY"
+    },
+    {
+      "apiName": "Harga Emas",
+      "status": true,
+      "documentationUrl": "https://codeberg.org/bramaudi/gold-price",
+      "developer": {
+        "name": "bramaudi",
+        "profileUrl": null
+      },
+      "description": "API untuk melihat update harga emas.",
+      "authentication": false
     }
   ]
 }
