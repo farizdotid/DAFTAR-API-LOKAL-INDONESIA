@@ -2,6 +2,17 @@
   "categoryName": "Financial",
   "apis": [
     {
+      "apiName": "Gotopup",
+      "status": true,
+      "documentationUrl": "https://docs.gotopup.id/",
+      "developer": {
+        "name": "Gotopup",
+        "profileUrl": null
+      },
+      "description": "API for making transactions to purchase top up games, credit, electricity, etc.",
+      "authentication": "API KEY"
+    },
+    {
       "apiName": "API Data Saham Indonesia",
       "status": true,
       "documentationUrl": "https://goapi.io/api-data-saham-indonesia",

@@ -2,6 +2,17 @@
   "categoryName": "Finansial",
   "apis": [
     {
+      "apiName": "Gotopup",
+      "status": true,
+      "documentationUrl": "https://docs.gotopup.id/",
+      "developer": {
+        "name": "Gotopup",
+        "profileUrl": null
+      },
+      "description": "API untuk melakukan transaksi pembelian Top up Game, Pulsa, Listrik Dll.",
+      "authentication": "API KEY"
+    },
+    {
       "apiName": "API Data Saham Indonesia",
       "status": true,
       "documentationUrl": "https://goapi.io/api-data-saham-indonesia",
