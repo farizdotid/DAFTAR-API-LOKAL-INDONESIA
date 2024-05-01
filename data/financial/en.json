@@ -124,7 +124,7 @@
     },
     {
       "apiName": "iPaymu",
-      "status": false,
+      "status": true,
       "documentationUrl": "https://ipaymu.com/dokumentasi-api",
       "developer": {
         "name": "iPaymu",
