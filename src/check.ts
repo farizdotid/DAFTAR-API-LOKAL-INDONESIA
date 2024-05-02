@@ -1,3 +1,4 @@
+// another thing
 import https from 'https'
 import fetch from 'node-fetch'
 import { CategoryType } from './types'
