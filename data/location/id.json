@@ -2,6 +2,17 @@
   "categoryName": "Lokasi",
   "apis": [
     {
+      "apiName": "API alamat Desa Kelurahan, kecamatan, kabkota, dan kodepos",
+      "status": true,
+      "documentationUrl": "https://alamat.thecloudalert.com",
+      "developer": {
+        "name": "cenahcoid",
+        "profileUrl": "https://www.cenah.co.id/"
+      },
+      "description": "API Bebas untuk list alamat di Indonesia (desa kelurahan, kecamatan, kabkota, kodepos)",
+      "authentication": false
+    },
+    {
       "apiName": "API Wilayah Indonesia",
       "status": true,
       "documentationUrl": "https://goapi.io/api-wilayah-indonesia",

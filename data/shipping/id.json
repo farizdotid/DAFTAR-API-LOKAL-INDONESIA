@@ -25,7 +25,7 @@
     },
     {
       "apiName": "JNE",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://apidash.jne.co.id",
       "developer": {
         "name": "JNE Official",

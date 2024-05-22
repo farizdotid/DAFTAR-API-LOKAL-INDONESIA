@@ -68,6 +68,17 @@
       "authentication": false
     },
     {
+      "apiName": "Indonesian Bank",
+      "status": true,
+      "documentationUrl": "https://bank.thecloudalert.com",
+      "developer": {
+        "name": "cenahcoid",
+        "profileUrl": "https://www.cenah.co.id/"
+      },
+      "description": "List of banks in Indonesia",
+      "authentication": false
+    },
+    {
       "apiName": "Screenshot API",
       "status": true,
       "documentationUrl": "https://statically.io",

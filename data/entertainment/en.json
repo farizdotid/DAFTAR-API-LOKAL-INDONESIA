@@ -211,17 +211,6 @@
       "authentication": false
     },
     {
-      "apiName": "TOOLCEK",
-      "status": false,
-      "documentationUrl": "https://documenter.getpostman.com/view/13751573/2s8Z6vYZgS#b488f545-0053-4818-a440-ddc360391d36",
-      "developer": {
-        "name": "Alex",
-        "profileUrl": null
-      },
-      "description": "API to check Game IDs, Bank Account Numbers, E-Wallet Numbers, PLN Meter Numbers, etc. Helps you with validation and integration in your systems!",
-      "authentication": "API KEY"
-    },
-    {
       "apiName": "Unofficial Liga Indonesia",
       "status": true,
       "documentationUrl": "https://ligaindonesia-api.vercel.app/docs",

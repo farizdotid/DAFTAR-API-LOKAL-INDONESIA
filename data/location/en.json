@@ -35,6 +35,17 @@
       "authentication": false
     },
     {
+      "apiName": "Free API for Indonesian Addresses",
+      "status": true,
+      "documentationUrl": "https://alamat.thecloudalert.com",
+      "developer": {
+        "name": "cenahcoid",
+        "profileUrl": "https://www.cenah.co.id/"
+      },
+      "description": "List of indonesian addresses on all level including Zip Codes, districts, and Villages.",
+      "authentication": false
+    },
+    {
       "apiName": "Gunung Berapi di Indonesia",
       "status": true,
       "documentationUrl": "https://github.com/yogski/indonesia-public-static-api#api-gunung-berapi-indonesia-apivolcanoes",

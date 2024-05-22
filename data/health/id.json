@@ -44,6 +44,17 @@
       },
       "description": "API rumah sakit rujukan covid-19 di Indonesia.",
       "authentication": false
+    },
+    {
+      "apiName": "Satu Sehat",
+      "status": true,
+      "documentationUrl": "https://satusehat.kemkes.go.id/platform/docs/id/playbook/",
+      "developer": {
+        "name": "Ministry of Health Indonesia",
+        "profileUrl": "https://satusehat.kemkes.go.id/platform"
+      },
+      "description": "API untuk mendaftarkan Rekam Medis dan data kesehatan lainnya ke Pemerintah Indonesia",
+      "authentication": true
     }
   ]
 }

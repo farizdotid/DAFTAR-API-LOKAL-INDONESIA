@@ -24,6 +24,17 @@
       "authentication": "API KEY"
     },
     {
+      "apiName": "Daftar nama Bank di Indonesia",
+      "status": true,
+      "documentationUrl": "https://bank.thecloudalert.com",
+      "developer": {
+        "name": "cenahcoid",
+        "profileUrl": "https://www.cenah.co.id/"
+      },
+      "description": "Daftar Bank yang ada di Indonesia (Gratis)",
+      "authentication": false
+    },
+    {
       "apiName": "Distrowatch API (unofficial)",
       "status": true,
       "documentationUrl": "https://github.com/Zzzul/diwa",
