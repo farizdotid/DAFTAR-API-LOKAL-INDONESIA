@@ -17,7 +17,7 @@ for await (const file of await getFiles()) {
   // sort alphabetically
   json.apis.sort((a, b) => a.apiName.localeCompare(b.apiName))
 
-  if (Bun.argv[2] !== '--merged') {
+  if (Bun.argv[2] === '--rewrite') {
     for (let i = 0; i < json.apis.length; i++) {
       const api = json.apis[i]
       const previous = api.status
