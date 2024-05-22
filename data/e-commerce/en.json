@@ -3,7 +3,7 @@
   "apis": [
     {
       "apiName": "Blibli",
-      "status": false,
+      "status": true,
       "documentationUrl": "https://seller-api.blibli.com/home",
       "developer": {
         "name": "Blibli.com Dev",

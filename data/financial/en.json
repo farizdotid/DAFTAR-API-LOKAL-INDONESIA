@@ -79,6 +79,28 @@
       "authentication": "API KEY"
     },
     {
+      "apiName": "Duitku",
+      "status": true,
+      "documentationUrl": "https://docs.duitku.com",
+      "developer": {
+        "name": "Duitku",
+        "profileUrl": null
+      },
+      "description": "Indonesian Payment Gateway.",
+      "authentication": "API KEY"
+    },
+    {
+      "apiName": "ESPAY",
+      "status": true,
+      "documentationUrl": "https://sandbox-kit.espay.id/docs/v2/docespay/en/index.php",
+      "developer": {
+        "name": "ESPAY",
+        "profileUrl": null
+      },
+      "description": "Indonesian Payment Gateway.",
+      "authentication": "API KEY"
+    },
+    {
       "apiName": "Gotopup",
       "status": true,
       "documentationUrl": "https://docs.gotopup.id/",

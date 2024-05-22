@@ -2,6 +2,17 @@
   "categoryName": "Forum",
   "apis": [
     {
+      "apiName": "Hot thread kaskus (Un-official)",
+      "status": true,
+      "documentationUrl": "https://api.bayyu.net",
+      "developer": {
+        "name": "Bayu",
+        "profileUrl": null
+      },
+      "description": "Mendapatkan hot-thread dari Kaskus.",
+      "authentication": "API KEY"
+    },
+    {
       "apiName": "Kaskus API",
       "status": true,
       "documentationUrl": "https://github.com/kaskus/kaskus-php-sdk/wiki",
