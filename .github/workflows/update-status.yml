@@ -23,7 +23,7 @@ jobs:
         run: bun install
 
       - name: Build Markdown
-        run: bun start
+        run: bun start --rewrite
 
       - name: Commit & Push Changes
         run: |
