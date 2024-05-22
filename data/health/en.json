@@ -44,6 +44,17 @@
       },
       "description": "API for COVID-19 referral hospitals in Indonesia.",
       "authentication": false
+    },
+    {
+      "apiName": "Satu Sehat",
+      "status": true,
+      "documentationUrl": "https://satusehat.kemkes.go.id/platform/docs/id/playbook/",
+      "developer": {
+        "name": "Ministry of Health Indonesia",
+        "profileUrl": "https://satusehat.kemkes.go.id/platform"
+      },
+      "description": "API for registering all Medical Records to Indonesian Goverment",
+      "authentication": true
     }
   ]
 }

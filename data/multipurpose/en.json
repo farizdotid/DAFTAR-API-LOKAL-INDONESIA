@@ -13,17 +13,6 @@
       "authentication": false
     },
     {
-      "apiName": "ConnectAPI",
-      "status": false,
-      "documentationUrl": "https://api.ihsandevs.io",
-      "developer": {
-        "name": "Ihsan Devs",
-        "profileUrl": "https://ihsandevs.com"
-      },
-      "description": "The public API that provides various APIs and API services will increase over time.",
-      "authentication": "API KEY"
-    },
-    {
       "apiName": "Forest API",
       "status": true,
       "documentationUrl": "https://www.forestapi.my.id",
