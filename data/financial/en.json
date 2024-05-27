@@ -264,6 +264,17 @@
       },
       "description": "Official Xendit Gateway API to integrate your application with the Xendit payment gateway.",
       "authentication": "API KEY"
+    },
+    {
+      "apiName": "Yoo Payments API",
+      "status": true,
+      "documentationUrl": "https://yoo.my.id/api/docs/payments",
+      "developer": {
+        "name": "Yoo Digital",
+        "profileUrl": "https://github.com/kevinmaulanaa"
+      },
+      "description": "Yoo Payments API Gateway is a RESTful API service for online payments.",
+      "authentication": "API KEY"
     }
   ]
 }
