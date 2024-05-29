@@ -33,6 +33,17 @@
       },
       "description": "Kumpulan API gratis tanpa batas yang dapat digunakan kapan saja dan di mana saja.",
       "authentication": false
+    },
+    {
+      "apiName": "Milfu API",
+      "status": true,
+      "documentationUrl": "https://api.ngodingaja.my.id",
+      "developer": {
+        "name": "Jauhariq",
+        "profileUrl": "https://github.com/jauhariq"
+      },
+      "description": "Menyediakan berbagai macam API secara gratis tanpa batasan penggunaan untuk membantu mempermudah proses pengembanganmu!",
+      "authentication": false
     }
   ]
 }

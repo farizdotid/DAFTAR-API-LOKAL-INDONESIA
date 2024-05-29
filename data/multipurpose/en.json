@@ -33,6 +33,17 @@
       },
       "description": "A collection of unlimited free APIs that can be used anytime and anywhere.",
       "authentication": false
+    },
+    {
+      "apiName": "Milfu API",
+      "status": true,
+      "documentationUrl": "https://api.ngodingaja.my.id",
+      "developer": {
+        "name": "Jauhariq",
+        "profileUrl": "https://github.com/jauhariq"
+      },
+      "description": "Providing a wide variety of APIs for free with no usage limits to help simplify your development process!",
+      "authentication": false
     }
   ]
 }
