@@ -224,11 +224,12 @@ This file is translation from Original (Bahasa Indonesia).
 
 ### Multipurpose
 
-| API Name   | Developer                                               | Documentation                       | Status | Description                                                                                                                           | Authentication |
-| ---------- | ------------------------------------------------------- | ----------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| Akuari Api | akuari                                                  | [Link](https://api.akuari.my.id/)   | ✅     | A collection of bot needs api, and some api: Visitor api, Check ip api, Check Website Live or not, File api, etc. with JSON response. | `false`        |
-| ConnectAPI | [Ihsan Devs](https://ihsandevs.com)                     | [Link](https://api.ihsandevs.io)    | ❎     | The public API that provides various APIs and API services will increase over time.                                                   | API KEY        |
-| Forest API | [Rio Agung Purnomo](https://github.com/rioagungpurnomo) | [Link](https://www.forestapi.my.id) | ✅     | A collection of unlimited free APIs that can be used anytime and anywhere.                                                            | `false`        |
+| API Name   | Developer                                               | Documentation                        | Status | Description                                                                                                                           | Authentication |
+| ---------- | ------------------------------------------------------- | ------------------------------------ | ------ | ------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| Akuari Api | akuari                                                  | [Link](https://api.akuari.my.id/)    | ✅     | A collection of bot needs api, and some api: Visitor api, Check ip api, Check Website Live or not, File api, etc. with JSON response. | `false`        |
+| ConnectAPI | [Ihsan Devs](https://ihsandevs.com)                     | [Link](https://api.ihsandevs.io)     | ❎     | The public API that provides various APIs and API services will increase over time.                                                   | API KEY        |
+| Forest API | [Rio Agung Purnomo](https://github.com/rioagungpurnomo) | [Link](https://www.forestapi.my.id)  | ✅     | A collection of unlimited free APIs that can be used anytime and anywhere.                                                            | `false`        |
+| Milfu API  | [Jauhariq](https://github.com/jauhariq)                 | [Link](https://api.ngodingaja.my.id) | ✅     | Providing a wide variety of APIs for free with no usage limits to help simplify your development process!                             | `false`        |
 
 ### Music
 
