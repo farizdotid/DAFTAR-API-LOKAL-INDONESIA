@@ -13,19 +13,8 @@
       "authentication": false
     },
     {
-      "apiName": "ConnectAPI",
-      "status": false,
-      "documentationUrl": "https://api.ihsandevs.io",
-      "developer": {
-        "name": "Ihsan Devs",
-        "profileUrl": "https://ihsandevs.com"
-      },
-      "description": "API Publik yang menyediakan berbagai macam API dan layanan API akan bertambah seiring berjalannya waktu.",
-      "authentication": "API KEY"
-    },
-    {
       "apiName": "Forest API",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://www.forestapi.my.id",
       "developer": {
         "name": "Rio Agung Purnomo",
