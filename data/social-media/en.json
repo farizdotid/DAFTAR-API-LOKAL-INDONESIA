@@ -64,7 +64,7 @@
         "name": "FatihArridho",
         "profileUrl": null
       },
-      "description": "Unofficial Simple Youtube Api.",
+      "description": "Unofficial Youtube A simple api to search for videos, channels, playlists.",
       "authentication": false
     }
   ]
