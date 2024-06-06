@@ -269,15 +269,14 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 ### Sosial Media
 
-| Nama API                   | Pengembang | Dokumentasi                                                                | Status | Deskripsi                                              | Autentikasi |
-| -------------------------- | ---------- | -------------------------------------------------------------------------- | ------ | ------------------------------------------------------ | ----------- |
-| Facebook Video Downloader  | bramaudi   | [Link](https://codeberg.org/bramaudi/fbdown)                               | ✅     | Unofficial API Facebook untuk Scraping Video Facebook. | `false`     |
-| Instagram Official API     | Facebook   | [Link](https://developers.facebook.com/docs/instagram-api/getting-started) | ✅     | Official API untuk Instagram Graph API.                | `false`     |
-| Twitter Trends             | azharimm   | [Link](https://github.com/azharimm/twitter-trends-api)                     | ✅     | Unofficial API Twitter trends data.                    | `false`     |
-| Whatsapp Cloud API Wrapper | fdciabdul  | [Link](https://github.com/fdciabdul/WhatsApp-Cloud-API-Wrapper)            | ✅     | Unofiicial Wrapper untuk Whatsapp Cloud API.           | `false`     |
-| Whatsapp Official API      | Facebook   | [Link](https://developers.facebook.com/docs/whatsapp)                      | ✅     | Official API untuk Whatsapp Cloud API.                 | `false`     |
-| Unofficial Youtube Api     | FatihArridho   | [Link](https://github.com/FatihArridho/Unofficial-YoutubeApi)          | ✅     | Unofficial API untuk Youtube.                         | `false`     |
-
+| Nama API                   | Pengembang   | Dokumentasi                                                                | Status | Deskripsi                                                                | Autentikasi |
+| -------------------------- | ------------ | -------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------ | ----------- |
+| Facebook Video Downloader  | bramaudi     | [Link](https://codeberg.org/bramaudi/fbdown)                               | ✅     | Unofficial API Facebook untuk Scraping Video Facebook.                   | `false`     |
+| Instagram Official API     | Facebook     | [Link](https://developers.facebook.com/docs/instagram-api/getting-started) | ✅     | Official API untuk Instagram Graph API.                                  | `false`     |
+| Twitter Trends             | azharimm     | [Link](https://github.com/azharimm/twitter-trends-api)                     | ✅     | Unofficial API Twitter trends data.                                      | `false`     |
+| Unofficial Youtube Api     | FatihArridho | [Link](https://github.com/FatihArridho/Unofficial-YoutubeApi)              | ✅     | Unofficial Youtube Api sederhana untuk mencari video, channel, playlist. | `false`     |
+| Whatsapp Cloud API Wrapper | fdciabdul    | [Link](https://github.com/fdciabdul/WhatsApp-Cloud-API-Wrapper)            | ✅     | Unofiicial Wrapper untuk Whatsapp Cloud API.                             | `false`     |
+| Whatsapp Official API      | Facebook     | [Link](https://developers.facebook.com/docs/whatsapp)                      | ✅     | Official API untuk Whatsapp Cloud API.                                   | `false`     |
 
 ### Umum
 
