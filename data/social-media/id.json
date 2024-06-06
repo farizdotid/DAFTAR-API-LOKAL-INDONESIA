@@ -55,6 +55,17 @@
       },
       "description": "Official API untuk Whatsapp Cloud API.",
       "authentication": false
+    },
+    {
+      "apiName": "Unofficial Youtube Api",
+      "status": true,
+      "documentationUrl": "https://github.com/FatihArridho/Unofficial-YoutubeApi",
+      "developer": {
+        "name": "FatihArridho",
+        "profileUrl": null
+      },
+      "description": "Unofficial Youtube Api sederhana untuk mencari video, channel, playlist.",
+      "authentication": false
     }
   ]
 }
