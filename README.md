@@ -276,6 +276,8 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Twitter Trends             | azharimm   | [Link](https://github.com/azharimm/twitter-trends-api)                     | ✅     | Unofficial API Twitter trends data.                    | `false`     |
 | Whatsapp Cloud API Wrapper | fdciabdul  | [Link](https://github.com/fdciabdul/WhatsApp-Cloud-API-Wrapper)            | ✅     | Unofiicial Wrapper untuk Whatsapp Cloud API.           | `false`     |
 | Whatsapp Official API      | Facebook   | [Link](https://developers.facebook.com/docs/whatsapp)                      | ✅     | Official API untuk Whatsapp Cloud API.                 | `false`     |
+| Unofficial Youtube Api     | FatihArridho   | [Link](https://github.com/FatihArridho/Unofficial-YoutubeApi)          | ✅     | Unofficial API untuk Youtube.                         | `false`     |
+
 
 ### Umum
 
