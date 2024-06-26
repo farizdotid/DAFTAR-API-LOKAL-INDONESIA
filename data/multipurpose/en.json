@@ -33,6 +33,17 @@
       },
       "description": "Providing a wide variety of APIs for free with no usage limits to help simplify your development process!",
       "authentication": false
+    },
+    {
+      "apiName": "All in one Api firdau.uz",
+      "status": true,
+      "documentationUrl": "https://api.firda.uz/docs",
+      "developer": {
+        "name": "Firdaus Siregar",
+        "profileUrl": "https://github.com/firdaus-siregar"
+      },
+      "description": "Free API access for your application needs. Unlimited fire keys and others, accompanied by complete documentation, API access such as (AI, chat, send WhatsApp SMS, etc.) Free forever!",
+      "authentication": false
     }
   ]
 }
