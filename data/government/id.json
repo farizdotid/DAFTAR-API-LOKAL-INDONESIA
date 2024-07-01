@@ -36,7 +36,7 @@
     },
     {
       "apiName": "Data BMKG",
-      "status": false,
+      "status": true,
       "documentationUrl": "http://data.bmkg.go.id/tentang",
       "developer": {
         "name": "Badan Meteorologi dan Geofisika",

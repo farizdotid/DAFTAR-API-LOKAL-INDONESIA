@@ -3,7 +3,7 @@
   "apis": [
     {
       "apiName": "Hot Threads from Kaskus (Unofficial)",
-      "status": false,
+      "status": true,
       "documentationUrl": "https://api.bayyu.net",
       "developer": {
         "name": "Bayu",

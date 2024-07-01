@@ -13,17 +13,6 @@
       "authentication": false
     },
     {
-      "apiName": "Forest API",
-      "status": false,
-      "documentationUrl": "https://www.forestapi.my.id",
-      "developer": {
-        "name": "Rio Agung Purnomo",
-        "profileUrl": "https://github.com/rioagungpurnomo"
-      },
-      "description": "A collection of unlimited free APIs that can be used anytime and anywhere.",
-      "authentication": false
-    },
-    {
       "apiName": "Milfu API",
       "status": true,
       "documentationUrl": "https://api.ngodingaja.my.id",
