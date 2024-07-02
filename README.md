@@ -260,10 +260,11 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 ### Serba Guna
 
-| Nama API   | Pengembang                              | Dokumentasi                          | Status | Deskripsi                                                                                                                                        | Autentikasi |
-| ---------- | --------------------------------------- | ------------------------------------ | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| Akuari Api | akuari                                  | [Link](https://api.akuari.my.id/)    | ✅     | Kumpulan api kebutuhan bot, dan beberapa api: Visitor api, Cek ip api, Cek Website Hidup atau tidak, File api, dan lain-lain dengan respon JSON. | `false`     |
-| Milfu API  | [Jauhariq](https://github.com/jauhariq) | [Link](https://api.ngodingaja.my.id) | ✅     | Menyediakan berbagai macam API secara gratis tanpa batasan penggunaan untuk membantu mempermudah proses pengembanganmu!                          | `false`     |
+| Nama API                 | Pengembang                                            | Dokumentasi                          | Status | Deskripsi                                                                                                                                                                                    | Autentikasi |
+| ------------------------ | ----------------------------------------------------- | ------------------------------------ | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| Akuari Api               | akuari                                                | [Link](https://api.akuari.my.id/)    | ✅     | Kumpulan api kebutuhan bot, dan beberapa api: Visitor api, Cek ip api, Cek Website Hidup atau tidak, File api, dan lain-lain dengan respon JSON.                                             | `false`     |
+| All in one Api firdau.uz | [Firdaus Siregar](https://github.com/firdaus-siregar) | [Link](https://api.firda.uz/docs)    | ✅     | Akses API gratis untuk kebutuhan Aplikasimu Tanpa batas dan api key dan lainya, disertai dengan dokumentasi lengkap, akses API seperti (ai, chat, kirim sms whatsapp dll) Gratis selamanya.! | `false`     |
+| Milfu API                | [Jauhariq](https://github.com/jauhariq)               | [Link](https://api.ngodingaja.my.id) | ✅     | Menyediakan berbagai macam API secara gratis tanpa batasan penggunaan untuk membantu mempermudah proses pengembanganmu!                                                                      | `false`     |
 
 ### Sosial Media
 

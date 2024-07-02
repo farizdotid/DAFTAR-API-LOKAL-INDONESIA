@@ -223,10 +223,11 @@ This file is translation from Original (Bahasa Indonesia).
 
 ### Multipurpose
 
-| API Name   | Developer                               | Documentation                        | Status | Description                                                                                                                           | Authentication |
-| ---------- | --------------------------------------- | ------------------------------------ | ------ | ------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| Akuari Api | akuari                                  | [Link](https://api.akuari.my.id/)    | ✅     | A collection of bot needs api, and some api: Visitor api, Check ip api, Check Website Live or not, File api, etc. with JSON response. | `false`        |
-| Milfu API  | [Jauhariq](https://github.com/jauhariq) | [Link](https://api.ngodingaja.my.id) | ✅     | Providing a wide variety of APIs for free with no usage limits to help simplify your development process!                             | `false`        |
+| API Name                 | Developer                                             | Documentation                        | Status | Description                                                                                                                                                                             | Authentication |
+| ------------------------ | ----------------------------------------------------- | ------------------------------------ | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| Akuari Api               | akuari                                                | [Link](https://api.akuari.my.id/)    | ✅     | A collection of bot needs api, and some api: Visitor api, Check ip api, Check Website Live or not, File api, etc. with JSON response.                                                   | `false`        |
+| All in one Api firdau.uz | [Firdaus Siregar](https://github.com/firdaus-siregar) | [Link](https://api.firda.uz/docs)    | ✅     | Free API access for your application needs. Unlimited fire keys and others, accompanied by complete documentation, API access such as (AI, chat, send WhatsApp SMS, etc.) Free forever! | `false`        |
+| Milfu API                | [Jauhariq](https://github.com/jauhariq)               | [Link](https://api.ngodingaja.my.id) | ✅     | Providing a wide variety of APIs for free with no usage limits to help simplify your development process!                                                                               | `false`        |
 
 ### Music
 
