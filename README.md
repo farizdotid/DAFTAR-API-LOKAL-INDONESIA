@@ -265,6 +265,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Akuari Api               | akuari                                                | [Link](https://api.akuari.my.id/)    | ✅     | Kumpulan api kebutuhan bot, dan beberapa api: Visitor api, Cek ip api, Cek Website Hidup atau tidak, File api, dan lain-lain dengan respon JSON.                                             | `false`     |
 | All in one Api firdau.uz | [Firdaus Siregar](https://github.com/firdaus-siregar) | [Link](https://api.firda.uz/docs)    | ✅     | Akses API gratis untuk kebutuhan Aplikasimu Tanpa batas dan api key dan lainya, disertai dengan dokumentasi lengkap, akses API seperti (ai, chat, kirim sms whatsapp dll) Gratis selamanya.! | `false`     |
 | Milfu API                | [Jauhariq](https://github.com/jauhariq)               | [Link](https://api.ngodingaja.my.id) | ✅     | Menyediakan berbagai macam API secara gratis tanpa batasan penggunaan untuk membantu mempermudah proses pengembanganmu!                                                                      | `false`     |
+| Mininxd API              | [mininxd](https://github.com/mininxd)                 | [Link](https://api.mininxd.my.id)    | ✅     | Menyediakan beberapa API gratis, dan menjanjikan server API akan selalu online                                                                                                               | `false`     |
 
 ### Sosial Media
 
@@ -296,7 +297,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Indiwtf API                   | Frans Allen                           | [Link](https://indiwtf.com/api/)                      | ✅     | Sebuah API sederhana untuk mengecek apakah sebuah website diblokir di Indonesia atau tidak.                    | `false`     |
 | Screenshot API                | statically.io                         | [Link](https://statically.io)                         | ✅     | Sebuah API screenshot gratis untuk mengonversi web ke gambar atau PDF. Mendukung tampilan desktop dan seluler. | `false`     |
 | SMSNotif                      | PT Solusi Inovasi Bisnis              | [Link](https://www.smsnotif.id)                       | ✅     | Kirim sms melalui REST API atau Laravel Notification.                                                          | API KEY     |
-| TimeApi                       | Mininxd                               | [Link](https://timeapi.mininxd.my.id)                 | ✅     | Api untuk menampilkan waktu, tanggal secara realtime berbasis UNIX.                                            | `false`     |
+| TimeApi                       | [Mininxd](https://github.com/mininxd) | [Link](https://timeapi.mininxd.my.id)                 | ✅     | Api untuk menampilkan waktu, tanggal secara realtime berbasis UNIX.                                            | `false`     |
 | Translasi                     | azharimm                              | [Link](https://github.com/azharimm/api-translate)     | ✅     | API translasi dengan google translate/baidu translate engine.                                                  | `false`     |
 
 <!-- API END -->

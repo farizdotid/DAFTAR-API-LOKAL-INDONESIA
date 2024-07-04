@@ -228,6 +228,7 @@ This file is translation from Original (Bahasa Indonesia).
 | Akuari Api               | akuari                                                | [Link](https://api.akuari.my.id/)    | ✅     | A collection of bot needs api, and some api: Visitor api, Check ip api, Check Website Live or not, File api, etc. with JSON response.                                                   | `false`        |
 | All in one Api firdau.uz | [Firdaus Siregar](https://github.com/firdaus-siregar) | [Link](https://api.firda.uz/docs)    | ✅     | Free API access for your application needs. Unlimited fire keys and others, accompanied by complete documentation, API access such as (AI, chat, send WhatsApp SMS, etc.) Free forever! | `false`        |
 | Milfu API                | [Jauhariq](https://github.com/jauhariq)               | [Link](https://api.ngodingaja.my.id) | ✅     | Providing a wide variety of APIs for free with no usage limits to help simplify your development process!                                                                               | `false`        |
+| Mininxd API              | [mininxd](https://github.com/mininxd)                 | [Link](https://api.mininxd.my.id)    | ✅     | Providing some free APIs, and it promises to always be online!                                                                                                                          | `false`        |
 
 ### Music
 
@@ -289,7 +290,7 @@ This file is translation from Original (Bahasa Indonesia).
 | Indonesian Bank              | [cenahcoid](https://www.cenah.co.id/) | [Link](https://bank.thecloudalert.com)                | ✅     | List of banks in Indonesia                                                               | `false`        |
 | Screenshot API               | statically.io                         | [Link](https://statically.io)                         | ✅     | A free screenshot API to convert web to image or PDF. Supports desktop and mobile views. | `false`        |
 | SMSNotif                     | PT Solusi Inovasi Bisnis              | [Link](https://www.smsnotif.id)                       | ✅     | Send SMS through REST API or Laravel Notification.                                       | API KEY        |
-| TimeApi                      | Mininxd                               | [Link](https://timeapi.mininxd.my.id)                 | ✅     | API to display real-time UNIX-based time and date.                                       | `false`        |
+| TimeApi                      | [mininxd](https://github.com/mininxd) | [Link](https://timeapi.mininxd.my.id)                 | ✅     | API to display real-time UNIX-based time and date.                                       | `false`        |
 | Translasi                    | azharimm                              | [Link](https://github.com/azharimm/api-translate)     | ✅     | Translation API with Google Translate/Baidu Translate engine.                            | `false`        |
 
 ### Weather
