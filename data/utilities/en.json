@@ -105,8 +105,8 @@
       "status": true,
       "documentationUrl": "https://timeapi.mininxd.my.id",
       "developer": {
-        "name": "Mininxd",
-        "profileUrl": null
+        "name": "mininxd",
+        "profileUrl": "https://github.com/mininxd"
       },
       "description": "API to display real-time UNIX-based time and date.",
       "authentication": false

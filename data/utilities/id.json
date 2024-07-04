@@ -106,7 +106,7 @@
       "documentationUrl": "https://timeapi.mininxd.my.id",
       "developer": {
         "name": "Mininxd",
-        "profileUrl": null
+        "profileUrl": "https://github.com/mininxd"
       },
       "description": "Api untuk menampilkan waktu, tanggal secara realtime berbasis UNIX.",
       "authentication": false
