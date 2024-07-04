@@ -33,6 +33,17 @@
       },
       "description": "Menyediakan berbagai macam API secara gratis tanpa batasan penggunaan untuk membantu mempermudah proses pengembanganmu!",
       "authentication": false
+    },
+    {
+      "apiName": "Mininxd API",
+      "status": true,
+      "documentationUrl": "https://api.mininxd.my.id",
+      "developer": {
+        "name": "mininxd",
+        "profileUrl": "https://github.com/mininxd"
+      },
+      "description": "Menyediakan beberapa API gratis",
+      "authentication": false
     }
   ]
 }
