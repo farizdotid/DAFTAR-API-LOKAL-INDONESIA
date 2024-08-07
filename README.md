@@ -2,61 +2,29 @@
 
 ![We Stand with Palestine](https://cdn.jsdelivr.net/gh/Safouene1/support-palestine-banner@master/banner-project.svg)
 
-Kumpulan API tentang data dan informasi di Indonesia
+Kumpulan API tentang data dan informasi di Indonesia. API ini dapat digunakan untuk berbagai keperluan seperti pengembangan aplikasi, pembelajaran, dan lain sebagainya. Terdapat berbagai jenis API yang disediakan, mulai dari API cuaca, berita, keagamaan, kesehatan, pemerintahan, dan lain sebagainya. Beberapa API bersifat resmi dan beberapa lainnya bersifat tidak resmi.
 
-## Daftar Dalam Bahasa Lain
-
-- [English](./README.en.md)
+PERlU DIINGAT! Beberapa API bersifat **tidak** resmi, dan repositori ini tidak bertanggung jawab atas penggunaan API tersebut. Pastikan untuk membaca dokumentasi dan ketentuan penggunaan API sebelum menggunakannya. Kami **tidak** bertanggung jawab atas kerugian atau kerusakan yang disebabkan oleh penggunaan API yang ada di repositori ini. Silahkan memilih dan menggunakan API dengan bijak.
 
 ## Daftar Isi
 
-<!-- TOC START -->
+- [Tambahkan API](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/issues/new/choose)
+- [Laporkan API](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/issues/new/choose)
+- [Panduan Kontribusi](CONTRIBUTING.md)
 
-- [Daftar API Lokal Indonesia](#daftar-api-lokal-indonesia)
-  - [Daftar Dalam Bahasa Lain](#daftar-dalam-bahasa-lain)
-  - [Daftar Isi](#daftar-isi)
-  - [Daftar API](#daftar-api)
-    - [Agama Islam](#agama-islam)
-    - [Berita](#berita)
-    - [Buku](#buku)
-    - [Christian](#christian)
-    - [Cuaca](#cuaca)
-    - [E-Commerce](#e-commerce)
-    - [Finansial](#finansial)
-    - [Forum](#forum)
-    - [Hiburan](#hiburan)
-    - [Jasa Pengiriman](#jasa-pengiriman)
-    - [Kesehatan](#kesehatan)
-    - [Kripto](#kripto)
-    - [Lokasi](#lokasi)
-    - [Musik](#musik)
-    - [Pemerintahan](#pemerintahan)
-    - [Pendidikan](#pendidikan)
-    - [Serba Guna](#serba-guna)
-    - [Sosial Media](#sosial-media)
-    - [Umum](#umum)
-    - [Utilitas](#utilitas)
-  - [Cara Berkontribusi](#cara-berkontribusi)
-  - [Lisensi](#lisensi)
+### Keagamaan / Rohani
 
-<!-- TOC END -->
-
-## Daftar API
-
-<!-- API START -->
-
-### Agama Islam
-
-| Nama API         | Pengembang     | Dokumentasi                                                        | Deskripsi                                                                  | Tags                          |
-| ---------------- | -------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------- | ----------------------------- |
-| Alquran ID       | bachors        | [Link](https://github.com/bachors/Al-Quran-ID-API)                 | Alquran bahasa indonesia.                                                  | `No Auth`                     |
-| Doa Doa API      | Ahmad Ramadhan | [Link](https://doa-doa-api-ahmadramadhan.fly.dev)                  | Doa - Doa Sehari - hari dan lain lain dalam agama Islam.                   | `No Auth`                     |
-| Dua & Dhikr      | Fitrahive      | [Link](https://github.com/fitrahive/dua-dhikr)                     | RESTful API Doa & Dzikir Sesuai Sunnah.                                    | `No Auth` `Self Host`         |
-| Jadwal Sholat    | lakuapik       | [Link](https://github.com/lakuapik/jadwalsholatorg)                | Jadwal sholat berdasarkan kota/kabupaten di Indonesia.                     | `No Auth` `Scraper` `Dataset` |
-| Puasa Sunnah API | Granite Bagas  | [Link](https://api.puasa-sunnah.granitebps.com/swagger/index.html) | API untuk melihat jadwal Puasa Sunnah di Indonesia. Start dari tahun 2022. | `No Auth` `Rest API`          |
-| Quran API        | rzkytmgr       | [Link](https://github.com/rzkytmgr/quran-api)                      | quran api dengan custom imam recitation/murottal.                          | `No Auth` `Rest API`          |
-| Quran API ID     | R.M. Reza      | [Link](https://github.com/renomureza/quran-api-id)                 | REST API Al-Quran Indonesia dengan terjemahan, tafsir.                     | `No Auth` `Rest API`          |
-| Quran JSON       | penggguna      | [Link](https://github.com/penggguna/QuranJSON)                     | Quran JSON (Terjemahan Indonesia, Tafsir, dan Audio).                      | `Self Host`                   |
+| Nama API         | Pengembang     | Dokumentasi                                                        | Deskripsi                                                                             | Tags                          |
+| ---------------- | -------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ----------------------------- |
+| Alquran ID       | bachors        | [Link](https://github.com/bachors/Al-Quran-ID-API)                 | Alquran bahasa indonesia.                                                             | `No Auth`                     |
+| Doa Doa API      | Ahmad Ramadhan | [Link](https://doa-doa-api-ahmadramadhan.fly.dev)                  | Doa - Doa Sehari - hari dan lain lain dalam agama Islam.                              | `No Auth`                     |
+| Dua & Dhikr      | Fitrahive      | [Link](https://github.com/fitrahive/dua-dhikr)                     | RESTful API Doa & Dzikir Sesuai Sunnah.                                               | `No Auth` `Self Host`         |
+| Jadwal Sholat    | lakuapik       | [Link](https://github.com/lakuapik/jadwalsholatorg)                | Jadwal sholat berdasarkan kota/kabupaten di Indonesia.                                | `No Auth` `Scraper` `Dataset` |
+| Puasa Sunnah API | Granite Bagas  | [Link](https://api.puasa-sunnah.granitebps.com/swagger/index.html) | API untuk melihat jadwal Puasa Sunnah di Indonesia. Start dari tahun 2022.            | `No Auth` `Rest API`          |
+| Quran API        | rzkytmgr       | [Link](https://github.com/rzkytmgr/quran-api)                      | quran api dengan custom imam recitation/murottal.                                     | `No Auth` `Rest API`          |
+| Quran API ID     | R.M. Reza      | [Link](https://github.com/renomureza/quran-api-id)                 | REST API Al-Quran Indonesia dengan terjemahan, tafsir.                                | `No Auth` `Rest API`          |
+| Quran JSON       | penggguna      | [Link](https://github.com/penggguna/QuranJSON)                     | Quran JSON (Terjemahan Indonesia, Tafsir, dan Audio).                                 | `Self Host`                   |
+| Alkitab API      | raselldev      | [Link](https://github.com/raselldev/alkitab-api)                   | This is a simple Bible API that provides access to various Bible passages and verses. | `No Auth` `Rest API`          |
 
 ### Berita
 
@@ -75,12 +43,6 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Nama API  | Pengembang | Dokumentasi                                                            | Deskripsi                     | Tags                 |
 | --------- | ---------- | ---------------------------------------------------------------------- | ----------------------------- | -------------------- |
 | Masak Apa | Reski      | [Link](https://github.com/tomorisakura/unofficial-masakapahariini-api) | Buku resep makanan Indonesia. | `No Auth` `Rest Api` |
-
-### Christian
-
-| Nama API    | Pengembang | Dokumentasi                                      | Deskripsi                                                                             | Tags                 |
-| ----------- | ---------- | ------------------------------------------------ | ------------------------------------------------------------------------------------- | -------------------- |
-| Alkitab API | raselldev  | [Link](https://github.com/raselldev/alkitab-api) | This is a simple Bible API that provides access to various Bible passages and verses. | `No Auth` `Rest API` |
 
 ### Cuaca
 
@@ -102,44 +64,52 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 ### Finansial
 
-| Nama API                 | Pengembang           | Dokumentasi                                                                   | Deskripsi                                                                                                                                                                                                    | Tags                                        |
-| ------------------------ | -------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------- |
-| Dana Enterprise          | DANA                 | [Link](https://dashboard.dana.id/api-docs/)                                   | Official DANA Enterprise API.                                                                                                                                                                                | `OAuth` `API Key` `Official` `Registration` |
-| BCA                      | BCA                  | [Link](https://developer.bca.co.id)                                           | API Bank BCA.                                                                                                                                                                                                | `API Key` `Official` `Registration`         |
-| Bisatopup                | Bisatopup            | [Link](https://documenter.getpostman.com/view/367648/RzfZQZAL?version=latest) | Melalui API ini dapat melakukan transaksi seperti beli pulsa, bayar token listrik, dan lain-lain.                                                                                                            | `API Key` `Official` `Registration`         |
-| CoinMarketCap            | CoinMarketCap        | [Link](https://coinmarketcap.com/api)                                         | CoinMarketCap API adalah rangkaian endpoint RESTful JSON berkinerja tinggi yang dirancang khusus untuk memenuhi tuntutan misi-kritis dari pengembang aplikasi, ilmuwan data, dan platform bisnis perusahaan. | `API Key` `Official` `Registration`         |
-| DOKU                     | DOKU                 | [Link](https://www.doku.com/API/index.html)                                   | DOKU semakin dipercaya dan menjadi layanan pembayaran elektronik pilihan bagi merchant nasional maupun internasional.                                                                                        | `API Key` `Official` `Registration`         |
-| Duitku                   | Duitku               | [Link](https://docs.duitku.com)                                               | Payment Gateway Indonesia.                                                                                                                                                                                   | `API Key` `Official` `Registration`         |
-| ESPAY                    | ESPAY                | [Link](https://sandbox-kit.espay.id/docs/v2/docespay/en/index.php)            | Payment Gateway Indonesia.                                                                                                                                                                                   | `API Key` `Official` `Registration`         |
-| Gotopup                  | Gotopup              | [Link](https://docs.gotopup.id/)                                              | API untuk melakukan transaksi pembelian Top up Game, Pulsa, Listrik Dll.                                                                                                                                     | `API Key` `Official` `Registration`         |
-| iPaymu                   | iPaymu               | [Link](https://ipaymu.com/dokumentasi-api)                                    | Gateway atau gerbang untuk transaksi pembayaran.                                                                                                                                                             | `API Key` `Official` `Registration`         |
-| Midtrans                 | Midtrans             | [Link](https://docs.midtrans.com)                                             | Gateway atau gerbang untuk transaksi pembayaran.                                                                                                                                                             | `API Key` `Official` `Registration`         |
-| MobilePulsa API          | MobilePulsa Official | [Link](https://developer.mobilepulsa.net)                                     | API Gateway resmi dari MobilePulsa untuk pembayaran pulsa, top up, PLN, voucher game, dll.                                                                                                                   | `API Key` `Official` `Registration`         |
-| Neropass API             | Neropass             | [Link](https://docs.neropass.com)                                             | API distributor game online dan voucher game terlengkap dari PT Busur Media Indonesia (terbuka untuk reseller), tersedia juga layanan topup pulsa, paket data, dll.                                          | `API Key` `Official` `Registration`         |
-| OY! Indonesia            | OY! Indonesia        | [Link](https://api-docs.oyindonesia.com/#introduction)                        | API Gateway resmi dari OY! Indonesia untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran OY! Indonesia.                                                                                           | `API Key` `Official` `Registration`         |
-| Paypal                   | Paypal               | [Link](https://developer.paypal.com/api/rest/)                                | API Gateway resmi dari Paypal untuk transaksi internasional atau domestik dari dompet paypal.                                                                                                                | `API Key` `Official` `Registration`         |
-| Tripay                   | Tripay               | [Link](https://tripay.co.id/developer?tab=prolog)                             | API payment Gateway yang terbagi menjadi 2 jenis yaitu Open Payment & Closed Payment. sehingga dapat dintegrasikan dengan aplikasi Anda dengan Gateway pembayaran Tripay.                                    | `API Key` `Official` `Registration`         |
-| Xendit API               | Xendit Official      | [Link](https://developers.xendit.co)                                          | API Gateway resmi dari Xendit untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran Xendit.                                                                                                         | `API Key` `Official` `Registration`         |
-| Yoo Payments API         | Yoo Digital          | [Link](https://yoo.my.id/api/docs/payments)                                   | Yoo Payments API Gateway adalah sebuah layanan API RESTFUL pembayaran online.                                                                                                                                | `API Key` `Official` `Registration`         |
-| tradingeconomics         | tradingeconomics     | [Link](https://tradingeconomics.com/api/)                                     | Trading Economics Application Programming Interface (API) Menyediakan akses langsung ke data kami.                                                                                                           | `API Key` `Services` `Registration`         |
-| Tradingview              | Tradingview          | [Link](https://www.tradingview.com/rest-api-spec)                             | API ini akan diimplementasikan oleh Broker untuk menghubungkan sistem backend mereka ke TradingView.                                                                                                         | `API Key` `Services` `Registration`         |
-| API Data Saham Indonesia | goapi-id             | [Link](https://goapi.io/api-data-saham-indonesia)                             | REST API data saham indonesia dalam format json, dengan api ini anda bisa mendapatkan data perusahaan, harga saham, dll.                                                                                     | `API Key` `Services`                        |
+| Nama API                 | Pengembang           | Dokumentasi                                                                              | Deskripsi                                                                                                                                                                                                    | Tags                                        |
+| ------------------------ | -------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------- |
+| Dana Enterprise          | DANA                 | [Link](https://dashboard.dana.id/api-docs/)                                              | Official DANA Enterprise API.                                                                                                                                                                                | `OAuth` `API Key` `Official` `Registration` |
+| BCA                      | BCA                  | [Link](https://developer.bca.co.id)                                                      | API Bank BCA.                                                                                                                                                                                                | `API Key` `Official` `Registration`         |
+| Bisatopup                | Bisatopup            | [Link](https://documenter.getpostman.com/view/367648/RzfZQZAL?version=latest)            | Melalui API ini dapat melakukan transaksi seperti beli pulsa, bayar token listrik, dan lain-lain.                                                                                                            | `API Key` `Official` `Registration`         |
+| CoinMarketCap            | CoinMarketCap        | [Link](https://coinmarketcap.com/api)                                                    | CoinMarketCap API adalah rangkaian endpoint RESTful JSON berkinerja tinggi yang dirancang khusus untuk memenuhi tuntutan misi-kritis dari pengembang aplikasi, ilmuwan data, dan platform bisnis perusahaan. | `API Key` `Official` `Registration`         |
+| DOKU                     | DOKU                 | [Link](https://www.doku.com/API/index.html)                                              | DOKU semakin dipercaya dan menjadi layanan pembayaran elektronik pilihan bagi merchant nasional maupun internasional.                                                                                        | `API Key` `Official` `Registration`         |
+| Duitku                   | Duitku               | [Link](https://docs.duitku.com)                                                          | Payment Gateway Indonesia.                                                                                                                                                                                   | `API Key` `Official` `Registration`         |
+| ESPAY                    | ESPAY                | [Link](https://sandbox-kit.espay.id/docs/v2/docespay/en/index.php)                       | Payment Gateway Indonesia.                                                                                                                                                                                   | `API Key` `Official` `Registration`         |
+| Gotopup                  | Gotopup              | [Link](https://docs.gotopup.id/)                                                         | API untuk melakukan transaksi pembelian Top up Game, Pulsa, Listrik Dll.                                                                                                                                     | `API Key` `Official` `Registration`         |
+| iPaymu                   | iPaymu               | [Link](https://ipaymu.com/dokumentasi-api)                                               | Gateway atau gerbang untuk transaksi pembayaran.                                                                                                                                                             | `API Key` `Official` `Registration`         |
+| Midtrans                 | Midtrans             | [Link](https://docs.midtrans.com)                                                        | Gateway atau gerbang untuk transaksi pembayaran.                                                                                                                                                             | `API Key` `Official` `Registration`         |
+| MobilePulsa API          | MobilePulsa Official | [Link](https://developer.mobilepulsa.net)                                                | API Gateway resmi dari MobilePulsa untuk pembayaran pulsa, top up, PLN, voucher game, dll.                                                                                                                   | `API Key` `Official` `Registration`         |
+| Neropass API             | Neropass             | [Link](https://docs.neropass.com)                                                        | API distributor game online dan voucher game terlengkap dari PT Busur Media Indonesia (terbuka untuk reseller), tersedia juga layanan topup pulsa, paket data, dll.                                          | `API Key` `Official` `Registration`         |
+| OY! Indonesia            | OY! Indonesia        | [Link](https://api-docs.oyindonesia.com/#introduction)                                   | API Gateway resmi dari OY! Indonesia untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran OY! Indonesia.                                                                                           | `API Key` `Official` `Registration`         |
+| Paypal                   | Paypal               | [Link](https://developer.paypal.com/api/rest/)                                           | API Gateway resmi dari Paypal untuk transaksi internasional atau domestik dari dompet paypal.                                                                                                                | `API Key` `Official` `Registration`         |
+| Tripay                   | Tripay               | [Link](https://tripay.co.id/developer?tab=prolog)                                        | API payment Gateway yang terbagi menjadi 2 jenis yaitu Open Payment & Closed Payment. sehingga dapat dintegrasikan dengan aplikasi Anda dengan Gateway pembayaran Tripay.                                    | `API Key` `Official` `Registration`         |
+| Xendit API               | Xendit Official      | [Link](https://developers.xendit.co)                                                     | API Gateway resmi dari Xendit untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran Xendit.                                                                                                         | `API Key` `Official` `Registration`         |
+| Yoo Payments API         | Yoo Digital          | [Link](https://yoo.my.id/api/docs/payments)                                              | Yoo Payments API Gateway adalah sebuah layanan API RESTFUL pembayaran online.                                                                                                                                | `API Key` `Official` `Registration`         |
+| tradingeconomics         | tradingeconomics     | [Link](https://tradingeconomics.com/api/)                                                | Trading Economics Application Programming Interface (API) Menyediakan akses langsung ke data kami.                                                                                                           | `API Key` `Services` `Registration`         |
+| Tradingview              | Tradingview          | [Link](https://www.tradingview.com/rest-api-spec)                                        | API ini akan diimplementasikan oleh Broker untuk menghubungkan sistem backend mereka ke TradingView.                                                                                                         | `API Key` `Services` `Registration`         |
+| API Data Saham Indonesia | goapi-id             | [Link](https://goapi.io/api-data-saham-indonesia)                                        | REST API data saham indonesia dalam format json, dengan api ini anda bisa mendapatkan data perusahaan, harga saham, dll.                                                                                     | `API Key` `Services`                        |
+| Binance                  | binance              | [Link](https://github.com/binance/binance-spot-api-docs)                                 | Official Documentation for the Binance APIs and Streams.                                                                                                                                                     | `API Key`                                   |
+| Indodax                  | btcid                | [Link](https://github.com/btcid/indodax-official-api-docs/blob/master/Public-RestAPI.md) | Dokumentasi Public Api Indodax Exchange.                                                                                                                                                                     | `API Key`                                   |
+| Indodax                  | btcid                | [Link](https://github.com/btcid/indodax-official-api-docs)                               | Full Dokumentasi Api Public, Private Indodax Exchange.                                                                                                                                                       | `API Key`                                   |
+| Rekeningku               | rekeningku           | [Link](https://api.rekeningku.com/#introduction)                                         | Anda dapat menggunakan API kami untuk mengakses titik akhir API Rekeningku, yang dapat memperoleh informasi seperti Pesanan, Pasar, dll.                                                                     | `API Key`                                   |
+| TokoCrypto               | Toko Crypto          | [Link](https://www.tokocrypto.com/apidocs/#api-document-description)                     | Dokumentasi Api TokoCrypto Exchange.                                                                                                                                                                         | `API Key`                                   |
 
-### Forum
+### Hiburan / Entertainment / Sosial Media
 
-| Nama API   | Pengembang | Dokumentasi                                           | Deskripsi                                                 | Tags                              |
-| ---------- | ---------- | ----------------------------------------------------- | --------------------------------------------------------- | --------------------------------- |
-| Kaskus API | Kaskus Dev | [Link](https://github.com/kaskus/kaskus-php-sdk/wiki) | API untuk mengakses forum terkenal di Indonesia - Kaskus. | `OAuth` `Official` `Registration` |
-
-### Hiburan
-
-| Nama API                  | Pengembang          | Dokumentasi                                                 | Deskripsi                                                                                                                                  | Tags                                |
-| ------------------------- | ------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------- |
-| AnimeAPI                  | nattadasu           | [Link](https://animeapi.my.id)                              | REST API untuk pemetaan relasi ID antara 15 situs database anime lokal dan luar negeri.                                                    | `No Auth`                           |
-| ID Game Checker           | Nevertary I Forster | [Link](https://rapidapi.com/nazi436123/api/id-game-checker) | Buat Validasi atau dapatkan username dengan ID Game. Tersedia untuk Free Fire, Mobile Legends, PUBG Mobile, Higgs Domino, Point Blank dll. | `API Key` `Services` `Registration` |
-| Katanime                  | ricko-v             | [Link](https://github.com/ricko-v/katanime)                 | Quotes anime bahasa Indonesia dan Inggris.                                                                                                 | `No Auth`                           |
-| Kunci Jawaban TTS API     | nasrul21            | [Link](https://github.com/nasrul21/kunci-tts-api)           | API untuk mendapatkan kunci jawaban TTS (Teka Teki Silang) Indonesia.                                                                      | `No Auth`                           |
-| Unofficial Liga Indonesia | Agis R Herdiana     | [Link](https://ligaindonesia-api.vercel.app/docs)           | Unofficial API liga Indonesia tentang info pertandingan, statistik, klasemen, tim, dan lain-lain.                                          | `No Auth`                           |
+| Nama API                   | Pengembang          | Dokumentasi                                                     | Deskripsi                                                                                                                                  | Tags                                 |
+| -------------------------- | ------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
+| Deezer                     | Deezer Dev          | [Link](https://developers.deezer.com/api)                       | Katalog Deezer.                                                                                                                            | `OAuth` `Official`                   |
+| MusixMatch                 | MusixMatch Dev      | [Link](https://developer.musixmatch.com)                        | Mencari Informasi dan Lirik lagu.                                                                                                          | `API Key` `Official` `Partners-Only` |
+| SoundCloud                 | SoundCloud Dev      | [Link](https://developers.soundcloud.com)                       | upload dan share music.                                                                                                                    | `API Key` `Official`                 |
+| Spotify                    | Spotify Dev         | [Link](https://developer.spotify.com/documentation/web-api)     | Spotify Catalog.                                                                                                                           | `OAuth` `Official`                   |
+| AnimeAPI                   | nattadasu           | [Link](https://animeapi.my.id)                                  | REST API untuk pemetaan relasi ID antara 15 situs database anime lokal dan luar negeri.                                                    | `No Auth`                            |
+| ID Game Checker            | Nevertary I Forster | [Link](https://rapidapi.com/nazi436123/api/id-game-checker)     | Buat Validasi atau dapatkan username dengan ID Game. Tersedia untuk Free Fire, Mobile Legends, PUBG Mobile, Higgs Domino, Point Blank dll. | `API Key` `Services` `Registration`  |
+| Katanime                   | ricko-v             | [Link](https://github.com/ricko-v/katanime)                     | Quotes anime bahasa Indonesia dan Inggris.                                                                                                 | `No Auth`                            |
+| Kunci Jawaban TTS API      | nasrul21            | [Link](https://github.com/nasrul21/kunci-tts-api)               | API untuk mendapatkan kunci jawaban TTS (Teka Teki Silang) Indonesia.                                                                      | `No Auth`                            |
+| Unofficial Liga Indonesia  | Agis R Herdiana     | [Link](https://ligaindonesia-api.vercel.app/docs)               | Unofficial API liga Indonesia tentang info pertandingan, statistik, klasemen, tim, dan lain-lain.                                          | `No Auth`                            |
+| Facebook Video Downloader  | bramaudi            | [Link](https://codeberg.org/bramaudi/fbdown)                    | Unofficial API Facebook untuk Scraping Video Facebook.                                                                                     | `No Auth` `Scraper` `Rest API`       |
+| Unofficial Youtube Api     | FatihArridho        | [Link](https://github.com/FatihArridho/Unofficial-YoutubeApi)   | Unofficial Youtube Api sederhana untuk mencari video, channel, playlist.                                                                   | `No Auth` `Rest API` `Scraper`       |
+| Whatsapp Cloud API Wrapper | fdciabdul           | [Link](https://github.com/fdciabdul/WhatsApp-Cloud-API-Wrapper) | Unofiicial Wrapper untuk Whatsapp Cloud API.                                                                                               | `Self Host`                          |
+| Whatsapp Official API      | Facebook            | [Link](https://developers.facebook.com/docs/whatsapp)           | Official API untuk Whatsapp Cloud API.                                                                                                     | `Paid` `Official` `Enterprise`       |
+| Kaskus API                 | Kaskus Dev          | [Link](https://github.com/kaskus/kaskus-php-sdk/wiki)           | API untuk mengakses forum terkenal di Indonesia - Kaskus.                                                                                  | `OAuth` `Official` `Registration`    |
 
 ### Jasa Pengiriman
 
@@ -164,16 +134,6 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Data ketersediaan tempat tidur rumah sakit di Indonesia           | Satya Wikananda              | [Link](https://github.com/satyawikananda/rs-bed-covid-indo-api)   | API ketersediaan rumah sakit dan tempat tidur rumah sakit untuk pasien covid-19 ataupun non-covid yang berada di Indonesia. | `Deprecated`                                         |
 | Data rumah sakit rujukan covid-19 di Indonesia                    | Ariya Hidayat                | [Link](https://dekontaminasi.com/api/id/covid19/hospitals)        | API rumah sakit rujukan covid-19 di Indonesia.                                                                              | `Deprecated`                                         |
 
-### Kripto
-
-| Nama API   | Pengembang  | Dokumentasi                                                                              | Deskripsi                                                                                                                                | Tags      |
-| ---------- | ----------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| Binance    | binance     | [Link](https://github.com/binance/binance-spot-api-docs)                                 | Official Documentation for the Binance APIs and Streams.                                                                                 | `API Key` |
-| Indodax    | btcid       | [Link](https://github.com/btcid/indodax-official-api-docs/blob/master/Public-RestAPI.md) | Dokumentasi Public Api Indodax Exchange.                                                                                                 | `API Key` |
-| Indodax    | btcid       | [Link](https://github.com/btcid/indodax-official-api-docs)                               | Full Dokumentasi Api Public, Private Indodax Exchange.                                                                                   | `API Key` |
-| Rekeningku | rekeningku  | [Link](https://api.rekeningku.com/#introduction)                                         | Anda dapat menggunakan API kami untuk mengakses titik akhir API Rekeningku, yang dapat memperoleh informasi seperti Pesanan, Pasar, dll. | `API Key` |
-| TokoCrypto | Toko Crypto | [Link](https://www.tokocrypto.com/apidocs/#api-document-description)                     | Dokumentasi Api TokoCrypto Exchange.                                                                                                     | `API Key` |
-
 ### Lokasi
 
 | Nama API                                                             | Pengembang     | Dokumentasi                                                                                            | Deskripsi                                                                                                                       | Tags                                |
@@ -191,15 +151,6 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Nama Provinsi, Kota, Kabupaten Seluruh Wilayah Indonesia             | Muhammad Syifa | [Link](https://github.com/emsifa/api-wilayah-indonesia)                                                | API statis berisi data wilayah Indonesia serta perintah untuk mendeploynya ke static hosting.                                   | `No Auth` `Dataset`                 |
 | Pesantren se Indonesia                                               | nasrul21       | [Link](https://github.com/nasrul21/data-pesantren-indonesia)                                           | API Data Pesantren se Indonesia.                                                                                                | `No Auth`                           |
 | Places API Indonesia                                                 | goapi-id       | [Link](https://goapi.io/places-api)                                                                    | Mencari titik koordinat dari suatu tempat sebagai alternative dari google places API.                                           | `API Key` `Services` `Registration` |
-
-### Musik
-
-| Nama API   | Pengembang     | Dokumentasi                                                 | Deskripsi                         | Tags                                 |
-| ---------- | -------------- | ----------------------------------------------------------- | --------------------------------- | ------------------------------------ |
-| Deezer     | Deezer Dev     | [Link](https://developers.deezer.com/api)                   | Katalog Deezer.                   | `OAuth` `Official`                   |
-| MusixMatch | MusixMatch Dev | [Link](https://developer.musixmatch.com)                    | Mencari Informasi dan Lirik lagu. | `API Key` `Official` `Partners-Only` |
-| SoundCloud | SoundCloud Dev | [Link](https://developers.soundcloud.com)                   | upload dan share music.           | `API Key` `Official`                 |
-| Spotify    | Spotify Dev    | [Link](https://developer.spotify.com/documentation/web-api) | Spotify Catalog.                  | `OAuth` `Official`                   |
 
 ### Pemerintahan
 
@@ -222,42 +173,21 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Python 3 API wrapper PDDIKTI     | IlhamRisky      | [Link](https://github.com/IlhamriSKY/PDDIKTI-kemdikbud-API)                  | Python API wrapper, yang mengambil data dari web PDDIKTI, terdiri dari data Universitas, Program Studi, Dosen, Mahasiswa/Alumni, Berita, Laporan, Dll. | `Self Host` `Deprecated` `Scraper`              |
 | Wikipedia API                    | Mediawiki       | [Link](https://www.mediawiki.org/wiki/API:Tutorial)                          | API untuk mendapatkan informasi yang digunakan dari Wikipedia.                                                                                         | `Token` `Official` `Registration`               |
 
-### Serba Guna
+### Umum / Utilitas
 
-| Nama API                 | Pengembang      | Dokumentasi                          | Deskripsi                                                                                                                                                                                      | Tags                                  |
-| ------------------------ | --------------- | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| Akuari Api               | akuari          | [Link](https://api.akuari.my.id/)    | Kumpulan api kebutuhan bot, dan beberapa api: Visitor api, Cek ip api, Cek Website Hidup atau tidak, File api, dan lain-lain dengan respon JSON.                                               | `Services` `Paid`                     |
-| All in one Api firdau.uz | Firdaus Siregar | [Link](https://api.firda.uz/docs)    | Akses API gratis untuk kebutuhan Aplikasimu Tanpa batas dan `API Key` dan lainya, disertai dengan dokumentasi lengkap, akses API seperti (ai, chat, kirim sms whatsapp dll) Gratis selamanya.! | `No Auth`                             |
-| Milfu API                | Jauhariq        | [Link](https://api.ngodingaja.my.id) | Menyediakan berbagai macam API secara gratis tanpa batasan penggunaan untuk membantu mempermudah proses pengembanganmu!                                                                        | `No Auth` `Rest API`                  |
-| Mininxd API              | mininxd         | [Link](https://api.mininxd.my.id)    | Menyediakan beberapa API gratis, dan menjanjikan server API akan selalu online                                                                                                                 | `No Auth` `Partially Free` `Rest API` |
-
-### Sosial Media
-
-| Nama API                   | Pengembang   | Dokumentasi                                                     | Deskripsi                                                                | Tags                           |
-| -------------------------- | ------------ | --------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------ |
-| Facebook Video Downloader  | bramaudi     | [Link](https://codeberg.org/bramaudi/fbdown)                    | Unofficial API Facebook untuk Scraping Video Facebook.                   | `No Auth` `Scraper` `Rest API` |
-| Unofficial Youtube Api     | FatihArridho | [Link](https://github.com/FatihArridho/Unofficial-YoutubeApi)   | Unofficial Youtube Api sederhana untuk mencari video, channel, playlist. | `No Auth` `Rest API` `Scraper` |
-| Whatsapp Cloud API Wrapper | fdciabdul    | [Link](https://github.com/fdciabdul/WhatsApp-Cloud-API-Wrapper) | Unofiicial Wrapper untuk Whatsapp Cloud API.                             | `Self Host`                    |
-| Whatsapp Official API      | Facebook     | [Link](https://developers.facebook.com/docs/whatsapp)           | Official API untuk Whatsapp Cloud API.                                   | `Paid` `Official` `Enterprise` |
-
-### Umum
-
-| Nama API   | Pengembang | Dokumentasi                          | Deskripsi                                                                     | Tags                 |
-| ---------- | ---------- | ------------------------------------ | ----------------------------------------------------------------------------- | -------------------- |
-| Dayoff API | Gerinsp    | [Link](https://dayoffapi.vercel.app) | Api untuk mendapatkan data hari libur nasional dan cuti bersama di Indonesia. | `No Auth` `Rest API` |
-
-### Utilitas
-
-| Nama API                      | Pengembang               | Dokumentasi                            | Deskripsi                                                                                                      | Tags                        |
-| ----------------------------- | ------------------------ | -------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| Daftar nama Bank di Indonesia | cenahcoid                | [Link](https://bank.thecloudalert.com) | Daftar Bank yang ada di Indonesia (Gratis)                                                                     | `No Auth` `Rest API`        |
-| Distrowatch API (unofficial)  | Zulfahmi                 | [Link](https://github.com/Zzzul/diwa)  | API untuk mendapatkan informasi seputar Linux.                                                                 | `Self Host`                 |
-| Indiwtf API                   | Frans Allen              | [Link](https://indiwtf.com/api/)       | Sebuah API sederhana untuk mengecek apakah sebuah website diblokir di Indonesia atau tidak.                    | `API Key` `Paid` `Services` |
-| Screenshot API                | statically.io            | [Link](https://statically.io)          | Sebuah API screenshot gratis untuk mengonversi web ke gambar atau PDF. Mendukung tampilan desktop dan seluler. | `No Auth` `CDN` `Services`  |
-| SMSNotif                      | PT Solusi Inovasi Bisnis | [Link](https://www.smsnotif.id)        | Kirim sms melalui REST API atau Laravel Notification.                                                          | `API Key` `Paid` `Services` |
-| TimeApi                       | Mininxd                  | [Link](https://timeapi.mininxd.my.id)  | Api untuk menampilkan waktu, tanggal secara realtime berbasis UNIX.                                            | `No Auth` `Rest API`        |
-
-<!-- API END -->
+| Nama API                      | Pengembang               | Dokumentasi                            | Deskripsi                                                                                                                                                                                      | Tags                                  |
+| ----------------------------- | ------------------------ | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| Akuari Api                    | akuari                   | [Link](https://api.akuari.my.id/)      | Kumpulan api kebutuhan bot, dan beberapa api: Visitor api, Cek ip api, Cek Website Hidup atau tidak, File api, dan lain-lain dengan respon JSON.                                               | `Services` `Paid`                     |
+| All in one Api firdau.uz      | Firdaus Siregar          | [Link](https://api.firda.uz/docs)      | Akses API gratis untuk kebutuhan Aplikasimu Tanpa batas dan `API Key` dan lainya, disertai dengan dokumentasi lengkap, akses API seperti (ai, chat, kirim sms whatsapp dll) Gratis selamanya.! | `No Auth`                             |
+| Milfu API                     | Jauhariq                 | [Link](https://api.ngodingaja.my.id)   | Menyediakan berbagai macam API secara gratis tanpa batasan penggunaan untuk membantu mempermudah proses pengembanganmu!                                                                        | `No Auth` `Rest API`                  |
+| Mininxd API                   | mininxd                  | [Link](https://api.mininxd.my.id)      | Menyediakan beberapa API gratis, dan menjanjikan server API akan selalu online                                                                                                                 | `No Auth` `Partially Free` `Rest API` |
+| Dayoff API                    | Gerinsp                  | [Link](https://dayoffapi.vercel.app)   | Api untuk mendapatkan data hari libur nasional dan cuti bersama di Indonesia.                                                                                                                  | `No Auth` `Rest API`                  |
+| Daftar nama Bank di Indonesia | cenahcoid                | [Link](https://bank.thecloudalert.com) | Daftar Bank yang ada di Indonesia (Gratis)                                                                                                                                                     | `No Auth` `Rest API`                  |
+| Distrowatch API (unofficial)  | Zulfahmi                 | [Link](https://github.com/Zzzul/diwa)  | API untuk mendapatkan informasi seputar Linux.                                                                                                                                                 | `Self Host`                           |
+| Indiwtf API                   | Frans Allen              | [Link](https://indiwtf.com/api/)       | Sebuah API sederhana untuk mengecek apakah sebuah website diblokir di Indonesia atau tidak.                                                                                                    | `API Key` `Paid` `Services`           |
+| Screenshot API                | statically.io            | [Link](https://statically.io)          | Sebuah API screenshot gratis untuk mengonversi web ke gambar atau PDF. Mendukung tampilan desktop dan seluler.                                                                                 | `No Auth` `CDN` `Services`            |
+| SMSNotif                      | PT Solusi Inovasi Bisnis | [Link](https://www.smsnotif.id)        | Kirim sms melalui REST API atau Laravel Notification.                                                                                                                                          | `API Key` `Paid` `Services`           |
+| TimeApi                       | Mininxd                  | [Link](https://timeapi.mininxd.my.id)  | Api untuk menampilkan waktu, tanggal secara realtime berbasis UNIX.                                                                                                                            | `No Auth` `Rest API`                  |
 
 ## Cara Berkontribusi
 
