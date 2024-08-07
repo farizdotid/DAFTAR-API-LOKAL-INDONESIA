@@ -1,0 +1,91 @@
+name: Tambahkan API Baru
+description: Saran penambahan API baru yang belum ada di database.
+title: '[NEW API]: '
+labels: ['new-api', 'triage']
+
+body:
+  - type: input
+    id: nama-api
+    attributes:
+      label: Nama API
+      description: 'Nama API yang ingin ditambahkan'
+      placeholder: 'Peta Cuaca Indonesia BMKG'
+    validations:
+      required: true
+  - type: textarea
+    id: deskripsi
+    attributes:
+      label: Deskripsi API
+      description: Jelaskan API yang ingin kamu tambahkan
+      placeholder: Ceritakan di bawah ini
+    validations:
+      required: true
+  - type: dropdown
+    id: category-api
+    attributes:
+      label: Kategori API
+      description: 'Pilih kategori API yang sesuai'
+      options:
+        - 'Keagamaan / Rohani'
+        - 'Berita / Media'
+        - 'Buku / Literatur'
+        - 'Cuaca'
+        - 'E-Commerce'
+        - 'Finansial'
+        - 'Forum / Komunitas'
+        - 'Hiburan / Entertainment'
+        - 'Jasa Pengiriman'
+        - 'Kesehatan'
+        - 'Lokasi / Maps'
+        - 'Pemerintahan'
+        - 'Pendidikan'
+        - 'Sosial Media'
+        - 'Umum / Utilitas'
+        - 'Lainnya'
+  - type: input
+    id: api-endpoint
+    attributes:
+      label: Titik Akhir API
+      description: 'Titik akhir dari API yang ingin ditambahkan'
+      placeholder: 'https://data.bmkg.go.id/cuaca/peta.json'
+    validations:
+      required: true
+  - type: input
+    id: api-developer
+    attributes:
+      label: Developer API
+      description: 'Nama pengembang API'
+      placeholder: 'Badan Meteorologi, Klimatologi, dan Geofisika (BMKG)'
+    validations:
+      required: true
+  - type: input
+    id: api-documentation
+    attributes:
+      label: Dokumentasi API
+      description: 'Link ke dokumentasi API'
+      placeholder: 'https://data.bmkg.go.id/cuaca/peta.json'
+    validations:
+      required: true
+  - type: checkboxes
+    id: kategori
+    attributes:
+      label: Kategori API
+      description: 'Pilih kategori API yang sesuai'
+      options:
+      - label: 'No Auth'
+      - label: 'Authentication Required'
+      - label: 'Official API'
+      - label: 'Registration Required'
+      - label: 'Government API'
+      - label: 'Third Party Services'
+      - label: 'Open Data'
+      - label: 'Dataset'
+      - label: 'Deprecated'
+      - label: 'Scraping'
+      - label: 'Proxy'
+      - label: 'Self Host'
+      - label: 'Tools'
+      - label: 'Others'
+      - label: 'Paid API'
+
+
