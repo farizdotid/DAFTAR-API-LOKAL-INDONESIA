@@ -1,0 +1,27 @@
+name: Label and Assign Reviewer
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  label_and_assign:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Add labels to the issue
+      uses: actions-ecosystem/action-add-labels@v1
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        labels: 'needs-triage'
+        issue_number: ${{ github.event.issue.number }}
+
+    - name: Assign a reviewer
+      uses: kentaro-m/auto-assign-action@v1.2.1
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        assignees: 'vzrenggamani'
+        issue_number: ${{ github.event.issue.number }}
