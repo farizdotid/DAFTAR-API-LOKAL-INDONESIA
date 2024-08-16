@@ -85,5 +85,15 @@ body:
       - label: 'Tools'
       - label: 'Others'
       - label: 'Paid API'
+  - type: checkboxes
+    id: declarations
+    attributes:
+      label: Deklarasi API
+      description: 'Deklarasi Kontributor'
+      options:
+      - label: 'Saya menyatakan bahwa API yang saya tambahkan adalah API legal.'
+      - label: 'Saya menyatakan bahwa API yang saya tambahkan API yang tidak melanggar hak cipta'
+      - label: 'Saya menyatakan bahwa API yang saya tambahkan tidak melanggar hukum'
+      - label: 'Saya menyatakan bahwa API yang saya tambahkan tidak melanggar privasi pengguna.'
 
 
