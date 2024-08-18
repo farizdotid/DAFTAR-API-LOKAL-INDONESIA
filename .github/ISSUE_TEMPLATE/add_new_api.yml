@@ -95,5 +95,6 @@ body:
       - label: 'Saya menyatakan bahwa API yang saya tambahkan API yang tidak melanggar hak cipta'
       - label: 'Saya menyatakan bahwa API yang saya tambahkan tidak melanggar hukum'
       - label: 'Saya menyatakan bahwa API yang saya tambahkan tidak melanggar privasi pengguna.'
+      - label: 'Saya menyatakan bahwa API yang saya tambahkan tidak mengandung konten berpotensi Not Safe For Work (NSFW)'
 
 

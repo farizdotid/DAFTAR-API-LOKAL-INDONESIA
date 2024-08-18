@@ -51,6 +51,13 @@ Silahkan pilih karakteristik yang sesuai dengan API yang Anda tambahkan.
 - [ ] Others
 - [ ] Paid API
 
----
 
-Dengan mengajukan pull request pada repositori ini, saya menyatakan bahwa API yang saya tambahkan adalah API yang legal dan tidak melanggar hak cipta. Saya juga menyatakan bahwa API yang saya tambahkan tidak melanggar hukum dan tidak melanggar privasi pengguna.
+## Declarations
+
+Dengan mengajukan pull request ini,
+
+- [ ] Saya menyatakan bahwa API yang saya tambahkan adalah API legal.
+- [ ] Saya menyatakan bahwa API yang saya tambahkan API yang tidak melanggar hak cipta
+- [ ] Saya menyatakan bahwa API yang saya tambahkan tidak melanggar hukum
+- [ ] Saya menyatakan bahwa API yang saya tambahkan tidak melanggar privasi pengguna.
+- [ ] Saya menyatakan bahwa API yang saya tambahkan tidak mengandung konten berpotensi Not Safe For Work (NSFW)
