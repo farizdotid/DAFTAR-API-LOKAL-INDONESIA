@@ -229,6 +229,7 @@ This file is translation from Original (Bahasa Indonesia).
 | All in one Api firdau.uz | [Firdaus Siregar](https://github.com/firdaus-siregar) | [Link](https://api.firda.uz/docs)    | ✅     | Free API access for your application needs. Unlimited fire keys and others, accompanied by complete documentation, API access such as (AI, chat, send WhatsApp SMS, etc.) Free forever! | `false`        |
 | Milfu API                | [Jauhariq](https://github.com/jauhariq)               | [Link](https://api.ngodingaja.my.id) | ✅     | Providing a wide variety of APIs for free with no usage limits to help simplify your development process!                                                                               | `false`        |
 | Mininxd API              | [mininxd](https://github.com/mininxd)                 | [Link](https://api.mininxd.my.id)    | ✅     | Providing some free APIs, and it promises to always be online!                                                                                                                          | `false`        |
+| Shirokami API              | [ShirokamiRyzen](https://github.com/ShirokamiRyzen)                 | [Link](https://api.ryzendesu.vip)    | ✅     | Menyediakan API gratis untuk kebutuhan aplikasi atau bot kamu tanpa limitasi dengan performa server tinggi                                                                                                               | `false`     |
 
 ### Music
 

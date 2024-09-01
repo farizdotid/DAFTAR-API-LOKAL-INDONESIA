@@ -44,6 +44,17 @@
       },
       "description": "Providing some free APIs, and it promises to always be online!",
       "authentication": false
+    },
+    {
+      "apiName": "Shirokami API",
+      "status": true,
+      "documentationUrl": "https://api.ryzendesu.vip",
+      "developer": {
+        "name": "ShirokamiRyzen",
+        "profileUrl": "https://github.com/ShirokamiRyzen"
+      },
+      "description": "Providing free APIs for your application or bot without limitation with high performance server",
+      "authentication": false
     }
   ]
 }
