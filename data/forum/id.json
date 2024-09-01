@@ -14,7 +14,7 @@
     },
     {
       "apiName": "Kaskus API",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://github.com/kaskus/kaskus-php-sdk/wiki",
       "developer": {
         "name": "Kaskus Dev",

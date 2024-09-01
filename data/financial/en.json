@@ -102,7 +102,7 @@
     },
     {
       "apiName": "Gotopup",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://docs.gotopup.id/",
       "developer": {
         "name": "Gotopup",
