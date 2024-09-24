@@ -13,6 +13,17 @@
       "authentication": "API KEY"
     },
     {
+      "apiName": "APIMock",
+      "status": true,
+      "documentationUrl": "https://apimock.lazycatlabs.com",
+      "developer": {
+        "name": "Lazycatlabs",
+        "profileUrl": "https://github.com/lazycatlabs"
+      },
+      "description": "API Mocking dengan fitur Register, Login dan pemanggilan pagination data dengan menggunakan JWT Authentication.",
+      "authentication": false
+    },
+    {
       "apiName": "Arbanat",
       "status": true,
       "documentationUrl": "https://arbanat.my.id",
