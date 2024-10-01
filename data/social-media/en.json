@@ -13,17 +13,6 @@
       "authentication": false
     },
     {
-      "apiName": "Instagram Official API ",
-      "status": false,
-      "documentationUrl": "https://developers.facebook.com/docs/instagram-api/getting-started",
-      "developer": {
-        "name": "Facebook",
-        "profileUrl": null
-      },
-      "description": "Official API for Instagram Graph API.",
-      "authentication": false
-    },
-    {
       "apiName": "Twitter Trends",
       "status": true,
       "documentationUrl": "https://github.com/azharimm/twitter-trends-api",

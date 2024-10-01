@@ -11,17 +11,6 @@
       },
       "description": "Mendapatkan hot-thread dari Kaskus.",
       "authentication": "API KEY"
-    },
-    {
-      "apiName": "Kaskus API",
-      "status": false,
-      "documentationUrl": "https://github.com/kaskus/kaskus-php-sdk/wiki",
-      "developer": {
-        "name": "Kaskus Dev",
-        "profileUrl": null
-      },
-      "description": "API untuk mengakses forum terkenal di Indonesia - Kaskus.",
-      "authentication": "OAUTH"
     }
   ]
 }

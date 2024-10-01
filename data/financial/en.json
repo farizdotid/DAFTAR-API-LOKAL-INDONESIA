@@ -101,17 +101,6 @@
       "authentication": "API KEY"
     },
     {
-      "apiName": "Gotopup",
-      "status": false,
-      "documentationUrl": "https://docs.gotopup.id/",
-      "developer": {
-        "name": "Gotopup",
-        "profileUrl": null
-      },
-      "description": "API for making transactions to purchase top up games, credit, electricity, etc.",
-      "authentication": "API KEY"
-    },
-    {
       "apiName": "Harga Emas",
       "status": true,
       "documentationUrl": "https://codeberg.org/bramaudi/gold-price",

@@ -118,7 +118,6 @@ Kumpulan API tentang data dan informasi di Indonesia
 | DOKU                     | DOKU                                            | [Link](https://www.doku.com/API/index.html)                                   | ✅     | DOKU semakin dipercaya dan menjadi layanan pembayaran elektronik pilihan bagi merchant nasional maupun internasional.                                                                                                  | API KEY         |
 | Duitku                   | Duitku                                          | [Link](https://docs.duitku.com)                                               | ✅     | Payment Gateway Indonesia.                                                                                                                                                                                             | API KEY         |
 | ESPAY                    | ESPAY                                           | [Link](https://sandbox-kit.espay.id/docs/v2/docespay/en/index.php)            | ✅     | Payment Gateway Indonesia.                                                                                                                                                                                             | API KEY         |
-| Gotopup                  | Gotopup                                         | [Link](https://docs.gotopup.id/)                                              | ❎     | API untuk melakukan transaksi pembelian Top up Game, Pulsa, Listrik Dll.                                                                                                                                               | API KEY         |
 | Harga Emas               | bramaudi                                        | [Link](https://codeberg.org/bramaudi/gold-price)                              | ✅     | API untuk melihat update harga emas.                                                                                                                                                                                   | `false`         |
 | iPaymu                   | iPaymu                                          | [Link](https://ipaymu.com/dokumentasi-api)                                    | ✅     | Gateway atau gerbang untuk transaksi pembayaran.                                                                                                                                                                       | API KEY         |
 | Jurnal API               | jurnal.id                                       | [Link](https://api-jurnal.api-docs.io/v1/getting-started/introduction)        | ✅     | API untuk software laporan keuangan.                                                                                                                                                                                   | OAUTH / API KEY |
@@ -137,10 +136,9 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 ### Forum
 
-| Nama API                        | Pengembang | Dokumentasi                                           | Status | Deskripsi                                                 | Autentikasi |
-| ------------------------------- | ---------- | ----------------------------------------------------- | ------ | --------------------------------------------------------- | ----------- |
-| Hot thread kaskus (Un-official) | Bayu       | [Link](https://api.bayyu.net)                         | ✅     | Mendapatkan hot-thread dari Kaskus.                       | API KEY     |
-| Kaskus API                      | Kaskus Dev | [Link](https://github.com/kaskus/kaskus-php-sdk/wiki) | ❎     | API untuk mengakses forum terkenal di Indonesia - Kaskus. | OAUTH       |
+| Nama API                        | Pengembang | Dokumentasi                   | Status | Deskripsi                           | Autentikasi |
+| ------------------------------- | ---------- | ----------------------------- | ------ | ----------------------------------- | ----------- |
+| Hot thread kaskus (Un-official) | Bayu       | [Link](https://api.bayyu.net) | ✅     | Mendapatkan hot-thread dari Kaskus. | API KEY     |
 
 ### Hiburan
 
@@ -250,7 +248,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Nama API                         | Pengembang      | Dokumentasi                                                                          | Status | Deskripsi                                                                                                                                              | Autentikasi |
 | -------------------------------- | --------------- | ------------------------------------------------------------------------------------ | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
 | API Data Sekolah Indonesia       | Alwan           | [Link](https://github.com/wanrabbae/api-sekolah-indonesia)                           | ✅     | Data Data Sekolah di Indonesia Lengkap.                                                                                                                | `false`     |
-| Data Mahasiswa Indonesia         | Kemendikbud     | [Link](https://api-frontend.kemdikbud.go.id/hit_mhs/abiel%20zulio%20maseida)         | ✅     | Data mahasiswa se-Indonesia mencakupi nama lengkap, universitas, dan program studi.                                                                    | `false`     |
+| Data Mahasiswa Indonesia         | Kemendikbud     | [Link](https://api-frontend.kemdikbud.go.id/hit_mhs/abiel%20zulio%20maseida)         | ❎     | Data mahasiswa se-Indonesia mencakupi nama lengkap, universitas, dan program studi.                                                                    | `false`     |
 | Data Sekolah API                 | Ahmad Ramadhan  | [Link](https://github.com/semogaBermanfaat-AhmadRamadhan/dataSekolahNegeriIndonesia) | ✅     | Data Sekolah Negeri di Indonesia.                                                                                                                      | `false`     |
 | Hibersunda Undak Usuk Basa Sunda | Hiberin Digital | [Link](https://github.com/hiberin/hibersunda)                                        | ✅     | API Pencarian Kosa Kata dalam Undak Usuk Basa Sunda.                                                                                                   | `false`     |
 | KBBI API                         | azharimm        | [Link](https://github.com/azharimm/kbbi-api)                                         | ✅     | Rest Api KBBI.                                                                                                                                         | `false`     |
@@ -269,14 +267,13 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 ### Sosial Media
 
-| Nama API                   | Pengembang   | Dokumentasi                                                                | Status | Deskripsi                                                                | Autentikasi |
-| -------------------------- | ------------ | -------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------ | ----------- |
-| Facebook Video Downloader  | bramaudi     | [Link](https://codeberg.org/bramaudi/fbdown)                               | ✅     | Unofficial API Facebook untuk Scraping Video Facebook.                   | `false`     |
-| Instagram Official API     | Facebook     | [Link](https://developers.facebook.com/docs/instagram-api/getting-started) | ❎     | Official API untuk Instagram Graph API.                                  | `false`     |
-| Twitter Trends             | azharimm     | [Link](https://github.com/azharimm/twitter-trends-api)                     | ✅     | Unofficial API Twitter trends data.                                      | `false`     |
-| Unofficial Youtube Api     | FatihArridho | [Link](https://github.com/FatihArridho/Unofficial-YoutubeApi)              | ✅     | Unofficial Youtube Api sederhana untuk mencari video, channel, playlist. | `false`     |
-| Whatsapp Cloud API Wrapper | fdciabdul    | [Link](https://github.com/fdciabdul/WhatsApp-Cloud-API-Wrapper)            | ✅     | Unofiicial Wrapper untuk Whatsapp Cloud API.                             | `false`     |
-| Whatsapp Official API      | Facebook     | [Link](https://developers.facebook.com/docs/whatsapp)                      | ✅     | Official API untuk Whatsapp Cloud API.                                   | `false`     |
+| Nama API                   | Pengembang   | Dokumentasi                                                     | Status | Deskripsi                                                                | Autentikasi |
+| -------------------------- | ------------ | --------------------------------------------------------------- | ------ | ------------------------------------------------------------------------ | ----------- |
+| Facebook Video Downloader  | bramaudi     | [Link](https://codeberg.org/bramaudi/fbdown)                    | ✅     | Unofficial API Facebook untuk Scraping Video Facebook.                   | `false`     |
+| Twitter Trends             | azharimm     | [Link](https://github.com/azharimm/twitter-trends-api)          | ✅     | Unofficial API Twitter trends data.                                      | `false`     |
+| Unofficial Youtube Api     | FatihArridho | [Link](https://github.com/FatihArridho/Unofficial-YoutubeApi)   | ✅     | Unofficial Youtube Api sederhana untuk mencari video, channel, playlist. | `false`     |
+| Whatsapp Cloud API Wrapper | fdciabdul    | [Link](https://github.com/fdciabdul/WhatsApp-Cloud-API-Wrapper) | ✅     | Unofiicial Wrapper untuk Whatsapp Cloud API.                             | `false`     |
+| Whatsapp Official API      | Facebook     | [Link](https://developers.facebook.com/docs/whatsapp)           | ✅     | Official API untuk Whatsapp Cloud API.                                   | `false`     |
 
 ### Umum
 
@@ -288,7 +285,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 | Nama API                      | Pengembang                                    | Dokumentasi                                           | Status | Deskripsi                                                                                                       | Autentikasi |
 | ----------------------------- | --------------------------------------------- | ----------------------------------------------------- | ------ | --------------------------------------------------------------------------------------------------------------- | ----------- |
-| 1Akun                         | 1Akun                                         | [Link](https://1akun.com)                             | ✅     | API untuk autentikasi (Oauth).                                                                                  | API KEY     |
+| 1Akun                         | 1Akun                                         | [Link](https://1akun.com)                             | ❎     | API untuk autentikasi (Oauth).                                                                                  | API KEY     |
 | APIMock                       | [Lazycatlabs](https://github.com/lazycatlabs) | [Link](https://apimock.lazycatlabs.com)               | ✅     | API Mocking dengan fitur Register, Login dan pemanggilan pagination data dengan menggunakan JWT Authentication. | `false`     |
 | Arbanat                       | jajanjawa                                     | [Link](https://arbanat.my.id)                         | ✅     | kirim sms melalui rest api.                                                                                     | API KEY     |
 | Daftar nama Bank di Indonesia | [cenahcoid](https://www.cenah.co.id/)         | [Link](https://bank.thecloudalert.com)                | ✅     | Daftar Bank yang ada di Indonesia (Gratis)                                                                      | `false`     |

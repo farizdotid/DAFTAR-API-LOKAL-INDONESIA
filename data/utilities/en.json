@@ -3,7 +3,7 @@
   "apis": [
     {
       "apiName": "1Akun",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://1akun.com",
       "developer": {
         "name": "1Akun",
