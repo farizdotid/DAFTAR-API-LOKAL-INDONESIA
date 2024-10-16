@@ -44,6 +44,17 @@
       },
       "description": "Menyediakan beberapa API gratis, dan menjanjikan server API akan selalu online",
       "authentication": false
+    },
+    {
+      "apiName": "Ryzen API",
+      "status": true,
+      "documentationUrl": "https://api.ryzendesu.vip",
+      "developer": {
+        "name": "ShirokamiRyzen",
+        "profileUrl": "https://github.com/ShirokamiRyzen"
+      },
+      "description": "Menyediakan API gratis untuk pengembangan aplikasi maupun bot, disertai dengan dokumentasi lengkap dan uptime hingga 99%. Akses berbagai API seperti AI, Downloader, Internet, dan lainnya",
+      "authentication": false
     }
   ]
 }
