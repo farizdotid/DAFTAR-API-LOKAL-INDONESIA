@@ -35,6 +35,17 @@
       "authentication": false
     },
     {
+      "apiName": "Location & Weather Forecast",
+      "status": true,
+      "documentationUrl": "http://103.196.153.211:3443/docs",
+      "developer": {
+        "name": "ariefmanda",
+        "profileUrl": "https://github.com/ariefmanda"
+      },
+      "description": "This API provides real-time and future weather forecasts for a given location based on latitude and longitude coordinates.",
+      "authentication": false
+    },
+    {
       "apiName": "Info Gempa & Cuaca API",
       "status": true,
       "documentationUrl": "https://github.com/renomureza/cuaca-gempa-rest-api",
