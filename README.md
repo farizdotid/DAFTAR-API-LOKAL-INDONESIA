@@ -88,13 +88,13 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 ### Cuaca
 
-| Nama API                 | Pengembang                          | Dokumentasi                                                   | Status | Deskripsi                                                                                                | Autentikasi |
-| ------------------------ | ----------------------------------- | ------------------------------------------------------------- | ------ | -------------------------------------------------------------------------------------------------------- | ----------- |
-| API & Graphql Cuaca BMKG | [pace11](https://github.com/pace11) | [Link](https://github.com/pace11/weather-api)                 | ✅     | Ramalan Cuaca konversi dari format XML ke JSON sumber dari API BMKG. Sudah tersedia dalam versi Graphql. | `false`     |
-| API Cuaca Realtime       | weatherapi                          | [Link](https://www.weatherapi.com)                            | ✅     | Ramalan Cuaca Terkini Berbagai Kota dengan Format JSON.                                                  | API KEY     |
-| BMKG Json API            | [ibnux](https://github.com/ibnux)   | [Link](https://ibnux.github.io/BMKG-importer/#pakai-langsung) | ✅     | Ramalan cuaca Indonesia sampai 3 hari kedepan Import dari BMKG dalam bentuk JSON.                        | `false`     |
-| Lokasi & Perkiraan Cuaca             | [ariefmanda](https://github.com/ariefmanda)   | [Link](http://103.196.153.211:3443/docs) | ✅     | API ini menyediakan perkiraan cuaca real-time dan prediksi cuaca mendatang untuk lokasi tertentu berdasarkan koordinat lintang dan bujur.             | `false`        |      
-| Info Gempa & Cuaca API   | R.M. Reza                           | [Link](https://github.com/renomureza/cuaca-gempa-rest-api)    | ✅     | REST API informasi gempa terkini dan cuaca kota besar di 35 provinsi dalam 3 harian, sumber data BMKG.   | `false`     |
+| Nama API                 | Pengembang                                  | Dokumentasi                                                   | Status | Deskripsi                                                                                                                                 | Autentikasi |
+| ------------------------ | ------------------------------------------- | ------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| API & Graphql Cuaca BMKG | [pace11](https://github.com/pace11)         | [Link](https://github.com/pace11/weather-api)                 | ✅     | Ramalan Cuaca konversi dari format XML ke JSON sumber dari API BMKG. Sudah tersedia dalam versi Graphql.                                  | `false`     |
+| API Cuaca Realtime       | weatherapi                                  | [Link](https://www.weatherapi.com)                            | ✅     | Ramalan Cuaca Terkini Berbagai Kota dengan Format JSON.                                                                                   | API KEY     |
+| BMKG Json API            | [ibnux](https://github.com/ibnux)           | [Link](https://ibnux.github.io/BMKG-importer/#pakai-langsung) | ✅     | Ramalan cuaca Indonesia sampai 3 hari kedepan Import dari BMKG dalam bentuk JSON.                                                         | `false`     |
+| Info Gempa & Cuaca API   | R.M. Reza                                   | [Link](https://github.com/renomureza/cuaca-gempa-rest-api)    | ✅     | REST API informasi gempa terkini dan cuaca kota besar di 35 provinsi dalam 3 harian, sumber data BMKG.                                    | `false`     |
+| Lokasi & Perkiraan Cuaca | [ariefmanda](https://github.com/ariefmanda) | [Link](http://103.196.153.211:3443/docs)                      | ✅     | API ini menyediakan perkiraan cuaca real-time dan prediksi cuaca mendatang untuk lokasi tertentu berdasarkan koordinat lintang dan bujur. | `false`     |
 
 ### E-Commerce
 
