@@ -44,6 +44,17 @@
       },
       "description": "Providing some free APIs, and it promises to always be online!",
       "authentication": false
+    },
+    {
+      "apiName": "Ryzen API",
+      "status": true,
+      "documentationUrl": "https://api.ryzendesu.vip",
+      "developer": {
+        "name": "ShirokamiRyzen",
+        "profileUrl": "https://github.com/ShirokamiRyzen"
+      },
+      "description": "Provides a free API for application and bot development, with full documentation and uptime of up to 99%. Access various APIs such as AI, Downloader, Internet, and more",
+      "authentication": false
     }
   ]
 }
