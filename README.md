@@ -282,6 +282,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Nama API   | Pengembang | Dokumentasi                          | Status | Deskripsi                                                                     | Autentikasi |
 | ---------- | ---------- | ------------------------------------ | ------ | ----------------------------------------------------------------------------- | ----------- |
 | Dayoff API | Gerinsp    | [Link](https://dayoffapi.vercel.app) | ✅     | Api untuk mendapatkan data hari libur nasional dan cuti bersama di Indonesia. | `false`     |
+| Nama Bayi JSON | [Ican Bachors](https://github.com/bachors)    | [Link](https://github.com/bachors/nama-bayi-json) | ✅     | Api untuk mendapatkan data hari libur nasional dan cuti bersama di Indonesia. | `false`     |
 
 ### Utilitas
 
