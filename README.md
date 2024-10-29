@@ -166,6 +166,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Tanggal Lahiran Pasaran Zodiak             | iBachor                                 | [Link](https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak) | ✅     | Mengecek zodiak berdasarkan tanggal lahir serta dapat memberitahukan detail tanggal lahir, detail usia, serta detail rentang ulang tahun terdekat. | `false`     |
 | Unofficial Liga Indonesia                  | Agis R Herdiana                         | [Link](https://ligaindonesia-api.vercel.app/docs)                        | ✅     | Unofficial API liga Indonesia tentang info pertandingan, statistik, klasemen, tim, dan lain-lain.                                                  | `false`     |
 | Yet Another API for Anime and Stuff        | [Aerysh](https://github.com/Aerysh)     | [Link](https://github.com/Aerysh/yaaas)                                  | ✅     | Menyediakan kumpulan API yang dapat digunakan untuk mengakses informasi tentang hiburan seperti Anime, Manga, dll.                                 | `false`     |
+| API Spesifikasi HP with PHP by gsmarena.com       | [Ican Bachors](https://github.com/bachors)     | [Link](https://github.com/bachors/GSM-Arena-API)                                  | ✅     |  Spesifikasi HP data dari gsm arena.                                 | `false`     |
 
 ### Jasa Pengiriman
 
