@@ -265,6 +265,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | All in one Api firdau.uz | [Firdaus Siregar](https://github.com/firdaus-siregar) | [Link](https://api.firda.uz/docs)       | ✅     | Akses API gratis untuk kebutuhan Aplikasimu Tanpa batas dan api key dan lainya, disertai dengan dokumentasi lengkap, akses API seperti (ai, chat, kirim sms whatsapp dll) Gratis selamanya.! | `false`     |
 | Milfu API                | [Jauhariq](https://github.com/jauhariq)               | [Link](https://milfu-api.is-a-cool.dev) | ✅     | Menyediakan berbagai macam API secara gratis tanpa batasan penggunaan untuk membantu mempermudah proses pengembanganmu!                                                                      | `false`     |
 | Mininxd API              | [mininxd](https://github.com/mininxd)                 | [Link](https://api.mininxd.my.id)       | ✅     | Menyediakan beberapa API gratis, dan menjanjikan server API akan selalu online                                                                                                               | `false`     |
+| Ryzen API                | [ShirokamiRyzen](https://github.com/ShirokamiRyzen)   | [Link](https://api.ryzendesu.vip)       | ✅     | Menyediakan API gratis untuk pengembangan aplikasi maupun bot, disertai dengan dokumentasi lengkap dan uptime hingga 99%. Akses berbagai API seperti AI, Downloader, Internet, dan lainnya   | `false`     |
 
 ### Sosial Media
 
