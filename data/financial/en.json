@@ -113,7 +113,7 @@
     },
     {
       "apiName": "iPaymu",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://ipaymu.com/dokumentasi-api",
       "developer": {
         "name": "iPaymu",

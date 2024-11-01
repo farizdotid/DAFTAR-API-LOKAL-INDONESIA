@@ -14,7 +14,7 @@
     },
     {
       "apiName": "All in one Api firdau.uz",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://api.firda.uz/docs",
       "developer": {
         "name": "Firdaus Siregar",

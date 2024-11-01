@@ -13,17 +13,6 @@
       "authentication": false
     },
     {
-      "apiName": "Data Mahasiswa Indonesia",
-      "status": false,
-      "documentationUrl": "https://api-frontend.kemdikbud.go.id/hit_mhs/abiel%20zulio%20maseida",
-      "developer": {
-        "name": "Kemendikbud",
-        "profileUrl": null
-      },
-      "description": "Data mahasiswa se-Indonesia mencakupi nama lengkap, universitas, dan program studi.",
-      "authentication": false
-    },
-    {
       "apiName": "Data Sekolah API",
       "status": true,
       "documentationUrl": "https://github.com/semogaBermanfaat-AhmadRamadhan/dataSekolahNegeriIndonesia",
