@@ -231,6 +231,17 @@
       },
       "description": "Provides a way to access information about entertainments such as Anime, Manga, etc.",
       "authentication": false
+    },
+    {
+      "apiName": "MyInstants Unofficial REST API",
+      "status": true,
+      "documentationUrl": "https://github.com/abdipr/myinstants-api",
+      "developer": {
+        "name": "abdipr",
+        "profileUrl": "https://github.com/abdipr"
+      },
+      "description": "MyInstants Unofficial API for getting list of trending soundboard, soundboard search, and recent soundboard.",
+      "authentication": false
     }
   ]
 }
