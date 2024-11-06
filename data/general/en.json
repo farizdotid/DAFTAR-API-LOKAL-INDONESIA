@@ -11,6 +11,17 @@
       },
       "description": "API to retrieve data on national holidays and collective leave days in Indonesia.",
       "authentication": false
+    },
+    {
+      "apiName": "API-UNGU",
+      "status": true,
+      "documentationUrl": "https://api.ungu.cloud",
+      "developer": {
+        "name": "MrHecka",
+        "profileUrl": "https://raw.githubusercontent.com/MrHecka/MrHecka/main/bebetter.jpg"
+      },
+      "description": "Random API service, such as: AWB checker, tiktok downloader, bmkg status, etc.",
+      "authentication": true
     }
   ]
 }
