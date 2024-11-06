@@ -11,6 +11,17 @@
       },
       "description": "Api untuk mendapatkan data hari libur nasional dan cuti bersama di Indonesia.",
       "authentication": false
+    },
+    {
+      "apiName": "API-UNGU",
+      "status": true,
+      "documentationUrl": "https://api.ungu.cloud",
+      "developer": {
+        "name": "MrHecka",
+        "profileUrl": "https://raw.githubusercontent.com/MrHecka/MrHecka/main/bebetter.jpg"
+      },
+      "description": "Berisi kumpulan API gratis yang bisa anda gunakan, seperti: cek resi, bmkg, tiktok downloader, dsb.",
+      "authentication": true
     }
   ]
 }
