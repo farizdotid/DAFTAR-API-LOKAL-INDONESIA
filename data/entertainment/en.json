@@ -253,6 +253,17 @@
       },
       "description": "MyInstants Unofficial API for getting list of trending soundboard, soundboard search, and recent soundboard.",
       "authentication": false
+    },
+    {
+      "apiName": "JagoKata Unofficial REST API",
+      "status": true,
+      "documentationUrl": "https://github.com/abdipr/jagokata-api",
+      "developer": {
+        "name": "abdipr",
+        "profileUrl": "https://github.com/abdipr"
+      },
+      "description": "JagoKata Unofficial API for getting list of popular quotes, search quotes, random quotes, and much more.",
+      "authentication": false
     }
   ]
 }
