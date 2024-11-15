@@ -37,7 +37,7 @@
     {
       "apiName": "Mininxd API",
       "status": true,
-      "documentationUrl": "https://api.mininxd.my.id",
+      "documentationUrl": "https://api-mininxd.vercel.app",
       "developer": {
         "name": "mininxd",
         "profileUrl": "https://github.com/mininxd"

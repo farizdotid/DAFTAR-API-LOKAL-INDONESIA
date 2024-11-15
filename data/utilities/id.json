@@ -101,13 +101,6 @@
       "authentication": "API KEY"
     },
     {
-      "apiName": "TimeApi",
-      "status": true,
-      "documentationUrl": "https://timeapi.mininxd.my.id",
-      "developer": {
-        "name": "Mininxd",
-        "profileUrl": "https://github.com/mininxd"
-      },
       "description": "Api untuk menampilkan waktu, tanggal secara realtime berbasis UNIX.",
       "authentication": false
     },
