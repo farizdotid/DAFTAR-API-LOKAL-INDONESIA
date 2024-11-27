@@ -55,6 +55,17 @@
       },
       "description": "Menyediakan API gratis untuk pengembangan aplikasi maupun bot, disertai dengan dokumentasi lengkap dan uptime hingga 99%. Akses berbagai API seperti AI, Downloader, Internet, dan lainnya",
       "authentication": false
+    },
+    {
+      "apiName": "API Ungu",
+      "status": true,
+      "documentationUrl": "https://api.ungu.cloud",
+      "developer": {
+        "name": "MrHecka",
+        "profileUrl": "https://github.com/xH3ck4"
+      },
+      "description": "Menyediakan API gratis dan berbayar, dengan berbagai API super cepat dan layanan 24 jam, seperti downloader, cek resi, cek free games, anime, dan masih banyak lainnya.",
+      "authentication": true
     }
   ]
 }
