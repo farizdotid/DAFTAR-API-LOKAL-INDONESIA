@@ -55,6 +55,18 @@
       },
       "description": "Provides a free API for application and bot development, with full documentation and uptime of up to 99%. Access various APIs such as AI, Downloader, Internet, and more",
       "authentication": false
+    },
+    {
+      "apiName": "API Ungu",
+      "status": true,
+      "documentationUrl": "https://api.ungu.cloud",
+      "developer": {
+        "name": "MrHecka",
+        "profileUrl": "https://github.com/xH3ck4"
+    },
+      "description": "Provides free and paid APIs with various super-fast APIs and 24/7 services, such as downloader, package tracking, free games checker, anime, and much more.",
+      "authentication": true
     }
+
   ]
 }
