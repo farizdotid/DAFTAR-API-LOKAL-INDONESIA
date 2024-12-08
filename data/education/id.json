@@ -77,6 +77,28 @@
       },
       "description": "API untuk mendapatkan informasi yang digunakan dari Wikipedia.",
       "authentication": false
+    },
+    {
+      "apiName": "API KBBI Daring",
+      "status": true,
+      "documentationUrl": "https://github.com/dyazincahya/API-KBBI-PHP-Codeigniter-4",
+      "developer": {
+        "name": "Kang Cahya",
+        "profileUrl": "https://github.com/dyazincahya"
+      },
+      "description": "API untuk mendapatkan informasi Kata & Peribahasa berdasarkan Kamus Besar Bahasa Indonesia, data berasal dari https://kbbi.kemdikbud.go.id di ambil dengan metode HTML Parsing menggunakan PHP.",
+      "authentication": false
+    },
+    {
+      "apiName": "API KBBI Luring",
+      "status": true,
+      "documentationUrl": "https://github.com/dyazincahya/KBBI-SQL-database",
+      "developer": {
+        "name": "Kang Cahya",
+        "profileUrl": "https://github.com/dyazincahya"
+      },
+      "description": "Basis data lokal KBBI, Terdapat 115.978 data Kata, tersedia untuk MySQL, SQLite dan PostgreSQL. Juga tersedia untuk format data CSV, JSON, Markdown, PHP Array, XML, DbUnit, HTML.",
+      "authentication": false
     }
   ]
 }
