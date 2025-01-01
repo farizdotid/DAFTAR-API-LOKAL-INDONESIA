@@ -47,7 +47,7 @@
     },
     {
       "apiName": "Lokasi & Perkiraan Cuaca",
-      "status": true,
+      "status": false,
       "documentationUrl": "http://103.196.153.211:3443/docs",
       "developer": {
         "name": "ariefmanda",

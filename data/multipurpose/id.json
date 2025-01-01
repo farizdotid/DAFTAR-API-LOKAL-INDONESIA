@@ -25,7 +25,7 @@
     },
     {
       "apiName": "Mininxd API",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://api.mininxd.my.id",
       "developer": {
         "name": "mininxd",
