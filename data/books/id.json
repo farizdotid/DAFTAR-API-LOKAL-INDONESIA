@@ -22,6 +22,17 @@
       },
       "description": "Unofficial REST API yang menyediakan daftar buku digital dari Gramedia melalui web scraping.",
       "authentication": "API KEY"
+    },
+    {
+      "apiName": "Bukuacak",
+      "status": true,
+      "documentationUrl": "https://bukuacak.vercel.app/api",
+      "developer": {
+        "name": "Shabri A.",
+        "profileUrl": null
+      },
+      "description": "Bukuacak adalah API yang menyediakan data buku dengan berbagai filter, pengurutan, dan opsi pencarian acak.",
+      "authentication": false
     }
   ]
 }
