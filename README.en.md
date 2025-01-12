@@ -53,6 +53,7 @@ This file is translation from Original (Bahasa Indonesia).
 | -------------------------- | --------- | ---------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------------------------- | -------------- |
 | Masak Apa                  | Reski     | [Link](https://github.com/tomorisakura/unofficial-masakapahariini-api) | ✅     | Indonesian food recipes book.                                                                 | `false`        |
 | Unofficial Gramedia Ebooks | Yusuf T.  | [Link](https://github.com/yusuftaufiq/laravel-books-api)               | ✅     | Unofficial REST API that provides a list of digital books from Gramedia through web scraping. | API KEY        |
+| Bukuacak                   | Shabri A. | [Link](https://bukuacak.vercel.app/api)                                | ✅     | Bukuacak is an API that provides book data and random search options.                         | `false`        |
 
 ### Christian
 
