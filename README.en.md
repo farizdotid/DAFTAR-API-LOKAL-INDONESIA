@@ -228,6 +228,7 @@ This file is translation from Original (Bahasa Indonesia).
 | Milfu API                | [Jauhariq](https://github.com/jauhariq)               | [Link](https://milfu-api.is-a-cool.dev) | ✅     | Providing a wide variety of APIs for free with no usage limits to help simplify your development process!                                                                               | `false`        |
 | Mininxd API              | [mininxd](https://github.com/mininxd)                 | [Link](https://api.mininxd.my.id)       | ✅     | Providing some free APIs, and it promises to always be online!                                                                                                                          | `false`        |
 | Ryzen API                | [ShirokamiRyzen](https://github.com/ShirokamiRyzen)   | [Link](https://api.ryzendesu.vip)       | ✅     | Provides a free API for application and bot development, with full documentation and uptime of up to 99%. Access various APIs such as AI, Downloader, Internet, and more                | `false`        |
+| API Ungu                 | [xH3ck4](https://github.com/xH3ck4)                   | [Link](https://api.ungu.cloud)          | ✅     | Provides free and paid APIs with various super-fast APIs and 24/7 services, such as downloader, package tracking, free games checker, anime, and much more.                             | `true`         |
 
 ### Music
 
