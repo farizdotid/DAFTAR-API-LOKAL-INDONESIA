@@ -13,17 +13,6 @@
       "authentication": false
     },
     {
-      "apiName": "All in one Api firdau.uz",
-      "status": false,
-      "documentationUrl": "https://api.firda.uz/docs",
-      "developer": {
-        "name": "Firdaus Siregar",
-        "profileUrl": "https://github.com/firdaus-siregar"
-      },
-      "description": "Akses API gratis untuk kebutuhan Aplikasimu Tanpa batas dan api key dan lainya, disertai dengan dokumentasi lengkap, akses API seperti (ai, chat, kirim sms whatsapp dll) Gratis selamanya.!",
-      "authentication": false
-    },
-    {
       "apiName": "Milfu API",
       "status": true,
       "documentationUrl": "https://milfu-api.is-a-cool.dev",
@@ -36,7 +25,7 @@
     },
     {
       "apiName": "Mininxd API",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://api.mininxd.my.id",
       "developer": {
         "name": "mininxd",

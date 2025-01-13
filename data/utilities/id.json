@@ -102,7 +102,7 @@
     },
     {
       "apiName": "TimeApi",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://timeapi.mininxd.my.id",
       "developer": {
         "name": "Mininxd",

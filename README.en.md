@@ -221,6 +221,7 @@ This file is translation from Original (Bahasa Indonesia).
 
 ### Multipurpose
 
+
 | API Name                 | Developer                                             | Documentation                           | Status | Description                                                                                                                                                                             | Authentication |
 | ------------------------ | ----------------------------------------------------- | --------------------------------------- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
 | Akuari Api               | akuari                                                | [Link](https://api.akuari.my.id/)       | ✅     | A collection of bot needs api, and some api: Visitor api, Check ip api, Check Website Live or not, File api, etc. with JSON response.                                                   | `false`        |
@@ -289,7 +290,7 @@ This file is translation from Original (Bahasa Indonesia).
 | Indonesian Bank              | [cenahcoid](https://www.cenah.co.id/)         | [Link](https://bank.thecloudalert.com)                | ✅     | List of banks in Indonesia                                                               | `false`        |
 | Screenshot API               | statically.io                                 | [Link](https://statically.io)                         | ✅     | A free screenshot API to convert web to image or PDF. Supports desktop and mobile views. | `false`        |
 | SMSNotif                     | PT Solusi Inovasi Bisnis                      | [Link](https://www.smsnotif.id)                       | ✅     | Send SMS through REST API or Laravel Notification.                                       | API KEY        |
-| TimeApi                      | [mininxd](https://github.com/mininxd)         | [Link](https://timeapi.mininxd.my.id)                 | ✅     | API to display real-time UNIX-based time and date.                                       | `false`        |
+| TimeApi                      | [mininxd](https://github.com/mininxd)         | [Link](https://timeapi.mininxd.my.id)                 | ❎     | API to display real-time UNIX-based time and date.                                       | `false`        |
 | Translasi                    | azharimm                                      | [Link](https://github.com/azharimm/api-translate)     | ✅     | Translation API with Google Translate/Baidu Translate engine.                            | `false`        |
 
 ### Weather
@@ -300,7 +301,7 @@ This file is translation from Original (Bahasa Indonesia).
 | API Cuaca Realtime          | weatherapi                                  | [Link](https://www.weatherapi.com)                            | ✅     | Current Weather Forecast for Various Cities in JSON Format.                                                                  | API KEY        |
 | BMKG Json API               | [ibnux](https://github.com/ibnux)           | [Link](https://ibnux.github.io/BMKG-importer/#pakai-langsung) | ✅     | Weather forecast for Indonesia up to 3 days ahead. Imported from BMKG in JSON format.                                        | `false`        |
 | Info Gempa & Cuaca API      | R.M. Reza                                   | [Link](https://github.com/renomureza/cuaca-gempa-rest-api)    | ✅     | REST API for the latest earthquake and weather information in major cities in 35 provinces within 3 days. Data source: BMKG. | `false`        |
-| Location & Weather Forecast | [ariefmanda](https://github.com/ariefmanda) | [Link](http://103.196.153.211:3443/docs)                      | ✅     | This API provides real-time and future weather forecasts for a given location based on latitude and longitude coordinates.   | `false`        |
+| Location & Weather Forecast | [ariefmanda](https://github.com/ariefmanda) | [Link](http://103.196.153.211:3443/docs)                      | ❎     | This API provides real-time and future weather forecasts for a given location based on latitude and longitude coordinates.   | `false`        |
 
 <!-- API END -->
 
