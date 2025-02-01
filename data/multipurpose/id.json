@@ -24,17 +24,6 @@
       "authentication": false
     },
     {
-      "apiName": "Mininxd API",
-      "status": false,
-      "documentationUrl": "https://api.mininxd.my.id",
-      "developer": {
-        "name": "mininxd",
-        "profileUrl": "https://github.com/mininxd"
-      },
-      "description": "Menyediakan beberapa API gratis, dan menjanjikan server API akan selalu online",
-      "authentication": false
-    },
-    {
       "apiName": "Ryzen API",
       "status": true,
       "documentationUrl": "https://api.ryzendesu.vip",

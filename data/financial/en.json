@@ -112,17 +112,6 @@
       "authentication": false
     },
     {
-      "apiName": "iPaymu",
-      "status": false,
-      "documentationUrl": "https://ipaymu.com/dokumentasi-api",
-      "developer": {
-        "name": "iPaymu",
-        "profileUrl": null
-      },
-      "description": "Gateway for payment transactions.",
-      "authentication": "API KEY"
-    },
-    {
       "apiName": "Jurnal API",
       "status": true,
       "documentationUrl": "https://api-jurnal.api-docs.io/v1/getting-started/introduction",

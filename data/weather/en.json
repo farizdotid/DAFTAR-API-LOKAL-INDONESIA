@@ -44,17 +44,6 @@
       },
       "description": "REST API for the latest earthquake and weather information in major cities in 35 provinces within 3 days. Data source: BMKG.",
       "authentication": false
-    },
-    {
-      "apiName": "Location & Weather Forecast",
-      "status": false,
-      "documentationUrl": "http://103.196.153.211:3443/docs",
-      "developer": {
-        "name": "ariefmanda",
-        "profileUrl": "https://github.com/ariefmanda"
-      },
-      "description": "This API provides real-time and future weather forecasts for a given location based on latitude and longitude coordinates.",
-      "authentication": false
     }
   ]
 }
