@@ -68,6 +68,17 @@
       "authentication": "API KEY"
     },
     {
+      "apiName": "JagoKata Unofficial REST API",
+      "status": true,
+      "documentationUrl": "https://github.com/abdipr/jagokata-api",
+      "developer": {
+        "name": "abdipr",
+        "profileUrl": "https://github.com/abdipr"
+      },
+      "description": "JagoKata Unofficial API for getting list of popular quotes, search quotes, random quotes, and much more.",
+      "authentication": false
+    },
+    {
       "apiName": "Katanime",
       "status": true,
       "documentationUrl": "https://github.com/ricko-v/katanime",
@@ -131,6 +142,17 @@
         "profileUrl": null
       },
       "description": "Provides Manga or Comics in Indonesian.",
+      "authentication": false
+    },
+    {
+      "apiName": "MyInstants Unofficial REST API",
+      "status": true,
+      "documentationUrl": "https://github.com/abdipr/myinstants-api",
+      "developer": {
+        "name": "abdipr",
+        "profileUrl": "https://github.com/abdipr"
+      },
+      "description": "MyInstants Unofficial API for getting list of trending soundboard, soundboard search, and recent soundboard.",
       "authentication": false
     },
     {
@@ -241,28 +263,6 @@
         "profileUrl": "https://github.com/Aerysh"
       },
       "description": "Provides a way to access information about entertainments such as Anime, Manga, etc.",
-      "authentication": false
-    },
-    {
-      "apiName": "MyInstants Unofficial REST API",
-      "status": true,
-      "documentationUrl": "https://github.com/abdipr/myinstants-api",
-      "developer": {
-        "name": "abdipr",
-        "profileUrl": "https://github.com/abdipr"
-      },
-      "description": "MyInstants Unofficial API for getting list of trending soundboard, soundboard search, and recent soundboard.",
-      "authentication": false
-    },
-    {
-      "apiName": "JagoKata Unofficial REST API",
-      "status": true,
-      "documentationUrl": "https://github.com/abdipr/jagokata-api",
-      "developer": {
-        "name": "abdipr",
-        "profileUrl": "https://github.com/abdipr"
-      },
-      "description": "JagoKata Unofficial API for getting list of popular quotes, search quotes, random quotes, and much more.",
       "authentication": false
     }
   ]
