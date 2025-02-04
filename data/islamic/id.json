@@ -68,17 +68,6 @@
       "authentication": false
     },
     {
-      "apiName": "Jadwal Sholat",
-      "status": true,
-      "documentationUrl": "https://github.com/azharimm/jadwal-shalat-api",
-      "developer": {
-        "name": "azharimm",
-        "profileUrl": null
-      },
-      "description": "Rest API jadwal shalat kota/kabupaten di Indonesia.",
-      "authentication": false
-    },
-    {
       "apiName": "Puasa Sunnah API",
       "status": true,
       "documentationUrl": "https://api.puasa-sunnah.granitebps.com/swagger/index.html",
