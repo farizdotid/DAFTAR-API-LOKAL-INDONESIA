@@ -46,6 +46,28 @@
       "authentication": false
     },
     {
+      "apiName": "KBBI Offline API",
+      "status": true,
+      "documentationUrl": "https://github.com/dyazincahya/KBBI-SQL-database",
+      "developer": {
+        "name": "Kang Cahya",
+        "profileUrl": "https://github.com/dyazincahya"
+      },
+      "description": "KBBI local database, Contains 115,978 Word data, available for MySQL, SQLite and PostgreSQL. Also available for CSV, JSON, Markdown, PHP Array, XML, DbUnit, HTML data formats.",
+      "authentication": false
+    },
+    {
+      "apiName": "KBBI Online API",
+      "status": true,
+      "documentationUrl": "https://github.com/dyazincahya/API-KBBI-PHP-Codeigniter-4",
+      "developer": {
+        "name": "Kang Cahya",
+        "profileUrl": "https://github.com/dyazincahya"
+      },
+      "description": "API to get information on Words and Proverbs based on the Big Indonesian Dictionary, data comes from https://kbbi.kemdikbud.go.id taken using the HTML Parsing method using PHP.",
+      "authentication": false
+    },
+    {
       "apiName": "New KBBI API",
       "status": true,
       "documentationUrl": "https://github.com/btrianurdin/new-kbbi-api",
@@ -76,28 +98,6 @@
         "profileUrl": null
       },
       "description": "API for retrieving information used from Wikipedia.",
-      "authentication": false
-    },
-    {
-      "apiName": "KBBI Online API",
-      "status": true,
-      "documentationUrl": "https://github.com/dyazincahya/API-KBBI-PHP-Codeigniter-4",
-      "developer": {
-        "name": "Kang Cahya",
-        "profileUrl": "https://github.com/dyazincahya"
-      },
-      "description": "API to get information on Words and Proverbs based on the Big Indonesian Dictionary, data comes from https://kbbi.kemdikbud.go.id taken using the HTML Parsing method using PHP.",
-      "authentication": false
-    },
-    {
-      "apiName": "KBBI Offline API",
-      "status": true,
-      "documentationUrl": "https://github.com/dyazincahya/KBBI-SQL-database",
-      "developer": {
-        "name": "Kang Cahya",
-        "profileUrl": "https://github.com/dyazincahya"
-      },
-      "description": "KBBI local database, Contains 115,978 Word data, available for MySQL, SQLite and PostgreSQL. Also available for CSV, JSON, Markdown, PHP Array, XML, DbUnit, HTML data formats.",
       "authentication": false
     }
   ]
