@@ -75,11 +75,11 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 ### Buku
 
-| Nama API                   | Pengembang | Dokumentasi                                                            | Status | Deskripsi                                                                                    | Autentikasi |
-| -------------------------- | ---------- | ---------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------------------------- | ----------- |
-| Masak Apa                  | Reski      | [Link](https://github.com/tomorisakura/unofficial-masakapahariini-api) | ✅     | Buku resep makanan Indonesia.                                                                | `false`     |
-| Unofficial Gramedia Ebooks | Yusuf T.   | [Link](https://github.com/yusuftaufiq/laravel-books-api)               | ✅     | Unofficial REST API yang menyediakan daftar buku digital dari Gramedia melalui web scraping. | API KEY     |
-| Bukuacak                   | Shabri A.  | [Link](https://bukuacak.vercel.app/api)                                | ✅     | Bukuacak adalah API yang menyediakan data buku dan opsi pencarian acak.                      | `false`     |
+| Nama API                   | Pengembang | Dokumentasi                                                            | Status | Deskripsi                                                                                                   | Autentikasi |
+| -------------------------- | ---------- | ---------------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------- | ----------- |
+| Bukuacak                   | Shabri A.  | [Link](https://bukuacak.vercel.app/api)                                | ✅     | Bukuacak adalah API yang menyediakan data buku dengan berbagai filter, pengurutan, dan opsi pencarian acak. | `false`     |
+| Masak Apa                  | Reski      | [Link](https://github.com/tomorisakura/unofficial-masakapahariini-api) | ✅     | Buku resep makanan Indonesia.                                                                               | `false`     |
+| Unofficial Gramedia Ebooks | Yusuf T.   | [Link](https://github.com/yusuftaufiq/laravel-books-api)               | ✅     | Unofficial REST API yang menyediakan daftar buku digital dari Gramedia melalui web scraping.                | API KEY     |
 
 ### Christian
 
