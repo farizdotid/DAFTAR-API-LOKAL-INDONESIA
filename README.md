@@ -59,6 +59,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Quran API           | rzkytmgr                                  | [Link](https://github.com/rzkytmgr/quran-api)                         | ✅     | quran api dengan custom imam recitation/murottal.                                                                                                                | `false`     |
 | Quran API ID        | R.M. Reza                                 | [Link](https://github.com/renomureza/quran-api-id)                    | ✅     | REST API Al-Quran Indonesia dengan terjemahan, tafsir (Kemenag, Quraish Shihab, Al-Jalalain), audio murottal (per surah dan ayat dari 6 qori), random ayat, dll. | `false`     |
 | Quran JSON          | penggguna                                 | [Link](https://github.com/penggguna/QuranJSON)                        | ✅     | Quran JSON (Terjemahan Indonesia, Tafsir, dan Audio).                                                                                                            | `false`     |
+| Qalbun API          | [Polyvor Labs](https://github.com/Polyvor-Labs)                                 | [Link](https://api.qalbun.my.id)                        | ✅     | Menyajikan hampir seluruh semua tentang data islami (Doa Harian, Asmaul Husna, Bacaan Shalat, Quran, Hadith, Jadwal Shalat, DLL) hingga Chatbot A.I Islami (A.I yang sudah di fine-tuned)                                                                                                            | API KEY     |
 
 ### Berita
 
