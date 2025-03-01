@@ -110,6 +110,17 @@
       },
       "description": "Quran JSON (Terjemahan Indonesia, Tafsir, dan Audio).",
       "authentication": false
+    },
+    {
+      "apiName": "Qalbun API",
+      "status": true,
+      "documentationUrl": "https://api.qalbun.my.id",
+      "developer": {
+        "name": "Polyvor Labs",
+        "profileUrl": "https://github.com/Polyvor-Labs"
+      },
+      "description": "Menyajikan seluruh semua data tentang islami (Quran, Hadith, Doa Harian, Jadwal Shalat, DLL) hingga ChatBot Islami",
+      "authentication": "API KEY"
     }
   ]
 }
