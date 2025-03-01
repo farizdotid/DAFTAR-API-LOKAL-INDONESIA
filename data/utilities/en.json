@@ -14,7 +14,7 @@
     },
     {
       "apiName": "Arbanat",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://arbanat.my.id",
       "developer": {
         "name": "jajanjawa",
