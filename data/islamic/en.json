@@ -79,6 +79,17 @@
       "authentication": false
     },
     {
+      "apiName": "Qalbun API",
+      "status": true,
+      "documentationUrl": "https://api.qalbun.my.id",
+      "developer": {
+        "name": "Polyvor Labs",
+        "profileUrl": "https://github.com/Polyvor-Labs"
+      },
+      "description": "Presents all the data about Islam (Quran, Hadith, Daily Prayer, Prayer Schedule, ETC) and Islamic ChatBot",
+      "authentication": "API KEY"
+    },
+    {
       "apiName": "Quran API",
       "status": true,
       "documentationUrl": "https://github.com/rzkytmgr/quran-api",
@@ -110,17 +121,6 @@
       },
       "description": "Quran JSON (Indonesian translation, tafsir, and audio).",
       "authentication": false
-    },
-    {
-      "apiName": "Qalbun API",
-      "status": true,
-      "documentationUrl": "https://api.qalbun.my.id",
-      "developer": {
-        "name": "Polyvor Labs",
-        "profileUrl": "https://github.com/Polyvor-Labs"
-      },
-      "description": "Presents all the data about Islam (Quran, Hadith, Daily Prayer, Prayer Schedule, ETC) and Islamic ChatBot",
-      "authentication": "API KEY"
     }
   ]
 }
