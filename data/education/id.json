@@ -2,6 +2,17 @@
   "categoryName": "Pendidikan",
   "apis": [
     {
+      "apiName": "KBBI Complete REST API",
+      "status": true,
+      "documentationUrl": "https://kbbi.raf555.dev/swagger/index.html",
+      "developer": {
+        "name": "raf555",
+        "profileUrl": "http://github.com/raf555"
+      },
+      "description": "Alternatif API KBBI - hasil mirror aplikasi Android (tanpa web scraping). Informasi dan dokumentasi lengkap, low latency, serta fitur bawaan aplikasi seperti \"Kata hari ini\".",
+      "authentication": false
+    },
+    {
       "apiName": "API Data Sekolah Indonesia",
       "status": true,
       "documentationUrl": "https://github.com/wanrabbae/api-sekolah-indonesia",
