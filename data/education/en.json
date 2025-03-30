@@ -2,6 +2,17 @@
   "categoryName": "Education",
   "apis": [
     {
+      "apiName": "KBBI Complete REST API",
+      "status": true,
+      "documentationUrl": "https://kbbi.raf555.dev/swagger/index.html",
+      "developer": {
+        "name": "raf555",
+        "profileUrl": "http://github.com/raf555"
+      },
+      "description": "KBBI API alternative - mirrored from Android application (no web scraping). Rich information and complete documentation, low latency, with Android app feature such as \"Word of the day\".",
+      "authentication": false
+    },
+    {
       "apiName": "API Data Sekolah Indonesia",
       "status": true,
       "documentationUrl": "https://github.com/wanrabbae/api-sekolah-indonesia",
