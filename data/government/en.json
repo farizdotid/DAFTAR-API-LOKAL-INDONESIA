@@ -25,7 +25,7 @@
     },
     {
       "apiName": "Cagar Budaya Indonesia",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://data.go.id/dataset/cagar-budaya",
       "developer": {
         "name": "Kantor Staf Presiden",
@@ -58,7 +58,7 @@
     },
     {
       "apiName": "Data Indonesia",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://data.go.id/home",
       "developer": {
         "name": "Pemerintah Indonesia",

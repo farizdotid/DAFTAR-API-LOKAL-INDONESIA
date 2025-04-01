@@ -157,7 +157,7 @@
     },
     {
       "apiName": "Sekolah se Indonesia",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://data.go.id/dataset/sekolah",
       "developer": {
         "name": "Pemerintah Indonesia",
