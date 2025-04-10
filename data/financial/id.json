@@ -112,6 +112,17 @@
       "authentication": false
     },
     {
+      "apiName": "API Harga Emas/Logam Mulia",
+      "status": true,
+      "documentationUrl": "https://github.com/cacing69/logam-mulia-api/blob/main/README.md",
+      "developer": {
+        "name": "cacing69",
+        "profileUrl": "https://github.com/cacing69"
+      },
+      "description": "API untuk mengecek harga emas/logam mulia dari berbagai website yang menampilkan info harga beli/jual.",
+      "authentication": false
+    },
+    {
       "apiName": "Jurnal API",
       "status": true,
       "documentationUrl": "https://api-jurnal.api-docs.io/v1/getting-started/introduction",
