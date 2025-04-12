@@ -13,6 +13,17 @@
       "authentication": "API KEY"
     },
     {
+      "apiName": "API Harga Emas/Logam Mulia",
+      "status": true,
+      "documentationUrl": "https://github.com/cacing69/logam-mulia-api/blob/main/README.md",
+      "developer": {
+        "name": "cacing69",
+        "profileUrl": "https://github.com/cacing69"
+      },
+      "description": "API to check gold/fine gold prices from various websites that display buying/selling price information.",
+      "authentication": false
+    },
+    {
       "apiName": "BCA",
       "status": true,
       "documentationUrl": "https://developer.bca.co.id",
@@ -109,17 +120,6 @@
         "profileUrl": null
       },
       "description": "API to get latest gold price exchange.",
-      "authentication": false
-    },
-    {
-      "apiName": "API Harga Emas/Logam Mulia",
-      "status": true,
-      "documentationUrl": "https://github.com/cacing69/logam-mulia-api/blob/main/README.md",
-      "developer": {
-        "name": "cacing69",
-        "profileUrl": "https://github.com/cacing69"
-      },
-      "description": "API to check gold/fine gold prices from various websites that display buying/selling price information.",
       "authentication": false
     },
     {
