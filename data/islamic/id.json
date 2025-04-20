@@ -121,6 +121,17 @@
       },
       "description": "Quran JSON (Terjemahan Indonesia, Tafsir, dan Audio).",
       "authentication": false
+    },
+    {
+      "apiName": "Waktu Sholat API",
+      "status": true,
+      "documentationUrl": "https://github.com/maftuh23/waktu-sholat",
+      "developer": {
+        "name": "Maftuh Ichsan",
+        "profileUrl": null
+      },
+      "description": "API Waktu Sholat Indonesia, bersumber dari Kemenag RI, menyajikan data berdasarkan koordinat (latitude & longitude), lengkap dengan informasi provinsi dan kota.",
+      "authentication": false
     }
   ]
 }
