@@ -68,6 +68,17 @@
       "authentication": false
     },
     {
+      "apiName": "Prayer Times API",
+      "status": true,
+      "documentationUrl": "https://github.com/maftuh23/waktu-sholat",
+      "developer": {
+        "name": "Maftuh Ichsan",
+        "profileUrl": "https://github.com/maftuh23"
+      },
+      "description": "Indonesian Prayer Times API provides data from the Ministry of Religious Affairs (Kemenag RI) based on latitude and longitude, including province and city information.",
+      "authentication": false
+    },
+    {
       "apiName": "Puasa Sunnah API",
       "status": true,
       "documentationUrl": "https://api.puasa-sunnah.granitebps.com/swagger/index.html",
@@ -120,17 +131,6 @@
         "profileUrl": null
       },
       "description": "Quran JSON (Indonesian translation, tafsir, and audio).",
-      "authentication": false
-    },
-    {
-      "apiName": "Prayer Times API",
-      "status": true,
-      "documentationUrl": "https://github.com/maftuh23/waktu-sholat",
-      "developer": {
-        "name": "Maftuh Ichsan",
-        "profileUrl": "https://github.com/maftuh23"
-      },
-      "description": "Indonesian Prayer Times API provides data from the Ministry of Religious Affairs (Kemenag RI) based on latitude and longitude, including province and city information.",
       "authentication": false
     }
   ]
