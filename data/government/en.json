@@ -24,17 +24,6 @@
       "authentication": false
     },
     {
-      "apiName": "Cagar Budaya Indonesia",
-      "status": false,
-      "documentationUrl": "https://data.go.id/dataset/cagar-budaya",
-      "developer": {
-        "name": "Kantor Staf Presiden",
-        "profileUrl": null
-      },
-      "description": "Heritage of Indonesia's cultural sites, including buildings, structures, and sites.",
-      "authentication": false
-    },
-    {
       "apiName": "Data BMKG",
       "status": true,
       "documentationUrl": "http://data.bmkg.go.id/tentang",
@@ -54,17 +43,6 @@
         "profileUrl": null
       },
       "description": "Statistical data on development indicators throughout Indonesia.",
-      "authentication": "API KEY"
-    },
-    {
-      "apiName": "Data Indonesia",
-      "status": false,
-      "documentationUrl": "https://data.go.id/home",
-      "developer": {
-        "name": "Pemerintah Indonesia",
-        "profileUrl": null
-      },
-      "description": "Data related to Indonesia.",
       "authentication": "API KEY"
     },
     {

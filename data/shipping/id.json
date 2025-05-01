@@ -47,7 +47,7 @@
     },
     {
       "apiName": "Paket ID",
-      "status": false,
+      "status": true,
       "documentationUrl": "http://docs.paket.id/API/Versi_2.html",
       "developer": {
         "name": "paket.id",
