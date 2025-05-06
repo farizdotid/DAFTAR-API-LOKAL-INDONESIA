@@ -113,7 +113,7 @@
     },
     {
       "apiName": "Nama Daerah Seluruh Indonesia",
-      "status": false,
+      "status": true,
       "documentationUrl": "https://ibnux.github.io/data-indonesia",
       "developer": {
         "name": "ibnux",
