@@ -24,9 +24,9 @@
       "authentication": false
     },
     {
-      "apiName": "Ryzen API",
+      "apiName": "Ryzumi API",
       "status": true,
-      "documentationUrl": "https://api.ryzendesu.vip",
+      "documentationUrl": "https://api.ryzumi.vip",
       "developer": {
         "name": "ShirokamiRyzen",
         "profileUrl": "https://github.com/ShirokamiRyzen"
