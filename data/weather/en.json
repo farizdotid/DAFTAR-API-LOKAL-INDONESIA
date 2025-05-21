@@ -37,7 +37,7 @@
     {
       "apiName": "Location & Weather Forecast",
       "status": true,
-      "documentationUrl": "http://103.196.153.211:3443/docs",
+      "documentationUrl": "https://openapi.de4a.space/docs",
       "developer": {
         "name": "ariefmanda",
         "profileUrl": "https://github.com/ariefmanda"
