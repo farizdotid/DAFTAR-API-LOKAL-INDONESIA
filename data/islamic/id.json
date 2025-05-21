@@ -46,6 +46,17 @@
       "authentication": false
     },
     {
+      "apiName": "Hadith API",
+      "status": true,
+      "documentationUrl": "https://github.com/kyyril/hadith-api",
+      "developer": {
+        "name": "Khairil Rahman",
+        "profileUrl": "https://github.com/kyyril"
+      },
+      "description": "Hadith API menyajikan hadis terjemahan dari 9 perawi. Mendukung pencarian berdasarkan perawi, nomor hadis, serta fitur pagination dan search.",
+      "authentication": false
+    },
+    {
       "apiName": "Holy Quran API",
       "status": true,
       "documentationUrl": "https://github.com/dyazincahya/quran-api-with-php-codeigniter",

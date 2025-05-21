@@ -46,6 +46,17 @@
       "authentication": false
     },
     {
+      "apiName": "Hadith API",
+      "status": true,
+      "documentationUrl": "https://github.com/kyyril/hadith-api",
+      "developer": {
+        "name": "Khairil Rahman",
+        "profileUrl": "https://github.com/kyyril"
+      },
+      "description": "Hadith API provides translated hadiths from 9 narrators. It supports fetching by narrator, hadith number, and includes pagination and search.",
+      "authentication": false
+    },
+    {
       "apiName": "Holy Quran API",
       "status": true,
       "documentationUrl": "https://github.com/dyazincahya/quran-api-with-php-codeigniter",
