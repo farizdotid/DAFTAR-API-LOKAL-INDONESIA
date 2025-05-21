@@ -2,6 +2,17 @@
   "categoryName": "Books",
   "apis": [
     {
+      "apiName": "Bukuacak",
+      "status": true,
+      "documentationUrl": "https://bukuacak.vercel.app/api",
+      "developer": {
+        "name": "Shabri A.",
+        "profileUrl": null
+      },
+      "description": "Bukuacak is an API that provides book data with various filters, sorting, and random search options.",
+      "authentication": false
+    },
+    {
       "apiName": "Masak Apa",
       "status": true,
       "documentationUrl": "https://github.com/tomorisakura/unofficial-masakapahariini-api",

@@ -13,17 +13,6 @@
       "authentication": false
     },
     {
-      "apiName": "All in one Api firdau.uz",
-      "status": true,
-      "documentationUrl": "https://api.firda.uz/docs",
-      "developer": {
-        "name": "Firdaus Siregar",
-        "profileUrl": "https://github.com/firdaus-siregar"
-      },
-      "description": "Free API access for your application needs. Unlimited fire keys and others, accompanied by complete documentation, API access such as (AI, chat, send WhatsApp SMS, etc.) Free forever!",
-      "authentication": false
-    },
-    {
       "apiName": "Milfu API",
       "status": true,
       "documentationUrl": "https://milfu-api.is-a-cool.dev",
@@ -35,14 +24,14 @@
       "authentication": false
     },
     {
-      "apiName": "Mininxd API",
+      "apiName": "Ryzumi API",
       "status": true,
-      "documentationUrl": "https://api.mininxd.my.id",
+      "documentationUrl": "https://api.ryzumi.vip",
       "developer": {
-        "name": "mininxd",
-        "profileUrl": "https://github.com/mininxd"
+        "name": "ShirokamiRyzen",
+        "profileUrl": "https://github.com/ShirokamiRyzen"
       },
-      "description": "Providing some free APIs, and it promises to always be online!",
+      "description": "Provides a free API for application and bot development, with full documentation and uptime of up to 99%. Access various APIs such as AI, Downloader, Internet, and more",
       "authentication": false
     }
   ]

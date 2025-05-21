@@ -68,17 +68,6 @@
       "authentication": false
     },
     {
-      "apiName": "Jadwal Sholat",
-      "status": true,
-      "documentationUrl": "https://github.com/azharimm/jadwal-shalat-api",
-      "developer": {
-        "name": "azharimm",
-        "profileUrl": null
-      },
-      "description": "Rest API jadwal shalat kota/kabupaten di Indonesia.",
-      "authentication": false
-    },
-    {
       "apiName": "Puasa Sunnah API",
       "status": true,
       "documentationUrl": "https://api.puasa-sunnah.granitebps.com/swagger/index.html",
@@ -88,6 +77,17 @@
       },
       "description": "API untuk melihat jadwal Puasa Sunnah di Indonesia. Start dari tahun 2022.",
       "authentication": false
+    },
+    {
+      "apiName": "Qalbun API",
+      "status": true,
+      "documentationUrl": "https://api.qalbun.my.id",
+      "developer": {
+        "name": "Polyvor Labs",
+        "profileUrl": "https://github.com/Polyvor-Labs"
+      },
+      "description": "Menyajikan seluruh semua data tentang islami (Quran, Hadith, Doa Harian, Jadwal Shalat, DLL) hingga ChatBot Islami",
+      "authentication": "API KEY"
     },
     {
       "apiName": "Quran API",
@@ -120,6 +120,17 @@
         "profileUrl": null
       },
       "description": "Quran JSON (Terjemahan Indonesia, Tafsir, dan Audio).",
+      "authentication": false
+    },
+    {
+      "apiName": "Waktu Sholat API",
+      "status": true,
+      "documentationUrl": "https://github.com/maftuh23/waktu-sholat",
+      "developer": {
+        "name": "Maftuh Ichsan",
+        "profileUrl": "https://github.com/maftuh23"
+      },
+      "description": "API Waktu Sholat Indonesia, bersumber dari Kemenag RI, menyajikan data berdasarkan koordinat (latitude & longitude), lengkap dengan informasi provinsi dan kota.",
       "authentication": false
     }
   ]

@@ -154,17 +154,6 @@
       },
       "description": "Mencari titik koordinat dari suatu tempat sebagai alternative dari google places API.",
       "authentication": "API KEY"
-    },
-    {
-      "apiName": "Sekolah se Indonesia",
-      "status": true,
-      "documentationUrl": "https://data.go.id/dataset/sekolah",
-      "developer": {
-        "name": "Pemerintah Indonesia",
-        "profileUrl": null
-      },
-      "description": "Daftar jumlah sekolah perwilayah, detail sekolah perwilayah dan data master wilayah.",
-      "authentication": false
     }
   ]
 }

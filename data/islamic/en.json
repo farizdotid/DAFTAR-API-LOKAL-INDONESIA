@@ -68,14 +68,14 @@
       "authentication": false
     },
     {
-      "apiName": "Jadwal Sholat",
+      "apiName": "Prayer Times API",
       "status": true,
-      "documentationUrl": "https://github.com/azharimm/jadwal-shalat-api",
+      "documentationUrl": "https://github.com/maftuh23/waktu-sholat",
       "developer": {
-        "name": "azharimm",
-        "profileUrl": null
+        "name": "Maftuh Ichsan",
+        "profileUrl": "https://github.com/maftuh23"
       },
-      "description": "REST API for prayer schedule by city/district in Indonesia.",
+      "description": "Indonesian Prayer Times API provides data from the Ministry of Religious Affairs (Kemenag RI) based on latitude and longitude, including province and city information.",
       "authentication": false
     },
     {
@@ -88,6 +88,17 @@
       },
       "description": "API to view Sunnah fasting schedule in Indonesia, starting from 2022.",
       "authentication": false
+    },
+    {
+      "apiName": "Qalbun API",
+      "status": true,
+      "documentationUrl": "https://api.qalbun.my.id",
+      "developer": {
+        "name": "Polyvor Labs",
+        "profileUrl": "https://github.com/Polyvor-Labs"
+      },
+      "description": "Presents all the data about Islam (Quran, Hadith, Daily Prayer, Prayer Schedule, ETC) and Islamic ChatBot",
+      "authentication": "API KEY"
     },
     {
       "apiName": "Quran API",

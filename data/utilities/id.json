@@ -2,17 +2,6 @@
   "categoryName": "Utilitas",
   "apis": [
     {
-      "apiName": "1Akun",
-      "status": false,
-      "documentationUrl": "https://1akun.com",
-      "developer": {
-        "name": "1Akun",
-        "profileUrl": null
-      },
-      "description": "API untuk autentikasi (Oauth).",
-      "authentication": "API KEY"
-    },
-    {
       "apiName": "APIMock",
       "status": true,
       "documentationUrl": "https://apimock.lazycatlabs.com",
@@ -22,17 +11,6 @@
       },
       "description": "API Mocking dengan fitur Register, Login dan pemanggilan pagination data dengan menggunakan JWT Authentication.",
       "authentication": false
-    },
-    {
-      "apiName": "Arbanat",
-      "status": true,
-      "documentationUrl": "https://arbanat.my.id",
-      "developer": {
-        "name": "jajanjawa",
-        "profileUrl": null
-      },
-      "description": "kirim sms melalui rest api.",
-      "authentication": "API KEY"
     },
     {
       "apiName": "Daftar nama Bank di Indonesia",
@@ -110,17 +88,6 @@
       },
       "description": "Kirim sms melalui REST API atau Laravel Notification.",
       "authentication": "API KEY"
-    },
-    {
-      "apiName": "TimeApi",
-      "status": true,
-      "documentationUrl": "https://timeapi.mininxd.my.id",
-      "developer": {
-        "name": "Mininxd",
-        "profileUrl": "https://github.com/mininxd"
-      },
-      "description": "Api untuk menampilkan waktu, tanggal secara realtime berbasis UNIX.",
-      "authentication": false
     },
     {
       "apiName": "Translasi",

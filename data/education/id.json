@@ -13,14 +13,25 @@
       "authentication": false
     },
     {
-      "apiName": "Data Mahasiswa Indonesia",
-      "status": false,
-      "documentationUrl": "https://api-frontend.kemdikbud.go.id/hit_mhs/abiel%20zulio%20maseida",
+      "apiName": "API KBBI Daring",
+      "status": true,
+      "documentationUrl": "https://github.com/dyazincahya/API-KBBI-PHP-Codeigniter-4",
       "developer": {
-        "name": "Kemendikbud",
-        "profileUrl": null
+        "name": "Kang Cahya",
+        "profileUrl": "https://github.com/dyazincahya"
       },
-      "description": "Data mahasiswa se-Indonesia mencakupi nama lengkap, universitas, dan program studi.",
+      "description": "API untuk mendapatkan informasi Kata & Peribahasa berdasarkan Kamus Besar Bahasa Indonesia, data berasal dari https://kbbi.kemdikbud.go.id di ambil dengan metode HTML Parsing menggunakan PHP.",
+      "authentication": false
+    },
+    {
+      "apiName": "API KBBI Luring",
+      "status": true,
+      "documentationUrl": "https://github.com/dyazincahya/KBBI-SQL-database",
+      "developer": {
+        "name": "Kang Cahya",
+        "profileUrl": "https://github.com/dyazincahya"
+      },
+      "description": "Basis data lokal KBBI, Terdapat 115.978 data Kata, tersedia untuk MySQL, SQLite dan PostgreSQL. Juga tersedia untuk format data CSV, JSON, Markdown, PHP Array, XML, DbUnit, HTML.",
       "authentication": false
     },
     {
@@ -54,6 +65,17 @@
         "profileUrl": null
       },
       "description": "Rest Api KBBI.",
+      "authentication": false
+    },
+    {
+      "apiName": "KBBI Complete REST API",
+      "status": true,
+      "documentationUrl": "https://kbbi.raf555.dev/swagger/index.html",
+      "developer": {
+        "name": "raf555",
+        "profileUrl": "http://github.com/raf555"
+      },
+      "description": "Alternatif API KBBI - hasil mirror aplikasi Android (tanpa web scraping). Informasi dan dokumentasi lengkap, low latency, serta fitur bawaan aplikasi seperti \"Kata hari ini\".",
       "authentication": false
     },
     {
