@@ -35,17 +35,6 @@
       "authentication": false
     },
     {
-      "apiName": "Lokasi & Perkiraan Cuaca",
-      "status": true,
-      "documentationUrl": "https://openapi.de4a.space/docs",
-      "developer": {
-        "name": "ariefmanda",
-        "profileUrl": "https://github.com/ariefmanda"
-      },
-      "description": "API ini menyediakan perkiraan cuaca real-time dan prediksi cuaca mendatang untuk lokasi tertentu berdasarkan koordinat lintang dan bujur.",
-      "authentication": false
-    },
-    {
       "apiName": "Info Gempa & Cuaca API",
       "status": true,
       "documentationUrl": "https://github.com/renomureza/cuaca-gempa-rest-api",
@@ -54,6 +43,17 @@
         "profileUrl": null
       },
       "description": "REST API informasi gempa terkini dan cuaca kota besar di 35 provinsi dalam 3 harian, sumber data BMKG.",
+      "authentication": false
+    },
+    {
+      "apiName": "Lokasi & Perkiraan Cuaca",
+      "status": true,
+      "documentationUrl": "https://openapi.de4a.space/docs",
+      "developer": {
+        "name": "ariefmanda",
+        "profileUrl": "https://github.com/ariefmanda"
+      },
+      "description": "API ini menyediakan perkiraan cuaca real-time dan prediksi cuaca mendatang untuk lokasi tertentu berdasarkan koordinat lintang dan bujur.",
       "authentication": false
     }
   ]
