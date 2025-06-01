@@ -1,16 +1,4 @@
 {
   "categoryName": "Forum",
-  "apis": [
-    {
-      "apiName": "Hot Threads from Kaskus (Unofficial)",
-      "status": false,
-      "documentationUrl": "https://api.bayyu.net",
-      "developer": {
-        "name": "Bayu",
-        "profileUrl": null
-      },
-      "description": "Retrieve hot threads from Kaskus.",
-      "authentication": "API KEY"
-    }
-  ]
+  "apis": []
 }

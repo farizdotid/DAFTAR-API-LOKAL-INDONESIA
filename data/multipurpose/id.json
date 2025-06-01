@@ -14,7 +14,7 @@
     },
     {
       "apiName": "Milfu API",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://milfu-api.is-a-cool.dev",
       "developer": {
         "name": "Jauhariq",
