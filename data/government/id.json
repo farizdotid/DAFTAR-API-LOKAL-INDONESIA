@@ -1,93 +1,82 @@
 {
-  "categoryName": "Pemerintahan",
-  "apis": [
-    {
-      "apiName": "PLN (Unofficial)",
-      "status": true,
-      "authentication": "`x-api-key`",
-      "documentationUrl": "https://pln.decryptable.dev",
-      "description": "Unofficial API PLN Mobile",
-      "developer": {
-        "name": "decryptable",
-        "profileUrl": "https://github.com/decryptable"
-      }
-    },
-    {
-      "apiName": "Bahasa Daerah",
-      "status": true,
-      "documentationUrl": "https://github.com/Mahes2/bahasa-daerah-indonesia",
-      "developer": {
-        "name": "Mahes2",
-        "profileUrl": null
-      },
-      "description": "Data bahasa daerah di Indonesia.",
-      "authentication": false
-    },
-    {
-      "apiName": "Batik Indonesia",
-      "status": true,
-      "documentationUrl": "https://batikita.docs.apiary.io/#reference/0/all-batik-collections",
-      "developer": {
-        "name": "BatiKita",
-        "profileUrl": null
-      },
-      "description": "BatiKita merupakan sebuah aplikasi yang dapat memberikan informasi mengenai motif batik, dengan memberikan kata kunci atau mengunggah citra sehingga user tidak perlu melakukan pencarian informasi secara manual.",
-      "authentication": false
-    },
-    {
-      "apiName": "Data BMKG",
-      "status": true,
-      "documentationUrl": "http://data.bmkg.go.id/tentang",
-      "developer": {
-        "name": "Badan Meteorologi dan Geofisika",
-        "profileUrl": null
-      },
-      "description": "Data terkini cuaca dan kejadian bencana di Indonesia.",
-      "authentication": false
-    },
-    {
-      "apiName": "Data BPS",
-      "status": true,
-      "documentationUrl": "https://webapi.bps.go.id/developer",
-      "developer": {
-        "name": "Badan Pusat Statistik",
-        "profileUrl": null
-      },
-      "description": "Data statistik indikator pembangunan seluruh Indonesia.",
-      "authentication": "API KEY"
-    },
-    {
-      "apiName": "E-samsat Jateng",
-      "status": true,
-      "documentationUrl": "https://github.com/lintangtimur/cek-pajak-esamsat",
-      "developer": {
-        "name": "lintangtimur",
-        "profileUrl": null
-      },
-      "description": "Unofficial API Cek pajak kendaraan untuk wilayah Jateng.",
-      "authentication": "API KEY"
-    },
-    {
-      "apiName": "Pahlawan Nasional Indonesia",
-      "status": true,
-      "documentationUrl": "https://github.com/yogski/indonesia-public-static-api#api-pahlawan-nasional-indonesia-apiheroes",
-      "developer": {
-        "name": "Yogi Saputro",
-        "profileUrl": null
-      },
-      "description": "API daftar pahlawan Indonesia. Lihat dokumentasi untuk detail penggunaan.",
-      "authentication": false
-    },
-    {
-      "apiName": "PLN (Unofficial)",
-      "status": true,
-      "authentication": "`x-api-key`",
-      "documentationUrl": "https://pln.decryptable.dev",
-      "description": "Unofficial API PLN Mobile",
-      "developer": {
-        "name": "decryptable",
-        "profileUrl": "https://github.com/decryptable"
-      }
-    }
-  ]
+    "categoryName": "Pemerintahan",
+    "apis": [
+        {
+            "apiName": "PLN (Unofficial)",
+            "status": true,
+            "authentication": "`x-api-key`",
+            "documentationUrl": "https://pln.decryptable.dev",
+            "description": "Unofficial API PLN Mobile",
+            "developer": {
+                "name": "decryptable",
+                "profileUrl": "https://github.com/decryptable"
+            }
+        },
+        {
+            "apiName": "Bahasa Daerah",
+            "status": true,
+            "documentationUrl": "https://github.com/Mahes2/bahasa-daerah-indonesia",
+            "developer": {
+                "name": "Mahes2",
+                "profileUrl": null
+            },
+            "description": "Data bahasa daerah di Indonesia.",
+            "authentication": false
+        },
+        {
+            "apiName": "Batik Indonesia",
+            "status": true,
+            "documentationUrl": "https://batikita.docs.apiary.io/#reference/0/all-batik-collections",
+            "developer": {
+                "name": "BatiKita",
+                "profileUrl": null
+            },
+            "description": "BatiKita merupakan sebuah aplikasi yang dapat memberikan informasi mengenai motif batik, dengan memberikan kata kunci atau mengunggah citra sehingga user tidak perlu melakukan pencarian informasi secara manual.",
+            "authentication": false
+        },
+        {
+            "apiName": "Data BMKG",
+            "status": true,
+            "documentationUrl": "http://data.bmkg.go.id/tentang",
+            "developer": {
+                "name": "Badan Meteorologi dan Geofisika",
+                "profileUrl": null
+            },
+            "description": "Data terkini cuaca dan kejadian bencana di Indonesia.",
+            "authentication": false
+        },
+        {
+            "apiName": "Data BPS",
+            "status": true,
+            "documentationUrl": "https://webapi.bps.go.id/developer",
+            "developer": {
+                "name": "Badan Pusat Statistik",
+                "profileUrl": null
+            },
+            "description": "Data statistik indikator pembangunan seluruh Indonesia.",
+            "authentication": "API KEY"
+        },
+        {
+            "apiName": "E-samsat Jateng",
+            "status": true,
+            "documentationUrl": "https://github.com/lintangtimur/cek-pajak-esamsat",
+            "developer": {
+                "name": "lintangtimur",
+                "profileUrl": null
+            },
+            "description": "Unofficial API Cek pajak kendaraan untuk wilayah Jateng.",
+            "authentication": "API KEY"
+        },
+        {
+            "apiName": "Pahlawan Nasional Indonesia",
+            "status": true,
+            "documentationUrl": "https://github.com/yogski/indonesia-public-static-api#api-pahlawan-nasional-indonesia-apiheroes",
+            "developer": {
+                "name": "Yogi Saputro",
+                "profileUrl": null
+            },
+            "description": "API daftar pahlawan Indonesia. Lihat dokumentasi untuk detail penggunaan.",
+            "authentication": false
+        }
+    ]
 }
