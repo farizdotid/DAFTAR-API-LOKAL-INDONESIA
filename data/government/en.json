@@ -2,17 +2,6 @@
   "categoryName": "Government",
   "apis": [
     {
-      "apiName": "PLN Mobile (Unofficial)",
-      "status": true,
-      "authentication": "`x-api-key`",
-      "documentationUrl": "https://pln.decryptable.dev",
-      "description": "Unofficial API PLN Mobile",
-      "developer": {
-        "name": "decryptable",
-        "profileUrl": "https://github.com/decryptable"
-      }
-    },
-    {
       "apiName": "Bahasa Daerah",
       "status": true,
       "documentationUrl": "https://github.com/Mahes2/bahasa-daerah-indonesia",
@@ -77,6 +66,17 @@
       },
       "description": "API for a list of Indonesian national heroes. Refer to documentation for usage details.",
       "authentication": false
+    },
+    {
+      "apiName": "PLN Mobile (Unofficial)",
+      "status": true,
+      "authentication": "`x-api-key`",
+      "documentationUrl": "https://pln.decryptable.dev",
+      "description": "Unofficial API PLN Mobile",
+      "developer": {
+        "name": "decryptable",
+        "profileUrl": "https://github.com/decryptable"
+      }
     }
   ]
 }
