@@ -46,17 +46,6 @@
       "authentication": "API KEY"
     },
     {
-      "apiName": "Paket ID",
-      "status": false,
-      "documentationUrl": "http://docs.paket.id/API/Versi_2.html",
-      "developer": {
-        "name": "paket.id",
-        "profileUrl": null
-      },
-      "description": "Jasa pengiriman.",
-      "authentication": "API KEY"
-    },
-    {
       "apiName": "POST Indonesia",
       "status": true,
       "documentationUrl": "https://www.trackingmore.com/indonesia-post-tracking-api.html",

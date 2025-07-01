@@ -13,17 +13,6 @@
       "authentication": false
     },
     {
-      "apiName": "Milfu API",
-      "status": false,
-      "documentationUrl": "https://milfu-api.is-a-cool.dev",
-      "developer": {
-        "name": "Jauhariq",
-        "profileUrl": "https://github.com/jauhariq"
-      },
-      "description": "Menyediakan berbagai macam API secara gratis tanpa batasan penggunaan untuk membantu mempermudah proses pengembanganmu!",
-      "authentication": false
-    },
-    {
       "apiName": "Ryzumi API",
       "status": true,
       "documentationUrl": "https://api.ryzumi.vip",

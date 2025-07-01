@@ -222,17 +222,6 @@
       "authentication": false
     },
     {
-      "apiName": "Tahukah Anda API",
-      "status": false,
-      "documentationUrl": "https://cinnabar.icaksh.my.id/public/daily/tawiki",
-      "developer": {
-        "name": "Icaksh",
-        "profileUrl": null
-      },
-      "description": "API to get daily facts (Did You Know?) from Wikipedia.",
-      "authentication": false
-    },
-    {
       "apiName": "Tanggal Lahiran Pasaran Zodiak",
       "status": true,
       "documentationUrl": "https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak",
