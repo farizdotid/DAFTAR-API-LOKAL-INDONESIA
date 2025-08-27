@@ -9,7 +9,7 @@
         "name": "akuari",
         "profileUrl": null
       },
-      "description": "A collection of bot needs api, and some api: Visitor api, Check ip api, Check Website Live or not, File api, etc. with JSON response.",
+      "description": "A collection of APIs for bot needs, including Visitor API, IP check API, Website live check, File API, and more, all with JSON responses.",
       "authentication": false
     },
     {
@@ -20,7 +20,18 @@
         "name": "ShirokamiRyzen",
         "profileUrl": "https://github.com/ShirokamiRyzen"
       },
-      "description": "Provides a free API for application and bot development, with full documentation and uptime of up to 99%. Access various APIs such as AI, Downloader, Internet, and more",
+      "description": "Provides free APIs for application and bot development, with full documentation and up to 99% uptime. Includes APIs for AI, Downloader, Internet, and more.",
+      "authentication": false
+    },
+    {
+      "apiName": "API Srart24",
+      "status": true,
+      "documentationUrl": "https://api.srart24.xyz",
+      "developer": {
+        "name": "srart24",
+        "profileUrl": "https://github.com/srart24"
+      },
+      "description": "API from srart24.xyz, suitable for various application or bot development needs. Free to use.",
       "authentication": false
     }
   ]
