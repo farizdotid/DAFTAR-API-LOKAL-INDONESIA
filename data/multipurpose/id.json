@@ -22,6 +22,17 @@
       },
       "description": "Menyediakan API gratis untuk pengembangan aplikasi maupun bot, disertai dengan dokumentasi lengkap dan uptime hingga 99%. Akses berbagai API seperti AI, Downloader, Internet, dan lainnya",
       "authentication": false
+    },
+    {
+      "apiName": "API srart24",
+      "status": true,
+      "documentationUrl": "https://api.srart24.xyz",
+      "developer": {
+        "name": "srart24",
+        "profileUrl": "https://github.com/srart24"
+      },
+      "description": "API dari srart24.xyz, bisa digunakan untuk berbagai kebutuhan pengembangan aplikasi atau bot. Gratis untuk digunakan.",
+      "authentication": false
     }
   ]
 }
