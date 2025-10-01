@@ -47,7 +47,7 @@
     },
     {
       "apiName": "POST Indonesia",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://www.trackingmore.com/indonesia-post-tracking-api.html",
       "developer": {
         "name": "Trackingmore",
