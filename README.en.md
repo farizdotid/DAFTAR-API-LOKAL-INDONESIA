@@ -232,13 +232,12 @@ This file is translation from Original (Bahasa Indonesia).
 
 ### Music
 
-| API Name   | Developer      | Documentation                                               | Status | Description                                 | Authentication |
-| ---------- | -------------- | ----------------------------------------------------------- | ------ | ------------------------------------------- | -------------- |
-| Deezer     | Deezer Dev     | [Link](https://developers.deezer.com/api)                   | ✅     | Deezer Catalog.                             | OAUTH          |
-| Lyrics API | azharimm       | [Link](https://github.com/azharimm/song-lyrics-api)         | ✅     | Rest API for song lyrics.                   | `false`        |
-| MusixMatch | MusixMatch Dev | [Link](https://developer.musixmatch.com)                    | ❎     | Search for Information and Lyrics of songs. | API KEY        |
-| SoundCloud | SoundCloud Dev | [Link](https://developers.soundcloud.com)                   | ✅     | Upload and Share Music.                     | API KEY        |
-| Spotify    | Spotify Dev    | [Link](https://developer.spotify.com/documentation/web-api) | ✅     | Spotify Catalog.                            | OAUTH          |
+| API Name   | Developer      | Documentation                                               | Status | Description               | Authentication |
+| ---------- | -------------- | ----------------------------------------------------------- | ------ | ------------------------- | -------------- |
+| Deezer     | Deezer Dev     | [Link](https://developers.deezer.com/api)                   | ✅     | Deezer Catalog.           | OAUTH          |
+| Lyrics API | azharimm       | [Link](https://github.com/azharimm/song-lyrics-api)         | ✅     | Rest API for song lyrics. | `false`        |
+| SoundCloud | SoundCloud Dev | [Link](https://developers.soundcloud.com)                   | ✅     | Upload and Share Music.   | API KEY        |
+| Spotify    | Spotify Dev    | [Link](https://developer.spotify.com/documentation/web-api) | ✅     | Spotify Catalog.          | OAUTH          |
 
 ### News
 
@@ -254,16 +253,15 @@ This file is translation from Original (Bahasa Indonesia).
 
 ### Shipping
 
-| API Name       | Developer                         | Documentation                                                         | Status | Description                                                                                                                                                                                                      | Authentication |
-| -------------- | --------------------------------- | --------------------------------------------------------------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| Cek Resi       | binderbyte                        | [Link](https://docs.binderbyte.com/api/cek-resi)                      | ✅     | Cek Resi API is used to automatically track shipments from various courier services such as JNE, Pos, J&T, Wahana, Tiki, Sicepat, and more.                                                                      | API KEY        |
-| J&T            | J&T Official                      | [Link](https://developer.jet.co.id/documentation)                     | ✅     | Official API published by J&T for AWB services, Order Tracking, Rate Checking, and Order Cancellation.                                                                                                           | API KEY        |
-| JNE            | JNE Official                      | [Link](https://apidash.jne.co.id)                                     | ✅     | Official JNE API for services such as checking shipping costs and generating AWBs. Access to the link requires an account provided directly by JNE.                                                              | API KEY        |
-| KiriminAja     | KiriminAja Official               | [Link](https://developer.kiriminaja.com)                              | ✅     | Package delivery solution to various courier services. Track the real-time position of packages, support regular, cargo, and instant delivery.                                                                   | API KEY        |
-| POST Indonesia | Trackingmore                      | [Link](https://www.trackingmore.com/indonesia-post-tracking-api.html) | ❎     | Shipping service.                                                                                                                                                                                                | API KEY        |
-| Raja Ongkir    | Rajaongkir                        | [Link](http://rajaongkir.com/dokumentasi)                             | ✅     | Check shipping rates for various delivery services such as JNE, Pos, TIKI, and more.                                                                                                                             | API KEY        |
-| Shipper        | Shipper                           | [Link](https://shipper.id/api-integration)                            | ✅     | Get the most up-to-date and accurate package tracking from the Shipper dashboard. Easily track your package's status with just the tracking number. Receive real-time notifications about your package's status. | API KEY        |
-| Tracking API   | [Klik Resi](https://klikresi.com) | [Link](https://documenter.getpostman.com/view/29221489/2s9YC7SBgH)    | ✅     | Developers' choice multi-carrier tracking API.                                                                                                                                                                   | API KEY        |
+| API Name     | Developer                         | Documentation                                                      | Status | Description                                                                                                                                                                                                      | Authentication |
+| ------------ | --------------------------------- | ------------------------------------------------------------------ | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| Cek Resi     | binderbyte                        | [Link](https://docs.binderbyte.com/api/cek-resi)                   | ✅     | Cek Resi API is used to automatically track shipments from various courier services such as JNE, Pos, J&T, Wahana, Tiki, Sicepat, and more.                                                                      | API KEY        |
+| J&T          | J&T Official                      | [Link](https://developer.jet.co.id/documentation)                  | ✅     | Official API published by J&T for AWB services, Order Tracking, Rate Checking, and Order Cancellation.                                                                                                           | API KEY        |
+| JNE          | JNE Official                      | [Link](https://apidash.jne.co.id)                                  | ✅     | Official JNE API for services such as checking shipping costs and generating AWBs. Access to the link requires an account provided directly by JNE.                                                              | API KEY        |
+| KiriminAja   | KiriminAja Official               | [Link](https://developer.kiriminaja.com)                           | ✅     | Package delivery solution to various courier services. Track the real-time position of packages, support regular, cargo, and instant delivery.                                                                   | API KEY        |
+| Raja Ongkir  | Rajaongkir                        | [Link](http://rajaongkir.com/dokumentasi)                          | ❎     | Check shipping rates for various delivery services such as JNE, Pos, TIKI, and more.                                                                                                                             | API KEY        |
+| Shipper      | Shipper                           | [Link](https://shipper.id/api-integration)                         | ✅     | Get the most up-to-date and accurate package tracking from the Shipper dashboard. Easily track your package's status with just the tracking number. Receive real-time notifications about your package's status. | API KEY        |
+| Tracking API | [Klik Resi](https://klikresi.com) | [Link](https://documenter.getpostman.com/view/29221489/2s9YC7SBgH) | ✅     | Developers' choice multi-carrier tracking API.                                                                                                                                                                   | API KEY        |
 
 ### Social Media
 

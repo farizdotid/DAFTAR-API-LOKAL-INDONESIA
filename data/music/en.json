@@ -24,17 +24,6 @@
       "authentication": false
     },
     {
-      "apiName": "MusixMatch",
-      "status": false,
-      "documentationUrl": "https://developer.musixmatch.com",
-      "developer": {
-        "name": "MusixMatch Dev",
-        "profileUrl": null
-      },
-      "description": "Search for Information and Lyrics of songs.",
-      "authentication": "API KEY"
-    },
-    {
       "apiName": "SoundCloud",
       "status": true,
       "documentationUrl": "https://developers.soundcloud.com",

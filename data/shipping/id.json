@@ -46,19 +46,8 @@
       "authentication": "API KEY"
     },
     {
-      "apiName": "POST Indonesia",
-      "status": false,
-      "documentationUrl": "https://www.trackingmore.com/indonesia-post-tracking-api.html",
-      "developer": {
-        "name": "Trackingmore",
-        "profileUrl": null
-      },
-      "description": "Jasa pengiriman.",
-      "authentication": "API KEY"
-    },
-    {
       "apiName": "Raja Ongkir",
-      "status": true,
+      "status": false,
       "documentationUrl": "http://rajaongkir.com/dokumentasi",
       "developer": {
         "name": "Rajaongkir",
