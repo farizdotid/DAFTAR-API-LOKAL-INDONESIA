@@ -11,6 +11,17 @@
       },
       "description": "Api untuk mendapatkan data hari libur nasional dan cuti bersama di Indonesia.",
       "authentication": false
+    },
+    {
+      "apiName": "ResitaApi",
+      "status": true,
+      "documentationUrl": "https://api.ferdev.my.id",
+      "developer": {
+        "name": "FeriPratama",
+        "profileUrl": "https://cdn.ferdev.my.id/assets/img/verbotx.jpg"
+      },
+      "description": "Api gratis yang berisi banyak sekali fitur seperti downloader, search, tools,dll",
+      "authentication": true
     }
   ]
 }
