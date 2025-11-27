@@ -73,7 +73,8 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Detik News API       | Ucok Isa Lubis   | [Link](https://github.com/Ucok23/detiknews_api)               | ✅     | API berita detik news. Search, dapatkan list berita, dapatkan detail berita.                     | `false`     |
 | Indonesia news API   | News API         | [Link](https://newsapi.org/s/indonesia-news-api)              | ✅     | API untuk mendapatkan update berita di Indonesia.                                                | API KEY     |
 | Jakarta Post API     | Faruq Maulana    | [Link](https://github.com/faruqmaulana/JAKARTA-POST-API)      | ✅     | API yang menyajikan berita dan data podcast dari media berita Jakarta Post.                      | `false`     |
-| The Lazy Media API   | Nicola Deastra   | [Link](https://github.com/NicolaDonoastro/The-Lazy-Media-api) | ✅     | API kumpulan berita game dan teknologi dari The Lazy Media.                                      | `false`     |
+| The Lazy Media API   | Nicola Deastra   | [Link](https://github.com/NicolaDonoastro/The-Lazy-Media-api) | ✅     | API kumpulan berita game dan teknologi dari The Lazy Media.
+| API Berita           | Zakiahsan        | [Link](https://api-qfx9o2ta8-wibuotakkus-projects.vercel.app/berita) | ✅ | Menyediakan berita dummy untuk testing API | `false` |                                      | `false`     |
 
 ### Buku
 
