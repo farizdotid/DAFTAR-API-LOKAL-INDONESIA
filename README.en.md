@@ -160,9 +160,10 @@ This file is translation from Original (Bahasa Indonesia).
 
 ### General
 
-| API Name   | Developer | Documentation                        | Status | Description                                                                       | Authentication |
-| ---------- | --------- | ------------------------------------ | ------ | --------------------------------------------------------------------------------- | -------------- |
-| Dayoff API | Gerinsp   | [Link](https://dayoffapi.vercel.app) | ✅     | API to retrieve data on national holidays and collective leave days in Indonesia. | `false`        |
+| API Name   | Developer                                                      | Documentation                        | Status | Description                                                                       | Authentication |
+| ---------- | -------------------------------------------------------------- | ------------------------------------ | ------ | --------------------------------------------------------------------------------- | -------------- |
+| Dayoff API | Gerinsp                                                        | [Link](https://dayoffapi.vercel.app) | ✅     | API to retrieve data on national holidays and collective leave days in Indonesia. | `false`        |
+| ResitaApi  | [FeriPratama](https://cdn.ferdev.my.id/assets/img/verbotx.jpg) | [Link](https://api.ferdev.my.id)     | ✅     | Free RestApi which contains many features such as downloader, search, tools, etc. | true           |
 
 ### Government
 

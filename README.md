@@ -277,9 +277,10 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 ### Umum
 
-| Nama API   | Pengembang | Dokumentasi                          | Status | Deskripsi                                                                     | Autentikasi |
-| ---------- | ---------- | ------------------------------------ | ------ | ----------------------------------------------------------------------------- | ----------- |
-| Dayoff API | Gerinsp    | [Link](https://dayoffapi.vercel.app) | ✅     | Api untuk mendapatkan data hari libur nasional dan cuti bersama di Indonesia. | `false`     |
+| Nama API   | Pengembang                                                     | Dokumentasi                          | Status | Deskripsi                                                                        | Autentikasi |
+| ---------- | -------------------------------------------------------------- | ------------------------------------ | ------ | -------------------------------------------------------------------------------- | ----------- |
+| Dayoff API | Gerinsp                                                        | [Link](https://dayoffapi.vercel.app) | ✅     | Api untuk mendapatkan data hari libur nasional dan cuti bersama di Indonesia.    | `false`     |
+| ResitaApi  | [FeriPratama](https://cdn.ferdev.my.id/assets/img/verbotx.jpg) | [Link](https://api.ferdev.my.id)     | ✅     | Api gratis yang berisi banyak sekali fitur seperti downloader, search, tools,dll | true        |
 
 ### Utilitas
 
