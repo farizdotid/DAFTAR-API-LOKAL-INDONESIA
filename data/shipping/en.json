@@ -46,17 +46,6 @@
       "authentication": "API KEY"
     },
     {
-      "apiName": "Raja Ongkir",
-      "status": false,
-      "documentationUrl": "http://rajaongkir.com/dokumentasi",
-      "developer": {
-        "name": "Rajaongkir",
-        "profileUrl": null
-      },
-      "description": "Check shipping rates for various delivery services such as JNE, Pos, TIKI, and more.",
-      "authentication": "API KEY"
-    },
-    {
       "apiName": "Shipper",
       "status": true,
       "documentationUrl": "https://shipper.id/api-integration",
