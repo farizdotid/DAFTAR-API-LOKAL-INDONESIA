@@ -15,17 +15,14 @@ Kami menggunakan GitHub untuk menyinkronkan kode dari dan ke repositori internal
 Kami dengan penuh semangat menyambut permintaan tarik (pull requests) dari Anda. Untuk berkontribusi pada proyek ini, ikuti langkah-langkah di bawah ini:
 
 1. **Fork Repositori dan Buat Cabang**
-
    - Fork repositori ini ke akun GitHub Anda.
    - Buatlah cabang baru dari branch `master` di repositori Anda.
 
 2. **Tambahkan Restful API ke Data**
-
    - Buka direktori `data` dan pilih kategori yang sesuai.
    - Tambahkan informasi Restful API Anda ke semua file bahasa yang tersedia (contohnya: `id.json`, `en.json`, dst), sesuaikan dengan format yang telah ada.
 
 3. **Lakukan Pengecekan dan Uji**
-
    - Jalankan perintah `bun check` dan pastikan tidak ada kesalahan.
    - Jalankan `bun start` untuk memastikan perubahan yang Anda buat dapat berjalan dengan baik.
 
@@ -59,13 +56,11 @@ Berikut beberapa tag yang kami gunakan untuk mengatur masalah di repositori ini:
 Kami sangat memperhatikan stabilitas dan kualitas daftar API kami. Berikut adalah langkah-langkah yang kami lakukan untuk menjaga stabilitas proyek ini:
 
 1. **Pengecekan Otomatis Bulanan**
-
    - Setiap bulan, kami akan menjalankan pengecekan otomatis menggunakan GitHub Actions.
    - Jika pada bulan pertama HTTP status code dari URL dokumentasi bukan 200 (berhasil), maka status akan di nonaktifkan sementara.
    - Jika pada bulan kedua HTTP status code masih bukan 200, maka URL tersebut akan dihapus dari daftar.
 
 2. **Pemantauan Otomatis NSFW**
-
    - Saat pengecekan otomatis berlangsung, kami juga akan melakukan pengambilan data dari URL dokumentasi yang ada.
    - Jika pada body response URL tersebut terdapat kata yang ada dalam daftar kata "blacklist," maka URL tersebut akan dihapus secara otomatis dari daftar dan ditandai sebagai NSFW (Not Safe For Work).
 
