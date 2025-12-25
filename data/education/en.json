@@ -86,7 +86,7 @@
         "name": "Naufal AY",
         "profileUrl": "https://github.com/soudayonee"
       },
-      "description": "Static JSON API providing Japanese characters such as hiragana, katakana. Including dakuten, handakuten, and yoon variations.",
+      "description": "Static JSON API providing Japanese characters such as Hiragana, Katakana. Including dakuten, handakuten, and yoon variations.",
       "authentication": false
     },
     {
