@@ -79,6 +79,17 @@
       "authentication": false
     },
     {
+      "apiName": "Kotonogi API",
+      "status": true,
+      "documentationUrl": "https://github.com/soudayonee/kotonogi-api",
+      "developer": {
+        "name": "Naufal AY",
+        "profileUrl": "https://github.com/soudayonee"
+      },
+      "description": "API JSON statis yang menyediakan huruf Jepang seperti Hiragana, Katakana. Termasuk variasi dakuten, handakuten, dan yoon.",
+      "authentication": false
+    },
+    {
       "apiName": "New KBBI API",
       "status": true,
       "documentationUrl": "https://github.com/btrianurdin/new-kbbi-api",

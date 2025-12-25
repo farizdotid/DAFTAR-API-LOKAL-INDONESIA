@@ -79,6 +79,17 @@
       "authentication": false
     },
     {
+      "apiName": "Kotonogi API",
+      "status": true,
+      "documentationUrl": "https://github.com/soudayonee/kotonogi-api",
+      "developer": {
+        "name": "Naufal AY",
+        "profileUrl": "https://github.com/soudayonee"
+      },
+      "description": "Static JSON API providing Japanese characters such as Hiragana, Katakana. Including dakuten, handakuten, and yoon variations.",
+      "authentication": false
+    },
+    {
       "apiName": "New KBBI API",
       "status": true,
       "documentationUrl": "https://github.com/btrianurdin/new-kbbi-api",
