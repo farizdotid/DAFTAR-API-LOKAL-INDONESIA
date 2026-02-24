@@ -90,6 +90,17 @@
       "authentication": false
     },
     {
+      "apiName": "Maganghub API",
+      "status": true,
+      "documentationUrl": "https://maganghub.ndav.my.id",
+      "developer": {
+        "name": "Ndav",
+        "profileUrl": "https://ndav.my.id"
+      },
+      "description": "API untuk mengambil informasi program magang Kementerian Ketenagakerjaan Republik Indonesia.",
+      "authentication": false
+    },
+    {
       "apiName": "New KBBI API",
       "status": true,
       "documentationUrl": "https://github.com/btrianurdin/new-kbbi-api",
