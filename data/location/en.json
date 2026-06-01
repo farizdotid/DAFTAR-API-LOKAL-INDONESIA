@@ -80,7 +80,7 @@
     },
     {
       "apiName": "Kode Pos",
-      "status": false,
+      "status": true,
       "documentationUrl": "https://nbc.vanmason.web.id/service/kodepos/42173",
       "developer": {
         "name": "Cain van Mason",
