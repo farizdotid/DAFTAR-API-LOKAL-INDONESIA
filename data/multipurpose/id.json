@@ -33,6 +33,17 @@
       },
       "description": "Menyediakan API gratis untuk pengembangan aplikasi maupun bot, disertai dengan dokumentasi lengkap dan uptime hingga 99%. Akses berbagai API seperti AI, Downloader, Internet, dan lainnya",
       "authentication": false
+    },
+    {
+      "apiName": "KyioAPI",
+      "status": true,
+      "documentationUrl": "https://api.kyio.web.id/docs",
+      "developer": {
+        "name": "Har",
+        "profileUrl": "https://github.com/kyiov"
+      },
+      "description": "API infrastruktur berkinerja tinggi untuk developer modern, dengan lebih dari 209 endpoint untuk generasi AI, pengunduhan media, dan alat developer. Latensi sangat rendah tanpa perlu pengaturan rumit.",
+      "authentication": false
     }
   ]
 }
