@@ -24,17 +24,6 @@
       "authentication": false
     },
     {
-      "apiName": "Ryzumi API",
-      "status": true,
-      "documentationUrl": "https://api.ryzumi.net",
-      "developer": {
-        "name": "ShirokamiRyzen",
-        "profileUrl": "https://github.com/ShirokamiRyzen"
-      },
-      "description": "Provides a free API for application and bot development, with full documentation and uptime of up to 99%. Access various APIs such as AI, Downloader, Internet, and more",
-      "authentication": false
-    },
-    {
       "apiName": "KyioAPI",
       "status": true,
       "documentationUrl": "https://api.kyio.web.id/docs",
@@ -43,6 +32,17 @@
         "profileUrl": "https://github.com/kyiov"
       },
       "description": "High-performance API infrastructure for modern developers, featuring over 209 endpoints for AI generation, media downloading, and specialized tools. Ultra-low latency with zero setup.",
+      "authentication": false
+    },
+    {
+      "apiName": "Ryzumi API",
+      "status": true,
+      "documentationUrl": "https://api.ryzumi.net",
+      "developer": {
+        "name": "ShirokamiRyzen",
+        "profileUrl": "https://github.com/ShirokamiRyzen"
+      },
+      "description": "Provides a free API for application and bot development, with full documentation and uptime of up to 99%. Access various APIs such as AI, Downloader, Internet, and more",
       "authentication": false
     }
   ]
