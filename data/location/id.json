@@ -123,6 +123,17 @@
       "authentication": false
     },
     {
+      "apiName": "Nusantara API",
+      "status": true,
+      "documentationUrl": "https://nusantara.clowdlab.com/docs",
+      "developer": {
+        "name": "I Gede Widiantara",
+        "profileUrl": "https://github.com/wawanwidiantara"
+      },
+      "description": "API data wilayah Indonesia dengan parsing NIK, kode pos, pencarian spasial, emblem daerah, dan dukungan MCP untuk integrasi LLM.",
+      "authentication": false
+    },
+    {
       "apiName": "Pesantren se Indonesia",
       "status": true,
       "documentationUrl": "https://github.com/nasrul21/data-pesantren-indonesia",
