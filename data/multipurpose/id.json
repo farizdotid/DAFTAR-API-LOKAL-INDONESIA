@@ -14,7 +14,7 @@
     },
     {
       "apiName": "Chocomilk API",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://chocomilk.amira.us.kg",
       "developer": {
         "name": "ZTRdiamond",
