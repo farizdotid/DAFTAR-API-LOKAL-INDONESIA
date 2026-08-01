@@ -13,17 +13,6 @@
       "authentication": false
     },
     {
-      "apiName": "Chocomilk API",
-      "status": false,
-      "documentationUrl": "https://chocomilk.amira.us.kg",
-      "developer": {
-        "name": "ZTRdiamond",
-        "profileUrl": "https://github.com/ZTRdiamond"
-      },
-      "description": "Multi-purpose API service with a variety of endpoints available, suitable for any development project such as bots, apps, or others.",
-      "authentication": false
-    },
-    {
       "apiName": "KyioAPI",
       "status": true,
       "documentationUrl": "https://api.kyio.web.id/docs",

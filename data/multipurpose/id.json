@@ -13,17 +13,6 @@
       "authentication": false
     },
     {
-      "apiName": "Chocomilk API",
-      "status": false,
-      "documentationUrl": "https://chocomilk.amira.us.kg",
-      "developer": {
-        "name": "ZTRdiamond",
-        "profileUrl": "https://github.com/ZTRdiamond"
-      },
-      "description": "Layanan API serba guna dengan berbagai endpoint yang tersedia, dapat digunakan untuk proyek pengembangan apapun seperti bot, app, atau lainnya.",
-      "authentication": false
-    },
-    {
       "apiName": "KyioAPI",
       "status": true,
       "documentationUrl": "https://api.kyio.web.id/docs",

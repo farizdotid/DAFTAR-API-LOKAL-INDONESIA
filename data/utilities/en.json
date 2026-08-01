@@ -3,7 +3,7 @@
   "apis": [
     {
       "apiName": "APIMock",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://apimock.lazycatlabs.com",
       "developer": {
         "name": "Lazycatlabs",
