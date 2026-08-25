@@ -13,6 +13,17 @@
       "authentication": false
     },
     {
+      "apiName": "All Indonesia School Data API",
+      "status": true,
+      "documentationUrl": "https://github.com/ikhsan-rfl/api-sekolah",
+      "developer": {
+        "name": "Ikhsan",
+        "profileUrl": "https://github.com/ikhsan-rfl"
+      },
+      "description": "Comprehensive data on schools throughout Indonesia, covering formal and non-formal education levels.",
+      "authentication": false
+    },
+    {
       "apiName": "Data Sekolah API",
       "status": true,
       "documentationUrl": "https://github.com/semogaBermanfaat-AhmadRamadhan/dataSekolahNegeriIndonesia",
