@@ -13,6 +13,17 @@
       "authentication": false
     },
     {
+      "apiName": "API Data Sekolah Seluruh Indonesia",
+      "status": true,
+      "documentationUrl": "https://github.com/ikhsan-rfl/api-sekolah",
+      "developer": {
+        "name": "Ikhsan",
+        "profileUrl": "https://github.com/ikhsan-rfl"
+      },
+      "description": "Data lengkap sekolah di seluruh Indonesia yang mencakup jenjang pendidikan formal dan nonformal.",
+      "authentication": false
+    },
+    {
       "apiName": "API KBBI Daring",
       "status": true,
       "documentationUrl": "https://github.com/dyazincahya/API-KBBI-PHP-Codeigniter-4",
