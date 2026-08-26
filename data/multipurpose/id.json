@@ -24,14 +24,14 @@
       "authentication": false
     },
     {
-      "apiName": "Chocomilk API",
+      "apiName": "KyioAPI",
       "status": true,
-      "documentationUrl": "https://chocomilk.amira.us.kg",
+      "documentationUrl": "https://api.kyio.web.id/docs",
       "developer": {
-        "name": "ZTRdiamond",
-        "profileUrl": "https://github.com/ZTRdiamond"
+        "name": "Har",
+        "profileUrl": "https://github.com/kyiov"
       },
-      "description": "Layanan API serba guna dengan berbagai endpoint yang tersedia, dapat digunakan untuk proyek pengembangan apapun seperti bot, app, atau lainnya.",
+      "description": "API infrastruktur berkinerja tinggi untuk developer modern, dengan lebih dari 209 endpoint untuk generasi AI, pengunduhan media, dan alat developer. Latensi sangat rendah tanpa perlu pengaturan rumit.",
       "authentication": false
     },
     {

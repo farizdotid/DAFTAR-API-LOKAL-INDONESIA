@@ -156,17 +156,6 @@
       "authentication": false
     },
     {
-      "apiName": "MyInstants Unofficial REST API",
-      "status": true,
-      "documentationUrl": "https://github.com/abdipr/myinstants-api",
-      "developer": {
-        "name": "abdipr",
-        "profileUrl": "https://github.com/abdipr"
-      },
-      "description": "Unofficial API MyInstants untuk mendapatkan list trending soundboard, search soundboard, dan soundboard terbaru.",
-      "authentication": false
-    },
-    {
       "apiName": "Otakudesu API (Un-official)",
       "status": true,
       "documentationUrl": "https://github.com/Kaede-No-Ki/otakudesu-rest-api",

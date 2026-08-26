@@ -24,14 +24,14 @@
       "authentication": false
     },
     {
-      "apiName": "Chocomilk API",
+      "apiName": "KyioAPI",
       "status": true,
-      "documentationUrl": "https://chocomilk.amira.us.kg",
+      "documentationUrl": "https://api.kyio.web.id/docs",
       "developer": {
-        "name": "ZTRdiamond",
-        "profileUrl": "https://github.com/ZTRdiamond"
+        "name": "Har",
+        "profileUrl": "https://github.com/kyiov"
       },
-      "description": "Multi-purpose API service with a variety of endpoints available, suitable for any development project such as bots, apps, or others.",
+      "description": "High-performance API infrastructure for modern developers, featuring over 209 endpoints for AI generation, media downloading, and specialized tools. Ultra-low latency with zero setup.",
       "authentication": false
     },
     {

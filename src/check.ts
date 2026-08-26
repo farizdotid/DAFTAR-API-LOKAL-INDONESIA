@@ -9,6 +9,21 @@ const agent = new https.Agent({ rejectUnauthorized: false })
 for await (const file of await getFiles()) {
   const json: CategoryType = await Bun.file(file).json()
 
+  // cegah duplikat: URL dokumentasi yang sama tidak boleh muncul dua kali
+  // dalam satu file kategori (mengabaikan fragment #anchor)
+  const seen = new Set<string>()
+
+  for (const api of json.apis) {
+    const url = api.documentationUrl?.split('#')[0]
+
+    if (url && seen.has(url)) {
+      console.error(`Duplikat documentationUrl di ${file}: ${url}`)
+      process.exit(1)
+    }
+
+    seen.add(url)
+  }
+
   for await (const api of json.apis) {
     if (!('documentationUrl' in api) || !api.documentationUrl) {
       console.error('documentationUrl is required.')
