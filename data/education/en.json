@@ -2,17 +2,6 @@
   "categoryName": "Education",
   "apis": [
     {
-      "apiName": "API Data Sekolah Indonesia",
-      "status": true,
-      "documentationUrl": "https://github.com/wanrabbae/api-sekolah-indonesia",
-      "developer": {
-        "name": "Alwan",
-        "profileUrl": null
-      },
-      "description": "Complete data of schools in Indonesia.",
-      "authentication": false
-    },
-    {
       "apiName": "All Indonesia School Data API",
       "status": true,
       "documentationUrl": "https://github.com/ikhsan-rfl/api-sekolah",
@@ -21,6 +10,17 @@
         "profileUrl": "https://github.com/ikhsan-rfl"
       },
       "description": "Comprehensive data on schools throughout Indonesia, covering formal and non-formal education levels.",
+      "authentication": false
+    },
+    {
+      "apiName": "API Data Sekolah Indonesia",
+      "status": true,
+      "documentationUrl": "https://github.com/wanrabbae/api-sekolah-indonesia",
+      "developer": {
+        "name": "Alwan",
+        "profileUrl": null
+      },
+      "description": "Complete data of schools in Indonesia.",
       "authentication": false
     },
     {
