@@ -2,17 +2,6 @@
   "categoryName": "Multipurpose",
   "apis": [
     {
-      "apiName": "KyioAPI",
-      "status": true,
-      "documentationUrl": "https://api.kyio.web.id/docs",
-      "developer": {
-        "name": "Har",
-        "profileUrl": "https://github.com/kyiov"
-      },
-      "description": "High-performance API infrastructure for modern developers, featuring over 209 endpoints for AI generation, media downloading, and specialized tools. Ultra-low latency with zero setup.",
-      "authentication": false
-    },
-    {
       "apiName": "Akuari Api",
       "status": true,
       "documentationUrl": "https://api.akuari.my.id/",
@@ -21,6 +10,17 @@
         "profileUrl": null
       },
       "description": "A collection of bot needs api, and some api: Visitor api, Check ip api, Check Website Live or not, File api, etc. with JSON response.",
+      "authentication": false
+    },
+    {
+      "apiName": "KyioAPI",
+      "status": true,
+      "documentationUrl": "https://api.kyio.web.id/docs",
+      "developer": {
+        "name": "Har",
+        "profileUrl": "https://github.com/kyiov"
+      },
+      "description": "High-performance API infrastructure for modern developers, featuring over 209 endpoints for AI generation, media downloading, and specialized tools. Ultra-low latency with zero setup.",
       "authentication": false
     },
     {
