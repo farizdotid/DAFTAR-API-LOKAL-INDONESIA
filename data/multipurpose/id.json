@@ -13,6 +13,17 @@
       "authentication": false
     },
     {
+      "apiName": "API Indonesia",
+      "status": true,
+      "documentationUrl": "https://docs.apiindonesia.id",
+      "developer": {
+        "name": "khmuhtadin",
+        "profileUrl": "https://github.com/khmuhtadin"
+      },
+      "description": "REST API data publik Indonesia: wilayah, kodepos, cuaca, gempa, kurs, berita, dan lainnya. Tersedia tier gratis dan berbayar dengan dokumentasi lengkap dan skema OpenAPI.",
+      "authentication": true
+    },
+    {
       "apiName": "KyioAPI",
       "status": true,
       "documentationUrl": "https://api.kyio.web.id/docs",
@@ -54,17 +65,6 @@
         "profileUrl": "https://github.com/khmuhtadin"
       },
       "description": "API terpadu multi-sumber yang siap untuk agen dengan 30+ sumber data publik Indonesia (wilayah, cuaca, gempa, kurs, halal, BPOM, KBBI, sekolah, kampus, rumah sakit, kodepos, dan lainnya) dalam satu kontrak REST. Memiliki tier gratis dan berbayar.",
-      "authentication": true
-    },
-    {
-      "apiName": "API Indonesia",
-      "status": true,
-      "documentationUrl": "https://docs.apiindonesia.id",
-      "developer": {
-        "name": "khmuhtadin",
-        "profileUrl": "https://github.com/khmuhtadin"
-      },
-      "description": "REST API data publik Indonesia: wilayah, kodepos, cuaca, gempa, kurs, berita, dan lainnya. Tersedia tier gratis dan berbayar dengan dokumentasi lengkap dan skema OpenAPI.",
       "authentication": true
     }
   ]

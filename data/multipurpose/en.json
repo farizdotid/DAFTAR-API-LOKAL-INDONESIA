@@ -13,6 +13,17 @@
       "authentication": false
     },
     {
+      "apiName": "API Indonesia",
+      "status": true,
+      "documentationUrl": "https://docs.apiindonesia.id",
+      "developer": {
+        "name": "khmuhtadin",
+        "profileUrl": "https://github.com/khmuhtadin"
+      },
+      "description": "Indonesian public-data REST API: regions, postal codes, weather, earthquakes, exchange rates, news, and more. Free tier plus paid plans, with full documentation and an OpenAPI schema.",
+      "authentication": true
+    },
+    {
       "apiName": "KyioAPI",
       "status": true,
       "documentationUrl": "https://api.kyio.web.id/docs",
@@ -54,17 +65,6 @@
         "profileUrl": "https://github.com/khmuhtadin"
       },
       "description": "Unified multi-source, agent-ready API aggregating 30+ Indonesian public data sources (regions, weather, earthquakes, exchange rates, halal, BPOM, KBBI, schools, universities, hospitals, postal codes, and more) behind one REST contract. Free tier plus paid plans.",
-      "authentication": true
-    },
-    {
-      "apiName": "API Indonesia",
-      "status": true,
-      "documentationUrl": "https://docs.apiindonesia.id",
-      "developer": {
-        "name": "khmuhtadin",
-        "profileUrl": "https://github.com/khmuhtadin"
-      },
-      "description": "Indonesian public-data REST API: regions, postal codes, weather, earthquakes, exchange rates, news, and more. Free tier plus paid plans, with full documentation and an OpenAPI schema.",
       "authentication": true
     }
   ]
