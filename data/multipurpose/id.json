@@ -20,7 +20,7 @@
         "name": "khmuhtadin",
         "profileUrl": "https://github.com/khmuhtadin"
       },
-      "description": "REST API data publik Indonesia: wilayah, kodepos, cuaca, gempa, kurs, berita, dan lainnya. Tersedia tier gratis dan berbayar dengan dokumentasi lengkap dan skema OpenAPI.",
+      "description": "REST API data publik Indonesia: wilayah, sekolah (200rb NPSN), rumah sakit, kodepos, halal BPOM, kurs BI, cuaca BMKG, gempa, hari libur, jadwal sholat, validasi NIK/NPWP/QRIS, dan data merek DJKI (904 ribu merek terdaftar). Tier gratis tersedia, dokumentasi OpenAPI lengkap, plus MCP server untuk AI agents.",
       "authentication": true
     },
     {
