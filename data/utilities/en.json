@@ -2,17 +2,6 @@
   "categoryName": "Utilities",
   "apis": [
     {
-      "apiName": "APIMock",
-      "status": false,
-      "documentationUrl": "https://apimock.lazycatlabs.com",
-      "developer": {
-        "name": "Lazycatlabs",
-        "profileUrl": "https://github.com/lazycatlabs"
-      },
-      "description": "API Mocking with Register, Login and fetch pagination data using JWT Authentication.",
-      "authentication": false
-    },
-    {
       "apiName": "Distrowatch API (unofficial)",
       "status": true,
       "documentationUrl": "https://github.com/Zzzul/diwa",

@@ -281,17 +281,16 @@ This file is translation from Original (Bahasa Indonesia).
 
 ### Utilities
 
-| API Name                     | Developer                                     | Documentation                                         | Status | Description                                                                              | Authentication |
-| ---------------------------- | --------------------------------------------- | ----------------------------------------------------- | ------ | ---------------------------------------------------------------------------------------- | -------------- |
-| APIMock                      | [Lazycatlabs](https://github.com/lazycatlabs) | [Link](https://apimock.lazycatlabs.com)               | ❎     | API Mocking with Register, Login and fetch pagination data using JWT Authentication.     | `false`        |
-| Distrowatch API (unofficial) | Zulfahmi                                      | [Link](https://github.com/Zzzul/diwa)                 | ✅     | API to get information about Linux.                                                      | `false`        |
-| Google Playstore             | azharimm                                      | [Link](https://github.com/azharimm/google-play-api)   | ✅     | Google Playstore API.                                                                    | `false`        |
-| Google Trends                | azharimm                                      | [Link](https://github.com/azharimm/google-trends-api) | ✅     | Realtime Google Trends API.                                                              | `false`        |
-| Indiwtf API                  | Frans Allen                                   | [Link](https://indiwtf.com/api/)                      | ✅     | A simple API to check if a website is blocked in Indonesia or not.                       | `false`        |
-| Indonesian Bank              | [cenahcoid](https://www.cenah.co.id/)         | [Link](https://bank.thecloudalert.com)                | ✅     | List of banks in Indonesia                                                               | `false`        |
-| Screenshot API               | statically.io                                 | [Link](https://statically.io)                         | ✅     | A free screenshot API to convert web to image or PDF. Supports desktop and mobile views. | `false`        |
-| SMSNotif                     | PT Solusi Inovasi Bisnis                      | [Link](https://www.smsnotif.id)                       | ✅     | Send SMS through REST API or Laravel Notification.                                       | API KEY        |
-| Translasi                    | azharimm                                      | [Link](https://github.com/azharimm/api-translate)     | ✅     | Translation API with Google Translate/Baidu Translate engine.                            | `false`        |
+| API Name                     | Developer                             | Documentation                                         | Status | Description                                                                              | Authentication |
+| ---------------------------- | ------------------------------------- | ----------------------------------------------------- | ------ | ---------------------------------------------------------------------------------------- | -------------- |
+| Distrowatch API (unofficial) | Zulfahmi                              | [Link](https://github.com/Zzzul/diwa)                 | ✅     | API to get information about Linux.                                                      | `false`        |
+| Google Playstore             | azharimm                              | [Link](https://github.com/azharimm/google-play-api)   | ✅     | Google Playstore API.                                                                    | `false`        |
+| Google Trends                | azharimm                              | [Link](https://github.com/azharimm/google-trends-api) | ✅     | Realtime Google Trends API.                                                              | `false`        |
+| Indiwtf API                  | Frans Allen                           | [Link](https://indiwtf.com/api/)                      | ✅     | A simple API to check if a website is blocked in Indonesia or not.                       | `false`        |
+| Indonesian Bank              | [cenahcoid](https://www.cenah.co.id/) | [Link](https://bank.thecloudalert.com)                | ✅     | List of banks in Indonesia                                                               | `false`        |
+| Screenshot API               | statically.io                         | [Link](https://statically.io)                         | ✅     | A free screenshot API to convert web to image or PDF. Supports desktop and mobile views. | `false`        |
+| SMSNotif                     | PT Solusi Inovasi Bisnis              | [Link](https://www.smsnotif.id)                       | ✅     | Send SMS through REST API or Laravel Notification.                                       | API KEY        |
+| Translasi                    | azharimm                              | [Link](https://github.com/azharimm/api-translate)     | ✅     | Translation API with Google Translate/Baidu Translate engine.                            | `false`        |
 
 ### Weather
 

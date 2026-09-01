@@ -2,17 +2,6 @@
   "categoryName": "Utilitas",
   "apis": [
     {
-      "apiName": "APIMock",
-      "status": false,
-      "documentationUrl": "https://apimock.lazycatlabs.com",
-      "developer": {
-        "name": "Lazycatlabs",
-        "profileUrl": "https://github.com/lazycatlabs"
-      },
-      "description": "API Mocking dengan fitur Register, Login dan pemanggilan pagination data dengan menggunakan JWT Authentication.",
-      "authentication": false
-    },
-    {
       "apiName": "Daftar nama Bank di Indonesia",
       "status": true,
       "documentationUrl": "https://bank.thecloudalert.com",
