@@ -3,7 +3,7 @@
   "apis": [
     {
       "apiName": "Alkitab API",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://github.com/raselldev/alkitab-api",
       "developer": {
         "name": "raselldev",

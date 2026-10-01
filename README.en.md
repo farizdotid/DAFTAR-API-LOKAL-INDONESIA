@@ -59,7 +59,7 @@ This file is translation from Original (Bahasa Indonesia).
 
 | API Name    | Developer | Documentation                                    | Status | Description                                                                           | Authentication |
 | ----------- | --------- | ------------------------------------------------ | ------ | ------------------------------------------------------------------------------------- | -------------- |
-| Alkitab API | raselldev | [Link](https://github.com/raselldev/alkitab-api) | ✅     | This is a simple Bible API that provides access to various Bible passages and verses. | `false`        |
+| Alkitab API | raselldev | [Link](https://github.com/raselldev/alkitab-api) | ❎     | This is a simple Bible API that provides access to various Bible passages and verses. | `false`        |
 
 ### Crypto
 
@@ -267,7 +267,7 @@ This file is translation from Original (Bahasa Indonesia).
 | JNE          | JNE Official                      | [Link](https://apidash.jne.co.id)                                  | ✅     | Official JNE API for services such as checking shipping costs and generating AWBs. Access to the link requires an account provided directly by JNE.                                                              | API KEY        |
 | KiriminAja   | KiriminAja Official               | [Link](https://developer.kiriminaja.com)                           | ✅     | Package delivery solution to various courier services. Track the real-time position of packages, support regular, cargo, and instant delivery.                                                                   | API KEY        |
 | Shipper      | Shipper                           | [Link](https://shipper.id/api-integration)                         | ✅     | Get the most up-to-date and accurate package tracking from the Shipper dashboard. Easily track your package's status with just the tracking number. Receive real-time notifications about your package's status. | API KEY        |
-| Tracking API | [Klik Resi](https://klikresi.com) | [Link](https://documenter.getpostman.com/view/29221489/2s9YC7SBgH) | ✅     | Developers' choice multi-carrier tracking API.                                                                                                                                                                   | API KEY        |
+| Tracking API | [Klik Resi](https://klikresi.com) | [Link](https://documenter.getpostman.com/view/29221489/2s9YC7SBgH) | ❎     | Developers' choice multi-carrier tracking API.                                                                                                                                                                   | API KEY        |
 
 ### Social Media
 

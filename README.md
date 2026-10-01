@@ -87,7 +87,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 | Nama API    | Pengembang | Dokumentasi                                      | Status | Deskripsi                                                                             | Autentikasi |
 | ----------- | ---------- | ------------------------------------------------ | ------ | ------------------------------------------------------------------------------------- | ----------- |
-| Alkitab API | raselldev  | [Link](https://github.com/raselldev/alkitab-api) | ✅     | This is a simple Bible API that provides access to various Bible passages and verses. | `false`     |
+| Alkitab API | raselldev  | [Link](https://github.com/raselldev/alkitab-api) | ❎     | This is a simple Bible API that provides access to various Bible passages and verses. | `false`     |
 
 ### Cuaca
 
@@ -178,7 +178,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | JNE          | JNE Official                      | [Link](https://apidash.jne.co.id)                                  | ✅     | API Resmi JNE yang dapat digunakan untuk layanan cek ongkos kirim hingga generate AWB. Untuk akses link diperlukan akun yang diberikan langsung dari pihak JNE.                                                                                    | API KEY     |
 | KiriminAja   | KiriminAja Official               | [Link](https://developer.kiriminaja.com)                           | ✅     | Solusi pengiriman paket ke berbagai ekspedisi, ketahui posisi paket secara real-time, mendukung pengiriman reguler, kargo, dan instan.                                                                                                             | API KEY     |
 | Shipper      | Shipper                           | [Link](https://shipper.id/api-integration)                         | ✅     | Solusi pelacakan terupdate dan akurat dari dashboard Shipper. Ketahui posisi paket dengan mudah hanya dengan input no. resi. Adanya kemudahan pantau pengiriman secara real-time. Kami juga kirimkan notifikasi terkait status terkini paket Anda. | API KEY     |
-| Tracking API | [Klik Resi](https://klikresi.com) | [Link](https://documenter.getpostman.com/view/29221489/2s9YC7SBgH) | ✅     | API untuk membantu pelaku eCommerce untuk melacak paket secara akurat.                                                                                                                                                                             | API KEY     |
+| Tracking API | [Klik Resi](https://klikresi.com) | [Link](https://documenter.getpostman.com/view/29221489/2s9YC7SBgH) | ❎     | API untuk membantu pelaku eCommerce untuk melacak paket secara akurat.                                                                                                                                                                             | API KEY     |
 
 ### Kesehatan
 
