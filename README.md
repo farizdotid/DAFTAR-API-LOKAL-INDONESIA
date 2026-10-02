@@ -25,6 +25,7 @@ Kumpulan API tentang data dan informasi di Indonesia
     - [Finansial](#finansial)
     - [Forum](#forum)
     - [Hiburan](#hiburan)
+    - [Hukum](#hukum)
     - [Jasa Pengiriman](#jasa-pengiriman)
     - [Kesehatan](#kesehatan)
     - [Kripto](#kripto)
@@ -168,6 +169,12 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Tanggal Lahiran Pasaran Zodiak             | iBachor                                 | [Link](https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak) | ✅     | Mengecek zodiak berdasarkan tanggal lahir serta dapat memberitahukan detail tanggal lahir, detail usia, serta detail rentang ulang tahun terdekat. | `false`     |
 | Unofficial Liga Indonesia                  | Agis R Herdiana                         | [Link](https://ligaindonesia-api.vercel.app/docs)                        | ✅     | Unofficial API liga Indonesia tentang info pertandingan, statistik, klasemen, tim, dan lain-lain.                                                  | `false`     |
 | Yet Another API for Anime and Stuff        | [Aerysh](https://github.com/Aerysh)     | [Link](https://github.com/Aerysh/yaaas)                                  | ✅     | Menyediakan kumpulan API yang dapat digunakan untuk mengakses informasi tentang hiburan seperti Anime, Manga, dll.                                 | `false`     |
+
+### Hukum
+
+| Nama API   | Pengembang     | Dokumentasi                                                 | Status | Deskripsi | Autentikasi |
+|------------|----------------|-------------------------------------------------------------|--------|-----------|-------------|
+| Aturan.org | Adam Kusnandar | [API](https://aturan.org/api) / [MCP](https://aturan.org/mcp) | ✅     | REST API dan MCP server pencarian semantik akurat terhadap 5.322.464 pasal di dalam 287.883 peraturan pusat-daerah. Hubungkan AI Anda dengan MCP Aturan.org untuk diskusi/analisa hukum interaktif. | API Key |
 
 ### Jasa Pengiriman
 
