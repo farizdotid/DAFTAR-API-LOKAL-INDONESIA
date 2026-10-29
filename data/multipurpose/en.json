@@ -15,12 +15,12 @@
     {
       "apiName": "API Indonesia",
       "status": true,
-      "documentationUrl": "https://docs.apiindonesia.id",
+      "documentationUrl": "https://apiindonesia.id",
       "developer": {
         "name": "khmuhtadin",
         "profileUrl": "https://github.com/khmuhtadin"
       },
-      "description": "Indonesian public data REST API: regions, schools (200k NPSN), hospitals, postal codes, BPOM halal, BI exchange rates, BMKG weather & earthquakes, public holidays, prayer times, NIK/NPWP/QRIS validation, and DJKI trademark data (904k registered marks). Free tier, full OpenAPI docs, plus an MCP server for AI agents.",
+      "description": "Indonesian public data REST API: 38 provinces down to 83,000+ villages with postal codes, 93,500+ schools (NPSN), 4,600+ universities, 2,900+ hospitals, minimum wages (UMP) and DJKI trademarks. API key; one-time 3,000-credit signup bonus, no monthly free tier. OpenAPI spec and MCP server available.",
       "authentication": true
     },
     {
