@@ -15,12 +15,12 @@
     {
       "apiName": "API Indonesia",
       "status": true,
-      "documentationUrl": "https://docs.apiindonesia.id",
+      "documentationUrl": "https://apiindonesia.id",
       "developer": {
         "name": "khmuhtadin",
         "profileUrl": "https://github.com/khmuhtadin"
       },
-      "description": "REST API data publik Indonesia: wilayah, sekolah (200rb NPSN), rumah sakit, kodepos, halal BPOM, kurs BI, cuaca BMKG, gempa, hari libur, jadwal sholat, validasi NIK/NPWP/QRIS, dan data merek DJKI (904 ribu merek terdaftar). Tier gratis tersedia, dokumentasi OpenAPI lengkap, plus MCP server untuk AI agents.",
+      "description": "REST API data publik Indonesia: wilayah 38 provinsi sampai 83.000+ desa/kelurahan dan kode pos, 93.500+ sekolah (NPSN), 4.600+ perguruan tinggi, 2.900+ rumah sakit, UMP, dan merek DJKI. Pakai API key; bonus sekali 3.000 kredit saat daftar, tanpa tier gratis bulanan. Ada OpenAPI dan MCP server.",
       "authentication": true
     },
     {
