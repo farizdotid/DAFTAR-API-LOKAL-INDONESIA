@@ -49,11 +49,12 @@ This file is translation from Original (Bahasa Indonesia).
 
 ### Books
 
-| API Name                   | Developer | Documentation                                                          | Status | Description                                                                                          | Authentication |
-| -------------------------- | --------- | ---------------------------------------------------------------------- | ------ | ---------------------------------------------------------------------------------------------------- | -------------- |
-| Bukuacak                   | Shabri A. | [Link](https://bukuacak.vercel.app/api)                                | ✅     | Bukuacak is an API that provides book data with various filters, sorting, and random search options. | `false`        |
-| Masak Apa                  | Reski     | [Link](https://github.com/tomorisakura/unofficial-masakapahariini-api) | ✅     | Indonesian food recipes book.                                                                        | `false`        |
-| Unofficial Gramedia Ebooks | Yusuf T.  | [Link](https://github.com/yusuftaufiq/laravel-books-api)               | ✅     | Unofficial REST API that provides a list of digital books from Gramedia through web scraping.        | API KEY        |
+| API Name                   | Developer                                 | Documentation                                                          | Status | Description                                                                                          | Authentication |
+| -------------------------- | ----------------------------------------- | ---------------------------------------------------------------------- | ------ | ---------------------------------------------------------------------------------------------------- | -------------- |
+| Buku Indonesia             | [khrlanamm](https://github.com/khrlanamm) | [Link](https://github.com/khrlanamm/buku-indonesia#api)                | ✅     | Open data for Indonesian books: look up by ISBN, author, or category. A static API with no API key.  | `false`        |
+| Bukuacak                   | Shabri A.                                 | [Link](https://bukuacak.vercel.app/api)                                | ✅     | Bukuacak is an API that provides book data with various filters, sorting, and random search options. | `false`        |
+| Masak Apa                  | Reski                                     | [Link](https://github.com/tomorisakura/unofficial-masakapahariini-api) | ✅     | Indonesian food recipes book.                                                                        | `false`        |
+| Unofficial Gramedia Ebooks | Yusuf T.                                  | [Link](https://github.com/yusuftaufiq/laravel-books-api)               | ✅     | Unofficial REST API that provides a list of digital books from Gramedia through web scraping.        | API KEY        |
 
 ### Christian
 

@@ -77,11 +77,12 @@ Kumpulan API tentang data dan informasi di Indonesia
 
 ### Buku
 
-| Nama API                   | Pengembang | Dokumentasi                                                            | Status | Deskripsi                                                                                                   | Autentikasi |
-| -------------------------- | ---------- | ---------------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------- | ----------- |
-| Bukuacak                   | Shabri A.  | [Link](https://bukuacak.vercel.app/api)                                | ✅     | Bukuacak adalah API yang menyediakan data buku dengan berbagai filter, pengurutan, dan opsi pencarian acak. | `false`     |
-| Masak Apa                  | Reski      | [Link](https://github.com/tomorisakura/unofficial-masakapahariini-api) | ✅     | Buku resep makanan Indonesia.                                                                               | `false`     |
-| Unofficial Gramedia Ebooks | Yusuf T.   | [Link](https://github.com/yusuftaufiq/laravel-books-api)               | ✅     | Unofficial REST API yang menyediakan daftar buku digital dari Gramedia melalui web scraping.                | API KEY     |
+| Nama API                   | Pengembang                                | Dokumentasi                                                            | Status | Deskripsi                                                                                                   | Autentikasi |
+| -------------------------- | ----------------------------------------- | ---------------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------- | ----------- |
+| Buku Indonesia             | [khrlanamm](https://github.com/khrlanamm) | [Link](https://github.com/khrlanamm/buku-indonesia#api)                | ✅     | Data terbuka buku Indonesia: cari berdasarkan ISBN, penulis, atau kategori. API statis tanpa API key.       | `false`     |
+| Bukuacak                   | Shabri A.                                 | [Link](https://bukuacak.vercel.app/api)                                | ✅     | Bukuacak adalah API yang menyediakan data buku dengan berbagai filter, pengurutan, dan opsi pencarian acak. | `false`     |
+| Masak Apa                  | Reski                                     | [Link](https://github.com/tomorisakura/unofficial-masakapahariini-api) | ✅     | Buku resep makanan Indonesia.                                                                               | `false`     |
+| Unofficial Gramedia Ebooks | Yusuf T.                                  | [Link](https://github.com/yusuftaufiq/laravel-books-api)               | ✅     | Unofficial REST API yang menyediakan daftar buku digital dari Gramedia melalui web scraping.                | API KEY     |
 
 ### Christian
 
