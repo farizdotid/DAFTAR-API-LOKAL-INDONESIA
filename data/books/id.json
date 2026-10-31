@@ -2,6 +2,17 @@
   "categoryName": "Buku",
   "apis": [
     {
+      "apiName": "Buku Indonesia",
+      "status": true,
+      "documentationUrl": "https://github.com/khrlanamm/buku-indonesia#api",
+      "developer": {
+        "name": "khrlanamm",
+        "profileUrl": "https://github.com/khrlanamm"
+      },
+      "description": "Data terbuka buku Indonesia: cari berdasarkan ISBN, penulis, atau kategori. API statis tanpa API key.",
+      "authentication": false
+    },
+    {
       "apiName": "Bukuacak",
       "status": true,
       "documentationUrl": "https://bukuacak.vercel.app/api",
