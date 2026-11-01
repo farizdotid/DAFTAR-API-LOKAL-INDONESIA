@@ -46,6 +46,17 @@
       "authentication": false
     },
     {
+      "apiName": "Indo News API",
+      "status": true,
+      "documentationUrl": "https://indo-news-api.vercel.app/api-berita-indonesia",
+      "developer": {
+        "name": "kaminariouji",
+        "profileUrl": "https://github.com/kaminariouji"
+      },
+      "description": "Indonesian news for agents: headlines by beat, keyword search, ranked briefings, a 0-100 sentiment index, and coverage monitoring with entities per article. Free 3-headline preview; full data is paid per call in USDC over x402, with no API key or account. Also available as an MCP server.",
+      "authentication": false
+    },
+    {
       "apiName": "Indonesia News API",
       "status": true,
       "documentationUrl": "https://newsapi.org/s/indonesia-news-api",
