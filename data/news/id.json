@@ -46,6 +46,17 @@
       "authentication": false
     },
     {
+      "apiName": "Indo News API",
+      "status": true,
+      "documentationUrl": "https://indo-news-api.vercel.app/api-berita-indonesia",
+      "developer": {
+        "name": "kaminariouji",
+        "profileUrl": "https://github.com/kaminariouji"
+      },
+      "description": "API berita Indonesia untuk agent: headline per kanal, pencarian kata kunci, briefing terperingkat, indeks sentimen 0-100, dan pemantauan coverage dengan entitas per artikel. Preview 3 headline gratis; data penuh dibayar per call dengan USDC lewat x402, tanpa API key atau akun. Tersedia juga sebagai server MCP.",
+      "authentication": false
+    },
+    {
       "apiName": "Indonesia news API",
       "status": true,
       "documentationUrl": "https://newsapi.org/s/indonesia-news-api",
