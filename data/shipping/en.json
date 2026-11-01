@@ -55,17 +55,6 @@
       },
       "description": "Get the most up-to-date and accurate package tracking from the Shipper dashboard. Easily track your package's status with just the tracking number. Receive real-time notifications about your package's status.",
       "authentication": "API KEY"
-    },
-    {
-      "apiName": "Tracking API",
-      "status": false,
-      "documentationUrl": "https://documenter.getpostman.com/view/29221489/2s9YC7SBgH",
-      "developer": {
-        "name": "Klik Resi",
-        "profileUrl": "https://klikresi.com"
-      },
-      "description": "Developers' choice multi-carrier tracking API.",
-      "authentication": "API KEY"
     }
   ]
 }

@@ -36,7 +36,7 @@
     },
     {
       "apiName": "Rekeningku",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://api.rekeningku.com/#introduction",
       "developer": {
         "name": "rekeningku",

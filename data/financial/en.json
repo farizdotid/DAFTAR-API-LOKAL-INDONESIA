@@ -157,7 +157,7 @@
     },
     {
       "apiName": "MobilePulsa API",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://developer.mobilepulsa.net",
       "developer": {
         "name": "MobilePulsa Official",
@@ -201,7 +201,7 @@
     },
     {
       "apiName": "OY! Indonesia",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://api-docs.oyindonesia.com/#introduction",
       "developer": {
         "name": "OY! Indonesia",
